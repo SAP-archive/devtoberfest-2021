@@ -15,6 +15,9 @@ For the tutorial and code challenge content of this week there will be a speacia
 * Jens Keller – Cloud Native Security Aspects
 
 ## Tutorials
+
+Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes. to-do: link to contest overview page
+
 * [Secure Your Application on SAP Cloud Platform Cloud Foundry](https://developers.sap.com/group.cloudsdk-more-features.html)
 * [Secure a Node.JS Application and Make It Available to Other Subaccounts](https://developers.sap.com/group.cp-cf-security-xsuaa.html)
 * [Create Authorization Model with SAP BTP, ABAP Environment](https://developers.sap.com/group.abap-env-authorizations.html)
