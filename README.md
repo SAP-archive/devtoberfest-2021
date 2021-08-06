@@ -10,17 +10,22 @@
 
 Devtoberfest is a 6-week event, leadning up to SAP TechEd. This event is to be seen as a celebration of and for Developers. Every developer is welcome to join 6 weeks of tech talks, guest speakers, community contribution through a gamified learning journey with prizes, and celebratory events.
 
+To register for the event -- to-do Link to EventBrite
+
 ## Key Dates
 
 | Date | Description | 
 | ---------------- | ---------------- |
-| Sep 23 at 1700 CEST (UTC+2) | [Community Speed Networking](#devtoberfest-community-speed-networking-session) |
-| Oct 12 - 16 | [Community Open Source Week](./topics/community-projects/readme.md) |
-| Oct 23 at 1830 - Nov 2 at 0001 PST (UTC-8) | [Build Week](./topics/README.md#build-week) |
-| Nov 2 one minute past midnight Pacific Standard Time (UTC-8) | Final Deadline for all commits to projects to be considered in the contest |
-| Nov 2 - Nov 6 | SAP Judging |
-| Nov 9 | Announcement of Finalists |
-| Nov 9 - Nov 23 | Community Voting |
+| Oct 1 | Devtoberfest Begins! |
+| Oct 4 - 8 | [Week 1 - Welcome to Devtoberfest](topics/Week1_Welcome/README.md) |
+| Oct 11 - 15 | [Week 2 - Best Practices](topics/Week2_Best_Practices/README.md) |
+| Oct 15 | [Dogtoberfest Day](topics/Dogtoberfest/README.md) |
+| Oct 18 - 22 | [Week 3 - Cloud Native](topics/Week3_Cloud_Native/README.md) |
+| Oct 25 - 29 | [Week 4 - Security](topics/Week4_Security/README.md) |
+| Nov 1 - 5 | [Week 5 - Data](topics/Week5_Data/README.md) |
+| Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) | 
+| Nov 12 | Devtoberfest Ends |
+| Nov 16 | TechEd Begins
 
 
 ## How to obtain support
