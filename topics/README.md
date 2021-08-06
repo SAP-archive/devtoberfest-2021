@@ -75,7 +75,11 @@ Find more information about this session on the [topic page](Week3_Cloud_Native/
 
 Topic Owner: [Thomas Jung](https://github.com/jung-thomas)
 
-to-do: description
+Security, as a topic, has an interesting place for most developers.  While it's universally agreed to be an important topic; too often in the development process it becomes an afterthough or something left to "the security team". 
+
+In this topic week we want to look some general security topics that impacts all types of developers. We will look at how to protect your applications from hackers, how to deal with the Cloud Native security implications and how to write more secure code. 
+
+For the tutorial and code challenge content of this week there will be a speacial focus on security within ABAP and the Node.js/JavaScript areas.
 
 Find more information about this session on the [topic page](Week4_Security/README.md).
 </td>
