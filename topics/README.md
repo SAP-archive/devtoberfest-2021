@@ -94,7 +94,7 @@ Find more information about this session on the [topic page](Week4_Security/READ
 </td>
 <td>
 
-## Data
+## Data && Analytics
 
 Topic Owner: [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
 
