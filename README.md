@@ -10,7 +10,7 @@
 
 Devtoberfest is a 6-week event, leadning up to SAP TechEd. This event is to be seen as a celebration of and for Developers. Every developer is welcome to join 6 weeks of tech talks, guest speakers, community contribution through a gamified learning journey with prizes, and celebratory events.
 
-To register for the event -- to-do Link to EventBrite
+To register for the event -- to-do Link to EventBrite or khoros?
 
 ## Key Dates
 
