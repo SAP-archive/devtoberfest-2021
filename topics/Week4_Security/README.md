@@ -10,7 +10,6 @@ For the tutorial and code challenge content of this week there will be a speacia
 
 ## Speakers
 
-* External Expert Request to Rachel Tobac, CEO of SocialProof Security, White Hat Hacker CyberSecurity Awareness | United States | [SocialProof Security](https://www.socialproofsecurity.com/)
 * Cedric Hebert – Hackers want passwords
 * Jens Keller – Cloud Native Security Aspects
 
