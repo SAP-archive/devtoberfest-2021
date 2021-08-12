@@ -1,10 +1,10 @@
-# Front-end
+# Frontend
 
 This topic content is for Devtoberfest Week 6 : 8 November → 12 November 2021.
 
-The front-end is the only project component that your business users will ever interact with directly. Consequentially, its implementation will shape the first impression of your project - So make it count!
+The frontend is the only project component that your business users will ever interact with directly. Consequentially, its implementation will shape the first impression of your project - So make it count!
 
-In this topic week, we look at some general trends topics that impact your web-based front-end. Each session will focus on upcoming industry trends and relate SAP's frameworks and services to its developer ecosystem. As this topic area to so incredibly wide, we'll concentrate on web-based front-ends. This also avoids certain limitations on the development requirements that would come with native application development. 
+In this topic week, we look at some general trends topics that impact your web-based frontend. Each session will focus on upcoming industry trends and relate SAP's frameworks and services to its developer ecosystem. As this topic area to so incredibly wide, we'll concentrate on web-based frontends. This also avoids certain limitations on the development requirements that would come with native application development. 
 
 For this week's tutorial and code challenge content, we preselected a set of tutorials that cover four different web frameworks. This should empower developers to pick the framework they feel most comfortable in (Bonus points if you do several of them).
 
