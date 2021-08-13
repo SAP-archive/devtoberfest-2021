@@ -32,12 +32,12 @@ Prizes are awarded via points accumulated and you can see the potential prize po
 
 
 
-##Game Specific Rules
-•	You must complete the items described in the point activity grid to receive prizes
-•	SAP will count the points by verifying your participation badges
-•	Once we have distributed our prizes out for levels 1-3 there will be no more prizes available.
-•	One grand prize winner (4 Stars) will be given even if more than one person achieves the total points needed for 4 stars.  All 4 star qualifiers will have their name written on a piece of paper and placed in a bowl. Then SAP will have someone draw a name from that bowl on a recorded video camera segment.
-•	Technological fascination. Innovative use of technology. Use of multiple 
+## Game Specific Rules
+* You must complete the items described in the point activity grid to receive prizes
+* SAP will count the points by verifying your participation badges
+* Once we have distributed our prizes out for levels 1-3 there will be no more prizes available.
+* One grand prize winner (4 Stars) will be given even if more than one person achieves the total points needed for 4 stars.  All 4 star qualifiers will have their name written on a piece of paper and placed in a bowl. Then SAP will have someone draw a name from that bowl on a recorded video camera segment.
+* Technological fascination. Innovative use of technology. Use of multiple 
 
-##How to Enter
+## How to Enter
 It’s simple.  Register for the Devtoberfest Game.  Complete activities like tutorials or event surveys.  Contribute to a project or make your own open source project.  Please reference the published list of activities to see where you can earn points.
