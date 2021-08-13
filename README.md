@@ -28,7 +28,7 @@ To register for the event -- to-do Link to EventBrite or khoros?
 | Nov 16 | TechEd Begins
 
 
-## Contest (Devtoberfestland???)
+## Contest (The Game)
 
 Devtoberfestland is a game that is open to all developers.  Points can be accrued by completing items listed on the game page readme.  Points are awarded for things such as attending a presentation or completing tutorials on SAP Community. Prizes are awarded based on badges earned and associated points accumulated.  Prize and Points are described on the game page readme as well as the rules relating to how many winners will make it to the Grand Prize Winner drawing.
 
