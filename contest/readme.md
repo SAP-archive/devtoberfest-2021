@@ -7,7 +7,9 @@ The Game Board is a static infographic that you can use to see your status.  Onc
 ## Points – Awarded and accumulated against your SAP Community ID.
 This table includes a description of each event that you can earn a badge with points associated.  Once that badge is applied to your SAP Community ID you will be able to see your points status change on the Devtoberfest Gameboard.
 
+
 | Activity	| Points Awarded |
+|---|---|
 | Register	| 10 |
 |Contribution Accepted to Codocs |	500 |
 |Scavenger Hunt of 20 Tutorials <link> |	Up to 6500 |
@@ -21,6 +23,7 @@ This table includes a description of each event that you can earn a badge with p
 Prizes are awarded via points accumulated and you can see the potential prize pool and associated points required below.  If you win a higher level (3 Stars, you will receive all prizes in lower levels as well (1 and 2 Stars):
 
 | Level	| Points Required	| Prizes*	| Badges awarded |
+|---|---|---|---|
 |Registrant	| 10	| Devtoberfest 2021 | Badge	| Devtoberfest 2021 |
 |1 Star	| 510	| Devtoberfest 2021 T-Shirt and stickers |	
 |2 Stars | TBD | $100 Voucher |	
