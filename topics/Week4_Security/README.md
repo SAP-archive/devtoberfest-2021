@@ -10,7 +10,21 @@ For the tutorial and code challenge content of this week there will be a speacia
 
 ## Speakers
 
-* Cedric Hebert – Hackers want passwords
+* Cedric Hebert – Hackers Want Passwords
+  * ![Cedirc Hebert](../../images/CedricHebert.PNG)
+  * the Monday 25th and Tuesday 26th have my preference if that’s possible.
+  * Bio: Currently leading Active Defense research, Cédric is a French guy convinced that we can change people's opinion of cyber-security from 'boring' to 'exciting'.
+
+    As a certified expert of the Security Research team, he spends his time influencing SAP's security practices and products with innovating yet practical solutions. After kickstarting SAP's Threat Modeling approach and giving birth to the SAP Enterprise Threat Detection product, he thinks it’s time to tap into the potential of cyber-deception - and he will keep using his and his team's energy to make this happen.
+
+    Cédric’s drives are sharing knowledge, learning new things every day and supporting people in getting more secure (instead of blaming them for clicking on the wrong link !)
+
+  * Abstract: 75% of cloud intrusions are done through the usage of valid credentials. Can we do anything besides more stringent password rules? What about… poisoning the well?
+  
+    In this presentation we will show you via three demos how cloud applications could actively fight against leaked credentials, password spreading and even phishing, by adopting honey passwords.
+
+    You don’t think this can work? I’d love to hear your reservations. Loving it? Then spread the word and help make the Internet a more secure place!
+
 * Jens Keller – Cloud Native Security Aspects
 
 ## Tutorials
