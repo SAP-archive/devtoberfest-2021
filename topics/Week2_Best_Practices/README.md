@@ -90,14 +90,14 @@ Create a CAP application, enhance it with an SAP Fiori UI, and add business logi
 
 Deploy your CAP application to SAP Business Technology Platform, Cloud Foundry environment as a Multi-Target Application (MTA). Set up SAP HANA Cloud as a database and the Launchpad service to access your UIs.
 
-*[Prepare for SAP BTP Development](https://developers.sap.com/tutorials/btp-app-prepare-btp.html)
-*[Set Up the SAP HANA Cloud Service](https://developers.sap.com/tutorials/btp-app-hana-cloud-setup.html)
-*[Prepare User Authentication and Authorization (XSUAA) Setup](https://developers.sap.com/tutorials/btp-app-prepare-xsuaa.html)
-*[Deploy Your Multi-Target Application (MTA)](https://developers.sap.com/tutorials/btp-app-cap-mta-deployment.html)
-*[Add the SAP Launchpad Service](https://developers.sap.com/tutorials/btp-app-launchpad-service.html)
-*[Assign a Role Collection to a User](https://developers.sap.com/tutorials/btp-app-role-assignment.html)
-*[Enable Logging Service for Your Application](https://developers.sap.com/tutorials/btp-app-logging.html)
-*[Undeploy Your Multi-Target Application (MTA)](https://developers.sap.com/tutorials/btp-app-undeploy-cap-application.html)
+* [Prepare for SAP BTP Development](https://developers.sap.com/tutorials/btp-app-prepare-btp.html)
+* [Set Up the SAP HANA Cloud Service](https://developers.sap.com/tutorials/btp-app-hana-cloud-setup.html)
+* [Prepare User Authentication and Authorization (XSUAA) Setup](https://developers.sap.com/tutorials/btp-app-prepare-xsuaa.html)
+* [Deploy Your Multi-Target Application (MTA)](https://developers.sap.com/tutorials/btp-app-cap-mta-deployment.html)
+* [Add the SAP Launchpad Service](https://developers.sap.com/tutorials/btp-app-launchpad-service.html)
+* [Assign a Role Collection to a User](https://developers.sap.com/tutorials/btp-app-role-assignment.html)
+* [Enable Logging Service for Your Application](https://developers.sap.com/tutorials/btp-app-logging.html)
+* [Undeploy Your Multi-Target Application (MTA)](https://developers.sap.com/tutorials/btp-app-undeploy-cap-application.html)
 
 ([Group link](https://developers.sap.com/group.btp-app-cap-deploy.html))
 
