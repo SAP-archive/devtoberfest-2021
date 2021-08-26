@@ -25,7 +25,6 @@ For the tutorial and code challenge content of this week there will be a speacia
 
     You don’t think this can work? I’d love to hear your reservations. Loving it? Then spread the word and help make the Internet a more secure place!
 
-* Jens Keller – Cloud Native Security Aspects
 
 ## Tutorials
 
@@ -46,5 +45,7 @@ Completion of any of the following tutorials during Devtoberfest will earn you p
 * [Deploy Your Application with Access Control (SAP HANA Cloud)](https://developers.sap.com/tutorials/hana-cloud-cap-add-auth-deploy.html)
 
 ## Coding Challenges
+
+* [https://github.com/SAP-samples/devtoberfest-2021-security-coding-challenge](https://github.com/SAP-samples/devtoberfest-2021-security-coding-challenge)
 
 ## Fun Friday Activity
