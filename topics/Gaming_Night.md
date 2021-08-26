@@ -1,5 +1,13 @@
 # Gaming Night
 
+Platforms available:
+- PC (Windows)
+- MacOS
+- Nintendo Switch (Nintendo Plus required)
+- Playstation (Playstation Plus required)
+- XBox (Xbox Live required)
+- Mobile (iOS/ Android)
+
 ## List of Games
 
 > Please go ahead and add games to the list.
