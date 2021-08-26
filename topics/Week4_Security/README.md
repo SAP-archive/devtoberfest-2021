@@ -25,6 +25,8 @@ For the tutorial and code challenge content of this week there will be a speacia
 
     You don’t think this can work? I’d love to hear your reservations. Loving it? Then spread the word and help make the Internet a more secure place!
 
+* Helen Oakley and Torsten Dangel - although they are away on vacation and we aren't meeting to set final details until September 9th
+* Thomas Jung - Security Aspects of SAP Cloud Application Programming Model
 
 ## Tutorials
 
