@@ -10,7 +10,7 @@ This topic content is for Devtoberfest Week 2 : 11 October → 15 October 2021.
 
 Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js. 
 
-#### Speaker
+**Speaker**
 
 David Kunz, Developer <br>
 _David Kunz is a core development specialist for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development._
@@ -22,7 +22,7 @@ _David Kunz is a core development specialist for the Node.js runtime of the SAP 
 
 Hear directly from one of the pre-eminent developers in the RESTful ABAP Programming (RAP) space, about best practices in the language that powers the core of SAP S/4HANA and many other platforms. 
 
-#### Speaker
+**Speaker**
 
 Andre Fischer, Product Expert <br>
 * SAP Community: https://people.sap.com/andre.fischer 
@@ -33,7 +33,7 @@ Andre Fischer, Product Expert <br>
 
 Hear directly from one of the team members of the CI/CD service on SAP Business Technology Platform, and learn about best practices in this area.
 
-#### Speaker
+**Speaker**
 
 Irina Kirilova, Product Manager
 
