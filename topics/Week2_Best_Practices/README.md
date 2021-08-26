@@ -117,4 +117,13 @@ Topic: ABAP ([Group link](https://developers.sap.com/group.abap-env-expose-cds-t
 
 ## Coding Challenges
 
-## Fun Friday Activity
+## Special Friday Activity
+
+On the Friday of this Best Practices week, we have special guest James Governor who will be speaking to us about best practices in the cloud native space. He has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices. 
+
+**Speaker**
+
+James Governor, Analyst & Co-founder Redmonk <br>
+_Founded RedMonk in 2002 with Stephen O’Grady. We focus on developers as the real key influencers in tech. Understanding that people choose technology because of gut instincts not facts per se. An ex-journalist, I have managed teams and news agendas in weekly publication grind. IBM and MS watcher since 1995. Goals–build RedMonk. Specialities: Developers, developers, developers._
+
+* Online: https://redmonk.com/team/james-governor/
