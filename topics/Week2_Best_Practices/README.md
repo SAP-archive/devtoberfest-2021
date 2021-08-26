@@ -53,8 +53,7 @@ Extend a basic SAP Cloud Application Programming Model (CAP) project to include 
 * [Create a User Interface with CAP (SAP HANA Cloud)](https://developers.sap.com/tutorials/hana-cloud-cap-create-ui.html)
 * [Add User Authentication to Your Application (SAP HANA Cloud)](https://developers.sap.com/tutorials/hana-cloud-cap-add-authentication.html)
 
-
-([Group link](https://developers.sap.com/group.hana-cloud-cap-fullstack.html))
+Topic: CAP ([Group link](https://developers.sap.com/group.hana-cloud-cap-fullstack.html))
 
 ### Mission: Build an Application End-to-End Using CAP, Node.js and VS Code
 
@@ -70,7 +69,7 @@ Perform the required setup steps and software installation to develop your CAP a
 * [Set Up Local Development Using VS Code](https://developers.sap.com/tutorials/btp-app-set-up-local-development.html)
 * [Create a Directory for Development](https://developers.sap.com/tutorials/btp-app-create-directory.html)
 
-([Group link](https://developers.sap.com/group.btp-app-cap-prepare.html))
+Topic: CAP ([Group link](https://developers.sap.com/group.btp-app-cap-prepare.html))
 
 #### Group: Create a CAP Application and SAP Fiori UI
 
@@ -84,7 +83,7 @@ Create a CAP application, enhance it with an SAP Fiori UI, and add business logi
 * [Add More Than One Application to the Launch Page](https://developers.sap.com/tutorials/btp-app-launchpage.html)
 * [Implement Roles and Authorization Checks In CAP](https://developers.sap.com/tutorials/btp-app-cap-roles.html)
 
-([Group link](https://developers.sap.com/group.btp-app-cap-create.html))
+Topic: CAP ([Group link](https://developers.sap.com/group.btp-app-cap-create.html))
 
 #### Group: Deploy Your CAP Application on SAP BTP Cloud Foundry Environment
 
@@ -99,11 +98,22 @@ Deploy your CAP application to SAP Business Technology Platform, Cloud Foundry e
 * [Enable Logging Service for Your Application](https://developers.sap.com/tutorials/btp-app-logging.html)
 * [Undeploy Your Multi-Target Application (MTA)](https://developers.sap.com/tutorials/btp-app-undeploy-cap-application.html)
 
-([Group link](https://developers.sap.com/group.btp-app-cap-deploy.html))
+Topic: CAP ([Group link](https://developers.sap.com/group.btp-app-cap-deploy.html))
 
 ### Single Tutorial
 
 * [Configure and Run a Predefined SAP Continuous Integration and Delivery (CI/CD) Pipeline](https://developers.sap.com/tutorials/btp-app-ci-cd-btp.html)
+
+Topic: CI/CD
+
+### Group: Develop a Fiori App Using the ABAP RESTful Application Programming Model (Managed Scenario)
+
+Topic: ABAP ([Group link](https://developers.sap.com/group.abap-env-expose-cds-travel-model.html))
+
+* [Create Table Persistence and Generate Data](https://developers.sap.com/tutorials/abap-environment-persistence.html)
+* [Define and Expose a CDS-Based Travel Data Model](https://developers.sap.com/tutorials/abap-environment-data-model.html)
+* [Create Behavior Definition for Managed Scenario](https://developers.sap.com/tutorials/abap-environment-behavior.html)
+* [Enhance Behavior With Action and Validation](https://developers.sap.com/tutorials/abap-environment-behavior-action.html)
 
 ## Coding Challenges
 
