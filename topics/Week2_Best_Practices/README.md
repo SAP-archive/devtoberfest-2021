@@ -72,7 +72,7 @@ Perform the required setup steps and software installation to develop your CAP a
 
 ([Group link](https://developers.sap.com/group.btp-app-cap-prepare.html))
 
-### Group: Create a CAP Application and SAP Fiori UI
+#### Group: Create a CAP Application and SAP Fiori UI
 
 Create a CAP application, enhance it with an SAP Fiori UI, and add business logic to it. Add a Launch Page to start the UIs, add roles and authorization checks, and run the application locally.
 
@@ -86,7 +86,7 @@ Create a CAP application, enhance it with an SAP Fiori UI, and add business logi
 
 ([Group link](https://developers.sap.com/group.btp-app-cap-create.html))
 
-### Group: Deploy Your CAP Application on SAP BTP Cloud Foundry Environment
+#### Group: Deploy Your CAP Application on SAP BTP Cloud Foundry Environment
 
 Deploy your CAP application to SAP Business Technology Platform, Cloud Foundry environment as a Multi-Target Application (MTA). Set up SAP HANA Cloud as a database and the Launchpad service to access your UIs.
 
