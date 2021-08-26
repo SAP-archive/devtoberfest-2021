@@ -101,6 +101,10 @@ Deploy your CAP application to SAP Business Technology Platform, Cloud Foundry e
 
 ([Group link](https://developers.sap.com/group.btp-app-cap-deploy.html))
 
+### Single Tutorial
+
+* [Configure and Run a Predefined SAP Continuous Integration and Delivery (CI/CD) Pipeline](https://developers.sap.com/tutorials/btp-app-ci-cd-btp.html)
+
 ## Coding Challenges
 
 ## Fun Friday Activity
