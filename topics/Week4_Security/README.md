@@ -34,17 +34,13 @@ Completion of any of the following tutorials during Devtoberfest will earn you p
 
 * [Secure Your Application on SAP Cloud Platform Cloud Foundry](https://developers.sap.com/group.cloudsdk-more-features.html)
 * [Secure a Node.JS Application and Make It Available to Other Subaccounts](https://developers.sap.com/group.cp-cf-security-xsuaa.html)
-* [Create Authorization Model with SAP BTP, ABAP Environment](https://developers.sap.com/group.abap-env-authorizations.html)
-* [Add Multitenancy to a Node.js Application Secured by the Authorization and Trust Management service (XSUAA)](https://developers.sap.com/tutorials/cp-cf-security-xsuaa-multi-tenant.html)
-* [Access Protected SAP Analytics Cloud Resources with OAuth Two-Legged Flow](https://developers.sap.com/tutorials/sac-secure-oauth.html)
-* [Call SAP Conversational AI API Using OAuth](https://developers.sap.com/tutorials/conversational-ai-api-oauth.html)
-* [Connect SAP Business Application Studio and SAP S/4HANA Cloud Tenant](https://developers.sap.com/tutorials/abap-custom-ui-bas-connect-s4hc.html)
-* [Create Authorization Model and App in SAP BTP, ABAP Environment](https://developers.sap.com/tutorials/abap-environment-authorization.html)
 * [Prepare User Authentication and Authorization (XSUAA) Setup](https://developers.sap.com/tutorials/btp-app-prepare-xsuaa.html)
 * [Implement Roles and Authorization Checks In CAP](https://developers.sap.com/tutorials/btp-app-cap-roles.html)
-* [Manage APIs with Policies](https://developers.sap.com/tutorials/cp-apim-sales-tracker-apis-manage.html)
-* [Add User Authentication to Your Application (SAP HANA Cloud)](https://developers.sap.com/tutorials/hana-cloud-cap-add-authentication.html)
-* [Deploy Your Application with Access Control (SAP HANA Cloud)](https://developers.sap.com/tutorials/hana-cloud-cap-add-auth-deploy.html)
+* [Create Authorization Model with SAP BTP, ABAP Environment](https://developers.sap.com/group.abap-env-authorizations.html)
+* [Create Authorization Model and App in SAP BTP, ABAP Environment](https://developers.sap.com/tutorials/abap-environment-authorization.html)
+* [Connect SAP Business Application Studio and SAP S/4HANA Cloud Tenant](https://developers.sap.com/tutorials/abap-custom-ui-bas-connect-s4hc.html)
+* [Access Protected SAP Analytics Cloud Resources with OAuth Two-Legged Flow](https://developers.sap.com/tutorials/sac-secure-oauth.html)
+* [Call SAP Conversational AI API Using OAuth](https://developers.sap.com/tutorials/conversational-ai-api-oauth.html)
 
 ## Coding Challenges
 
