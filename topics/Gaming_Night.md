@@ -13,6 +13,9 @@
 - [Quake Champions (F2P)](https://quake.bethesda.net/en)
 - [Team Fortress 2 (F2P)](http://www.teamfortress.com/)
 
+### Action
+- [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/) (Marius: Stadia)
+
 ### Brawler
 - [Warframe (F2P)](https://www.warframe.com/)
 - [Brawlhalla (F2P)](https://www.brawlhalla.com/)
@@ -20,7 +23,7 @@
 
 ### Sports
 - [Rocket League (F2P)](https://www.rocketleague.com/)
-- [Fifa21](https://www.ea.com/games/fifa/fifa-21)
+- [Fifa21](https://www.ea.com/games/fifa/fifa-21) (Marius: Stadia)
 - [NHL21](https://www.ea.com/de-de/games/nhl/nhl-21)
 - [Madden21](https://www.ea.com/games/madden-nfl/madden-nfl-21)
 - [Everybody's Golf](https://store.playstation.com/de-de/product/EP9000-CUSA02171_00-0011223344556677/)
