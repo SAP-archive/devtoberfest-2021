@@ -14,15 +14,15 @@ Platforms available:
 
 ### Multiplayer FPS (First Person Shooter)
 - [Valorant (F2P)](https://playvalorant.com/)
-- [Fortnite (F2P)](https://www.epicgames.com/fortnite/)
+- [Fortnite (F2P)](https://www.epicgames.com/fortnite/) (Thomas: PC)
 - [Call of Duty: Warzone (F2P)](https://www.callofduty.com/warzone)
 - [Counter-Strike: Global Offensive (F2P)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 - [Apex Legends (F2P)](https://www.ea.com/games/apex-legends)
 - [Quake Champions (F2P)](https://quake.bethesda.net/en)
-- [Team Fortress 2 (F2P)](http://www.teamfortress.com/)
+- [Team Fortress 2 (F2P)](http://www.teamfortress.com/) (Thomas: PC)
 
 ### Action
-- [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/) (Marius: Stadia)
+- [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/) (Marius: Stadia) (Thomas: PC)
 
 ### Brawler
 - [Warframe (F2P)](https://www.warframe.com/)
@@ -33,7 +33,7 @@ Platforms available:
 - [Rocket League (F2P)](https://www.rocketleague.com/)
 - [Fifa21](https://www.ea.com/games/fifa/fifa-21) (Marius: Stadia)
 - [NHL21](https://www.ea.com/de-de/games/nhl/nhl-21)
-- [Madden21](https://www.ea.com/games/madden-nfl/madden-nfl-21)
+- [Madden22](https://www.ea.com/games/madden-nfl/madden-nfl-22) (Thomas: PC)
 - [Everybody's Golf](https://store.playstation.com/de-de/product/EP9000-CUSA02171_00-0011223344556677/)
 
 ### Arcade Racing
@@ -47,6 +47,7 @@ Platforms available:
 - [Warcraft III: Reforged](https://playwarcraft3.com/)
 - [Warhammer 40K: Gladius](https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/)
 - [Command & Conquer: Remastered](https://www.ea.com/de-de/games/command-and-conquer/command-and-conquer-remastered)
+- [Sid Meier's Civilization VI](https://civilization.com/) (Thomas: PC)
 
 ### MOBA (Multiplayer Online Battle Arena)
 - [League of Legends (F2P)](https://na.leagueoflegends.com/en-us/)
@@ -56,7 +57,7 @@ Platforms available:
 ### Games w. Friends/ Other
 - [Among Us](https://www.epicgames.com/store/de/p/among-us)
 - [Fall Guys](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/)
-- [Overcooked 2](https://store.steampowered.com/app/728880/Overcooked_2/)
+- [Overcooked 2](https://store.steampowered.com/app/728880/Overcooked_2/) (Thomas: PC)
 - [Human Fall Flat](https://store.steampowered.com/app/477160/Human_Fall_Flat/)
 - [Broforce](https://www.broforcegame.com/)
 - [Minecraft](https://www.minecraft.net/en-us)
@@ -71,5 +72,5 @@ Platforms available:
 
 ### MMORPG (Mass Multiplayer Online Role Playing Game)
 - [Destiny 2 (F2P)](https://www.bungie.net/7/de/Destiny/NewLight)
-- [Star Wars: The Old Republic (F2P)](https://www.swtor.com)
+- [Star Wars: The Old Republic (F2P)](https://www.swtor.com) (Thomas: PC)
 - [Guild Wars 2 (F2P)](https://www.guildwars2.com/)
