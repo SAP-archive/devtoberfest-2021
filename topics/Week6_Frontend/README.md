@@ -10,9 +10,15 @@ For this week's tutorial and code challenge content, we preselected a set of tut
 
 ## Speakers
 
-* External Expert TBD
-* Philipp Pracht – Introduction to Microfrontends
-* TBD
+* Philipp Pracht – Micro Frontends with Luigi – UI Development at scale
+  * This session will give insights about a trending topic in front end development - Micro Frontends. This architecture style addresses the challenge of having a front end that is too big to manage and coordinate across multiple teams or products. You will learn about its key aspects, technical and organizational issues it induces and how these can be handled, on the example of project “Luigi”, SAP’s own open source Micro Frontend framework.
+  * ![Philipp Pracht](../../images/Philipp_Pracht.png)
+  * Bio: Philipp is the Product Owner and Architect of project “Luigi”, SAP’s open source micro frontend framework for business and admin UIs. He is in the company for 13 years now and during that time he was working on various UI related topics and frameworks.
+Philipp is part of the T&I BTP Foundational Plane Team and lives in Munich.
+
+* Peter Muessig & Damian Maring - TBD
+* Michelle Moudy - TBD
+* External Expert TBD?
 
 ## Tutorials
 
@@ -33,3 +39,5 @@ Completion of any of the following tutorials during Devtoberfest will earn you p
 ## Coding Challenges
 
 ## Fun Friday Activity
+
+Trivia Quiz / Pub night
