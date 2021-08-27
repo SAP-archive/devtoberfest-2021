@@ -16,7 +16,8 @@ For this week's tutorial and code challenge content, we preselected a set of tut
   * Bio: Philipp is the Product Owner and Architect of project “Luigi”, SAP’s open source micro frontend framework for business and admin UIs. He is in the company for 13 years now and during that time he was working on various UI related topics and frameworks.
 Philipp is part of the T&I BTP Foundational Plane Team and lives in Munich.
 
-* Peter Muessig & Damian Maring - TBD
+* Peter Muessig & Damian Maring - Apollo GraphQL Usage in UI5 Apps
+  * This session will show-case how easy it is today, to integrate any OSS library such as Apollo GraphQL into UI5 by using the UI5 CLI tooling. Besides the OSS integration the session demonstrates how seamless it can be to use Apollo GraphQL inside UI5 applications.
 * Michelle Moudy - TBD
 * External Expert TBD?
 
