@@ -35,9 +35,9 @@ Hear directly from one of the team members of the CI/CD service on SAP Business 
 
 **Speaker**
 
-Irina Kirilova, Product Manager
+Christoph Szymanski, Product Manager
 
-* SAP Community: https://people.sap.com/irina.kirilova
+* SAP Community: https://people.sap.com/christoph.szymanski
 
 
 ---
