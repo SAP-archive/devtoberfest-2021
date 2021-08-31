@@ -7,21 +7,21 @@ This topic content is for Devtoberfest Week 5: November 1 → 5, 2021.
 ## Speakers
 
 * Alan Simon "Enterprise-scale Analytical Data Architecture"
-    ![Alan Simon](../../images/AlanSimon.png)
+  <br>![Alan Simon](../../images/AlanSimon.png)
   * November 1st, 17:00 CET / 9am MST
   * Abstract: ...
   * Bio: ...
 
 
 * Manuel Zeise, Stefan Klaus Baur "Demystifying Data Science in the Enterprise"
-  * November 2nd, 10:00 CET / 9am MST
+  * November 2nd, 10:00 CET / 9am MST (tbc)
   * Abstract: ...
   * Bio: ...
 
 
 * Vitaliy Rudnytskiy "Data Visualization: Then and Now"
-  ![Vitaliy](../../images/VitaliyRudnytskiy_250px_shade.png)
-  * November 3rd, 16:00 CET / 8am PST
+  <br>![Vitaliy](../../images/VitaliyRudnytskiy_250px_shade.png)
+  * November 3rd, 16:00 CET / 8am PST (tbc)
   * Abstract: ...
   * Bio: As an SAP Developer Advocate Vitaliy focuses on all ways developers are collecting data and turning it into value using the SAP Business Technology Platform. His main interests are in big data and fast data technologies, IoT, analytics, and data visualization. Before joining SAP, he worked as a technology consultant in Europe and in the U.S. Vitaliy is a visiting lecturer at WSB University in Wrocław.
 
