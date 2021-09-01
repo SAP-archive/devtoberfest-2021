@@ -14,7 +14,7 @@ This topic content is for Devtoberfest Week 5: November 1 → 5, 2021.
 
 
 * Manuel Zeise, Stefan Klaus Baur "Demystifying Data Science in the Enterprise"
-  * November 2nd, 10:00 CET / 9am MST (tbc)
+  * November 2nd, 10:00 CET / 5pm SGT (tbc)
   * Abstract: ...
   * Bio: ...
 
@@ -28,7 +28,18 @@ This topic content is for Devtoberfest Week 5: November 1 → 5, 2021.
 
 ## Meet-the-Author (WIP)
 
+November 3rd, 9:00 CET and 17:00 CET
+
+Confirmed authors:
+* Melanie Holzapfel, co-author of "[Designing Dashboards with SAP Analytics Cloud](https://www.rheinwerk-verlag.de/designing-dashboards-with-sap-analytics-cloud/)"
+* [Dharma Teja Atluri](https://people.sap.com/dharmateja.atluri), co-author of "[SAP Data Intelligence: The Comprehensive Guide](https://www.sap-press.com/sap-data-intelligence_5369/)"
+
 ## Ask-the-Expert (WIP)
+
+November 4th, time tbc
+
+Confirmed experts:
+* [Andreas Forster](https://people.sap.com/andreas.forster), Machine Learning enthusiast in SAP's global Center of Excellence
 
 ## Tutorials (WIP)
 
