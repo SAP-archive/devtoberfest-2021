@@ -11,7 +11,7 @@ For the tutorial and code challenge content of this week there will be a speacia
 ## Speakers
 
 * **Cedric Hebert** – Hackers Want Passwords
-  * ![Cedirc Hebert](../../images/CedricHebert.PNG)
+  * ![Cedirc Hebert](../../images/CedricHebert_132px_shade.png)
   * the Monday 25th and Tuesday 26th have my preference if that’s possible.
   * **Bio:** Currently leading Active Defense research, Cédric is a French guy convinced that we can change people's opinion of cyber-security from 'boring' to 'exciting'.
 
@@ -28,7 +28,7 @@ For the tutorial and code challenge content of this week there will be a speacia
 * **Helen Oakley and Torsten Dangel** - although they are away on vacation and we aren't meeting to set final details until September 9th
   
 * **Thomas Jung** - Security Aspects of SAP Cloud Application Programming Model
-  * ![Thomas Jung](../../images/ThomasJung.jpg)
+  * ![Thomas Jung](../../images/ThomasJung_250px_shade.png)
 
   * **Bio:** Thomas Jung is currently Head of Developer Advocacy, SAP Developer & Community Relations at SAP. This is a continuation of his long career in the SAP technology space. Throughout his career he's focused on the SAP applications developer and the tools and languages which support their activities with a particular interest in sharing knowledge through various channels both online and in person.
 
