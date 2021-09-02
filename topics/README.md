@@ -37,8 +37,18 @@ Find more information about this session on the [topic page](Week1_Welcome/READM
 
 Topic Owner: [DJ Adams](https://github.com/qmacro)
 
-to-do: description
+When discovering and learning about any new technical topic, whether an SAP specific one, or a more general computing topic, there is always so much to read, so much to delve into. As well as trying to work out what's relevant, what will get you started, it's also useful to know what's considered good practice, and (implicitly) what patterns and approaches to avoid. 
+  
+In this Devtoberfest week we have the chance to think about best practices in three main areas:
+  
+* ABAP
+* the SAP Cloud Application Programming Model (CAP)
+* Continuous Integration and Continuous Delivery (CI/CD)
+  
+We have speakers from whom we can learn, speakers who are experts in these areas and indeed are product owners or developers. 
 
+We also have a special guest who will give us some important and inspiring insights into best practices when it comes to cloud and the cloud-native destination towards which we're all traveling in our own ways.
+  
 Find more information about this session on the [topic page](Week2_Best_Practices/README.md).
 </td>
 </tr>
@@ -79,7 +89,7 @@ Security, as a topic, has an interesting place for most developers.  While it's 
 
 In this topic week we want to look some general security topics that impacts all types of developers. We will look at how to protect your applications from hackers, how to deal with the Cloud Native security implications and how to write more secure code. 
 
-For the tutorial and code challenge content of this week there will be a speacial focus on security within ABAP and the Node.js/JavaScript areas.
+For the tutorial and code challenge content of this week there will be a special focus on security within ABAP and the Node.js/JavaScript areas.
 
 Find more information about this session on the [topic page](Week4_Security/README.md).
 </td>
