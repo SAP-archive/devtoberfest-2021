@@ -1,0 +1,42 @@
+###
+# This file configures the project "Piper" pipeline of your project.
+# For a reference of the configuration concept and available options, please have a look into its documentation.
+#
+# The documentation for the most recent pipeline version can always be found at:
+#    https://sap.github.io/jenkins-library/
+#
+# This is a YAML-file. YAML is an indentation-sensitive file format. Please make sure to properly indent changes to it.
+###
+
+
+
+### General project setup
+general:
+  inferBuildTool: true
+
+### Step-specific configuration
+steps:
+  mavenExecute:
+    dockerImage: devxci/mbtci:1.0.14
+
+  artifactPrepareVersion:
+    versioningType: cloud_noTag
+
+### Stage-specific configuration
+stages:
+  'Confirm':
+    manualConfirmation: false
+
+#  Integration:
+#    credentials:
+#      - alias: 'mySystemAlias'
+#        credentialId: 'mySystemCredentialsId'
+
+#  Release:
+#    cfTargets:
+#      - org: 'myOrg'
+#        space: 'mySpace'
+#        apiEndpoint: 'https://'
+#        appName: 'myAppName'
+#        manifest: 'manifest.yml'
+#        credentialsId: 'myDeploymentCredentialsId'

@@ -1,0 +1,47 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.187.0/containers/javascript-node
+{
+	"name": "SAP devtoberfest-2021-security-coding-challenge Devcontainer",
+	"build": {
+		"dockerfile": "Dockerfile",
+		// Update 'VARIANT' to pick a Node version: 12, 14, 16
+		"args": { "VARIANT": "14" }
+	},
+
+	// Set *default* container specific settings.json values on container create.
+	"settings": {},
+
+	// Add the IDs of extensions you want installed when the container is created.
+	"extensions": [
+		"dbaeumer.vscode-eslint",
+		"sapse.vscode-cds",
+		"sapse.sap-ux-fiori-tools-extension-pack",
+		"sapos.yeoman-ui",
+		"hookyqr.beautify",
+		"coenraads.bracket-pair-colorizer-2",
+		"eamodio.gitlens",
+		"yzhang.markdown-all-in-one",
+		"fivepointseven.node-version",
+		"bengreenier.vscode-node-readme",
+		"christian-kohler.path-intellisense",
+		"humao.rest-client",
+		"saposs.sap-hana-driver-for-sqltools",
+		"sapse.vsc-extension-sa",
+		"mtxr.sqltools",
+		"pflannery.vscode-versionlens",
+		"visualstudioexptteam.vscodeintellicode",
+		"vscode-icons-team.vscode-icons",
+		"saposs.xml-toolkit",
+		"dotjoshjohnson.xml",
+		"larshp.vscode-abap"
+	],
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	"forwardPorts": [ 4004, 3010 ],
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	// "postCreateCommand": "yarn install",
+
+	// Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
+	"remoteUser": "node"
+}
