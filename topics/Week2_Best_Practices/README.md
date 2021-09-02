@@ -10,35 +10,41 @@ This topic content is for Devtoberfest Week 2 : 11 October → 15 October 2021.
 
 Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js. 
 
-**Speaker**
+**Speaker: David Kunz, Developer**
 
-David Kunz, Developer <br>
-_David Kunz is a core development specialist for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development._
-* YouTube: https://www.youtube.com/channel/UCFU7a7OMYfcpjtIpu2j47_Q
+![David Kunz](../../images/250/DavidKunz.jpg)
+
+David Kunz is a core development specialist for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development.
+
+* SAP Community: https://people.sap.com/david.kunz2
 * GitHub: https://github.com/David-Kunz
+* YouTube: https://www.youtube.com/channel/UCFU7a7OMYfcpjtIpu2j47_Q
 
-
-### Best Practices for ABAP
+### ABAP Best Practices
 
 Hear directly from one of the pre-eminent developers in the RESTful ABAP Programming (RAP) space, about best practices in the language that powers the core of SAP S/4HANA and many other platforms. 
 
-**Speaker**
+**Speaker: Andre Fischer, Product Manager**
 
-Andre Fischer, Product Expert <br>
+![Andre Fischer](../../images/250/AndreFischer.png)
+
 * SAP Community: https://people.sap.com/andre.fischer 
+* Twitter: https://twitter.com/anfisc
 * GitHub: https://github.com/anfisc
 
-
-### Best Practices for CI/CD
+### Continuous Integration and Delivery with SAP
 
 Hear directly from one of the team members of the CI/CD service on SAP Business Technology Platform, and learn about best practices in this area.
 
-**Speaker**
+**Speaker: Christoph Szymanski, Product Owner**
 
-Christoph Szymanski, Product Manager
+![Christoph Szymanski](../../images/250/ChristophSzymanski.jpg)
+
+Christoph has been with SAP for more than 10 years - working on various CI/CD topics for SAP teams: infrastructure, tooling, processes. Recently, he's been trying to make our internal experience available to customers, via tools and products, talks and best practices.
 
 * SAP Community: https://people.sap.com/christoph.szymanski
-
+* Twitter: https://twitter.com/ski_at_work
+* LinkedIn: www.linkedin.com/in/christoph-szymanski-9b0484103
 
 ---
 
