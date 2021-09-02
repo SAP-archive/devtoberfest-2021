@@ -33,6 +33,7 @@ November 3rd, 9:00 CET and 17:00 CET
 Confirmed authors:
 * Melanie Holzapfel, co-author of "[Designing Dashboards with SAP Analytics Cloud](https://www.rheinwerk-verlag.de/designing-dashboards-with-sap-analytics-cloud/)"
 * [Dharma Teja Atluri](https://people.sap.com/dharmateja.atluri), co-author of "[SAP Data Intelligence: The Comprehensive Guide](https://www.sap-press.com/sap-data-intelligence_5369/)"
+* [Thorsten Lüdtke](https://people.sap.com/biportal), co-author of "[SAP BW/4HANA 2.0: The Comprehensive Guide](https://www.sap-press.com/sap-bw4hana-20_4544/)"
 
 ## Ask-the-Expert (WIP)
 
