@@ -7,7 +7,7 @@ This topic content is for Devtoberfest Week 5: November 1 → 5, 2021.
 ### Alan Simon "The Modern Enterprise Data Landscape"
 November 2nd, 17:00 CET / 9am MST
 
-Enterprise-scale data management has long been a highly complex and often frustrating proposition. Today, with data warehouses and data marts, data lakes, data lakehouses, data fabric, data mesh, in-memory databases and more… your alternatives can be mind-numbing and make you feel as if you’ll never reach your enterprise data management goals.
+Enterprise-scale data management has long been a highly complex and often frustrating proposition. Today, with data warehouses and data marts, data lakes, data lakehouses, data fabric, data mesh, multimodel data platforms and more… your alternatives can be mind-numbing and make you feel as if you’ll never reach your enterprise data management goals.
 
 40-year technology veteran Alan Simon untangles and demystifies the enterprise data management landscape, helping you leap beyond jargon and the latest hot trends through a grounded-in-reality approach to address your longstanding challenges. No matter where you are on the path towards a true enterprise data landscape throughout your organization, this presentation will help you move even further along your roadmap.
 
@@ -15,14 +15,12 @@ Enterprise-scale data management has long been a highly complex and often frustr
 
 **Alan Simon** is the Managing Principal of Thinking Helmet, Inc. and a long-time enterprise data management consultant. He is the author of 32 technology, business, and career-oriented books dating back to 1985, including the original edition of Data Warehousing For Dummies and the just-released Data Lakes For Dummies. He previously led global and national consulting practices with several firms, and also teaches university courses in his specialty areas. He lives in the Phoenix, Arizona area and is a native of Pittsburgh, Pennsylvania.
 
-
 ### Manuel Zeise, Stefan Klaus Baur "Demystifying Data Science in the Enterprise"
 November 2nd, 10:00 CET / 5pm SGT (tbc)
 
 Abstract: ...
 
 Bios: ...
-
 
 ### Vitaliy Rudnytskiy "Data Visualization: Then and Now"
 November 3rd, 16:00 CET / 8am PST (tbc)
@@ -48,6 +46,7 @@ Confirmed authors:
 November 4th, time tbc
 
 Confirmed experts:
+* [Sarah Detzler](https://people.sap.com/sarah.detzler), Competence Lead Data Science and Machine Learning
 * [Andreas Forster](https://people.sap.com/andreas.forster), Machine Learning enthusiast in SAP's global Center of Excellence
 
 ## Coding Challenge
