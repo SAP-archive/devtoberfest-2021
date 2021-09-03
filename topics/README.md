@@ -127,7 +127,9 @@ Find more information about this session on the [topic page](Week5_Data/README.m
 
 Topic Owner: [Marius Obert](https://github.com/IObert)
 
-to-do: description
+The frontend is the only project component that your business users will ever interact with directly. Consequentially, its implementation will shape the first impression of your project - So make it count!
+
+In this topic week, we look at some general trends topics that impact your web-based frontend. Each session will focus on upcoming industry trends and relate SAP's frameworks and services to its developer ecosystem. As this topic area to so incredibly wide, we'll concentrate on web-based frontends. 
 
 Find more information about this session on the [topic page](Week6_Frontend/README.md).
 </td>
