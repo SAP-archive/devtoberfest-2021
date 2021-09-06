@@ -18,7 +18,7 @@ Each week of Devtoberfest will have a focus topic.  All the tech talks, external
 
 Topic Owner: [Kevin Muessig](https://github.com/KevinMuessig)
 
-to-do: description
+Devtoberfest! A celebration for Developers by Developers. The first week of Devtoberfest is all about learning more about the event and an introduction to the Grand Prize raffle. You will learn how you can participate in Devtoberfest, how you can win prices and join a whole set of amazing sessions being held by the SAP Developer Advocates as well as exciting guest speakers.
 
 Find more information about this session on the [topic page](Week1_Welcome/README.md).
 </td>
