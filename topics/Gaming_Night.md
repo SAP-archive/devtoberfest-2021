@@ -1,5 +1,13 @@
 # Gaming Night
 
+Welcome to the Gaming Night Event page! For this event it is all about challenging the SAP Developer Advocates and the Community in your favorite video game.
+
+This event is thought not only for you to join and play video games but for the whole family! Just make sure that the age restrictions of the different games are fullfilled for the joining players.
+
+Down below is a list of available games you can join and play. The list is not final and can be extended by **YOU**! To do so just edit the file and open a Pull Request for us to add the game to the list.
+
+To communicate and interact with each other we provide a Discord server which you can join for the different gaming channels.
+
 Platforms available:
 - PC (Windows)
 - MacOS
