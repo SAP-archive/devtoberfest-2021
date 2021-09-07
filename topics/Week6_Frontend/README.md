@@ -32,11 +32,11 @@ This session will showcase how easy it is today to integrate any OSS library suc
     <col width="250px" />
     <col  />
     <tr>
-        <td><img src="../../images/PeterMuessig_250px_shade.png" alt="Peter Muessig"><p style="text-align:center;font-weight:bold">Peter Muessig</p></td>
+        <td><img src="../../images/PeterMuessig_250px_shade.png" alt="Peter Muessig"><br/><p style="text-align:center;font-weight:bold">Peter Muessig</p></td>
         <td>Peter is an initial member of the Phoenix project, today known as OpenUI5 and SAPUI5. He has grown into the role of the UI5 Chief Architect, mainly focusing on UI innovation in the area of the UI framework (UI5 Evolution, UI5 Core), rendering (UI5 Controls, UI5 Web Components), development experience (UI5 Tooling).</td>
     </tr>
     <tr>
-        <td><img src="../../images/DamianMaring_250px_shade.png" alt="Damian Maring"><p style="text-align:center;font-weight:bold">Damian Maring</p></td>
+        <td><img src="../../images/DamianMaring_250px_shade.png" alt="Damian Maring"><br/><p style="text-align:center;font-weight:bold">Damian Maring</p></td>
         <td>Damian is an Area Architect focusing on UI/UX topics in the Procurement Area. He's also a founding member of "Deploy with Confidence", working on tools for delivering cloud-native SaaS applications. Very early on in his development career, he found his passion in front-end technologies. After joining SAP in 2012, he looked into the newest UI-related technologies and spreading them throughout the company, including UI5, Vue.js, GraphQL, and many more. <br/> Together with his team, he has built tools to improve the developer experience and raise quality awareness for the whole solution.</td>
     </tr>
 </table>
