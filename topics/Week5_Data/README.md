@@ -6,7 +6,7 @@ Times were never more exciting for developers working with data. Data analysts, 
 
 ## Presentations
 
-### Alan Simon "The Modern Enterprise Data Landscape"
+### The Modern Enterprise Data Landscape
 November 2nd, 17:00 CET / 9am MST
 
 Enterprise-scale data management has long been a highly complex and often frustrating proposition. Today, with data warehouses and data marts, data lakes, data lakehouses, data fabric, data mesh, multimodel data platforms and more… your alternatives can be mind-numbing and make you feel as if you’ll never reach your enterprise data management goals.
@@ -19,7 +19,7 @@ Enterprise-scale data management has long been a highly complex and often frustr
 <img src="../../images/AlanSimon_250px_shade.png">
 </td>  <td><b>Alan Simon</b> is the Managing Principal of Thinking Helmet, Inc. and a long-time enterprise data management consultant. He is the author of 32 technology, business, and career-oriented books dating back to 1985, including the original edition of Data Warehousing For Dummies and the just-released Data Lakes For Dummies. He previously led global and national consulting practices with several firms, and also teaches university courses in his specialty areas. He lives in the Phoenix, Arizona area and is a native of Pittsburgh, Pennsylvania.</td>  </tr></table>
 
-### Manuel Zeise, Stefan Klaus Baur "Demystifying Data Science in the Enterprise"
+### Demystifying Data Science in the Enterprise
 November 2nd, 10:00 CET / 5pm SGT (tbc)
 
 Data Science has been a hot topic in the enterprise in the last decade. Thanks to advances in deep learning, the role of data scientists has expanded into new applications, namely building AI services.
@@ -39,7 +39,7 @@ In this talk we describe machine learning use-cases from our team and describe o
 </td>  <td><b>Dr. Stefan Baur</b> is a senior data scientist at the Deep Learning Center of Excellence for SAP AI Business Services. He has several years of experience in developing deep learning models for SAP’s AI-powered products, including the document information extraction solution and the productization of the Generic-Line-Item-Matching model in CashApp, where he currently serves as project lead of the data science team. Before joining SAP, Stefan obtained a PhD in theoretical condensed matter physics from Cornell University and served as a postdoctoral researcher at the University of Cambridge.</td>  </tr></table>
 
 
-### Vitaliy Rudnytskiy "Data Visualization: Then and Now"
+### Data Visualization: Then and Now
 November 4th, 10:00 CET / 5pm SGT
 
 Data Visualization is the new old topic. Surprisingly its history is not that long even if spreadsheets made data exploration ubiquitous. But as Data is moving into 3xV directions (Volume, Velocity and Variety) so is modern Visualization of it. After going through a bit of a theory we will move into practical aspects of Data Storytelling and Exploratory Data Analysis.
@@ -68,7 +68,7 @@ Confirmed authors:
 
 ## Ask-the-Expert: Data Science in practice
 
-We got recognized experts and active community members to to discuss and to answer your questions about real-life experience preparing, training, deploying and maintaining Machine Learning models.
+We got recognized experts and active community members to join a panel discussing and answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models.
 
 November 4th, 16:00 CET / 8am PST
 
