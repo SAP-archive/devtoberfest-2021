@@ -16,8 +16,8 @@ This session will give insights about a trending topic in frontend development -
 
 <table >
     <tr>
-        <td width=250><img src="../../images/PhilippPracht_250px_shade.png" alt="Philipp Pracht"><p >Philipp Pracht</b></td>
-        <td>Philipp is the Product Owner and Architect of project “Luigi”, SAP’s open-source micro frontend framework for business and admin UIs. He is in the company for 13 years now, and during that time, he was working on various UI-related topics and frameworks. <br/> Philipp is part of the T&I BTP Foundational Plane Team and lives in Munich.</td>
+        <td width=250><img src="../../images/PhilippPracht_250px_shade.png" alt="Philipp Pracht"></td>
+        <td><b>Philipp Pracht</b> is the Product Owner and Architect of project “Luigi”, SAP’s open-source micro frontend framework for business and admin UIs. He is in the company for 13 years now, and during that time, he was working on various UI-related topics and frameworks. <br/> Philipp is part of the T&I BTP Foundational Plane Team and lives in Munich.</td>
     </tr>
 </table>
 
@@ -27,12 +27,12 @@ This session will showcase how easy it is today to integrate any OSS library suc
 
 <table >
     <tr>
-        <td width=250><img src="../../images/PeterMuessig_250px_shade.png" alt="Peter Muessig"><br/><p>Peter Muessig</p></td>
-        <td>Peter is an initial member of the Phoenix project, today known as OpenUI5 and SAPUI5. He has grown into the role of the UI5 Chief Architect, mainly focusing on UI innovation in the area of the UI framework (UI5 Evolution, UI5 Core), rendering (UI5 Controls, UI5 Web Components), development experience (UI5 Tooling).</td>
+        <td width=250><img src="../../images/PeterMuessig_250px_shade.png" alt="Peter Muessig"><br/></td>
+        <td><b>Peter Muessig</b>  is an initial member of the Phoenix project, today known as OpenUI5 and SAPUI5. He has grown into the role of the UI5 Chief Architect, mainly focusing on UI innovation in the area of the UI framework (UI5 Evolution, UI5 Core), rendering (UI5 Controls, UI5 Web Components), development experience (UI5 Tooling).</td>
     </tr>
     <tr>
-        <td width=250><img src="../../images/DamianMaring_250px_shade.png" alt="Damian Maring"><br/><p>Damian Maring</p></td>
-        <td>Damian is an Area Architect focusing on UI/UX topics in the Procurement Area. He's also a founding member of "Deploy with Confidence", working on tools for delivering cloud-native SaaS applications. Very early on in his development career, he found his passion in front-end technologies. After joining SAP in 2012, he looked into the newest UI-related technologies and spreading them throughout the company, including UI5, Vue.js, GraphQL, and many more. <br/> Together with his team, he has built tools to improve the developer experience and raise quality awareness for the whole solution.</td>
+        <td width=250><img src="../../images/DamianMaring_250px_shade.png" alt="Damian Maring"><br/></td>
+        <td><b>Damian Maring</b> is an Area Architect focusing on UI/UX topics in the Procurement Area. He's also a founding member of "Deploy with Confidence", working on tools for delivering cloud-native SaaS applications. Very early on in his development career, he found his passion in front-end technologies. After joining SAP in 2012, he looked into the newest UI-related technologies and spreading them throughout the company, including UI5, Vue.js, GraphQL, and many more. <br/> Together with his team, he has built tools to improve the developer experience and raise quality awareness for the whole solution.</td>
     </tr>
 </table>
 
