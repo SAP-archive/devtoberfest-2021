@@ -8,9 +8,10 @@ In this topic week, we look at some general trends topics that impact your web-b
 
 For this week's tutorial and code challenge content, we preselected a set of tutorials that cover four different web frameworks. This should empower developers to pick the framework they feel most comfortable in (Bonus points if you do several of them).
 
-## Sessions
+## Presentations
 
 ### Micro Frontends with Luigi – UI Development at scale
+Schedule - TBD
 
 This session will give insights about a trending topic in frontend development - Micro Frontends. This architecture style addresses the challenge of having a frontend that is too big to manage and coordinate across multiple teams or products. You will learn about its key aspects, technical and organizational issues it induces, and how these can be handled, on the example of project "Luigi", SAP's own open-source Micro Frontend framework.
 
@@ -22,6 +23,7 @@ This session will give insights about a trending topic in frontend development -
 </table>
 
 ### Apollo GraphQL Usage in UI5 Apps
+Schedule - TBD
 
 This session will showcase how easy it is today to integrate any OSS library such as Apollo GraphQL into UI5 by using the UI5 CLI tooling. Besides the OSS integration, the session demonstrates how seamless it can be to use Apollo GraphQL inside UI5 applications.
 
