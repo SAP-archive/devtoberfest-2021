@@ -47,6 +47,5 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 |Register with eventbrite |	10 |
 |Contribute line of code to codocs |	500 |
 |Submit project to devtoberfest github	| 1000 |
-|Accepted code to another community member project |	150 |
 |Week 1 Speaker/Intro Points Event	| 50 |
 |Week 1 Fun Friday Event |	300 |
