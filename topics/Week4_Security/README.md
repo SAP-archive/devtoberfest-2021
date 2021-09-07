@@ -10,7 +10,7 @@ For the tutorial and code challenge content of this week there will be a speacia
 
 ## Presentations 
 
-### Cédric Hebert** – Hackers Want Passwords
+### Cédric Hebert "Hackers Want Passwords"
 Date and Time: TBD
 
 75% of cloud intrusions are done through the usage of valid credentials. Can we do anything besides more stringent password rules? What about… poisoning the well?
@@ -31,7 +31,7 @@ Cédric’s drives are sharing knowledge, learning new things every day and supp
 
 
 
-### Thomas Jung** - Security Aspects of SAP Cloud Application Programming Model
+### Thomas Jung "Security Aspects of SAP Cloud Application Programming Model"
 Date and Time: TBD
 
 The SAP Cloud Application Programming Model comes out of the box with lots of best practice security baked into the framework.  However there are also things that each developer need to take responsiblity for when building applications with CAP. In this session we will look at techniques like adding XSUAA and roles, configuring Helmet for content security policies, and how to deal with CORS (Cross-Origin Resource Sharing)
