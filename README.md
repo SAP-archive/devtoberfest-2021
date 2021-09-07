@@ -14,7 +14,7 @@ Devtoberfest is a 6-week event, leading up to SAP TechEd. This event is to be se
 
 ## Key Dates
 
-| Date | Description | 
+| Date | Description |
 | ---------------- | ---------------- |
 | Oct 1 | Devtoberfest Begins! |
 | Oct 4 - 8 | [Week 1 - Welcome to Devtoberfest](topics/Week1_Welcome/README.md) |
@@ -22,8 +22,8 @@ Devtoberfest is a 6-week event, leading up to SAP TechEd. This event is to be se
 | Oct 15 | [Dogtoberfest Day](topics/Dogtoberfest/README.md) |
 | Oct 18 - 22 | [Week 3 - Cloud Native](topics/Week3_Cloud_Native/README.md) |
 | Oct 25 - 29 | [Week 4 - Security](topics/Week4_Security/README.md) |
-| Nov 1 - 5 | [Week 5 - Data](topics/Week5_Data/README.md) |
-| Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) | 
+| Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
+| Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
 | Nov 12 | Devtoberfest Ends |
 | Nov 16 | TechEd Begins
 
@@ -38,7 +38,7 @@ For full details on the contest aspects pleas see the [Game Page Readme](contest
 ## How to obtain support
 
 [Create an issue](https://github.com/SAP-samples/devtoberfest-2021/issues) in this repository if you find a bug or have questions about the content.
- 
+
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
 ## Legal Stuff
