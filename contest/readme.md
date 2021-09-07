@@ -5,17 +5,16 @@ For Devtoberfest 2021 we will have a game that is open to everyone regardless of
 The Game Board is a static infographic that you can use to see your status.  Once registered for Devotberfest 2021 you will earn the first badge, Decvtoberfest 2021 on your SAP Community ID. But that badge has 4 stars across the top and they are not empty and not colored in gold until you complete enough events to change their status to “filled”.  
 
 ## Points – Awarded and accumulated against your SAP Community ID.
-This table includes a description of each event that you can earn a badge with points associated.  Once that badge is applied to your SAP Community ID you will be able to see your points status change on the Devtoberfest Gameboard.
+This table includes a description some events that you can earn a badge with points associated.  Once that badge is applied to your SAP Community ID you will be able to see your points status change on the Devtoberfest Gameboard.  More eents will be published in future weeks of Devtoberfest, including a list after week 3 of a special group of 20 tutorials (Scavenger Hunt) as a Devtoberfest Mission with bonus points awarded if all 20 tutorials completed.
 
 
 | Activity	| Points Awarded |
 |---|---|
 | Register	| 10 |
 |Contribution Accepted to Codocs |	500 |
-|Scavenger Hunt of 20 Tutorials <link> |	Up to 6500 |
-|Misc Tutorial 1	| 200 |
-|Misc tutorial 2	| 200 |
-|Attend Live Youtube and complete Survey | 100 |
+|Scavenger Hunt of 20 Tutorials |	Up to 10600 |
+|Tutorials in each content week	| 200 |
+|Attend Live Youtube Speaker Session and complete validation | 300 |
 |Submit Project to Devtoberfest 2021 on githiub	| 1000 |
 | | |	
 
@@ -25,10 +24,10 @@ Prizes are awarded via points accumulated and you can see the potential prize po
 | Level	| Points Required	| Prizes*	| Badges awarded |
 |---|---|---|---|
 |Registrant	| 10	| Devtoberfest 2021 | Badge	| Devtoberfest 2021 |
-|1 Star	| 510	| Devtoberfest 2021 T-Shirt and stickers |	
-|2 Stars | TBD | $100 Voucher |	
-|3 Stars | TBD| Devtoberfest 2021 Outerwear  (jacket/fleece), beer cooasters |
-|4 Stars (Grand Prize) 1 Winner	| TBD|	Meet Juergen,	and |
+|1 Star	| 2000	| Devtoberfest 2021 T-Shirt and stickers |	
+|2 Stars | 12000 | $100 Voucher and Virtual Selfie with Advocate |	
+|3 Stars | 18000| Devtoberfest 2021 Outerwear  (jacket/fleece) |
+|4 Stars (Grand Prize) 1 Winner	| 24000 |	Donation to Charity and Trees Planted in winners name |
 
 
 
@@ -40,4 +39,14 @@ Prizes are awarded via points accumulated and you can see the potential prize po
 * Technological fascination. Innovative use of technology. Use of multiple 
 
 ## How to Enter
-It’s simple.  Register for the Devtoberfest Game.  Complete activities like tutorials or event surveys.  Contribute to a project or make your own open source project.  Please reference the published list of activities to see where you can earn points.
+It’s simple.  Register for the Devtoberfest Game.  Complete activities like tutorials or event surveys in any of the 6 weeks of Devtoberfest Oct 1, 2021 thru November 12, 2021.  Contribute to a project or make your own open source project.  Please reference the published list below of activities to see where you can earn points.  Check back every week as more activities added.  
+
+|Activity | Points Earned |
+|---|---|
+|Week 1 |Starts Oct 1st|
+|Register with eventbrite |	10 |
+|Contribute line of code to codocs |	500 |
+|Submit project to devtoberfest github	| 1000 |
+|Accepted code to another community member project |	150 |
+|Week 1 Speaker/Intro Points Event	| 50 |
+|Week 1 Fun Friday Event |	300 |
