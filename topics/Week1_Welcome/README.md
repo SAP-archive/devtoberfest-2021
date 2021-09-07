@@ -1,6 +1,6 @@
 # Welcome to Devtoberfest! 😎
 
-This topic content is for Devtoberfest Week 1 : 4 November → 08 November 2021.
+This topic content is for Devtoberfest Week 1 : 4 October → 08 October 2021.
 
 Devtoberfest is the celebratory event by the SAP Developer Advocates for all Developers out there. Developers are the fundament of our modern world, as such they should be celebrated!
 
