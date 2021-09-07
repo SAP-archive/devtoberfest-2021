@@ -17,9 +17,8 @@ Enterprise-scale data management has long been a highly complex and often frustr
     <tr>
         <td width = 270>
 <img src="../../images/AlanSimon_250px_shade.png">
-</td>  <td><b>Alan Simon</b> is the Managing Principal of Thinking Helmet, Inc. and a long-time enterprise data management consultant. He is the author of 32 technology, business, and career-oriented books dating back to 1985, including the original edition of Data Warehousing For Dummies and the just-released Data Lakes For Dummies. He previously led global and national consulting practices with several firms, and also teaches university courses in his specialty areas.
-
-Alan lives in the Phoenix, Arizona area and is a native of Pittsburgh, Pennsylvania.</td>  </tr></table>
+</td>  <td><b>Alan Simon</b> is the Managing Principal of Thinking Helmet, Inc. and a long-time enterprise data management consultant. He is the author of 32 technology, business, and career-oriented books dating back to 1985, including the original edition of Data Warehousing For Dummies and the just-released Data Lakes For Dummies. He previously led global and national consulting practices with several firms, and also teaches university courses in his specialty areas.<br><br>
+Alan lives in the Phoenix, Arizona area and is a native of Pittsburgh, Pennsylvania, USA.</td>  </tr></table>
 
 ### Demystifying Data Science in the Enterprise
 November 2nd, 10:00 CET / 5pm SGT (tbc)
@@ -34,14 +33,12 @@ In this talk we describe machine learning use-cases from our team and describe o
 <img src="../../images/ManuelZeise_250px_shadow.png">
 </td>
         <td>
-<b>Dr. Manuel Zeise</b> is a principal data scientist at the Deep Learning Center of Excellence in Walldorf. He began his career at SAP in 2013, working in Consulting and Custom Development as a data scientist, before transferring to the Deep Learning CoE in 2018.
-
+<b>Dr. Manuel Zeise</b> is a principal data scientist at the Deep Learning Center of Excellence in Walldorf. He began his career at SAP in 2013, working in Consulting and Custom Development as a data scientist, before transferring to the Deep Learning CoE in 2018.<br><br>
 Prior to this, Manuel earned a PhD in high energy physics from the Institut für Experimentelle Kernphysik in Karlsruhe and worked as a postdoctoral researcher.
 </td></tr>
     <tr><td width = 270>
 <img src="../../images/StefanBaur_250px_shadow.png">
-</td>  <td><b>Dr. Stefan Baur</b> is a senior data scientist at the Deep Learning Center of Excellence for SAP AI Business Services. He has several years of experience in developing deep learning models for SAP’s AI-powered products, including the document information extraction solution and the productization of the Generic-Line-Item-Matching model in CashApp, where he currently serves as project lead of the data science team.
-
+</td>  <td><b>Dr. Stefan Baur</b> is a senior data scientist at the Deep Learning Center of Excellence for SAP AI Business Services. He has several years of experience in developing deep learning models for SAP’s AI-powered products, including the document information extraction solution and the productization of the Generic-Line-Item-Matching model in CashApp, where he currently serves as project lead of the data science team.<br><br>
 Before joining SAP, Stefan obtained a PhD in theoretical condensed matter physics from Cornell University and served as a postdoctoral researcher at the University of Cambridge.</td>  </tr></table>
 
 
@@ -56,9 +53,8 @@ Data Visualization is the new old topic. Surprisingly its history is not that lo
 <img src="../../images/VitaliyRudnytskiy_250px_shade.png">
 </td>
         <td>
-As an SAP Developer Advocate <strong><a href="https://people.sap.com/vitaliy.rudnytskiy">Vitaliy Rudnytskiy</a></strong> focuses on all ways developers are collecting data and turning it into value using the SAP Business Technology Platform. His main interests are in big data and fast data technologies, IoT, analytics, and data visualization.
-
-Before joining SAP, he worked as a technology consultant in Europe and in the U.S. Vitaliy is a visiting lecturer at WSB University in Wrocław.</td>  </tr></table>
+As an SAP Developer Advocate <strong><a href="https://people.sap.com/vitaliy.rudnytskiy">Vitaliy Rudnytskiy</a></strong> focuses on all ways developers are collecting data and turning it into value using the SAP Business Technology Platform. His main interests are in big data and fast data technologies, IoT, analytics, and data visualization.<br><br>
+Before joining SAP, he worked as a technology consultant in Europe and in the U.S. Vitaliy is a visiting lecturer at the WSB University in Wrocław.</td>  </tr></table>
 
 
 ## Meet-the-Author
