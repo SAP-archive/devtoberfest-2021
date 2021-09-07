@@ -72,6 +72,8 @@ We got recognized experts and active community members to to discuss and to answ
 
 November 4th, 16:00 CET / 8am PST
 
+![Sarah](../../images/SarahDetzler_250px_shade.png) ![Andreas](../../images/AndreasForster_250px_shadow.png) ![Karthik](../../images/KarthikMuthuswamy_250px_shade.png)
+
 * [Sarah Detzler](https://people.sap.com/sarah.detzler), Competence Lead Data Science and Machine Learning
 * [Andreas Forster](https://people.sap.com/andreas.forster), Machine Learning enthusiast in SAP's global Center of Excellence
 * [Karthik Muthuswamy](https://people.sap.com/krtk), Senior Data Scientist working on Machine Learning research for developing intelligent applications for enterprise software
