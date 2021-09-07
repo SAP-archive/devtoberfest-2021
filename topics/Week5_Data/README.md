@@ -50,7 +50,7 @@ Data Visualization is the new old topic. Surprisingly its history is not that lo
 <img src="../../images/VitaliyRudnytskiy_250px_shade.png">
 </td>
         <td>
-As an SAP Developer Advocate <strong><a href="https://people.sap.com/vitaliy.rudnytskiy">Vitaliy</a></strong> focuses on all ways developers are collecting data and turning it into value using the SAP Business Technology Platform. His main interests are in big data and fast data technologies, IoT, analytics, and data visualization. Before joining SAP, he worked as a technology consultant in Europe and in the U.S. Vitaliy is a visiting lecturer at WSB University in Wrocław.</td>  </tr></table>
+As an SAP Developer Advocate <strong><a href="https://people.sap.com/vitaliy.rudnytskiy">Vitaliy Rudnytskiy</a></strong> focuses on all ways developers are collecting data and turning it into value using the SAP Business Technology Platform. His main interests are in big data and fast data technologies, IoT, analytics, and data visualization. Before joining SAP, he worked as a technology consultant in Europe and in the U.S. Vitaliy is a visiting lecturer at WSB University in Wrocław.</td>  </tr></table>
 
 
 ## Meet-the-Author
@@ -66,7 +66,9 @@ Confirmed authors:
 * [Thorsten Lüdtke](https://people.sap.com/biportal), co-author of "[SAP BW/4HANA 2.0: The Comprehensive Guide](https://www.sap-press.com/sap-bw4hana-20_4544/)"
 * Stefan Hartmann, co-author of "[Practical Guide to SAP HANA and Big Data Analytics](https://www.espresso-tutorials.de/produkt/practical-guide-to-sap-hana-and-big-data-analytics/)"
 
-## Ask-the-Expert
+## Ask-the-Expert: Data Science in practice
+
+We got recognized experts and active community members to to discuss and to answer your questions about real-life experience preparing, training, deploying and maintaining Machine Learning models.
 
 November 4th, 16:00 CET / 8am PST
 
