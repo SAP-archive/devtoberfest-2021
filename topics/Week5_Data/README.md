@@ -2,6 +2,8 @@
 
 This topic content is for Devtoberfest Week 5: November 1 → 5, 2021.
 
+Times were never more exciting for developers working with data. Data analysts, data scientists and data engineers all have important role in building Enterprise Data Landscape of today and tomorrow using SAP technologies.
+
 ## Presentations
 
 ### Alan Simon "The Modern Enterprise Data Landscape"
@@ -11,9 +13,11 @@ Enterprise-scale data management has long been a highly complex and often frustr
 
 40-year technology veteran Alan Simon untangles and demystifies the enterprise data management landscape, helping you leap beyond jargon and the latest hot trends through a grounded-in-reality approach to address your longstanding challenges. Whether you are a newcomer to enterprise data or a longtime practitioner, this presentation will help expand your personal data management solutions portfolio and navigate the ever-changing enterprise data landscape.
 
-![Alan Simon](../../images/AlanSimon_250px_shade.png)
-
-**Alan Simon** is the Managing Principal of Thinking Helmet, Inc. and a long-time enterprise data management consultant. He is the author of 32 technology, business, and career-oriented books dating back to 1985, including the original edition of Data Warehousing For Dummies and the just-released Data Lakes For Dummies. He previously led global and national consulting practices with several firms, and also teaches university courses in his specialty areas. He lives in the Phoenix, Arizona area and is a native of Pittsburgh, Pennsylvania.
+<table border=0px>
+    <tr>
+        <td width = 270>
+<img src="../../images/AlanSimon_250px_shade.png">
+</td>  <td><b>Alan Simon</b> is the Managing Principal of Thinking Helmet, Inc. and a long-time enterprise data management consultant. He is the author of 32 technology, business, and career-oriented books dating back to 1985, including the original edition of Data Warehousing For Dummies and the just-released Data Lakes For Dummies. He previously led global and national consulting practices with several firms, and also teaches university courses in his specialty areas. He lives in the Phoenix, Arizona area and is a native of Pittsburgh, Pennsylvania.</td>  </tr></table>
 
 ### Manuel Zeise, Stefan Klaus Baur "Demystifying Data Science in the Enterprise"
 November 2nd, 10:00 CET / 5pm SGT (tbc)
@@ -40,9 +44,13 @@ November 4th, 10:00 CET / 5pm SGT
 
 Data Visualization is the new old topic. Surprisingly its history is not that long even if spreadsheets made data exploration ubiquitous. But as Data is moving into 3xV directions (Volume, Velocity and Variety) so is modern Visualization of it. After going through a bit of a theory we will move into practical aspects of Data Storytelling and Exploratory Data Analysis.
 
-![Vitaliy](../../images/VitaliyRudnytskiy_250px_shade.png)
-
-As an SAP Developer Advocate **Vitaliy** focuses on all ways developers are collecting data and turning it into value using the SAP Business Technology Platform. His main interests are in big data and fast data technologies, IoT, analytics, and data visualization. Before joining SAP, he worked as a technology consultant in Europe and in the U.S. Vitaliy is a visiting lecturer at WSB University in Wrocław.
+<table border=0px>
+    <tr>
+        <td width = 270>
+<img src="../../images/VitaliyRudnytskiy_250px_shade.png">
+</td>
+        <td>
+As an SAP Developer Advocate <strong><a href="https://people.sap.com/vitaliy.rudnytskiy">Vitaliy Rudnytskiy</a></strong> focuses on all ways developers are collecting data and turning it into value using the SAP Business Technology Platform. His main interests are in big data and fast data technologies, IoT, analytics, and data visualization. Before joining SAP, he worked as a technology consultant in Europe and in the U.S. Vitaliy is a visiting lecturer at WSB University in Wrocław.</td>  </tr></table>
 
 
 ## Meet-the-Author
@@ -58,7 +66,9 @@ Confirmed authors:
 * [Thorsten Lüdtke](https://people.sap.com/biportal), co-author of "[SAP BW/4HANA 2.0: The Comprehensive Guide](https://www.sap-press.com/sap-bw4hana-20_4544/)"
 * Stefan Hartmann, co-author of "[Practical Guide to SAP HANA and Big Data Analytics](https://www.espresso-tutorials.de/produkt/practical-guide-to-sap-hana-and-big-data-analytics/)"
 
-## Ask-the-Expert
+## Ask-the-Expert: Data Science in practice
+
+We got recognized experts and active community members to to discuss and to answer your questions about real-life experience preparing, training, deploying and maintaining Machine Learning models.
 
 November 4th, 16:00 CET / 8am PST
 
@@ -73,4 +83,6 @@ Please, stay tuned for details.
 
 ## Fun Friday Activity
 
-Coding for Kids
+Let's talk **Coding for Kids**!
+
+Please, stay tuned for details.

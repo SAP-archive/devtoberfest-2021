@@ -1,6 +1,6 @@
 ## Weekly Topics
 
-Each week of Devtoberfest will have a focus topic.  All the tech talks, external experts, featured tutorials, and coding challenges within a certain week will related to the focus topic. 
+Each week of Devtoberfest will have a focus topic.  All the tech talks, external experts, featured tutorials, and coding challenges within a certain week will related to the focus topic.
 
 <!-- [Current Week's Content](#Build-Week) -->
 
@@ -39,18 +39,18 @@ Find more information about this session on the [topic page](Week1_Welcome/READM
 
 Topic Owner: [DJ Adams](https://github.com/qmacro)
 
-When discovering and learning about any new technical topic, whether an SAP specific one, or a more general computing topic, there is always so much to read, so much to delve into. As well as trying to work out what's relevant, what will get you started, it's also useful to know what's considered good practice, and (implicitly) what patterns and approaches to avoid. 
-  
+When discovering and learning about any new technical topic, whether an SAP specific one, or a more general computing topic, there is always so much to read, so much to delve into. As well as trying to work out what's relevant, what will get you started, it's also useful to know what's considered good practice, and (implicitly) what patterns and approaches to avoid.
+
 In this Devtoberfest week we have the chance to think about best practices in three main areas:
-  
+
 * ABAP
 * the SAP Cloud Application Programming Model (CAP)
 * Continuous Integration and Continuous Delivery (CI/CD)
-  
-We have speakers from whom we can learn, speakers who are experts in these areas and indeed are product owners or developers. 
+
+We have speakers from whom we can learn, speakers who are experts in these areas and indeed are product owners or developers.
 
 We also have a special guest who will give us some important and inspiring insights into best practices when it comes to cloud and the cloud-native destination towards which we're all traveling in our own ways.
-  
+
 Find more information about this session on the [topic page](Week2_Best_Practices/README.md).
 </td>
 </tr>
@@ -87,9 +87,9 @@ Find more information about this session on the [topic page](Week3_Cloud_Native/
 
 Topic Owner: [Thomas Jung](https://github.com/jung-thomas)
 
-Security, as a topic, has an interesting place for most developers.  While it's universally agreed to be an important topic; too often in the development process it becomes an afterthough or something left to "the security team". 
+Security, as a topic, has an interesting place for most developers.  While it's universally agreed to be an important topic; too often in the development process it becomes an afterthough or something left to "the security team".
 
-In this topic week we want to look some general security topics that impacts all types of developers. We will look at how to protect your applications from hackers, how to deal with the Cloud Native security implications and how to write more secure code. 
+In this topic week we want to look some general security topics that impacts all types of developers. We will look at how to protect your applications from hackers, how to deal with the Cloud Native security implications and how to write more secure code.
 
 For the tutorial and code challenge content of this week there will be a special focus on security within ABAP and the Node.js/JavaScript areas.
 
@@ -110,7 +110,9 @@ Find more information about this session on the [topic page](Week4_Security/READ
 
 Topic Owner: [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
 
-to-do: description
+Times were never more exciting for developers working with data. Data analysts, data scientists and data engineers all have important role in building the Enterprise Data Landscape of today and for tomorrow using SAP technologies.
+
+During this week you will have a chance to hear, discuss and compare different points of view based on the wealth of experience of our presenters from and outside of the SAP ecosystem.
 
 Find more information about this session on the [topic page](Week5_Data/README.md).
 </td>
@@ -131,7 +133,7 @@ Topic Owner: [Marius Obert](https://github.com/IObert)
 
 The frontend is the only project component that your business users will ever interact with directly. Consequentially, its implementation will shape the first impression of your project - So make it count!
 
-In this topic week, we look at some general trends topics that impact your web-based frontend. Each session will focus on upcoming industry trends and relate SAP's frameworks and services to its developer ecosystem. As this topic area to so incredibly wide, we'll concentrate on web-based frontends. 
+In this topic week, we look at some general trends topics that impact your web-based frontend. Each session will focus on upcoming industry trends and relate SAP's frameworks and services to its developer ecosystem. As this topic area to so incredibly wide, we'll concentrate on web-based frontends.
 
 Find more information about this session on the [topic page](Week6_Frontend/README.md).
 </td>
