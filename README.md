@@ -10,6 +10,8 @@
 
 Devtoberfest is a 6-week event, leading up to SAP TechEd. This event is to be seen as a celebration of and for Developers. Every developer is welcome to join 6 weeks of tech talks, guest speakers, community contribution through a gamified learning journey with prizes, and celebratory events.
 
+**Registration:** Coming Very Soon!
+
 ## Key Dates
 
 | Date | Description | 
@@ -28,7 +30,9 @@ Devtoberfest is a 6-week event, leading up to SAP TechEd. This event is to be se
 
 ## Contest (The Game)
 
-A game that is open to all developers.  Points can be accrued by completing items listed on the game page readme.  Points are awarded for things such as attending a presentation or completing tutorials on SAP Community. Prizes are awarded based on badges earned and associated points accumulated.  Prize and Points are described on the game page readme as well as the rules relating to how many winners will make it to the Grand Prize Winner drawing.
+A game that is open to all developers.  Points can be accrued by completing items listed on [the game page readme](contest/readme.md).  Points are awarded for things such as attending a presentation or completing tutorials on SAP Community. Prizes are awarded based on badges earned and associated points accumulated.  Prize and Points are described on [the game page readme](contest/readme.md) as well as the rules relating to how many winners will make it to the Grand Prize Winner drawing.
+
+For full details on the contest aspects pleas see the [Game Page Readme](contest/readme.md) and of course for all the rules see [Terms and Conditions](TOC.md).
 
 
 ## How to obtain support
