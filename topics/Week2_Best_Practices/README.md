@@ -8,7 +8,7 @@ This topic content is for Devtoberfest Week 2 : 11 October → 15 October 2021.
 
 ### Best Practices for CAP Node.js Apps
 
-Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js. 
+Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js.
 
 **Speaker: David Kunz, Developer**
 
@@ -22,13 +22,13 @@ David Kunz is a core development specialist for the Node.js runtime of the SAP C
 
 ### ABAP Best Practices
 
-Hear directly from one of the pre-eminent developers in the RESTful ABAP Programming (RAP) space, about best practices in the language that powers the core of SAP S/4HANA and many other platforms. 
+Hear directly from one of the pre-eminent developers in the RESTful ABAP Programming (RAP) space, about best practices in the language that powers the core of SAP S/4HANA and many other platforms.
 
 **Speaker: Andre Fischer, Product Manager**
 
 ![Andre Fischer](../../images/250/AndreFischer.png)
 
-* SAP Community: https://people.sap.com/andre.fischer 
+* SAP Community: https://people.sap.com/andre.fischer
 * Twitter: https://twitter.com/anfisc
 * GitHub: https://github.com/anfisc
 
@@ -54,7 +54,7 @@ Completion of any of the following tutorials during Devtoberfest will earn you p
 
 ### Group: Use SAP HANA Cloud and CAP to Build a Full-Stack Application
 
-Extend a basic SAP Cloud Application Programming Model (CAP) project to include service enablement, an SAP Fiori user interface, and real authentication and authorizations via an Application Router and XSUAA instance. 
+Extend a basic SAP Cloud Application Programming Model (CAP) project to include service enablement, an SAP Fiori user interface, and real authentication and authorizations via an Application Router and XSUAA instance.
 
 * [Create a User Interface with CAP (SAP HANA Cloud)](https://developers.sap.com/tutorials/hana-cloud-cap-create-ui.html)
 * [Add User Authentication to Your Application (SAP HANA Cloud)](https://developers.sap.com/tutorials/hana-cloud-cap-add-authentication.html)
@@ -125,11 +125,12 @@ Topic: ABAP ([Group link](https://developers.sap.com/group.abap-env-expose-cds-t
 
 ## Special Friday Activity
 
-On the Friday of this Best Practices week, we have special guest James Governor who will be speaking to us about best practices in the cloud native space. He has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices. 
+On the Friday of this Best Practices week, we have special guest James Governor who will be speaking to us about best practices in the cloud native space. He has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices.
 
-**Speaker**
+**Speaker: James Governor, Analyst & Co-founder, Redmonk**
 
-James Governor, Analyst & Co-founder Redmonk <br>
-_Founded RedMonk in 2002 with Stephen O’Grady. We focus on developers as the real key influencers in tech. Understanding that people choose technology because of gut instincts not facts per se. An ex-journalist, I have managed teams and news agendas in weekly publication grind. IBM and MS watcher since 1995. Goals–build RedMonk. Specialities: Developers, developers, developers._
+![James Governor](../../images/250/JamesGovernor.jpg)
+
+Founded RedMonk in 2002 with Stephen O’Grady. We focus on developers as the real key influencers in tech. Understanding that people choose technology because of gut instincts not facts per se. An ex-journalist, I have managed teams and news agendas in weekly publication grind. IBM and MS watcher since 1995. Goals–build RedMonk. Specialities: Developers, developers, developers.
 
 * Online: https://redmonk.com/team/james-governor/
