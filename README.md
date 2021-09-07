@@ -35,6 +35,9 @@ A game that is open to all developers.  Points can be accrued by completing item
 
 For full details on the contest aspects pleas see the [Game Page Readme](contest/readme.md) and of course for all the rules see [Terms and Conditions](TOC.md).
 
+But the fun doesn’t end there.  We have an animated Contest Gameboard to help you track your progress through the contest.  Just add your SAP Community Profile ID to the end of the following URL: [https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/scnId.Here](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/scnId.Here).
+
+And if you are curious how we built the animated gameboard, we have also released the whole thing as a Sample Code repository here: [https://github.com/SAP-samples/sap-community-activity-badges](https://github.com/SAP-samples/sap-community-activity-badges)
 
 ## How to obtain support
 
