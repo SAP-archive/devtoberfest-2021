@@ -61,7 +61,7 @@ Hear directly from one of the team members of the CI/CD service on SAP Business 
 </p>
 <ul>
 <li>SAP Community: <a href="https://people.sap.com/christoph.szymanski">https://people.sap.com/christoph.szymanski</a></li>
-<li>LinkedIn: <a href="www.linkedin.com/in/christoph-szymanski-9b0484103">www.linkedin.com/in/christoph-szymanski-9b0484103</a></li>
+<li>LinkedIn: <a href="www.linkedin.com/in/christoph-szymanski-9b0484103">https://www.linkedin.com/in/christoph-szymanski-9b0484103</a></li>
 <li>Twitter: <a href="https://twitter.com/ski_at_work">https://twitter.com/ski_at_work</a></li>
 </ul>
 </td>
