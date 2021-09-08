@@ -12,11 +12,11 @@ Date / time TBA
 
 Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js.
 
-<table border="0px">
+<table border="0px" width="100%">
 <tr>
 <td width="270"><img src="../../images/250/DavidKunz.jpg"> </td>
 <td><p><b>David Kunz</b> is a core development specialist for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development.
-</p><p>
+</p>
 <ul>
 <li>SAP Community: <a href="https://people.sap.com/david.kunz2">https://people.sap.com/david.kunz2</a></li>
 <li>GitHub: <a href="https://github.com/David-Kunz">https://github.com/David-Kunz</a></li>
@@ -30,27 +30,38 @@ Hear directly from one of the CAP team members about best practices as they appl
 
 Hear directly from one of the pre-eminent developers in the RESTful ABAP Programming (RAP) space, about best practices in the language that powers the core of SAP S/4HANA and many other platforms.
 
-**Speaker: Andre Fischer, Product Manager**
-
-![Andre Fischer](../../images/250/AndreFischer.png)
-
-* SAP Community: https://people.sap.com/andre.fischer
-* Twitter: https://twitter.com/anfisc
-* GitHub: https://github.com/anfisc
+<table border="0px" width="100%">
+<tr>
+<td width="270"><img src="../../images/250/AndreFischer.png"> </td>
+<td><p><b>Andre Fischer</b> is a Product Expert on the ABAP platform.
+</p>
+<ul>
+<li>SAP Community: <a href="https://people.sap.com/andre.fischer">https://people.sap.com/andre.fischer</a></li>
+<li>GitHub: <a href="https://github.com/David-Kunz">https://github.com/anfisc</a></li>
+<li>Twitter: <a href="https://twitter.com/anfisc">https://twitter.com/anfisc</a></li>
+</ul>
+</td>
+</tr>
+</table>
 
 ### Continuous Integration and Delivery with SAP
 
 Hear directly from one of the team members of the CI/CD service on SAP Business Technology Platform, and learn about best practices in this area.
 
-**Speaker: Christoph Szymanski, Product Owner**
 
-![Christoph Szymanski](../../images/250/ChristophSzymanski.jpg)
-
-Christoph has been with SAP for more than 10 years - working on various CI/CD topics for SAP teams: infrastructure, tooling, processes. Recently, he's been trying to make our internal experience available to customers, via tools and products, talks and best practices.
-
-* SAP Community: https://people.sap.com/christoph.szymanski
-* Twitter: https://twitter.com/ski_at_work
-* LinkedIn: www.linkedin.com/in/christoph-szymanski-9b0484103
+<table border="0px" width="100%">
+<tr>
+<td width="270"><img src="../../images/250/ChristophSzymanski.jpg"> </td>
+<td><p><b>Christoph Szymanski</b> is a Product Owner in the CI/CD space. He has been with SAP for more than 10 years - working on various CI/CD topics for SAP teams: infrastructure, tooling, processes. Recently, he's been trying to make our internal experience available to customers, via tools and products, talks and best practices.
+</p>
+<ul>
+<li>SAP Community: <a href="https://people.sap.com/christoph.szymanski">https://people.sap.com/christoph.szymanski</a></li>
+<li>LinkedIn: <a href="www.linkedin.com/in/christoph-szymanski-9b0484103">www.linkedin.com/in/christoph-szymanski-9b0484103</a></li>
+<li>Twitter: <a href="https://twitter.com/ski_at_work">https://twitter.com/ski_at_work</a></li>
+</ul>
+</td>
+</tr>
+</table>
 
 ## Special Friday Activity
 
