@@ -35,7 +35,9 @@ Hear directly from one of the pre-eminent developers in the RESTful ABAP Program
 <table border="0px" width="100%">
 <tr>
 <td width="270"><img src="../../images/250/AndreFischer.png"> </td>
-<td><p><b>Andre Fischer</b> is a Product Manager for the SAP Business Technology ABAP Environment and SAP Gateway. He has been working on the topic of OData Service development since the launch of the SAP Gateway in 2011. You will find him as a speaker at various events such as SAP TechEd, SAP CodeJam, SAP Inside Track and SAP Online Track. He has written lots of blog posts about ABAP and OData service development and he is also supporting the SAP Community by answering questions in those areas. He is co-author of the SAP PRESS book "SAP Gateway and OData". In May he became SAP Champion after being active in the SAP Community as an SAP Mentor and SAP Technology Ambassador.
+<td><p><b>Andre Fischer</b> is a Product Manager for the SAP Business Technology ABAP Environment and SAP Gateway. He has been working on the topic of OData Service development since the launch of the SAP Gateway in 2011. You will find him as a speaker at various events such as SAP TechEd, SAP CodeJam, SAP Inside Track and SAP Online Track. 
+  
+He has written lots of blog posts about ABAP and OData service development and he is also supporting the SAP Community by answering questions in those areas. He is co-author of the SAP PRESS book "SAP Gateway and OData". In May he became SAP Champion after being active in the SAP Community as an SAP Mentor and SAP Technology Ambassador.
 </p>
 <ul>
 <li>SAP Community: <a href="https://people.sap.com/andre.fischer">https://people.sap.com/andre.fischer</a></li>
@@ -68,12 +70,15 @@ Hear directly from one of the team members of the CI/CD service on SAP Business 
 
 ## Special Friday Activity
 
-On the Friday of this Best Practices week, we have special guest James Governor who will be speaking to us about best practices in the cloud native space. He has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices.
+On the Friday of this Best Practices week, we have special guest <b>James Governor</b>, analyst and co-founder of Redmonk. James will be speaking to us about best practices in the cloud native space. He has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices.
 
-**Speaker: James Governor, Analyst & Co-founder, Redmonk**
-
-![James Governor](../../images/250/JamesGovernor.jpg)
-
-Founded RedMonk in 2002 with Stephen O’Grady. We focus on developers as the real key influencers in tech. Understanding that people choose technology because of gut instincts not facts per se. An ex-journalist, I have managed teams and news agendas in weekly publication grind. IBM and MS watcher since 1995. Goals–build RedMonk. Specialities: Developers, developers, developers.
-
-* Online: https://redmonk.com/team/james-governor/
+<table border="0px" width="100%">
+<tr>
+<td width="270"><img src="../../images/250/JamesGovernor.jpg"> </td>
+<td><p>Here's James, in his own words:</p><p>Founded RedMonk in 2002 with Stephen O’Grady. We focus on developers as the real key influencers in tech. Understanding that people choose technology because of gut instincts not facts per se. An ex-journalist, I have managed teams and news agendas in weekly publication grind. IBM and MS watcher since 1995. Goals–build RedMonk. Specialities: Developers, developers, developers.</p>
+<ul>
+<li>Online: <a href="https://redmonk.com/team/james-governor/">https://redmonk.com/team/james-governor/</a></li>
+</ul>
+</td>
+</tr>
+</table>
