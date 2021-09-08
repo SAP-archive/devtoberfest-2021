@@ -28,12 +28,14 @@ Hear directly from one of the CAP team members about best practices as they appl
 
 ### ABAP Best Practices
 
+Date / time TBA
+
 Hear directly from one of the pre-eminent developers in the RESTful ABAP Programming (RAP) space, about best practices in the language that powers the core of SAP S/4HANA and many other platforms.
 
 <table border="0px" width="100%">
 <tr>
 <td width="270"><img src="../../images/250/AndreFischer.png"> </td>
-<td><p><b>Andre Fischer</b> is a Product Expert on the ABAP platform.
+<td><p><b>Andre Fischer</b> is a Product Manager for the SAP Business Technology ABAP Environment and SAP Gateway. He has been working on the topic of OData Service development since the launch of the SAP Gateway in 2011. You will find him as a speaker at various events such as SAP TechEd, SAP CodeJam, SAP Inside Track and SAP Online Track. He has written lots of blog posts about ABAP and OData service development and he is also supporting the SAP Community by answering questions in those areas. He is co-author of the SAP PRESS book "SAP Gateway and OData". In May he became SAP Champion after being active in the SAP Community as an SAP Mentor and SAP Technology Ambassador.
 </p>
 <ul>
 <li>SAP Community: <a href="https://people.sap.com/andre.fischer">https://people.sap.com/andre.fischer</a></li>
@@ -46,8 +48,9 @@ Hear directly from one of the pre-eminent developers in the RESTful ABAP Program
 
 ### Continuous Integration and Delivery with SAP
 
-Hear directly from one of the team members of the CI/CD service on SAP Business Technology Platform, and learn about best practices in this area.
+Date / time TBA
 
+Hear directly from one of the team members of the CI/CD service on SAP Business Technology Platform, and learn about best practices in this area.
 
 <table border="0px" width="100%">
 <tr>
