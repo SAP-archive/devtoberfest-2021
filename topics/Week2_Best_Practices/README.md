@@ -14,7 +14,7 @@ Hear directly from one of the CAP team members about best practices as they appl
 
 <table border="0px" width="100%">
 <tr>
-<td width="30%"><img src="../../images/250/DavidKunz.jpg"> </td>
+<td width="270"><img src="../../images/250/DavidKunz.jpg"> </td>
 <td><p><b>David Kunz</b> is a core development specialist for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development.
 </p>
 <ul>
@@ -34,7 +34,7 @@ Hear directly from one of the pre-eminent developers in the RESTful ABAP Program
 
 <table border="0px" width="100%">
 <tr>
-<td width="30%"><img src="../../images/250/AndreFischer.png"> </td>
+<td width="270"><img src="../../images/250/AndreFischer.png"> </td>
 <td><p><b>Andre Fischer</b> is a Product Manager for the SAP Business Technology ABAP Environment and SAP Gateway. He has been working on the topic of OData Service development since the launch of the SAP Gateway in 2011. You will find him as a speaker at various events such as SAP TechEd, SAP CodeJam, SAP Inside Track and SAP Online Track. 
   
 He has written lots of blog posts about ABAP and OData service development and he is also supporting the SAP Community by answering questions in those areas. He is co-author of the SAP PRESS book "SAP Gateway and OData". In May he became SAP Champion after being active in the SAP Community as an SAP Mentor and SAP Technology Ambassador.
@@ -56,7 +56,7 @@ Hear directly from one of the team members of the CI/CD service on SAP Business 
 
 <table border="0px" width="100%">
 <tr>
-<td width="30%"><img src="../../images/250/ChristophSzymanski.jpg"> </td>
+<td width="270"><img src="../../images/250/ChristophSzymanski.jpg"> </td>
 <td><p><b>Christoph Szymanski</b> is a Product Owner in the CI/CD space. He has been with SAP for more than 10 years - working on various CI/CD topics for SAP teams: infrastructure, tooling, processes. Recently, he's been trying to make our internal experience available to customers, via tools and products, talks and best practices.
 </p>
 <ul>
@@ -74,7 +74,7 @@ On the Friday of this Best Practices week, we have special guest <b>James Govern
 
 <table border="0px" width="100%">
 <tr>
-<td width="30%"><img src="../../images/250/JamesGovernor.jpg"> </td>
+<td width="270"><img src="../../images/250/JamesGovernor.jpg"> </td>
 <td><p>Here's James, in his own words:</p><p>Founded RedMonk in 2002 with Stephen O’Grady. We focus on developers as the real key influencers in tech. Understanding that people choose technology because of gut instincts not facts per se. An ex-journalist, I have managed teams and news agendas in weekly publication grind. IBM and MS watcher since 1995. Goals–build RedMonk. Specialities: Developers, developers, developers.</p>
 <ul>
 <li>Online: <a href="https://redmonk.com/team/james-governor/">https://redmonk.com/team/james-governor/</a></li>
