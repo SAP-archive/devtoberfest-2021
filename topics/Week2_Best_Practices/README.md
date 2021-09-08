@@ -2,23 +2,29 @@
 
 This topic content is for Devtoberfest Week 2 : 11 October → 15 October 2021.
 
+Learn how you can level up in the technical areas that you work in every day.
 
-
-## Sessions
+## Presentations
 
 ### Best Practices for CAP Node.js Apps
 
+Date / time TBA
+
 Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js.
 
-**Speaker: David Kunz, Developer**
-
-![David Kunz](../../images/250/DavidKunz.jpg)
-
-David Kunz is a core development specialist for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development.
-
-* SAP Community: https://people.sap.com/david.kunz2
-* GitHub: https://github.com/David-Kunz
-* YouTube: https://www.youtube.com/channel/UCFU7a7OMYfcpjtIpu2j47_Q
+<table border="0px">
+<tr>
+<td width="270"><img src="../../images/250/DavidKunz.jpg"> </td>
+<td><p><b>David Kunz</b> is a core development specialist for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development.
+</p><p>
+<ul>
+<li>SAP Community: <a href="https://people.sap.com/david.kunz2">https://people.sap.com/david.kunz2</a></li>
+<li>GitHub: <a href="https://github.com/David-Kunz">https://github.com/David-Kunz</a></li>
+<li>YouTube: <a href="https://www.youtube.com/channel/UCFU7a7OMYfcpjtIpu2j47_Q">https://www.youtube.com/channel/UCFU7a7OMYfcpjtIpu2j47_Q</a></li>
+</ul>
+</td>
+</tr>
+</table>
 
 ### ABAP Best Practices
 
