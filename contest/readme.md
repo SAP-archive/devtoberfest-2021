@@ -11,7 +11,7 @@ This table includes a description some events that you can earn a badge with poi
 | Activity	| Points Awarded |
 |---|---|
 | Register	| 10 |
-|Contribution Accepted to Codocs |	500 |
+|Contribution Accepted to [Codocs](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/) |	500 |
 |Scavenger Hunt of 20 Tutorials |	Up to 10600 |
 |Tutorials in each content week	| 200 |
 |Attend Live Youtube Speaker Session and complete validation | 300 |
