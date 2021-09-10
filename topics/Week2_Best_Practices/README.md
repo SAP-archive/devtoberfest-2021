@@ -74,6 +74,8 @@ Friday 15 October 0930 BST (London) 1030 CEST (Berlin) 1400 IST (Bengaluru) 1830
 
 On the Friday of this Best Practices week, we have special guest <b>James Governor</b>, analyst and co-founder of Redmonk. James will be chatting live with [Developer Advocate](https://developers.sap.com/developer-advocates.html) [DJ Adams](https://github.com/qmacro) about best practices in the cloud native space. James has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices.
 
+[Join us live on YouTube](https://youtu.be/3Av2ve0nxCM), and get involved in the conversation!
+
 <table border="0px" width="100%">
 <tr>
 <td width="270"><img src="../../images/250/JamesGovernor.jpg"> </td>
