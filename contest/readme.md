@@ -5,13 +5,13 @@ For Devtoberfest 2021 we will have a game that is open to everyone regardless of
 The Game Board is a static infographic that you can use to see your status.  Once registered for Devotberfest 2021 you will earn the first badge, Decvtoberfest 2021 on your SAP Community ID. But that badge has 4 stars across the top and they are not empty and not colored in gold until you complete enough events to change their status to “filled”.  
 
 ## Points – Awarded and accumulated against your SAP Community ID.
-This table includes a description some events that you can earn a badge with points associated.  Once that badge is applied to your SAP Community ID you will be able to see your points status change on the Devtoberfest Gameboard.  More eents will be published in future weeks of Devtoberfest, including a list after week 3 of a special group of 20 tutorials (Scavenger Hunt) as a Devtoberfest Mission with bonus points awarded if all 20 tutorials completed.
+This table includes a description some events that you can earn a badge with points associated.  Once that badge is applied to your SAP Community ID you will be able to see your points status change on the Devtoberfest Gameboard.  More events will be published in future weeks of Devtoberfest, including a list after week 3 of a special group of 20 tutorials (Scavenger Hunt) as a Devtoberfest Mission with bonus points awarded if all 20 tutorials completed.
 
 
 | Activity	| Points Awarded |
 |---|---|
 | Register	| 10 |
-|Contribution Accepted to Codocs |	500 |
+|Contribution Accepted to [Codocs](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/) |	500 |
 |Scavenger Hunt of 20 Tutorials |	Up to 10600 |
 |Tutorials in each content week	| 200 |
 |Attend Live Youtube Speaker Session and complete validation | 300 |
@@ -47,6 +47,5 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 |Register with eventbrite |	10 |
 |Contribute line of code to codocs |	500 |
 |Submit project to devtoberfest github	| 1000 |
-|Accepted code to another community member project |	150 |
 |Week 1 Speaker/Intro Points Event	| 50 |
 |Week 1 Fun Friday Event |	300 |
