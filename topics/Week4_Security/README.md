@@ -32,7 +32,7 @@ Cédric’s drives are sharing knowledge, learning new things every day and supp
 
 
 ### Thomas Jung "Security Aspects of SAP Cloud Application Programming Model"
-Date and Time: TBD
+Date and Time: Wednesday, October 27th at 17:00 CEST / 23:00 SGT / 11:00 EDT
 
 The SAP Cloud Application Programming Model comes out of the box with lots of best practice security baked into the framework.  However there are also things that each developer need to take responsiblity for when building applications with CAP. In this session we will look at techniques like adding XSUAA and roles, configuring Helmet for content security policies, and how to deal with CORS (Cross-Origin Resource Sharing)
 
