@@ -9,6 +9,8 @@ Date and Time: Tuesday, October 19th at 09:00 CEST / 15:00 SGT / 03:00 EDT
 
 Every company that claims to be a cloud company, claims to be developing Microservices. Yet it is one of the most misunderstood concepts in the software industry, and the misunderstandings already start with the name. If those misunderstandings can be sorted out, organizations see tremendous benefits to their structure and processes. Unfortunately, there’s a catch - there ain’t no such thing as a free lunch. In this talk we will explore the details.
 
+[Join us live on YouTube](https://www.youtube.com/watch?v=hS84pGcv2Gk), and get involved in the conversation!
+
 <table border=0px>
     <tr>
         <td width = 270>
