@@ -11,7 +11,7 @@ For the tutorial and code challenge content of this week there will be a speacia
 ## Presentations 
 
 ### Cédric Hebert "Hackers Want Passwords"
-Date and Time: TBD
+Date and Time: Monday, October 25th at 17:00 CEST / 23:00 SGT / 11:00 EDT
 
 75% of cloud intrusions are done through the usage of valid credentials. Can we do anything besides more stringent password rules? What about… poisoning the well?
   
