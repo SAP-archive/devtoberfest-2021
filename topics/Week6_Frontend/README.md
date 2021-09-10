@@ -10,7 +10,7 @@ For this week's tutorial and code challenge content, we preselected a set of tut
 
 ## Presentations
 
-### Micro Frontends with Luigi – UI Development at scale
+### Micro Frontends with Luigi – UI Development at Scale
 Schedule - TBD
 
 This session will give insights about a trending topic in frontend development - Micro Frontends. This architecture style addresses the challenge of having a frontend that is too big to manage and coordinate across multiple teams or products. You will learn about its key aspects, technical and organizational issues it induces, and how these can be handled, on the example of project "Luigi", SAP's own open-source Micro Frontend framework.
@@ -37,6 +37,19 @@ This session will showcase how easy it is today to integrate any OSS library suc
         <td><b>Damian Maring</b> is an Area Architect focusing on UI/UX topics in the Procurement Area. He's also a founding member of "Deploy with Confidence", working on tools for delivering cloud-native SaaS applications. Very early on in his development career, he found his passion in front-end technologies. After joining SAP in 2012, he looked into the newest UI-related technologies and spreading them throughout the company, including UI5, Vue.js, GraphQL, and many more. <br/> Together with his team, he has built tools to improve the developer experience and raise quality awareness for the whole solution.</td>
     </tr>
 </table>
+
+### How to Make State Management Work For You With Redux and Redux Toolkit 
+Schedule - TBD
+
+State management for the frontend. No more sinking props down layers of components and bubbling results back up. Access all your common data in one place with Redux! In this presentation, I will walk through what Redux is, why you would use it, how you would use it, and how you could simplify it with Redux Toolkit.
+
+<table >
+    <tr>
+        <td width=250><img src="../../images/MichelleMoudy_250px_shadow.png" alt="Michelle Moudy"><br/></td>
+        <td><b>Michelle Moudy</b>  TBD</td>
+    </tr>
+</table>
+
 
 ### And even more sessions are to come!
 
