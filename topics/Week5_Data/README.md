@@ -4,6 +4,8 @@ This topic content is for Devtoberfest Week 5: November 1 → 5, 2021.
 
 Times were never more exciting for developers working with data. Data analysts, data scientists and data engineers all have important role in building Enterprise Data Landscape of today and tomorrow using SAP technologies.
 
+Topic Owner: [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
+
 ## Presentations
 
 ### The Modern Enterprise Data Landscape
@@ -70,7 +72,7 @@ Confirmed authors:
 
 ## Ask-the-Expert: Data Science in practice
 
-We got recognized experts and active community members to join a panel discussing and answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models.
+We got recognized experts and active community members to join a panel discussing and answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models: using SAP HANA, SAP Analytics Cloud, SAP Data Intelligence, SAP AI Business Services and SAP AI Foundation.
 
 November 4th, 16:00 CET / 8am PST (tbc)
 
