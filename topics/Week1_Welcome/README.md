@@ -19,7 +19,7 @@ Thomas Grassl, Global Head Developer and Community Relations, will join the part
 
 So don't miss out. Join the session live and be a part of the opening festivities.
 
-[Join us live on YouTube](), and get involved in the conversation!
+[Join us live on YouTube](https://youtu.be/QECsPXQBP3E), and get involved in the conversation!
 
 <table >
     <tr>
