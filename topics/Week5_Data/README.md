@@ -62,6 +62,7 @@ November 3rd, 9:00 CET and 17:00 CET (tbc)
 
 ![Melanie](../../images/MelanieHolzapfel_250px_shade.png) ![Dharma](../../images/DharmaTejaAtluri_250px_shade.png) ![Thorsten](../../images/ThorstenLuedtke_250px_shade.png) ![Stefan](../../images/StefanHartmann_250px_shade.png)
 ![Heather](../../images/HeatherHill_250px_shade.png)
+![Konrad](../../images/KonradZaleski_250px_shade.png)
 
 Confirmed authors:
 * Melanie Holzapfel, co-author of "[Designing Dashboards with SAP Analytics Cloud](https://www.rheinwerk-verlag.de/designing-dashboards-with-sap-analytics-cloud/)"
@@ -69,6 +70,7 @@ Confirmed authors:
 * [Thorsten Lüdtke](https://people.sap.com/biportal), co-author of "[SAP BW/4HANA 2.0: The Comprehensive Guide](https://www.sap-press.com/sap-bw4hana-20_4544/)"
 * [Stefan Hartmann](https://people.sap.com/stefan.hartmann.dtt), co-author of "[Practical Guide to SAP HANA and Big Data Analytics](https://www.espresso-tutorials.de/produkt/practical-guide-to-sap-hana-and-big-data-analytics/)"
 * [Heather Hill](https://people.sap.com/heather89), co-author of "[SAP BusinessObjects Web Intelligence: The Comprehensive Guide](https://www.sap-press.com/sap-businessobjects-web-intelligence_4412/)"
+* [Konrad Załęski](https://people.sap.com/konrad), author of "[Data Modeling with SAP BW/4HANA 2.0: Implementing Agile Data Models Using Modern Modeling Concepts](https://www.apress.com/gp/book/9781484270882)"
 
 ## Ask-the-Expert: Data Science in practice
 
