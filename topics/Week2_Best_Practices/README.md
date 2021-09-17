@@ -26,11 +26,11 @@ Hear directly from one of the CAP team members about best practices as they appl
 </tr>
 </table>
 
-### ABAP Best Practices
+### Guidance for developing RAP applications in ABAP
 
 Date / time TBA
 
-Hear directly from one of the pre-eminent developers in the RESTful ABAP Programming (RAP) space, about best practices in the language that powers the core of SAP S/4HANA and many other platforms.
+Hear directly from one of the pre-eminent developers in the RESTful ABAP Programming (RAP) space, about recommended techniques and approaches in the language that powers the core of SAP S/4HANA and many other platforms.
 
 <table border="0px" width="100%">
 <tr>
