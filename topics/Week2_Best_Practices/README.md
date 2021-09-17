@@ -15,7 +15,7 @@ Hear directly from one of the CAP team members about best practices as they appl
 <table border="0px" width="100%">
 <tr>
 <td width="270"><img src="../../images/250/DavidKunz.jpg"> </td>
-<td><p><b>David Kunz</b> is a core development specialist for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development.
+<td><p><b>David Kunz</b> is a core developer for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development.
 </p>
 <ul>
 <li>SAP Community: <a href="https://people.sap.com/david.kunz2">https://people.sap.com/david.kunz2</a></li>
