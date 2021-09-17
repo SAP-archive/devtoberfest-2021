@@ -10,6 +10,8 @@ Learn how you can level up in the technical areas that you work in every day.
 
 **Monday 11 October 0800 BST (London) 0900 CEST (Berlin) 1230 IST (Bengaluru) 1800 AEDT (Sydney) [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211011T070000&p1=136&p2=37&p3=438&p4=240rl)**
 
+[Live presentation on YouTube](https://youtu.be/WTOOse-Flj8)
+
 Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js.
 
 <table border="0px" width="100%">
