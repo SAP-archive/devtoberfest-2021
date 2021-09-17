@@ -8,7 +8,7 @@ Learn how you can level up in the technical areas that you work in every day.
 
 ### Best Practices for CAP Node.js Apps
 
-Date / time TBA
+Monday 11 October 0800 BST (London) 0900 CEST (Berlin) 1330 IST (Bengaluru)
 
 Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js.
 
@@ -50,7 +50,7 @@ He has written lots of blog posts about ABAP and OData service development and h
 
 ### Continuous Integration and Delivery with SAP
 
-Date / time TBA
+Wednesday 13 October 0800 BST (London) 0900 CEST (Berlin) 1330 IST (Bengaluru)
 
 Hear directly from one of the team members of the CI/CD service on SAP Business Technology Platform, and learn about best practices in this area.
 
