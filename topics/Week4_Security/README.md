@@ -11,13 +11,15 @@ For the tutorial and code challenge content of this week there will be a speacia
 ## Presentations 
 
 ### Cédric Hebert "Hackers Want Passwords"
-Date and Time: TBD
+Date and Time: Monday, October 25th at 17:00 CEST / 23:00 SGT / 11:00 EDT
 
 75% of cloud intrusions are done through the usage of valid credentials. Can we do anything besides more stringent password rules? What about… poisoning the well?
   
 In this presentation we will show you via three demos how cloud applications could actively fight against leaked credentials, password spreading and even phishing, by adopting honey passwords.
 
 You don’t think this can work? I’d love to hear your reservations. Loving it? Then spread the word and help make the Internet a more secure place!
+
+[Join us live on YouTube](https://www.youtube.com/watch?v=zatXHKgPnec), and get involved in the conversation!
 
 <table border=0px>
     <tr>
@@ -32,9 +34,11 @@ Cédric’s drives are sharing knowledge, learning new things every day and supp
 
 
 ### Thomas Jung "Security Aspects of SAP Cloud Application Programming Model"
-Date and Time: TBD
+Date and Time: Wednesday, October 27th at 17:00 CEST / 23:00 SGT / 11:00 EDT
 
-The SAP Cloud Application Programming Model comes out of the box with lots of best practice security baked into the framework.  However there are also things that each developer need to take responsiblity for when building applications with CAP. In this session we will look at techniques like adding XSUAA and roles, configuring Helmet for content security policies, and how to deal with CORS (Cross-Origin Resource Sharing)
+The SAP Cloud Application Programming Model comes out of the box with lots of best practice security baked into the framework.  However there are also things that each developer need to take responsibility for when building applications with CAP. In this session we will look at techniques like adding XSUAA and roles, configuring Helmet for content security policies, and how to deal with CORS (Cross-Origin Resource Sharing)
+
+[Join us live on YouTube](https://www.youtube.com/watch?v=jQYMeN3jeOU), and get involved in the conversation!
 
 <table border=0px>
     <tr>

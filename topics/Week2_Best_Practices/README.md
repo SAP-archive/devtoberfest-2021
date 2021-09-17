@@ -15,7 +15,7 @@ Hear directly from one of the CAP team members about best practices as they appl
 <table border="0px" width="100%">
 <tr>
 <td width="270"><img src="../../images/250/DavidKunz.jpg"> </td>
-<td><p><b>David Kunz</b> is a core development specialist for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development.
+<td><p><b>David Kunz</b> is a core developer for the Node.js runtime of the SAP Cloud Application Programming Model. After finishing his PhD in theoretical particle physics, David followed his vocation for programming. He is always striving to gain comprehensive knowledge of emerging technologies and advocates for superior paradigms and tools for efficient development.
 </p>
 <ul>
 <li>SAP Community: <a href="https://people.sap.com/david.kunz2">https://people.sap.com/david.kunz2</a></li>
@@ -26,11 +26,11 @@ Hear directly from one of the CAP team members about best practices as they appl
 </tr>
 </table>
 
-### ABAP Best Practices
+### Guidance for developing RAP applications in ABAP
 
-Date / time TBA
+Tuesday 12 October 0800 BST (London) 0900 CEST (Berlin) 1330 IST (Bengaluru)
 
-Hear directly from one of the pre-eminent developers in the RESTful ABAP Programming (RAP) space, about best practices in the language that powers the core of SAP S/4HANA and many other platforms.
+Hear directly from one of the pre-eminent developers in the ABAP RESTful Application Programming Model (RAP) space, about recommended techniques and approaches in the language that powers the core of SAP S/4HANA and many other platforms.
 
 <table border="0px" width="100%">
 <tr>
@@ -70,9 +70,11 @@ Hear directly from one of the team members of the CI/CD service on SAP Business 
 
 ## Special Friday Activity
 
-Friday 15 October 0930 BST (London) 1030 CEST (Berlin) 1400 IST (Bengaluru) 1830 AEST (Sydney) - Live Chat on YouTube (link coming soon)
+Friday 15 October 0930 BST (London) 1030 CEST (Berlin) 1400 IST (Bengaluru) 1830 AEST (Sydney) - [Live Chat on YouTube](https://youtu.be/3Av2ve0nxCM)
 
-On the Friday of this Best Practices week, we have special guest <b>James Governor</b>, analyst and co-founder of Redmonk. James will be chatting live with [Developer Advocate](https://developers.sap.com/developer-advocates.html) [DJ Adams](https://github.com/qmacro) about best practices in the cloud native space. James has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices.
+On the Friday of this Best Practices week, we have special guest <b>James Governor</b>, analyst and co-founder of RedMonk. James will be chatting live with [Developer Advocate](https://developers.sap.com/developer-advocates.html) [DJ Adams](https://github.com/qmacro) about best practices in the cloud native space. James has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices.
+
+[Join us live on YouTube](https://youtu.be/3Av2ve0nxCM), and get involved in the conversation!
 
 <table border="0px" width="100%">
 <tr>
