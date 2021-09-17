@@ -51,6 +51,26 @@ State management for the frontend. No more sinking props down layers of componen
 </table>
 
 
+
+### Web Components: The reusable building blocks of web 
+Schedule - TBD
+
+If you are looking for a way of implementing reusable components with Vanilla JavaScript and no framework-specific dependencies, then this session might be just for you. In this talk, we will take a deep dive into the Web Components standards:
+- Custom Elements
+- Shadow DOM
+- HTML Templates
+- ES Modules
+
+We will put our new knowledge into practice by implementing our first Web Component. Moreover, we will take a glance at the usage of Web Components within the SAP ecosystem.
+
+<table >
+    <tr>
+        <td width=250><img src="../../images/FilipSiderov_250px_shadow.png" alt="Filip Siderov"><br/></td>
+        <td><b>Filip Siderov</b> is an Information System graduate, open-source & hackathon enthusiast, JavaScript lover & a senior JavaScript developer at SAP. He has dedicated his last three years working on UI5 Web Components.</td>
+    </tr>
+</table>
+
+
 ### And even more sessions are to come!
 
 ## Coding Challenges
