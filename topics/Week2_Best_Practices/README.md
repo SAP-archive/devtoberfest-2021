@@ -56,6 +56,8 @@ He has written lots of blog posts about ABAP and OData service development and h
 
 **Wednesday 13 October 0800 BST (London) 0900 CEST (Berlin) 1230 IST (Bengaluru) 1800 AEDT Sydney [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211012T070000&p1=136&p2=37&p3=438&p4=240rl)**
 
+[Live presentation on YouTube](https://youtu.be/BEZEdN9IMks)
+
 Hear directly from one of the team members of the CI/CD service on SAP Business Technology Platform, and learn about best practices in this area.
 
 <table border="0px" width="100%">
