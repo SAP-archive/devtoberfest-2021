@@ -13,11 +13,11 @@ But not only is this an informational week but also your start into an amazing a
 ### Juergen Mueller and Thomas Grassl "Devtoberfest Launch Party"
 Date and Time: Wednesday, October 6th at 18:10 CEST / 21:40 IST / 12:10 EDT
 
-Join us live to be part of the Devtoberfest 2021 Launch Party. Juergen Mueller, SAP Executive Board Member and CTO, will kick off the event and welcome everyone to another year of Devtoberfest.  He'll also discuss the close ties between Devtoberfest and TechEd, his thoughts on year round learning for developers and give a sneak peak at some of the additions and improvements for SAP TechEd this year. 
+Join us live to be part of the Devtoberfest 2021 Launch Party. Juergen Mueller, SAP Executive Board Member and CTO, will kick off the event and welcome everyone to another year of Devtoberfest.  He'll also discuss the close ties between Devtoberfest and TechEd, his thoughts on year-round learning for developers and give a sneak peek at some of the additions and improvements for SAP TechEd this year. 
 
 Thomas Grassl, Global Head Developer and Community Relations, will join the party as well to give you insights as to what to expect over the next 6 weeks of Devtoberfest. He will highlight the topic weeks, how the Devtoberfest contest will work, preview the Fun Friday activities. 
 
-So don't miss out. Join the session live and be a part of the opening festivities.
+So, don't miss out. Join the session live and be a part of the opening festivities.
 
 [Join us live on YouTube](https://youtu.be/QECsPXQBP3E), and get involved in the conversation!
 
