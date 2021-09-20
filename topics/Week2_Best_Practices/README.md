@@ -32,6 +32,8 @@ Hear directly from one of the CAP team members about best practices as they appl
 
 **Tuesday 12 October 0800 BST (London) 0900 CEST (Berlin) 1230 IST (Bengaluru) 1800 AEDT Sydney [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211012T070000&p1=136&p2=37&p3=438&p4=240rl)**
 
+[Live presentation on YouTube](https://youtu.be/AHEkbCDkn-E)
+
 Hear directly from one of the pre-eminent developers in the ABAP RESTful Application Programming Model (RAP) space, about recommended techniques and approaches in the language that powers the core of SAP S/4HANA and many other platforms.
 
 <table border="0px" width="100%">
