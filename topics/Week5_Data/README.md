@@ -9,11 +9,13 @@ Topic Owner: [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
 ## Presentations
 
 ### The Modern Enterprise Data Landscape
-November 2nd, 17:00 CET / 9am MST
+November 2nd, 17:00 CET / 9:00 MST
 
 Enterprise-scale data management has long been a highly complex and often frustrating proposition. Today, with data warehouses and data marts, data lakes, data lakehouses, data fabric, data mesh, multimodel data platforms and more… your alternatives can be mind-numbing and make you feel as if you’ll never reach your enterprise data management goals.
 
 40-year technology veteran Alan Simon untangles and demystifies the enterprise data management landscape, helping you leap beyond jargon and the latest hot trends through a grounded-in-reality approach to address your longstanding challenges. Whether you are a newcomer to enterprise data or a longtime practitioner, this presentation will help expand your personal data management solutions portfolio and navigate the ever-changing enterprise data landscape.
+
+[Join us live on YouTube](https://youtu.be/fCVFb_xk1Gg), and get involved in the conversation!
 
 <table border=0px>
 <tr>
