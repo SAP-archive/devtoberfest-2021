@@ -15,7 +15,7 @@ This table includes a description some events that you can earn a badge with poi
 |Scavenger Hunt of 20 Tutorials |	Up to 10600 |
 |Tutorials in each content week	| 200 |
 |Attend Live Youtube Speaker Session and complete validation | 300 |
-|Submit Project to Devtoberfest 2021 on githiub	| 1000 |
+|Submit Project to Devtoberfest 2021 on GitHub	| 1000 |
 | | |	
 
 ## Prize Levels – What you can win!
