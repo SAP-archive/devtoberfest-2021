@@ -53,6 +53,6 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 |---|---|----|
 | [Register with eventbrite](https://www.eventbrite.com/e/168612930815)	 |	10 | <img src="https://community.sap.com/images/bltdc55235ff270a332/devtoberfest-2021-1.svg"> |
 | [Contribute to the Open Documentation Initiative](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/) |	500 | <img src="https://community.sap.com/images/blt34df935dd06b1d68/contribute-content-1.svg"> |
-| Submit project to devtoberfest github - Details Soon	| 1000 |
+| [Submit project to Devtoberfest GitHub](./opensource)	| 1000 |
 | [Attend Devtoberfest Kickoff Party](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week1_Welcome#juergen-mueller-and-thomas-grassl-devtoberfest-launch-party) | 50 |
 | [Attend Week 1 Fun Friday Event](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week1_Welcome#fun-friday-activity) |	300 |
