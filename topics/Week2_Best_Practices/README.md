@@ -10,6 +10,8 @@ Learn how you can level up in the technical areas that you work in every day.
 
 **Monday 11 October 0800 BST (London) 0900 CEST (Berlin) 1230 IST (Bengaluru) 1800 AEDT (Sydney) [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211011T070000&p1=136&p2=37&p3=438&p4=240rl)**
 
+Duration: 45 mins
+
 Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js.
 
 [Join us live on YouTube](https://youtu.be/WTOOse-Flj8), and get involved in the conversation!
@@ -31,6 +33,8 @@ Hear directly from one of the CAP team members about best practices as they appl
 ### Guidance for developing RAP applications in ABAP
 
 **Tuesday 12 October 0800 BST (London) 0900 CEST (Berlin) 1230 IST (Bengaluru) 1800 AEDT Sydney [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211012T070000&p1=136&p2=37&p3=438&p4=240rl)**
+
+Duration: 45 mins
 
 Hear directly from one of the pre-eminent developers in the ABAP RESTful Application Programming Model (RAP) space, about recommended techniques and approaches in the language that powers the core of SAP S/4HANA and many other platforms.
 
@@ -56,6 +60,8 @@ He has written lots of blog posts about ABAP and OData service development and h
 
 **Wednesday 13 October 0800 BST (London) 0900 CEST (Berlin) 1230 IST (Bengaluru) 1800 AEDT Sydney [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211012T070000&p1=136&p2=37&p3=438&p4=240rl)**
 
+Duration: 45 mins
+
 Hear directly from one of the team members of the CI/CD service on SAP Business Technology Platform, and learn about best practices in this area.
 
 [Join us live on YouTube](https://youtu.be/BEZEdN9IMks), and get involved in the conversation!
@@ -77,6 +83,8 @@ Hear directly from one of the team members of the CI/CD service on SAP Business 
 ## Special Friday Activity
 
 **Friday 15 October 0930 BST (London) 1030 CEST (Berlin) 1400 IST (Bengaluru) 1930 AEDT (Sydney) [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211015T083000&p1=136&p2=37&p3=438&p4=240)**
+
+Duration: 30 mins
 
 On the Friday of this Best Practices week, we have special guest <b>James Governor</b>, analyst and co-founder of RedMonk. James will be chatting live with [Developer Advocate](https://developers.sap.com/developer-advocates.html) [DJ Adams](https://github.com/qmacro) about best practices in the cloud native space. James has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices.
 
