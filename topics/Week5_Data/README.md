@@ -15,7 +15,7 @@ Enterprise-scale data management has long been a highly complex and often frustr
 
 40-year technology veteran Alan Simon untangles and demystifies the enterprise data management landscape, helping you leap beyond jargon and the latest hot trends through a grounded-in-reality approach to address your longstanding challenges. Whether you are a newcomer to enterprise data or a longtime practitioner, this presentation will help expand your personal data management solutions portfolio and navigate the ever-changing enterprise data landscape.
 
-[Join us live on YouTube](https://youtu.be/fCVFb_xk1Gg), and get involved in the conversation!
+[Join us live on YouTube](https://youtu.be/fCVFb_xk1Gg), and ask your questions!
 
 <table border=0px>
 <tr>
@@ -30,6 +30,8 @@ November 2nd, 10:00 CET / 5pm SGT (tbc)
 Data Science has been a hot topic in the enterprise in the last decade. Thanks to advances in deep learning, the role of data scientists has expanded into new applications, namely building AI services.
 
 In this talk we describe machine learning use-cases from our team and describe our learnings and takeaways.
+
+[Join us live on YouTube](https://youtu.be/G4vtt_U1wjs), and ask your questions!
 
 <table border=0px>
 <tr>
