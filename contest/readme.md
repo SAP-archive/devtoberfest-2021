@@ -11,7 +11,7 @@ Once registered for Devotberfest 2021 you will also earn your first badge, Devto
 <img src="https://community.sap.com/images/bltdc55235ff270a332/devtoberfest-2021-1.svg" alt="Participation Badge" width=100/>
 
 ## Points – Awarded and accumulated against your SAP Community ID.
-This table includes a description some events that you can earn a badge with points associated.  Once that badge is applied to your SAP Community ID you will be able to see your points status change on [the Devtoberfest Gameboard](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/).  More events will be published in future weeks of Devtoberfest, including a list after week 3 of a special group of 20 tutorials (Scavenger Hunt) as a Devtoberfest Mission with bonus points awarded if all 20 tutorials completed.
+This table includes a sample of some events that you can earn a badge with points associated.  Once that badge is applied to your SAP Community ID you will be able to see your points status change on [the Devtoberfest Gameboard](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/).  More events will be published in future weeks of Devtoberfest, including a list after week 3 of a special group of 20 tutorials (Scavenger Hunt) as a Devtoberfest Mission with bonus points awarded if all 20 tutorials completed.
 
 
 | Activity	| Points Awarded |
@@ -29,11 +29,11 @@ Prizes are awarded via points accumulated and you can see the potential prize po
 
 | Level	| Points Required	| Prizes*	| Badges awarded |
 |---|---|---|---|
-|Registrant	| 10	| Devtoberfest 2021 | Badge	| Devtoberfest 2021 |
-|1 Star	| 2000	| Devtoberfest 2021 T-Shirt and stickers |	
-|2 Stars | 12000 | $100 Voucher and Virtual Selfie with Advocate |	
-|3 Stars | 18000| Devtoberfest 2021 Outerwear  (jacket/fleece) |
-|4 Stars (Grand Prize) 1 Winner	| 24000 |	Donation to Charity and Trees Planted in winners name |
+|Registrant	| 10	| Devtoberfest 2021 | <img src="https://community.sap.com/images/bltdc55235ff270a332/devtoberfest-2021-1.svg" alt="Participation Badge" width=50/>	| Devtoberfest 2021 |
+|1 Star	| 2000	| Devtoberfest 2021 T-Shirt and stickers |	<img src="https://community.sap.com/images/blt703b306594a0bd3f/devtoberfest-1-star-1.svg" alt="Participation Badge" width=50/> |
+|2 Stars | 12000 | $100 Voucher and Virtual Selfie with Advocate |	<img src="https://community.sap.com/images/bltc14a8a998e5b1fad/devtoberfest-2-star-1.svg" alt="Participation Badge" width=50/> |
+|3 Stars | 18000| Devtoberfest 2021 Outerwear  (jacket/fleece) | <img src="https://community.sap.com/images/blt23a5488aa7a58045/devtoberfest-3-star-1.svg" alt="Participation Badge" width=50/> |
+|4 Stars (Grand Prize) 1 Winner	| 24000 |	Donation to Charity and Trees Planted in winners name | <img src="https://community.sap.com/images/bltcf4ac8dca59eb0e1/devtoberfest-4-star-1.svg" alt="Participation Badge" width=50/> |
 
 ## Game Specific Rules
 * You must complete the items described in the point activity grid to receive prizes
@@ -45,10 +45,13 @@ Prizes are awarded via points accumulated and you can see the potential prize po
 ## How to Enter
 It’s simple.  Register for the Devtoberfest Game.  Complete activities like tutorials or event surveys in any of the 6 weeks of Devtoberfest Oct 1, 2021 thru November 12, 2021.  Contribute to a project or make your own open source project.  Please reference the published list below of activities to see where you can earn points.  Check back every week as more activities added.  
 
-|Activity | Points Earned |
-|---|---|
-|Week 1 |Starts Oct 1st|
-|Register with eventbrite |	10 |
+## Points Earning Activities by Week
+
+### Week 1
+
+|Activity | Points Earned | Badge |
+|---|---|----|
+| [Register with eventbrite](https://www.eventbrite.com/e/168612930815)	 |	10 | <img src="https://community.sap.com/images/bltdc55235ff270a332/devtoberfest-2021-1.svg"> |
 |Contribute line of code to codocs |	500 |
 |Submit project to devtoberfest github	| 1000 |
 |Week 1 Speaker/Intro Points Event	| 50 |
