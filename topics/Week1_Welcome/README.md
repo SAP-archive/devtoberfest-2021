@@ -37,3 +37,7 @@ So, don't miss out. Join the session live and be a part of the opening festiviti
 ## Fun Friday Activity
 
 More details to come
+
+## Points Earning Activities
+
+For all activities new this week that can earn points towards the Devtoberfest Contest please see [here](../../contest/readme.md#week-1)
