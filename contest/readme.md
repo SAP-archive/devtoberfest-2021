@@ -1,8 +1,14 @@
 ## Devtoberfest Contest – The Game
-For Devtoberfest 2021 we will have a game that is open to everyone regardless of developer level.  Points can be accrued by completing items listed below that range from attending a presentation to completing tutorials on SAP Community. Prizes are awarded based on badges earned and associated points accumulated.  Prize and Points are described below as well as the rules relating to how many winners will make it to the Grand Prize Winner drawing.
+For Devtoberfest 2021 we have a game that is open to everyone regardless of developer level.  Points can be accrued by completing items listed below that range from attending a presentation to completing tutorials on SAP Community. Prizes are awarded based on badges earned and associated points accumulated.  Prize and Points are described below as well as the rules relating to how many winners will make it to the Grand Prize Winner drawing.
 
 ## Game Board – A Place to check your game level status.
-The Game Board is a static infographic that you can use to see your status.  Once registered for Devotberfest 2021 you will earn the first badge, Decvtoberfest 2021 on your SAP Community ID. But that badge has 4 stars across the top and they are not empty and not colored in gold until you complete enough events to change their status to “filled”.  
+[The Game Board](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/) is a static infographic that you can use to see your status.  
+
+![Gameboard](../images/gameboard.png)
+
+Once registered for Devotberfest 2021 you will also earn your first badge, Devtoberfest 2021 on your [SAP Community ID](https://people.sap.com/). 
+
+![Participation Badge](https://community.sap.com/images/bltdc55235ff270a332/devtoberfest-2021-1.svg)
 
 ## Points – Awarded and accumulated against your SAP Community ID.
 This table includes a description some events that you can earn a badge with points associated.  Once that badge is applied to your SAP Community ID you will be able to see your points status change on the Devtoberfest Gameboard.  More events will be published in future weeks of Devtoberfest, including a list after week 3 of a special group of 20 tutorials (Scavenger Hunt) as a Devtoberfest Mission with bonus points awarded if all 20 tutorials completed.
