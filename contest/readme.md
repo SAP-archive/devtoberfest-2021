@@ -17,7 +17,7 @@ This table includes a sample of some events that you can earn a badge with point
 | Activity	| Points Awarded |
 |---|---|
 | [Register](https://www.eventbrite.com/e/168612930815)	| 10 |
-|Contribution Accepted to [Codocs](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/) |	500 |
+|[Contribute to the Open Documentation Initiative](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/) |	500 |
 |Scavenger Hunt of 20 Tutorials |	Up to 10600 |
 |Tutorials in each content week	| 200 |
 |Attend Live Youtube Speaker Session and complete validation | 300 |
@@ -52,7 +52,7 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 |Activity | Points Earned | Badge |
 |---|---|----|
 | [Register with eventbrite](https://www.eventbrite.com/e/168612930815)	 |	10 | <img src="https://community.sap.com/images/bltdc55235ff270a332/devtoberfest-2021-1.svg"> |
-|Contribute line of code to codocs |	500 |
-|Submit project to devtoberfest github	| 1000 |
-|Week 1 Speaker/Intro Points Event	| 50 |
-|Week 1 Fun Friday Event |	300 |
+| [Contribute to the Open Documentation Initiative](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/) |	500 | <img src="https://community.sap.com/images/blt34df935dd06b1d68/contribute-content-1.svg"> |
+| Submit project to devtoberfest github - Details Soon	| 1000 |
+| [Attend Devtoberfest Kickoff Party](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week1_Welcome#juergen-mueller-and-thomas-grassl-devtoberfest-launch-party) | 50 |
+| [Attend Week 1 Fun Friday Event](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week1_Welcome#fun-friday-activity) |	300 |
