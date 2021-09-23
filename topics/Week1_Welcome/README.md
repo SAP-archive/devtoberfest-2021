@@ -36,7 +36,41 @@ So, don't miss out. Join the session live and be a part of the opening festiviti
 
 ## Fun Friday Activity
 
-More details to come
+[!(https://github.com/SAP-samples/devtoberfest-2021/blob/main/images/CHM.png)]
+
+### A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum By Dag Spicer, Senior Curator
+
+Date and Time: Friday, October 8th at 16:00 CEST / 19:30 IST / 10:00 EDT
+
+Duration: 60 mins
+
+The story of computing is epic. It’s driven by the human passion for tinkering, inventing, and solving difficult problems, where accidents and luck can be as
+important as brilliant engineering. 
+Join Senior Curator Dag Spicer for a quick tour, followed by live Q&A of Revolution: The First 2000 Years of Computing, an
+engaging 25,000-square-foot exhibition that chronicles the history of computing, from the abacus to the smartphone. 
+
+<table >
+    <tr>
+        <td width=250><img src="../../images/dag_spicer.png" alt="Dag Spicer"><br/></td>
+        <td><b>Dag Spicer</b> is the Museum’s senior curator. He is an electrical engineer and historian of science and technology. He began working at the Museum
+            in 1996 and since then has helped guide the strategic direction of the Museum’s permanent collection, the largest and most comprehensive grouping of
+            computers, software, media, oral histories, and ephemera in the world. He has played a key role in shaping the Museum’s exhibitions, programming, and
+            education programs. Dag has given hundreds of interviews on computer history and related topics to major news outlets such as The Economist, The New
+            York Times, NPR, CBS, VOA, Agence France-Presse, and many more, and has appeared on numerous television programs including Mysteries At The
+            Museum and CBS Sunday Morning. He serves on several museum boards, as well the editorial board of the IEEE Annals of the History of Computing. He holds
+            degrees from University of British Columbia (UBC), the University of Toronto, and Stanford University.</td>
+    </tr>
+</table>
+
+### About CHM
+The Computer History Museum (CHM) explores the computing past, digital present, and future impact of technology on humanity. Through research, events, and an
+extensive collection of computing artifacts and oral histories, CHM is committed to shaping a better world by decoding technology for everyone. 
+
+[Please visit us](www.computerhistory.org)
+
+[Join the CHM Community](https://computerhistory.org/subscribe/)
+ 
+
 
 ## Points Earning Activities
 
