@@ -45,13 +45,10 @@ challenges in our personal lives AND in our work lives. Prepare to laugh, commis
     <tr>
         <td width = 270>
 <img src="../../images/edjgeek-beard.png">
-</td>  <td><b>Eric Johnson</b> is a public speaker who tackles the topics of everyday life as someone who is just a bit different. Eric is a father of five kids,
-four of which are just like him with one finger on each hand and one toe on each foot. This difference gives Eric a uncommon view on overcoming challenges in his
-own life as well as helping others to face life's challenges head on.
-
-Eric has shared his unique blend of comedy, faith, and stark reality in corporations, churches, schools, and clubs. His positive attitude and challenging words have helped individuals and companies overcome challenges and move toward success.
-- github
-- twitter
-- LinkedIn
+</td>  <td><b>Eric Johnson</b> Eric Johnson is a Principal Developer Advocate for Serverless Applications at Amazon Web Services and is based in Northern Colorado. Eric is a fanatic about serverless and enjoys helping developers understand how serverless technologies introduces a major paradigm shift in how they approach building and running applications at massive scale with minimal administration overhead. Prior to this, Eric has worked as a developer, solutions architect and AWS Evangelist for an AWS partner company.
+       
+- Eric's Website: (www.serverlessland.com)
+- Twitter: (https://twitter.com/edjgeek)
+- LinkedIn: (https://www.linkedin.com/in/singledigit/)
         </td>  </tr></table>
  
