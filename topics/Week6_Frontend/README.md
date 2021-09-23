@@ -46,7 +46,9 @@ State management for the frontend. No more sinking props down layers of componen
 <table >
     <tr>
         <td width=250><img src="../../images/MichelleMoudy_250px_shadow.png" alt="Michelle Moudy"><br/></td>
-        <td><b>Michelle Moudy</b>  TBD</td>
+        <td><b>Michelle Moudy</b>  is a frontend dev and is currently working for SAP Eureka on Returns Management.
+        She attended the first cohort of the SAP Academy for Engineering, where she worked with a team to design and implement a solution for Circular Economy. Her team designed a recycling app with configurable bins, using OCR to identify objects.
+        Her interests mainly lie in frontend development, and teaching other developers frontend isn't nearly as bad as they think.</td>
     </tr>
 </table>
 
