@@ -13,7 +13,8 @@ Devtoberfest is a 6-week event, leading up to SAP TechEd. This event is to be se
 Read more about the event in [the kick-off blog post](https://blogs.sap.com/2021/09/07/devtoberfest-2021-the-developer-strikes-back/)
 
 **Registration:** [Devtoberfest Eventbite Registration Page](https://www.eventbrite.com/e/168612930815)
-Registry for the event on Eventbrite to recieve all the lates notifications about Devtoberfest.  Registration is also required to be entered in the [Contest](#contest-the-game) aspects of Devtoberfest.
+
+Register for the event on Eventbrite to recieve all the latest notifications about Devtoberfest. Registration is also required to be entered in the [Contest](#contest-the-game) aspects of Devtoberfest.
 
 ## Key Dates
 
@@ -37,7 +38,7 @@ A game that is open to all developers.  Points can be accrued by completing item
 
 For full details on the contest aspects pleas see the [Game Page Readme](contest/readme.md) and of course for all the rules see [Terms and Conditions](TOC.md).
 
-But the fun doesn’t end there.  We have an animated Contest Gameboard to help you track your progress through the contest.  Just add your SAP Community Profile ID to the end of the following URL: [https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/scnId.Here](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/scnId.Here).
+But the fun doesn’t end there.  We have an animated Contest Gameboard to help you track your progress through the contest.  Just replace `scnId.Here` with your SAP Community Profile ID to the end of the following URL: [https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/scnId.Here](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/scnId.Here).
 
 And if you are curious how we built the animated gameboard, we have also released the whole thing as a Sample Code repository here: [https://github.com/SAP-samples/sap-community-activity-badges](https://github.com/SAP-samples/sap-community-activity-badges)
 

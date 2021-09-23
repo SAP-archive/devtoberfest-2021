@@ -9,11 +9,13 @@ Topic Owner: [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
 ## Presentations
 
 ### The Modern Enterprise Data Landscape
-November 2nd, 17:00 CET / 9am MST
+November 2nd, 17:00 CET / 9:00 MST
 
 Enterprise-scale data management has long been a highly complex and often frustrating proposition. Today, with data warehouses and data marts, data lakes, data lakehouses, data fabric, data mesh, multimodel data platforms and more… your alternatives can be mind-numbing and make you feel as if you’ll never reach your enterprise data management goals.
 
 40-year technology veteran Alan Simon untangles and demystifies the enterprise data management landscape, helping you leap beyond jargon and the latest hot trends through a grounded-in-reality approach to address your longstanding challenges. Whether you are a newcomer to enterprise data or a longtime practitioner, this presentation will help expand your personal data management solutions portfolio and navigate the ever-changing enterprise data landscape.
+
+[Join us live on YouTube](https://youtu.be/fCVFb_xk1Gg), and ask your questions!
 
 <table border=0px>
 <tr>
@@ -29,12 +31,14 @@ Data Science has been a hot topic in the enterprise in the last decade. Thanks t
 
 In this talk we describe machine learning use-cases from our team and describe our learnings and takeaways.
 
+[Join us live on YouTube](https://youtu.be/G4vtt_U1wjs), and ask your questions!
+
 <table border=0px>
 <tr>
 <td width = 270><img src="../../images/ManuelZeise_250px_shadow.png"></td>
 <td><b>Dr. <a href="https://people.sap.com/manuel.zeise">Manuel Zeise</a></b> is a principal data scientist at the Deep Learning Center of Excellence in Walldorf. He began his career at SAP in 2013, working in Consulting and Custom Development as a data scientist, before transferring to the Deep Learning CoE in 2018.<br><br>Prior to this, Manuel earned a PhD in high energy physics from the Institut für Experimentelle Kernphysik in Karlsruhe and worked as a postdoctoral researcher.</td></tr>
 <tr><td width = 270><img src="../../images/StefanBaur_250px_shadow.png"></td>
-<td><b>Dr. Stefan Baur</b> is a senior data scientist at the Deep Learning Center of Excellence for SAP AI Business Services. He has several years of experience in developing deep learning models for SAP’s AI-powered products, including the document information extraction solution and the productization of the Generic-Line-Item-Matching model in CashApp, where he currently serves as project lead of the data science team.<br><br>Before joining SAP, Stefan obtained a PhD in theoretical condensed matter physics from Cornell University and served as a postdoctoral researcher at the University of Cambridge.</td>
+<td><b>Dr. <a href="https://people.sap.com/s.baur">Stefan Baur</a></b> is a senior data scientist at the Deep Learning Center of Excellence for SAP AI Business Services. He has several years of experience in developing deep learning models for SAP’s AI-powered products, including the document information extraction solution and the productization of the Generic-Line-Item-Matching model in CashApp, where he currently serves as project lead of the data science team.<br><br>Before joining SAP, Stefan obtained a PhD in theoretical condensed matter physics from Cornell University and served as a postdoctoral researcher at the University of Cambridge.</td>
 </tr>
 </table>
 
