@@ -26,6 +26,32 @@ Every company that claims to be a cloud company, claims to be developing Microse
  ** Speaker: TBD** 
  
  ## Special Friday Activity
+ 
+### Eric Johnson "Attitude of Iteration"
+Date and Time: Tuesday, October 22nd at 17:00 CEST / 15:00 IST (Bengaluru) / 11:00 EDT / 09:00 MDT (Denver)
 
-On the Friday of this Cloud Native week, we have special guest who will be speaking to us about overcoming advertity as a coder with a story you won't want to miss. He has a great history of experience as a developer, but this session is more about not what he does but how he lives life.
+Duration: 50 mins
+
+
+
+Challenges are a very real part of daily life. Some challenges are very apparent, like having one finger on each hand. Other challenges, are less apparent but no
+less of a hurdle that must be jumped. As someone who was born different and has been challenged through life, I have a very interesting view on hitting challenges
+head on. I also like to laugh as I deal with these challenges. In this session we will joke our way through having an attitude of iteration in how we deal with
+challenges in our personal lives AND in our work lives. Prepare to laugh, commiserate, and face your challenges!
+
+[Join us live on YouTube](TBD), prepared to be entertained!
+
+<table border=0px>
+    <tr>
+        <td width = 270>
+<img src="../../images/edjgeek-beard.png">
+</td>  <td><b>Eric Johnson</b> is a public speaker who tackles the topics of everyday life as someone who is just a bit different. Eric is a father of five kids,
+four of which are just like him with one finger on each hand and one toe on each foot. This difference gives Eric a uncommon view on overcoming challenges in his
+own life as well as helping others to face life's challenges head on.
+
+Eric has shared his unique blend of comedy, faith, and stark reality in corporations, churches, schools, and clubs. His positive attitude and challenging words have helped individuals and companies overcome challenges and move toward success.
+- github
+- twitter
+- LinkedIn
+        </td>  </tr></table>
  
