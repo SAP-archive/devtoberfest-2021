@@ -36,13 +36,17 @@ So, don't miss out. Join the session live and be a part of the opening festiviti
 
 ## Fun Friday Activity
 
-[!(https://github.com/SAP-samples/devtoberfest-2021/blob/main/images/CHM.png)]
 
-### A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum By Dag Spicer, Senior Curator
+    
+## A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum By Dag Spicer, Senior Curator
 
 Date and Time: Friday, October 8th at 16:00 CEST / 19:30 IST / 10:00 EDT
 
 Duration: 60 mins
+
+© Computer History Museum
+
+![](../image/../../images/CHM.png)
 
 The story of computing is epic. It’s driven by the human passion for tinkering, inventing, and solving difficult problems, where accidents and luck can be as
 important as brilliant engineering. 
@@ -51,7 +55,7 @@ engaging 25,000-square-foot exhibition that chronicles the history of computing,
 
 <table >
     <tr>
-        <td width=250><img src="../../images/dag_spicer.png" alt="Dag Spicer"><br/></td>
+        <td width=250><img src="../../images/Dag_Spicer.jpg" alt="Dag Spicer"><br/></td>
         <td><b>Dag Spicer</b> is the Museum’s senior curator. He is an electrical engineer and historian of science and technology. He began working at the Museum
             in 1996 and since then has helped guide the strategic direction of the Museum’s permanent collection, the largest and most comprehensive grouping of
             computers, software, media, oral histories, and ephemera in the world. He has played a key role in shaping the Museum’s exhibitions, programming, and
