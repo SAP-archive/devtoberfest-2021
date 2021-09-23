@@ -4,6 +4,8 @@ This topic content is for Devtoberfest Week 2 : 11 October → 15 October 2021.
 
 Learn how you can level up in the technical areas that you work in every day.
 
+Topic Owner: [DJ Adams](https://github.com/qmacro)
+
 ## Presentations
 
 ### Best Practices for CAP Node.js Apps
@@ -80,7 +82,11 @@ Hear directly from one of the team members of the CI/CD service on SAP Business 
 </tr>
 </table>
 
-## Special Friday Activity
+## Special Friday Activities
+
+We have a couple of special activities for the end of this week!
+
+### Special Guest Speaker
 
 Date and Time: Friday 15 October 09:30 BST (London) 10:30 CEST (Berlin) 14:00 IST (Bengaluru) 19:30 AEDT (Sydney) [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211015T083000&p1=136&p2=37&p3=438&p4=240)
 
@@ -100,3 +106,7 @@ On the Friday of this Best Practices week, we have special guest <b>James Govern
 </td>
 </tr>
 </table>
+
+### Dogtoberfest!
+
+Also on the Friday of this week (15 October) we have a furry and fun activity - [Dogtoberfest](../Dogtoberfest/)! Check out the dedicated page for more details.
