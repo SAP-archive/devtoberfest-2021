@@ -8,6 +8,8 @@ Topic Owner: [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
 
 ## Presentations
 
+All sessions are 60 minutes long, including time for your online questions.
+
 ### The Modern Enterprise Data Landscape
 November 2nd, 17:00 CET / 9:00 MST
 
