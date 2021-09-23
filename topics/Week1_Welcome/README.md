@@ -38,7 +38,7 @@ So, don't miss out. Join the session live and be a part of the opening festiviti
 
 
     
-## A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum By Dag Spicer, Senior Curator
+### A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum By Dag Spicer, Senior Curator
 
 Date and Time: Friday, October 8th at 16:00 CEST / 19:30 IST / 10:00 EDT
 
