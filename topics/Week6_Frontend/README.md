@@ -8,6 +8,9 @@ In this topic week, we look at some general trends topics that impact your web-b
 
 For this week's tutorial and code challenge content, we preselected a set of tutorials that cover four different web frameworks. This should empower developers to pick the framework they feel most comfortable in (Bonus points if you do several of them).
 
+
+Topic Owner: [Marius Obert](https://github.com/iobert)
+
 ## Presentations
 
 ### Micro Frontends with Luigi – UI Development at Scale
@@ -18,7 +21,7 @@ This session will give insights about a trending topic in frontend development -
 <table >
     <tr>
         <td width=250><img src="../../images/PhilippPracht_250px_shade.png" alt="Philipp Pracht"></td>
-        <td><b>Philipp Pracht</b> is the Product Owner and Architect of project “Luigi”, SAP’s open-source micro frontend framework for business and admin UIs. He is in the company for 13 years now, and during that time, he was working on various UI-related topics and frameworks. <br/> Philipp is part of the T&I BTP Foundational Plane Team and lives in Munich.</td>
+        <td><b><a href="https://www.linkedin.com/in/philipp-pracht-3671b699">Philipp Pracht</a></b> is the Product Owner and Architect of project “Luigi”, SAP’s open-source micro frontend framework for business and admin UIs. He is in the company for 13 years now, and during that time, he was working on various UI-related topics and frameworks. <br/> Philipp is part of the T&I BTP Foundational Plane Team and lives in Munich.</td>
     </tr>
 </table>
 
@@ -30,11 +33,11 @@ This session will showcase how easy it is today to integrate any OSS library suc
 <table >
     <tr>
         <td width=250><img src="../../images/PeterMuessig_250px_shade.png" alt="Peter Muessig"><br/></td>
-        <td><b>Peter Muessig</b>  is an initial member of the Phoenix project, today known as OpenUI5 and SAPUI5. He has grown into the role of the UI5 Chief Architect, mainly focusing on UI innovation in the area of the UI framework (UI5 Evolution, UI5 Core), rendering (UI5 Controls, UI5 Web Components), development experience (UI5 Tooling).</td>
+        <td><b> <a href="https://people.sap.com/peter.muessig">Peter Muessig</a></b>  is an initial member of the Phoenix project, today known as OpenUI5 and SAPUI5. He has grown into the role of the UI5 Chief Architect, mainly focusing on UI innovation in the area of the UI framework (UI5 Evolution, UI5 Core), rendering (UI5 Controls, UI5 Web Components), development experience (UI5 Tooling).</td>
     </tr>
     <tr>
         <td width=250><img src="../../images/DamianMaring_250px_shade.png" alt="Damian Maring"><br/></td>
-        <td><b>Damian Maring</b> is an Area Architect focusing on UI/UX topics in the Procurement Area. He's also a founding member of "Deploy with Confidence", working on tools for delivering cloud-native SaaS applications. Very early on in his development career, he found his passion in front-end technologies. After joining SAP in 2012, he looked into the newest UI-related technologies and spreading them throughout the company, including UI5, Vue.js, GraphQL, and many more. <br/> Together with his team, he has built tools to improve the developer experience and raise quality awareness for the whole solution.</td>
+        <td><b><a href="https://damianmaring.com/">Damian Maring</a></b> is an Area Architect focusing on UI/UX topics in the Procurement Area. He's also a founding member of "Deploy with Confidence", working on tools for delivering cloud-native SaaS applications. Very early on in his development career, he found his passion in front-end technologies. After joining SAP in 2012, he looked into the newest UI-related technologies and spreading them throughout the company, including UI5, Vue.js, GraphQL, and many more. <br/> Together with his team, he has built tools to improve the developer experience and raise quality awareness for the whole solution.</td>
     </tr>
 </table>
 
@@ -46,7 +49,7 @@ State management for the frontend. No more sinking props down layers of componen
 <table >
     <tr>
         <td width=250><img src="../../images/MichelleMoudy_250px_shadow.png" alt="Michelle Moudy"><br/></td>
-        <td><b>Michelle Moudy</b>  is a frontend dev and is currently working for SAP Eureka on Returns Management.
+        <td><b><a href="https://www.linkedin.com/in/michelle-moudy-57216716a/">Michelle Moudy</a></b>  is a frontend dev and is currently working for SAP Eureka on Returns Management.
         She attended the first cohort of the SAP Academy for Engineering, where she worked with a team to design and implement a solution for Circular Economy. Her team designed a recycling app with configurable bins, using OCR to identify objects.
         Her interests mainly lie in frontend development, and teaching other developers frontend isn't nearly as bad as they think.</td>
     </tr>
@@ -68,7 +71,7 @@ We will put our new knowledge into practice by implementing our first Web Compon
 <table >
     <tr>
         <td width=250><img src="../../images/FilipSiderov_250px_shadow.png" alt="Filip Siderov"><br/></td>
-        <td><b>Filip Siderov</b> is an Information System graduate, open-source & hackathon enthusiast, JavaScript lover & a senior JavaScript developer at SAP. He has dedicated his last three years working on UI5 Web Components.</td>
+        <td><b><a href="https://people.sap.com/fifoosid">Filip Siderov</a></b> is an Information System graduate, open-source & hackathon enthusiast, JavaScript lover & a senior JavaScript developer at SAP. He has dedicated his last three years working on UI5 Web Components.</td>
     </tr>
 </table>
 
