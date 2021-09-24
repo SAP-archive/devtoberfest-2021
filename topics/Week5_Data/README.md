@@ -79,10 +79,11 @@ Confirmed authors:
 * [Konrad Załęski](https://people.sap.com/konrad), author of "[Data Modeling with SAP BW/4HANA 2.0: Implementing Agile Data Models Using Modern Modeling Concepts](https://www.apress.com/gp/book/9781484270882)"
 
 ## Ask-the-Expert: Data Science in practice
+November 4th, 16:00 CET / 11:00 EDT / 20:30 IST (tbc)
 
-We got recognized experts and active community members to join a panel discussing and answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models: using SAP HANA, SAP Analytics Cloud, SAP Data Intelligence, SAP AI Business Services and SAP AI Foundation.
+We got recognized experts and active community members to join a panel answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models using SAP HANA, SAP Analytics Cloud, SAP Data Intelligence, SAP AI Business Services and SAP AI Foundation.
 
-November 4th, 16:00 CET / 8am PST (tbc)
+[Join us live on YouTube](https://www.youtube.com/watch?v=MU_W2J-uQbI), and get involved in the conversation!
 
 ![Sarah](../../images/SarahDetzler_250px_shade.png) ![Andreas](../../images/AndreasForster_250px_shadow.png) ![Karthik](../../images/KarthikMuthuswamy_250px_shade.png)
 
