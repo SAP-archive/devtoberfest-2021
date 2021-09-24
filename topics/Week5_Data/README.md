@@ -44,7 +44,6 @@ In this talk we describe machine learning use-cases from our team and describe o
 </tr>
 </table>
 
-
 ### Data Visualization: Then and Now
 November 4th, 10:00 CET / 14:30 IST / 17:00 SGT
 
@@ -64,17 +63,21 @@ Meet and greet authors of bestselling books on the topics of SAP Data and Analyt
 
 Meet-the-Author gives you direct access to authors who will present their professional stories, share experience, and offer writing tips. During these live panels, authors will describe writing and publishing process, their own approaches to learning, and ways to stay current with the constantly evolving tech world. They are looking forward to your questions too!
 
-November 3rd, 9:00 CET and 17:00 CET
+### Panel 1
+November 3rd, 09:00 CET
 
-![Melanie](../../images/MelanieHolzapfel_250px_shade.png) ![Dharma](../../images/DharmaTejaAtluri_250px_shade.png) ![Thorsten](../../images/ThorstenLuedtke_250px_shade.png) ![Stefan](../../images/StefanHartmann_250px_shade.png)
-![Heather](../../images/HeatherHill_250px_shade.png)
-![Konrad](../../images/KonradZaleski_250px_shade.png)
+![Dharma](../../images/DharmaTejaAtluri_250px_shade.png)  ![Thorsten](../../images/ThorstenLuedtke_250px_shade.png) ![Stefan](../../images/StefanHartmann_250px_shade.png)
 
-Confirmed authors:
-* Melanie Holzapfel, co-author of "[Designing Dashboards with SAP Analytics Cloud](https://www.rheinwerk-verlag.de/designing-dashboards-with-sap-analytics-cloud/)"
 * [Dharma Teja Atluri](https://people.sap.com/dharmateja.atluri), co-author of "[SAP Data Intelligence: The Comprehensive Guide](https://www.sap-press.com/sap-data-intelligence_5369/)"
 * [Thorsten Lüdtke](https://people.sap.com/biportal), co-author of "[SAP BW/4HANA 2.0: The Comprehensive Guide](https://www.sap-press.com/sap-bw4hana-20_4544/)"
 * [Stefan Hartmann](https://people.sap.com/stefan.hartmann.dtt), co-author of "[Practical Guide to SAP HANA and Big Data Analytics](https://www.espresso-tutorials.de/produkt/practical-guide-to-sap-hana-and-big-data-analytics/)"
+
+### Panel 2
+November 3rd, 17:00 CET
+
+![Melanie](../../images/MelanieHolzapfel_250px_shade.png) ![Heather](../../images/HeatherHill_250px_shade.png) ![Konrad](../../images/KonradZaleski_250px_shade.png)
+
+* Melanie Holzapfel, co-author of "[Designing Dashboards with SAP Analytics Cloud](https://www.rheinwerk-verlag.de/designing-dashboards-with-sap-analytics-cloud/)"
 * [Heather Hill](https://people.sap.com/heather89), co-author of "[SAP BusinessObjects Web Intelligence: The Comprehensive Guide](https://www.sap-press.com/sap-businessobjects-web-intelligence_4412/)"
 * [Konrad Załęski](https://people.sap.com/konrad), author of "[Data Modeling with SAP BW/4HANA 2.0: Implementing Agile Data Models Using Modern Modeling Concepts](https://www.apress.com/gp/book/9781484270882)"
 
