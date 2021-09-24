@@ -48,7 +48,7 @@ Duration: 60 mins
 
 © Computer History Museum
 
-![](../image/../../images/CHM.png)
+![](../image/../../images/chm_id-name_rgb_alternate_2.png)
 
 The story of computing is epic. It’s driven by the human passion for tinkering, inventing, and solving difficult problems, where accidents and luck can be as
 important as brilliant engineering. 
