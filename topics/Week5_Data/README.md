@@ -27,7 +27,7 @@ Enterprise-scale data management has long been a highly complex and often frustr
 </table>
 
 ### Demystifying Data Science in the Enterprise
-November 2nd, 10:00 CET / 5pm SGT (tbc)
+November 2nd, 10:00 CET / 14:30 IST / 17:00 SGT
 
 Data Science has been a hot topic in the enterprise in the last decade. Thanks to advances in deep learning, the role of data scientists has expanded into new applications, namely building AI services.
 
@@ -46,7 +46,7 @@ In this talk we describe machine learning use-cases from our team and describe o
 
 
 ### Data Visualization: Then and Now
-November 4th, 10:00 CET / 5pm SGT
+November 4th, 10:00 CET / 14:30 IST / 17:00 SGT
 
 Data Visualization is the new old topic. Surprisingly its history is not that long even if spreadsheets made data exploration ubiquitous. But as Data is moving into 3xV directions (Volume, Velocity and Variety) so is modern Visualization of it. After going through a bit of a theory we will move into practical aspects of Data Storytelling and Exploratory Data Analysis.
 
@@ -64,7 +64,7 @@ Meet and greet authors of bestselling books on the topics of SAP Data and Analyt
 
 Meet-the-Author gives you direct access to authors who will present their professional stories, share experience, and offer writing tips. During these live panels, authors will describe writing and publishing process, their own approaches to learning, and ways to stay current with the constantly evolving tech world. They are looking forward to your questions too!
 
-November 3rd, 9:00 CET and 17:00 CET (tbc)
+November 3rd, 9:00 CET and 17:00 CET
 
 ![Melanie](../../images/MelanieHolzapfel_250px_shade.png) ![Dharma](../../images/DharmaTejaAtluri_250px_shade.png) ![Thorsten](../../images/ThorstenLuedtke_250px_shade.png) ![Stefan](../../images/StefanHartmann_250px_shade.png)
 ![Heather](../../images/HeatherHill_250px_shade.png)
