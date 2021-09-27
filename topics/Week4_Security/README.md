@@ -33,8 +33,6 @@ As a certified expert of the Security Research team, he spends his time influenc
 
 Cédric’s drives are sharing knowledge, learning new things every day and supporting people in getting more secure (instead of blaming them for clicking on the wrong link !).</td>  </tr></table>
 
-
-
 ### Thomas Jung "Security Aspects of SAP Cloud Application Programming Model"
 Date and Time: Wednesday, October 27th at 17:00 CEST / 23:00 SGT / 11:00 EDT
 
@@ -49,6 +47,22 @@ The SAP Cloud Application Programming Model comes out of the box with lots of be
         <td width = 270>
 <img src="../../images/ThomasJung_250px_shade.png">
 </td>  <td><b>Thomas Jung</b> is currently Head of Developer Advocacy, SAP Developer & Community Relations at SAP. This is a continuation of his long career in the SAP technology space. Throughout his career he's focused on the SAP applications developer and the tools and languages which support their activities with a particular interest in sharing knowledge through various channels both online and in person.</td>  </tr></table>
+
+### Michele Chubirka "Container Security: It's All About the Supply Chain"
+Date and Time: Thursday, October 28th at 17:00 CEST / 23:00 SGT / 11:00 EDT
+
+Duration: 50 mins
+
+Containers continue to mystify security practitioners, mostly because they don’t know how securing them fits into their existing programs. Is it a virtual machine that gets scanned by the same tools used for over a decade? Or is it an application package that should be tested by SCA, SAST and DAST tools? How do you manage the image or runtime vulnerabilities vs the application security issues? This talk will focus on container security as a supply chain lifecycle problem and how to integrate validation at multiple points to achieve the ultimate goal of *assurance.* The talk is tool agnostic, because security of the supply chain is more about the alignment with the software development process than the integration of a single magical tool. 
+
+[Join us live on YouTube](https://www.youtube.com/watch?v=acEwqW-4R18), and get involved in the conversation!
+
+<table border=0px>
+    <tr>
+        <td width = 270>
+<img src="../../images/MicheleChubirka.png">
+</td>  <td><b>Michele Chubirka</b> is a recovering Unix and network engineer currently working as Chief Security Architect in SAP SuccessFactors. Her focus is Product Security with expertise in cloud-native security topics such as IaC, Kubernetes, containerization and software supply chains. Formerly the creator and official nerdstalker of the Healthy Paranoia Security Podcast, she has also been a freelance writer for various B2B publications such as TechTarget and Information Week, as well as an independent analyst. She likes long walks in hubsites, traveling to security conferences and spending time in the Bat Cave. Sincerely believes that every problem can be solved with a "for" loop. When not blogging or podcasting, can be found using up her 15 minutes in the <a href="https://twitter.com/MrsYisWhy" target="_blank">Twittersphere as MrsYisWhy</a>
+</td>  </tr></table>
 
 ## Tutorials
 
