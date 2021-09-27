@@ -2,7 +2,7 @@
 
 This topic content is for Devtoberfest Week 3 : 18 October → 22 October 2021.
 
-Learn about how you can implement segments of Serverless Technology into your code.
+Learn about how you can implement a Cloud Native approach to your code.
 
 Topic Owner: [Josh Bentley](https://github.com/jarjarbentley)
 
