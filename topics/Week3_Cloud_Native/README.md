@@ -2,6 +2,10 @@
 
 This topic content is for Devtoberfest Week 3 : 18 October → 22 October 2021.
 
+Learn about how you can implement segments of Serverless Technology into your code.
+
+Topic Owner: [Josh Bentley](https://github.com/jarjarbentley)
+
 ## Presentations
 
 ### Jens Keller "Microservices are Probably Not What You Think They Are"
