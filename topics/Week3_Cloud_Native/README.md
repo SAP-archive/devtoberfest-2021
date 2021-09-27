@@ -49,7 +49,7 @@ There are a lot of choices that you can make when developing cloud native soluti
  ## Special Friday Activity
  
 ### Eric Johnson "Attitude of Iteration"
-Date and Time: Friday, October 22nd at 17:00 CEST / 15:00 IST (Bengaluru) / 11:00 EDT / 09:00 MDT (Denver)
+Date and Time: Friday, October 22nd at 17:00 CEST / 20:30 IST (Bengaluru) / 11:00 EDT / 09:00 MDT (Denver)
 
 Duration: 50 mins
 
