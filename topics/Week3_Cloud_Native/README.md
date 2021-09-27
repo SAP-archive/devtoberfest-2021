@@ -33,7 +33,7 @@ There are a lot of choices that you can make when developing cloud native soluti
 <table border=0px>
     <tr>
         <td width = 270>
-<img src="../../images/image_christian_lechner.jpg">
+<img src="../../images/christian_lechner.jpg">
 </td>  <td><b>Christian Lechner</b> is a Development Architect for SAP BTP Core & Runtimes at SAP and is based in Bavaria. Besides having his head in the cloud at work, Christian loves serverless and especially Azure Functions and their ecosystem (like KEDA). As a Microsoft MVP he is passionate about sharing knowledge around that topic on different channels like his [regular podcast](https://github.com/lechnerc77/myNewsWrap) or as a co-host of the [Azure Functions University](https://github.com/marcduiker/azure-functions-university).
 
 - Twitter: <https://twitter.com/lechnerc77)>
