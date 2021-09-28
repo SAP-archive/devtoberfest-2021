@@ -72,7 +72,7 @@ engaging 25,000-square-foot exhibition that chronicles the history of computing,
 The Computer History Museum (CHM) explores the computing past, digital present, and future impact of technology on humanity. Through research, events, and an
 extensive collection of computing artifacts and oral histories, CHM is committed to shaping a better world by decoding technology for everyone. 
 
-[Please visit us](www.computerhistory.org)
+[Please visit us](https://computerhistory.org)
 
 [Join the CHM Community](https://computerhistory.org/subscribe/)
  
