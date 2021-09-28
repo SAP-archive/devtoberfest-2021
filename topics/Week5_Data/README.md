@@ -113,14 +113,14 @@ Let's talk **Coding for Kids**!
 
 
 <table border=0px>
+<tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>
+<td>SAP scientist <b><a href="https://people.sap.com/jmoenig">Jens Mönig</a></b> has been awarded the National Technology Leadership Summit (NTLS) Education Technology Leadership Award, which recognizes individuals who have made a significant impact in the field of educational technology over the course of a lifetime.</td>
+</tr>
 <tr>
 <td width = 270>
 <img src="../../images/JadgaHuegle_250px_shadow.png" alt="Jadga"></td>
 <td>
-Originally a biologist, <b><a href="https://people.sap.com/jadga.huegle">Jadga Hügle</a></b> discovered her interest in computer science while building a small connected greenhouse. Since then, she has become a Snap! enthusiast and is eager to share her excitement with everyone. Jadga currently works for SAP’s Snap! team.</td></tr>
-<tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>
-<td>SAP scientist <b><a href="https://people.sap.com/jmoenig">Jens Mönig</a></b> has been awarded the National Technology Leadership Summit (NTLS) Education Technology Leadership Award, which recognizes individuals who have made a significant impact in the field of educational technology over the course of a lifetime.</td>
-</tr>
+Originally a biologist, <b><a href="https://people.sap.com/jadga.huegle">Jadga Hügle</a></b> discovered her interest in computer science while building a small connected greenhouse.<br><br>Since then, she has become a Snap! enthusiast and is eager to share her excitement with everyone. Jadga currently works for SAP’s Snap! team.</td></tr>
 </table>
 
 Please, stay tuned for more details.
