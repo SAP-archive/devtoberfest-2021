@@ -30,9 +30,9 @@ Date and Time: Thursday, October 21st at 17:00 CEST  20:30 IST. 11:00 EDT
 
 Duration: 60 mins
 
-There are a lot of choices that you can make when developing cloud native solutions. But choices are hard, so it is fait to ask: "What is the approach that embraces cloud native paradigms the most as of today?" My hypothesis: _serverless_ is the closest you can get. Let us explore why serverless perfectly supports you in your journey heading for cloud-native solutions. You will experience how low the entry barrier is to develop your first function using Azure Functions, couple it to a persistency and even develop a stateful serverless workflow (what ...🤯).
+There are a lot of choices that you can make when developing cloud native solutions. But choices are hard, so it is fair to ask: "What is the approach that embraces cloud native paradigms the most as of today?" My hypothesis: _serverless_ is the closest you can get. Let us explore why serverless perfectly supports you in your journey heading for cloud-native solutions. You will experience how low the entry barrier is to develop your first function using Azure Functions, couple it to a persistency and even develop a stateful serverless workflow (what ...🤯).
 
-[Join us live on YouTube](TBD), and join the serverless fun 🚀!
+[Join us live on YouTube](https://youtu.be/n8jLSZ82bpg), and join the serverless fun 🚀!
 
 <table border=0px>
     <tr>
@@ -60,7 +60,7 @@ less of a hurdle that must be jumped. As someone who was born different and has 
 head on. I also like to laugh as I deal with these challenges. In this session we will joke our way through having an attitude of iteration in how we deal with
 challenges in our personal lives AND in our work lives. Prepare to laugh, commiserate, and face your challenges!
 
-[Join us live on YouTube](TBD), prepared to be entertained!
+[Join us live on YouTube](https://youtu.be/3aSSKIMnLOo), prepared to be entertained!
 
 <table border=0px>
     <tr>
