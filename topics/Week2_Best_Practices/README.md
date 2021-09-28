@@ -82,6 +82,14 @@ Hear directly from one of the team members of the CI/CD service on SAP Business 
 </tr>
 </table>
 
+## Tutorials
+
+Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
+
+Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+
+* List of tutorials will be released as Week 2 approaches 
+
 ## Special Friday Activities
 
 We have a couple of special activities for the end of this week!
