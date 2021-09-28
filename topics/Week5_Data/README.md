@@ -100,7 +100,7 @@ Completion of any of the following tutorials during Devtoberfest will earn you p
 
 Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
-* List of tutorials will be released as Week 5 approaches 
+* List of tutorials will be released as Week 5 approaches
 
 ## Coding Challenge
 Use SAP HANA for some fun geospatial exploration!
@@ -111,4 +111,16 @@ Please, stay tuned for details.
 
 Let's talk **Coding for Kids**!
 
-Please, stay tuned for details.
+
+<table border=0px>
+<tr>
+<td width = 270>
+<img src="../../images/JadgaHuegle_250px_shadow.png" alt="Jadga"></td>
+<td>
+Originally a biologist, <b><a href="https://people.sap.com/jadga.huegle">Jadga Hügle</a></b> discovered her interest in computer science while building a small connected greenhouse. Since then, she has become a Snap! enthusiast and is eager to share her excitement with everyone. Jadga currently works for SAP’s Snap! team.</td></tr>
+<tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>
+<td>SAP scientist <b><a href="https://people.sap.com/jmoenig">Jens Mönig</a></b> has been awarded the National Technology Leadership Summit (NTLS) Education Technology Leadership Award, which recognizes individuals who have made a significant impact in the field of educational technology over the course of a lifetime.</td>
+</tr>
+</table>
+
+Please, stay tuned for more details.
