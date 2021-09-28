@@ -45,7 +45,14 @@ There are a lot of choices that you can make when developing cloud native soluti
 - Polywork: <https://www.polywork.com/lechnerc77/>
         </td>  </tr></table>
 
- 
+## Tutorials
+
+Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
+
+Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+
+* List of tutorials will be released as Week 3 approaches 
+
  ## Special Friday Activity
  
 ### Eric Johnson "Attitude of Iteration"
