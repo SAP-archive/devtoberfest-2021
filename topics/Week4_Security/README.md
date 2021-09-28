@@ -66,9 +66,11 @@ Containers continue to mystify security practitioners, mostly because they donâ€
 
 ## Tutorials
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes. to-do: link to contest overview page
+Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
 
-* List of tutorials will be released as Week 5 approaches
+Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+
+* List of tutorials will be released as Week 4 approaches 
 
 ## Coding Challenges
 
