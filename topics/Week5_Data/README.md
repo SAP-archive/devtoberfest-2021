@@ -8,10 +8,10 @@ Topic Owner: [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
 
 ## Presentations
 
-All sessions are 60 minutes long, including time for your online questions.
+All sessions are 60 minutes long, including time for your questions.
 
 ### The Modern Enterprise Data Landscape
-November 2nd, 17:00 CET / 9:00 MST
+November 2nd, 17:00 CET / 09:00 MST
 
 Enterprise-scale data management has long been a highly complex and often frustrating proposition. Today, with data warehouses and data marts, data lakes, data lakehouses, data fabric, data mesh, multimodel data platforms and more… your alternatives can be mind-numbing and make you feel as if you’ll never reach your enterprise data management goals.
 
@@ -64,7 +64,7 @@ Meet and greet authors of bestselling books on the topics of SAP Data and Analyt
 Meet-the-Author gives you direct access to authors who will present their professional stories, share experience, and offer writing tips. During these live panels, authors will describe writing and publishing process, their own approaches to learning, and ways to stay current with the constantly evolving tech world. They are looking forward to your questions too!
 
 ### Panel 1
-November 3rd, 09:00 CET
+November 3rd, 10:00 CET / 14:30 IST /  17:00 SGT
 
 ![Dharma](../../images/DharmaTejaAtluri_250px_shade.png)  ![Thorsten](../../images/ThorstenLuedtke_250px_shade.png) ![Stefan](../../images/StefanHartmann_250px_shade.png)
 
@@ -73,7 +73,7 @@ November 3rd, 09:00 CET
 * [Stefan Hartmann](https://people.sap.com/stefan.hartmann.dtt), co-author of "[Practical Guide to SAP HANA and Big Data Analytics](https://www.espresso-tutorials.de/produkt/practical-guide-to-sap-hana-and-big-data-analytics/)"
 
 ### Panel 2
-November 3rd, 17:00 CET
+November 3rd, 17:00 CET / 09:00 PST
 
 ![Melanie](../../images/MelanieHolzapfel_250px_shade.png) ![Heather](../../images/HeatherHill_250px_shade.png) ![Konrad](../../images/KonradZaleski_250px_shade.png)
 
@@ -82,7 +82,7 @@ November 3rd, 17:00 CET
 * [Konrad Załęski](https://people.sap.com/konrad), author of "[Data Modeling with SAP BW/4HANA 2.0: Implementing Agile Data Models Using Modern Modeling Concepts](https://www.apress.com/gp/book/9781484270882)"
 
 ## Ask-the-Expert: Data Science in practice
-November 4th, 16:00 CET / 11:00 EDT / 20:30 IST (tbc)
+November 4th, 16:00 CET / 11:00 EDT / 20:30 IST
 
 We got recognized experts and active community members to join a panel answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models using SAP HANA, SAP Analytics Cloud, SAP Data Intelligence, SAP AI Business Services and SAP AI Foundation.
 
