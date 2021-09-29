@@ -66,6 +66,8 @@ Meet-the-Author gives you direct access to authors who will present their profes
 ### Panel 1
 November 3rd, 10:00 CET / 14:30 IST /  17:00 SGT
 
+[Join us live on YouTube](https://youtu.be/n_TPj9OYP5M), and get involved in the conversation!
+
 ![Dharma](../../images/DharmaTejaAtluri_250px_shade.png)  ![Thorsten](../../images/ThorstenLuedtke_250px_shade.png) ![Stefan](../../images/StefanHartmann_250px_shade.png)
 
 * [Dharma Teja Atluri](https://people.sap.com/dharmateja.atluri), co-author of "[SAP Data Intelligence: The Comprehensive Guide](https://www.sap-press.com/sap-data-intelligence_5369/)"
@@ -74,6 +76,8 @@ November 3rd, 10:00 CET / 14:30 IST /  17:00 SGT
 
 ### Panel 2
 November 3rd, 17:00 CET / 09:00 PST
+
+[Join us live on YouTube](https://youtu.be/l5eSm6c3lmk), and get involved in the conversation!
 
 ![Melanie](../../images/MelanieHolzapfel_250px_shade.png) ![Heather](../../images/HeatherHill_250px_shade.png) ![Konrad](../../images/KonradZaleski_250px_shade.png)
 
