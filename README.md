@@ -36,7 +36,7 @@ Register for the event on Eventbrite to recieve all the latest notifications abo
 
 A game that is open to all developers.  Points can be accrued by completing items listed on [the game page readme](contest/readme.md).  Points are awarded for things such as attending a presentation or completing tutorials on SAP Community. Prizes are awarded based on badges earned and associated points accumulated.  Prize and Points are described on [the game page readme](contest/readme.md) as well as the rules relating to how many winners will make it to the Grand Prize Winner drawing.
 
-For full details on the contest aspects pleas see the [Game Page Readme](contest/readme.md) and of course for all the rules see [Terms and Conditions](TOC.md).
+For full details on the contest aspects please see the [Game Page Readme](contest/readme.md) and of course for all the rules see [Terms and Conditions](TOC.md).
 
 But the fun doesn’t end there.  We have an animated Contest Gameboard to help you track your progress through the contest.  Just replace `scnId.Here` with your SAP Community Profile ID to the end of the following URL: [https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/scnId.Here](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/scnId.Here).
 
