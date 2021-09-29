@@ -60,27 +60,7 @@ He has written lots of blog posts about ABAP and OData service development and h
 
 ### Continuous Integration and Delivery with SAP
 
-Date and Time: Wednesday 13 October 08:00 BST (London) 09:00 CEST (Berlin) 12:30 IST (Bengaluru) 18:00 AEDT Sydney [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211012T070000&p1=136&p2=37&p3=438&p4=240rl)
-
-Duration: 45 mins
-
-Hear directly from one of the team members of the CI/CD service on SAP Business Technology Platform, and learn about best practices in this area.
-
-[Join us live on YouTube](https://youtu.be/BEZEdN9IMks), and get involved in the conversation!
-
-<table border="0px" width="100%">
-<tr>
-<td width="270"><img src="../../images/250/ChristophSzymanski.jpg"> </td>
-<td><p><b>Christoph Szymanski</b> is a Product Owner in the CI/CD space. He has been with SAP for more than 10 years - working on various CI/CD topics for SAP teams: infrastructure, tooling, processes. Recently, he's been trying to make our internal experience available to customers, via tools and products, talks and best practices.
-</p>
-<ul>
-<li>SAP Community: <a href="https://people.sap.com/christoph.szymanski">https://people.sap.com/christoph.szymanski</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/christoph-szymanski-9b0484103">https://www.linkedin.com/in/christoph-szymanski-9b0484103</a></li>
-<li>Twitter: <a href="https://twitter.com/ski_at_work">https://twitter.com/ski_at_work</a></li>
-</ul>
-</td>
-</tr>
-</table>
+This session has been canceled due to external circumstances, for which we are all sending our love and best wishes. 
 
 ## Tutorials
 
