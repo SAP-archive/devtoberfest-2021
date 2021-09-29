@@ -77,7 +77,7 @@ November 3rd, 17:00 CET / 09:00 PST
 
 ![Melanie](../../images/MelanieHolzapfel_250px_shade.png) ![Heather](../../images/HeatherHill_250px_shade.png) ![Konrad](../../images/KonradZaleski_250px_shade.png)
 
-* Melanie Holzapfel, co-author of "[Designing Dashboards with SAP Analytics Cloud](https://www.rheinwerk-verlag.de/designing-dashboards-with-sap-analytics-cloud/)"
+* [Melanie Holzapfel](https://people.sap.com/melanie.holzapfel), co-author of "[Designing Dashboards with SAP Analytics Cloud](https://www.rheinwerk-verlag.de/designing-dashboards-with-sap-analytics-cloud/)"
 * [Heather Hill](https://people.sap.com/heather89), co-author of "[SAP BusinessObjects Web Intelligence: The Comprehensive Guide](https://www.sap-press.com/sap-businessobjects-web-intelligence_4412/)"
 * [Konrad Załęski](https://people.sap.com/konrad), author of "[Data Modeling with SAP BW/4HANA 2.0: Implementing Agile Data Models Using Modern Modeling Concepts](https://www.apress.com/gp/book/9781484270882)"
 
@@ -110,7 +110,6 @@ Please, stay tuned for details.
 ## Fun Friday Activity
 
 Let's talk **Coding for Kids**!
-
 
 <table border=0px>
 <tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>
