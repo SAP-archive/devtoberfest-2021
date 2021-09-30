@@ -22,7 +22,7 @@ Platforms available:
 
 ### Multiplayer FPS (First Person Shooter)
 - [Valorant (F2P)](https://playvalorant.com/)
-- [Fortnite (F2P)](https://www.epicgames.com/fortnite/) (Thomas: PC)
+- [Fortnite (F2P)](https://www.epicgames.com/fortnite/) (Thomas: PC; Riley: PC)
 - [Call of Duty: Warzone (F2P)](https://www.callofduty.com/warzone)
 - [Counter-Strike: Global Offensive (F2P)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 - [Apex Legends (F2P)](https://www.ea.com/games/apex-legends)
@@ -60,7 +60,7 @@ Platforms available:
 - [Warcraft III: Reforged](https://playwarcraft3.com/)
 - [Warhammer 40K: Gladius](https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/)
 - [Command & Conquer: Remastered](https://www.ea.com/de-de/games/command-and-conquer/command-and-conquer-remastered)
-- [Sid Meier's Civilization VI](https://civilization.com/) (Thomas: PC)
+- [Sid Meier's Civilization VI](https://civilization.com/) (Thomas: PC; Riley: PC)
 
 ### MOBA (Multiplayer Online Battle Arena)
 - [League of Legends (F2P)](https://na.leagueoflegends.com/en-us/)
@@ -74,7 +74,7 @@ Platforms available:
 - [Human Fall Flat](https://store.steampowered.com/app/477160/Human_Fall_Flat/)
 - [Broforce](https://www.broforcegame.com/)
 - [Minecraft](https://www.minecraft.net/en-us)
-- [MS Flight Simulator 2020](https://www.microsoft.com/de-de/p/microsoft-flight-simulator-standard-edition/9nxn8gf8n9ht?activetab=pivot:overviewtab) (Uwe: PC)
+- [MS Flight Simulator 2020](https://www.microsoft.com/de-de/p/microsoft-flight-simulator-standard-edition/9nxn8gf8n9ht?activetab=pivot:overviewtab) (Uwe: PC; Riley: PC)
 
 ### Fighting Games
 - [Street Fighter V](https://streetfighter.com/)
