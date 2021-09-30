@@ -11,7 +11,7 @@ Topic Owner: [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
 All sessions are 60 minutes long, including time for your questions.
 
 ### The Modern Enterprise Data Landscape
-November 2nd, 17:00 CET / 09:00 MST
+November 2nd, [17:00 CET / 09:00 MST / 21:30 IST](https://www.timeanddate.com/worldclock/converter.html?iso=20211102T160000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224&p7=197&p8=438)
 
 Enterprise-scale data management has long been a highly complex and often frustrating proposition. Today, with data warehouses and data marts, data lakes, data lakehouses, data fabric, data mesh, multimodel data platforms and more… your alternatives can be mind-numbing and make you feel as if you’ll never reach your enterprise data management goals.
 
@@ -27,7 +27,7 @@ Enterprise-scale data management has long been a highly complex and often frustr
 </table>
 
 ### Demystifying Data Science in the Enterprise
-November 2nd, 10:00 CET / 14:30 IST / 17:00 SGT
+November 2nd, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211102T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
 
 Data Science has been a hot topic in the enterprise in the last decade. Thanks to advances in deep learning, the role of data scientists has expanded into new applications, namely building AI services.
 
@@ -45,7 +45,7 @@ In this talk we describe machine learning use-cases from our team and describe o
 </table>
 
 ### Data Visualization: Then and Now
-November 4th, 10:00 CET / 14:30 IST / 17:00 SGT
+November 4th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211104T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
 
 Data Visualization is the new old topic. Surprisingly its history is not that long even if spreadsheets made data exploration ubiquitous. But as Data is moving into 3xV directions (Volume, Velocity and Variety) so is modern Visualization of it. After going through a bit of a theory we will move into practical aspects of Data Storytelling and Exploratory Data Analysis.
 
@@ -64,7 +64,7 @@ Meet and greet authors of bestselling books on the topics of SAP Data and Analyt
 Meet-the-Author gives you direct access to authors who will present their professional stories, share experience, and offer writing tips. During these live panels, authors will describe writing and publishing process, their own approaches to learning, and ways to stay current with the constantly evolving tech world. They are looking forward to your questions too!
 
 ### Panel 1
-November 3rd, 10:00 CET / 14:30 IST /  17:00 SGT
+November 3rd, [10:00 CET / 14:30 IST /  17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211103T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
 
 [Join us live on YouTube](https://youtu.be/n_TPj9OYP5M), and get involved in the conversation!
 
@@ -75,7 +75,7 @@ November 3rd, 10:00 CET / 14:30 IST /  17:00 SGT
 * [Stefan Hartmann](https://people.sap.com/stefan.hartmann.dtt), co-author of "[Practical Guide to SAP HANA and Big Data Analytics](https://www.espresso-tutorials.de/produkt/practical-guide-to-sap-hana-and-big-data-analytics/)"
 
 ### Panel 2
-November 3rd, 17:00 CET / 09:00 PST
+November 3rd, [17:00 CET / 09:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211103T160000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224)
 
 [Join us live on YouTube](https://youtu.be/l5eSm6c3lmk), and get involved in the conversation!
 
@@ -86,7 +86,7 @@ November 3rd, 17:00 CET / 09:00 PST
 * [Konrad Załęski](https://people.sap.com/konrad), author of "[Data Modeling with SAP BW/4HANA 2.0: Implementing Agile Data Models Using Modern Modeling Concepts](https://www.apress.com/gp/book/9781484270882)"
 
 ## Ask-the-Expert: Data Science in practice
-November 4th, 16:00 CET / 11:00 EDT / 20:30 IST
+November 4th, [16:00 CET / 11:00 EDT / 20:30 IST]((https://www.timeanddate.com/worldclock/converter.html?iso=20211104T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224))
 
 We got recognized experts and active community members to join a panel answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models using SAP HANA, SAP Analytics Cloud, SAP Data Intelligence, SAP AI Business Services and SAP AI Foundation.
 
@@ -113,11 +113,14 @@ Please, stay tuned for details.
 
 ## Fun Friday Activity
 
-Let's talk **Coding for Kids**!
+### Let's talk **Coding for Kids**!
+November 5th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240) and [16:00 CET / 08:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224) (___tbc___)
+
+Did you know that SAP makes its own visual programming language for Computing Education? Let us tell (and show) you all about it: [Snap! Build Your Own Blocks](https://snap.berkeley.edu/) is the programming language kids in Silicon Valley learn in high school and college students at UC Berkeley use to explore the Beauty and Joy of Computing. We'll take you on an exclusive backstage tour of our R&D lab.
 
 <table border=0px>
 <tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>
-<td>SAP scientist <b><a href="https://people.sap.com/jmoenig">Jens Mönig</a></b> has been awarded the National Technology Leadership Summit (NTLS) Education Technology Leadership Award, which recognizes individuals who have made a significant impact in the field of educational technology over the course of a lifetime.</td>
+<td><b><a href="https://people.sap.com/jmoenig">Jens Mönig</a></b> is not just the Lead developer of <b>Snap!</b>, but also a researcher at SAP and a Lawyer – quite an interesting combination 🙂 Together with Brian Harvey from the University of California in Berkeley, he developed this visual programming language.<br><br>Jens has been awarded the National Technology Leadership Summit (NTLS) Education Technology Leadership Award, which recognizes individuals who have made a significant impact in the field of educational technology over the course of a lifetime.</td>
 </tr>
 <tr>
 <td width = 270>
