@@ -47,8 +47,13 @@ Platforms available:
 ### Arcade Racing
 - [Mario Kart 8 Deluxe](https://www.nintendo.de/Spiele/Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html)
 - [Crash Team Racing: Nitro-Fueled](https://www.crashbandicoot.com/crashteamracing)
-- [Wreckfest](https://order.wreckfestgame.com/)
+- [Wreckfest](https://order.wreckfestgame.com/) (Uwe: PC)
 - [TrackMania Turbo](https://www.ubisoft.com/de-de/game/trackmania/turbo)
+- [Grid](https://www.codemasters.com/game/grid/) (Uwe: PC + Stadia)
+
+### Racing
+- [RaceRoom Racing Experience](https://game.raceroom.com) (Uwe: PC)
+- [Project CARS 2](https://www.projectcarsgame.com/two/) (Uwe: PC)
 
 ### RTS (Real Time Strategy)
 - [Starcraft 2 (F2P)](https://starcraft2.com/)
@@ -69,6 +74,7 @@ Platforms available:
 - [Human Fall Flat](https://store.steampowered.com/app/477160/Human_Fall_Flat/)
 - [Broforce](https://www.broforcegame.com/)
 - [Minecraft](https://www.minecraft.net/en-us)
+- [MS Flight Simulator 2020](https://www.microsoft.com/de-de/p/microsoft-flight-simulator-standard-edition/9nxn8gf8n9ht?activetab=pivot:overviewtab) (Uwe: PC)
 
 ### Fighting Games
 - [Street Fighter V](https://streetfighter.com/)
