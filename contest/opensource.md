@@ -6,7 +6,7 @@ Therefore to submit your open source project for consideration as part of Devtob
 
 ## Entries
 
-For a current list of contest entries and details about their projects, please see details here
+For a current list of contest entries and details about their projects, please see details [here](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/entry.csv).
 
 ## Open Source and SAP
 
