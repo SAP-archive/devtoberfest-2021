@@ -62,6 +62,30 @@ He has written lots of blog posts about ABAP and OData service development and h
 
 This session has been canceled due to external circumstances, for which we are all sending our love and best wishes. 
 
+### Editor Extensions and Standards in the Modern World of Scripting and CLI Tools
+
+Date and Time: Wednesday 13 October 08:00 BST (London) 09:00 CEST (Berlin) 12:30 IST (Bengaluru) 18:00 AEDT Sydney [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211013T070000&p1=136&p2=37&p3=438&p4=240)
+
+Duration: 45 mins
+
+In this live session we'll discuss the importance of code standards, and talk about linting and auto-formatting at source, "shifting left" the standardization as much as possible. Such standards and tooling is important for any language and development undertaking, and can help immensely when learning new languages too. We'll see how a couple of VS Code extensions that can auto-format and also catch bad practices, advising on improvements, when writing Bash shell scripts, the glue that holds the cloud together and [an important tool in your box](https://www.youtube.com/watch?v=xRmHZGk4QCU&list=PL6RpkC85SLQABOpzhd7WI-hMpy99PxUo0&index=1) when managing and manipulating resources on platforms like BTP.
+
+[Join us live on YouTube](https://youtu.be/BEZEdN9IMks), and get involved in the conversation!
+
+<table border="0px" width="100%">
+<tr>
+<td width="270"><img src="../../images/250/DjAdams.jpg"> </td>
+<td><p><b>DJ Adams</b> is a Developer Advocate at SAP focusing on integration and extension topics on the SAP Business Technology Platform. He runs a regular live-stream on the SAP Developers “Hands-on SAP Dev” show and enjoys sharing his curiosity on many SAP development topics. He read Classics at university, has worked on SAP systems since 1987, co-created the SAP Community, and is a lifelong learner.
+</p>
+<ul>
+<li>SAP Community: <a href="https://people.sap.com/dj.adams.sap">https://people.sap.com/dj.adams.sap</a> and <a href="https://people.sap.com/dj.adams">https://people.sap.com/dj.adams</a></li>
+<li>GitHub: <a href="https://github.com/qmacro">https://github.com/qmacro</a></li>
+<li>Twitter: <a href="https://twitter.com/qmacro">https://twitter.com/qmacro</a></li>
+</ul>
+</td>
+</tr>
+</table>
+
 ## Tutorials
 
 Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
