@@ -55,6 +55,8 @@ important as brilliant engineering.
 Join Senior Curator Dag Spicer for a quick tour, followed by live Q&A of Revolution: The First 2000 Years of Computing, an
 engaging 25,000-square-foot exhibition that chronicles the history of computing, from the abacus to the smartphone. 
 
+[Join us live on YouTube](https://www.youtube.com/watch?v=M6SXIeXbnik), and get involved in the conversation!
+
 <table >
     <tr>
         <td width=250><img src="../../images/Dag_Spicer.jpg" alt="Dag Spicer"><br/></td>
