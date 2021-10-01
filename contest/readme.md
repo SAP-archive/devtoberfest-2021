@@ -34,7 +34,7 @@ Prizes are awarded via points accumulated and you can see the potential prize po
 |Registrant	| 10	| Devtoberfest 2021 | <img src="https://community.sap.com/images/bltdc55235ff270a332/devtoberfest-2021-1.svg" alt="Participation Badge" width=50/>	| Devtoberfest 2021 |
 |1 Star	| 2000	| Devtoberfest 2021 T-Shirt and stickers |	<img src="https://community.sap.com/images/blt703b306594a0bd3f/devtoberfest-1-star-1.svg" alt="Participation Badge" width=50/> |
 |2 Stars | 12000 | $100 Voucher and Virtual Selfie with Advocate |	<img src="https://community.sap.com/images/bltc14a8a998e5b1fad/devtoberfest-2-star-1.svg" alt="Participation Badge" width=50/> |
-|3 Stars | 18000| Devtoberfest 2021 Outerwear  (jacket/fleece) | <img src="https://community.sap.com/images/blt23a5488aa7a58045/devtoberfest-3-star-1.svg" alt="Participation Badge" width=50/> |
+|3 Stars | 18000| Devtoberfest 2021 Outerwear  (jacket) | <img src="https://community.sap.com/images/blt23a5488aa7a58045/devtoberfest-3-star-1.svg" alt="Participation Badge" width=50/> |
 |4 Stars (Grand Prize) 1 Winner	| 24000 |	Donation to Charity and Trees Planted in winners name | <img src="https://community.sap.com/images/bltcf4ac8dca59eb0e1/devtoberfest-4-star-1.svg" alt="Participation Badge" width=50/> |
 
 ## Game Specific Rules
