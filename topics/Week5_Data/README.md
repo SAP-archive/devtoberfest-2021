@@ -17,7 +17,7 @@ Enterprise-scale data management has long been a highly complex and often frustr
 
 40-year technology veteran Alan Simon untangles and demystifies the enterprise data management landscape, helping you leap beyond jargon and the latest hot trends through a grounded-in-reality approach to address your longstanding challenges. Whether you are a newcomer to enterprise data or a longtime practitioner, this presentation will help expand your personal data management solutions portfolio and navigate the ever-changing enterprise data landscape.
 
-[Join us live on YouTube](https://youtu.be/fCVFb_xk1Gg), and ask your questions!
+📺 [Join us live on YouTube](https://youtu.be/fCVFb_xk1Gg), and ask your questions!
 
 <table border=0px>
 <tr>
@@ -33,7 +33,7 @@ Data Science has been a hot topic in the enterprise in the last decade. Thanks t
 
 In this talk we describe machine learning use-cases from our team and describe our learnings and takeaways.
 
-[Join us live on YouTube](https://youtu.be/G4vtt_U1wjs), and ask your questions!
+📺 [Join us live on YouTube](https://youtu.be/G4vtt_U1wjs), and ask your questions!
 
 <table border=0px>
 <tr>
@@ -48,6 +48,8 @@ In this talk we describe machine learning use-cases from our team and describe o
 November 4th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211104T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
 
 Data Visualization is the new old topic. Surprisingly its history is not that long even if spreadsheets made data exploration ubiquitous. But as Data is moving into 3xV directions (Volume, Velocity and Variety) so is modern Visualization of it. After going through a bit of a theory we will move into practical aspects of Data Storytelling and Exploratory Data Analysis.
+
+📺 [Join us live on YouTube](https://youtu.be/HB9-lbnsHaA), and ask your questions!
 
 <table border=0px>
 <tr>
@@ -66,7 +68,7 @@ Meet-the-Author gives you direct access to authors who will present their profes
 ### Panel 1
 November 3rd, [10:00 CET / 14:30 IST /  17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211103T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
 
-[Join us live on YouTube](https://youtu.be/n_TPj9OYP5M), and get involved in the conversation!
+📺 [Join us live on YouTube](https://youtu.be/n_TPj9OYP5M), and get involved in the conversation!
 
 ![Dharma](../../images/DharmaTejaAtluri_250px_shade.png)  ![Thorsten](../../images/ThorstenLuedtke_250px_shade.png) ![Stefan](../../images/StefanHartmann_250px_shade.png)
 
@@ -77,7 +79,7 @@ November 3rd, [10:00 CET / 14:30 IST /  17:00 SGT](https://www.timeanddate.com/w
 ### Panel 2
 November 3rd, [17:00 CET / 09:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211103T160000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224)
 
-[Join us live on YouTube](https://youtu.be/l5eSm6c3lmk), and get involved in the conversation!
+📺 [Join us live on YouTube](https://youtu.be/l5eSm6c3lmk), and get involved in the conversation!
 
 ![Melanie](../../images/MelanieHolzapfel_250px_shade.png) ![Heather](../../images/HeatherHill_250px_shade.png) ![Konrad](../../images/KonradZaleski_250px_shade.png)
 
@@ -90,7 +92,7 @@ November 4th, [16:00 CET / 11:00 EDT / 20:30 IST](https://www.timeanddate.com/wo
 
 We got recognized experts and active community members to join a panel answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models using SAP HANA, SAP Analytics Cloud, SAP Data Intelligence, SAP AI Business Services and SAP AI Foundation.
 
-[Join us live on YouTube](https://www.youtube.com/watch?v=MU_W2J-uQbI), and get involved in the conversation!
+📺 [Join us live on YouTube](https://www.youtube.com/watch?v=MU_W2J-uQbI), and get involved in the conversation!
 
 ![Sarah](../../images/SarahDetzler_250px_shade.png) ![Andreas](../../images/AndreasForster_250px_shadow.png) ![Karthik](../../images/KarthikMuthuswamy_250px_shade.png)
 
@@ -118,7 +120,7 @@ November 5th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/wo
 
 Did you know that SAP makes its own visual programming language for Computing Education? Let us tell (and show) you all about it: [Snap! Build Your Own Blocks](https://snap.berkeley.edu/) is the programming language kids in Silicon Valley learn in high school and college students at UC Berkeley use to explore the Beauty and Joy of Computing. We'll take you on an exclusive backstage tour of our R&D lab.
 
-Join us live on YouTube, and get involved in the conversation!
+📺 Join us live on YouTube, and get involved in the conversation!
 
 <table border=0px>
 <tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>
