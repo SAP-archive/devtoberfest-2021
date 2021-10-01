@@ -86,7 +86,7 @@ November 3rd, [17:00 CET / 09:00 PST](https://www.timeanddate.com/worldclock/con
 * [Konrad Załęski](https://people.sap.com/konrad), author of "[Data Modeling with SAP BW/4HANA 2.0: Implementing Agile Data Models Using Modern Modeling Concepts](https://www.apress.com/gp/book/9781484270882)"
 
 ## Ask-the-Expert: Data Science in practice
-November 4th, [16:00 CET / 11:00 EDT / 20:30 IST]((https://www.timeanddate.com/worldclock/converter.html?iso=20211104T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224))
+November 4th, [16:00 CET / 11:00 EDT / 20:30 IST](https://www.timeanddate.com/worldclock/converter.html?iso=20211104T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224)
 
 We got recognized experts and active community members to join a panel answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models using SAP HANA, SAP Analytics Cloud, SAP Data Intelligence, SAP AI Business Services and SAP AI Foundation.
 
@@ -117,6 +117,8 @@ Please, stay tuned for details.
 November 5th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240) and [16:00 CET / 08:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224) (___tbc___)
 
 Did you know that SAP makes its own visual programming language for Computing Education? Let us tell (and show) you all about it: [Snap! Build Your Own Blocks](https://snap.berkeley.edu/) is the programming language kids in Silicon Valley learn in high school and college students at UC Berkeley use to explore the Beauty and Joy of Computing. We'll take you on an exclusive backstage tour of our R&D lab.
+
+Join us live on YouTube, and get involved in the conversation!
 
 <table border=0px>
 <tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>
