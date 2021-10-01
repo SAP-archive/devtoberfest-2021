@@ -9,7 +9,7 @@ Topic Owner: [Josh Bentley](https://github.com/jarjarbentley)
 ## Presentations
 
 ### Jens Keller "Microservices are Probably Not What You Think They Are"
-Date and Time: Tuesday, October 19th at 09:00 CEST / 15:00 SGT / 03:00 EDT
+Date and Time: Tuesday, October 19th at 09:00 CEST / 15:00 SGT / 03:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211019T070000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
 
 Duration: 50 mins
 
@@ -26,7 +26,7 @@ Every company that claims to be a cloud company, claims to be developing Microse
 
 ### Christian Lechner "Pour Some Serverless On Me"
 
-Date and Time: Thursday, October 21st at 17:00 CEST  20:30 IST. 11:00 EDT
+Date and Time: Thursday, October 21st at 17:00 CEST  20:30 IST. 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211021T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
 
 Duration: 60 mins
 
@@ -56,7 +56,7 @@ Please find all the contest info here: [Contest Overview Page](https://github.co
  ## Special Friday Activity
  
 ### Eric Johnson "Attitude of Iteration"
-Date and Time: Friday, October 22nd at 17:00 CEST / 20:30 IST (Bengaluru) / 11:00 EDT / 09:00 MDT (Denver)
+Date and Time: Friday, October 22nd at 17:00 CEST / 20:30 IST (Bengaluru) / 11:00 EDT / 09:00 MDT (Denver) [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211022T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
 
 Duration: 50 mins
 

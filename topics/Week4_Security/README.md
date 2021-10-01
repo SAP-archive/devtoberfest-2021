@@ -11,7 +11,7 @@ For the tutorial and code challenge content of this week there will be a speacia
 ## Presentations 
 
 ### Cédric Hebert "Hackers Want Passwords"
-Date and Time: Monday, October 25th at 17:00 CEST / 23:00 SGT / 11:00 EDT
+Date and Time: Monday, October 25th at 17:00 CEST / 23:00 SGT / 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211025T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
 
 Duration: 50 mins
 
@@ -34,7 +34,7 @@ As a certified expert of the Security Research team, he spends his time influenc
 Cédric’s drives are sharing knowledge, learning new things every day and supporting people in getting more secure (instead of blaming them for clicking on the wrong link !).</td>  </tr></table>
 
 ### Thomas Jung "Security Aspects of SAP Cloud Application Programming Model"
-Date and Time: Wednesday, October 27th at 17:00 CEST / 23:00 SGT / 11:00 EDT
+Date and Time: Wednesday, October 27th at 17:00 CEST / 23:00 SGT / 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211027T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
 
 Duration: 50 mins
 
@@ -49,7 +49,7 @@ The SAP Cloud Application Programming Model comes out of the box with lots of be
 </td>  <td><b>Thomas Jung</b> is currently Head of Developer Advocacy, SAP Developer & Community Relations at SAP. This is a continuation of his long career in the SAP technology space. Throughout his career he's focused on the SAP applications developer and the tools and languages which support their activities with a particular interest in sharing knowledge through various channels both online and in person.</td>  </tr></table>
 
 ### Michele Chubirka "Container Security: It's All About the Supply Chain"
-Date and Time: Thursday, October 28th at 17:00 CEST / 23:00 SGT / 11:00 EDT
+Date and Time: Thursday, October 28th at 17:00 CEST / 23:00 SGT / 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211028T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
 
 Duration: 50 mins
 
