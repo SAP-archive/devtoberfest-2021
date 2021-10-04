@@ -25,7 +25,7 @@ Duration: 45 mins
 
 Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js.
 
-[Join us live on YouTube](https://youtu.be/WTOOse-Flj8), and get involved in the conversation!
+📺 [Join us live on YouTube](https://youtu.be/WTOOse-Flj8), and get involved in the conversation!
 
 <table border="0px" width="100%">
 <tr>
@@ -49,7 +49,7 @@ Duration: 45 mins
 
 Hear directly from one of the pre-eminent developers in the ABAP RESTful Application Programming Model (RAP) space, about recommended techniques and approaches in the language that powers the core of SAP S/4HANA and many other platforms.
 
-[Join us live on YouTube](https://youtu.be/AHEkbCDkn-E), and get involved in the conversation!
+📺 [Join us live on YouTube](https://youtu.be/AHEkbCDkn-E), and get involved in the conversation!
 
 <table border="0px" width="100%">
 <tr>
@@ -79,7 +79,7 @@ Duration: 45 mins
 
 In this live session we'll discuss the importance of code standards, and talk about linting and auto-formatting at source, "shifting left" the standardization as much as possible. Such standards and tooling is important for any language and development undertaking, and can help immensely when learning new languages too. We'll see how a couple of VS Code extensions that can auto-format and also catch bad practices, advising on improvements, when writing Bash shell scripts, the glue that holds the cloud together and [an important tool in your box](https://www.youtube.com/watch?v=xRmHZGk4QCU&list=PL6RpkC85SLQABOpzhd7WI-hMpy99PxUo0&index=1) when managing and manipulating resources on platforms like BTP.
 
-[Join us live on YouTube](https://youtu.be/BEZEdN9IMks), and get involved in the conversation!
+📺 [Join us live on YouTube](https://youtu.be/BEZEdN9IMks), and get involved in the conversation!
 
 <table border="0px" width="100%">
 <tr>
@@ -119,7 +119,7 @@ Duration: 30 mins
 
 On the Friday of this Best Practices week, we have special guest <b>James Governor</b>, analyst and co-founder of RedMonk. James will be chatting live with [Developer Advocate](https://developers.sap.com/developer-advocates.html) [DJ Adams](https://github.com/qmacro) about best practices in the cloud native space. James has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices.
 
-[Join us live on YouTube](https://youtu.be/3Av2ve0nxCM), and get involved in the conversation!
+📺 [Join us live on YouTube](https://youtu.be/3Av2ve0nxCM), and get involved in the conversation!
 
 <table border="0px" width="100%">
 <tr>
