@@ -2,7 +2,16 @@
 
 This topic content is for Devtoberfest Week 2 : 11 October → 15 October 2021.
 
-Learn how you can level up in the technical areas that you work in every day.
+Learn how you can level up in the technical areas that you work in every day. In this Best Practices week, we have:
+
+* presentations on YouTube in live streams that you can join, watch, and chat with the other attendees
+* a challenge for you to complete and earn points
+* a series of tutorials for you to complete and earn points
+* a special guest interview
+
+There's also Dogtoberfest on the Friday of this week 🐶
+
+> See the [general contest section](https://github.com/SAP-samples/devtoberfest-2021#contest-the-game) for more information on how to earn points.
 
 Topic Owner: [DJ Adams](https://github.com/qmacro)
 
@@ -85,6 +94,10 @@ In this live session we'll discuss the importance of code standards, and talk ab
 </td>
 </tr>
 </table>
+
+## Challenge
+
+Stay tuned to learn about this week's Best Practices related challenge - it will be a follow-up to the [Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](#editor-extensions-and-standards-in-the-modern-world-of-scripting-and-cli-tools) presentation.
 
 ## Tutorials
 
