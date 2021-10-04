@@ -59,3 +59,19 @@ Attend to each and every message, dealing with all the issues. If you need help 
 
 The `shellcheck` tool is very accomplished and has rich and easy to read documentation in general, and specific documentation on every message it issues. Each message has an identifier that looks like this: `SCnnnn` where `nnnn` is a four digit number. You can look these up in the corresponding [wiki](https://github.com/koalaman/shellcheck/wiki), and there's a handy [summary list available too](https://gist.github.com/nicerobot/53cee11ee0abbdc997661e65b348f375#file-_shellcheck-md).
 
+
+### Consistent Source Formatting
+
+Formatting of the script must be consistent with the rules below; the best way to do this is to use the `shfmt` tool that the shell-format VS Code extension makes available.
+
+The formatting options for `shfmt` can be specified in VS Code's preferences via the `shellformat.flag` setting, and should be `-i 2 -sr -fn`, thus:
+
+|Option|Meaning|
+|-|-|
+|`-i 2`|indent with 2 spaces|
+|`-bn` |binary operations may start a line|
+|`-ci` |switch cases will be indented|
+|`-sr` |redirect operations will be followed by a space|
+
+![The shfmt options in the JSON preferences](images/shfmt-options.png)
+
