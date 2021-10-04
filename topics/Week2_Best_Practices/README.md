@@ -4,10 +4,10 @@ This topic content is for Devtoberfest Week 2 : 11 October → 15 October 2021.
 
 Learn how you can level up in the technical areas that you work in every day. In this Best Practices week, we have:
 
-* presentations on YouTube in live streams that you can join, watch, and chat with the other attendees
-* a challenge for you to complete and earn points
-* a series of tutorials for you to complete and earn points
-* a special guest interview
+* [presentations](#presentations) on YouTube in live streams that you can join, watch, and chat with the other attendees
+* a [challenge](#challenge) for you to complete and earn points
+* a series of [tutorials](#tutorials) for you to complete and earn points
+* a [special guest interview](#special-guest-speaker) with James Governor
 
 There's also Dogtoberfest on the Friday of this week 🐶
 
@@ -97,7 +97,7 @@ In this live session we'll discuss the importance of code standards, and talk ab
 
 ## Challenge
 
-Stay tuned to learn about this week's Best Practices related challenge - it will be a follow-up to the [Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](#editor-extensions-and-standards-in-the-modern-world-of-scripting-and-cli-tools) presentation.
+This week's Best Practices related challenge is a follow-up to the [Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](#editor-extensions-and-standards-in-the-modern-world-of-scripting-and-cli-tools) presentation. You can find all the details on this challenge, what to do, and how to do it, over on the [Best Practices - Challenge page](challenge/).
 
 ## Tutorials
 
