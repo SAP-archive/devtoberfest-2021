@@ -13,6 +13,8 @@ There's also Dogtoberfest on the Friday of this week 🐶
 
 > See the [general contest section](https://github.com/SAP-samples/devtoberfest-2021#contest-the-game) for more information on how to earn points.
 
+If you have a question about this week's content or challenge, please [ask via an issue, using this template](https://github.com/SAP-samples/devtoberfest-2021/issues/new?assignees=qmacro&labels=week2-best-practices&template=about-week-2--best-practices--content.md&title=). Thanks.
+
 Topic Owner: [DJ Adams](https://github.com/qmacro)
 
 ## Presentations
