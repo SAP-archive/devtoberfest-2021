@@ -14,6 +14,8 @@ If you're after some brief background reading, there's a short blog post on [imp
 * `shellcheck` - a shell script static analysis tool
 * `shfmt` - a shell parser, formatter and interpreter
 
+Please refer to the [challenge rules](#challenge-rules) at the end of this README for specific requirements.
+
 ## General Process
 
 The general process you must follow for this challenge is:
@@ -82,4 +84,15 @@ The formatting options for `shfmt` can be specified in VS Code's preferences via
 |`-sr` |redirect operations will be followed by a space|
 
 ![The shfmt options in the JSON preferences](images/shfmt-options.png)
+
+
+## Challenge Rules
+
+We don't want to be too prescriptive in this fun challenge, but there are a few things that we need to ask you to do, so that things have a chance of running smoothly.
+
+For this challenge, please abide by these rules:
+
+1. Do not submit any PR until the Thursday of Week 2, i.e. Thursday 14 Oct, the day after the related presentation ([Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week2_Best_Practices#editor-extensions-and-standards-in-the-modern-world-of-scripting-and-cli-tools))
+1. You can put whatever you want into the main description of your PR, but please ensure you specify the following precisely in the title: WEEK2CHALLENGE \<your SAP Community user name\>.
+
 
