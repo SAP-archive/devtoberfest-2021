@@ -1,6 +1,8 @@
 # Best Practices - Challenge
 
-Welcome to the challenge for Week 2, the [Best Practices week](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week2_Best_Practices).
+Welcome to the challenge for Week 2, the [Best Practices week](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week2_Best_Practices). 
+
+If you have a question about this challenge, please [ask via an issue, using this template](https://github.com/SAP-samples/devtoberfest-2021/issues/new?assignees=qmacro&labels=week2-best-practices&template=about-week-2--best-practices--content.md&title=). Thanks.
 
 ## Overview
 
