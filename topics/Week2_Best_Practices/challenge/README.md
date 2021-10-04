@@ -55,6 +55,14 @@ The `shellcheck` tool is an incredibly powerful facility that lints shell code a
 
 Use the ShellCheck extension in your VS Code installation to examine the issues that `shellcheck` highlights. It should emit messages at various severities - error, warning and information.
 
+In order to have the extension present you with the issues, you need to first tell VS Code what type of contents the [`btpguid.myscript`](btpguid.myscript) is.
+
+VS Code will probably fall back to assuming the content is plain text, so select that and tell it that the "language mode" is "shell", as shown:
+
+![specifying "shell" for language mode](images/select-file-type.png)
+
+> This would normally not be necessary for well-written scripts that don't have such a (deliberately) odd extension and that have a [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)) starting things off.
+
 Attend to each and every message, dealing with all the issues. If you need help or hints on how to, you'll find them in the corresponding presentation [Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week2_Best_Practices#editor-extensions-and-standards-in-the-modern-world-of-scripting-and-cli-tools) (use the "watch" link to get to the [replay](https://www.youtube.com/watch?v=BEZEdN9IMks)).
 
 The `shellcheck` tool is very accomplished and has rich and easy to read documentation in general, and specific documentation on every message it issues. Each message has an identifier that looks like this: `SCnnnn` where `nnnn` is a four digit number. You can look these up in the corresponding [wiki](https://github.com/koalaman/shellcheck/wiki), and there's a handy [summary list available too](https://gist.github.com/nicerobot/53cee11ee0abbdc997661e65b348f375#file-_shellcheck-md).
