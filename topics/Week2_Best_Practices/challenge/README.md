@@ -64,7 +64,7 @@ The `shellcheck` tool is very accomplished and has rich and easy to read documen
 
 Formatting of the script must be consistent with the rules below; the best way to do this is to use the `shfmt` tool that the shell-format VS Code extension makes available.
 
-The formatting options for `shfmt` can be specified in VS Code's preferences via the `shellformat.flag` setting, and should be `-i 2 -sr -fn`, thus:
+The formatting options for `shfmt` can be specified in VS Code's preferences via the `shellformat.flag` setting, and should be `-i 2 -bn -ci -sr`, thus:
 
 |Option|Meaning|
 |-|-|
