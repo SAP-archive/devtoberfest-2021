@@ -94,8 +94,5 @@ For this challenge, please abide by these rules:
 
 1. Please do not submit any PR until after the related presentation ([Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week2_Best_Practices#editor-extensions-and-standards-in-the-modern-world-of-scripting-and-cli-tools)) is over (it's on Wed 13 Oct). Any PRs submitted before the live session is ended will not be considered valid.
 1. You have a week to complete the challenge, i.e. to submit a PR with your script changes.  This means that any PR submitted after Wed 20 Oct will not be considered.
-1. Please ensure you specify the following precisely in the title: `WEEK2CHALLENGE \<your SAP Community user name\>`. So if your SAP Community user name is e.g. `dj.adams.sap` (from https://people.sap.com/dj.adams.sap) then the title of your PR must be `WEEK2CHALLENGE dj.adams.sap` (you can put whatever you want in the PR description - i.e. the multi-line text area).
+1. Please ensure you specify the following precisely in the title: `WEEK2CHALLENGE <your SAP Community user name>`. So if your SAP Community user name is e.g. `dj.adams.sap` (from https://people.sap.com/dj.adams.sap) then the title of your PR must be `WEEK2CHALLENGE dj.adams.sap` (you can put whatever you want in the PR description - i.e. the multi-line text area).
 1. You only need to send modifications to the script itself, you should not modify any other files in this repository.
-
-
-
