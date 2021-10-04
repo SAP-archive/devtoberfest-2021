@@ -26,6 +26,9 @@ The general process you must follow for this challenge is:
 * use VS Code and the extensions, combined with what you've seen in the presentation, to ensure the script complies with all the standards below
 * submit a pull request (PR) with the exact title "WEEK2CHALLENGE" to this repository, containing the changes you made
 
+> If you have access to [GitHub Codespaces](https://github.com/features/codespaces) then you can do all of this in the cloud, including the installation and use of the two extensions.
+> ![opening repository in GitHub Codespaces](images/repo-in-codespaces.png)
+
 ## Awarding of Points
 
 Your PR will be reviewed and points awarded according to how well you have completed the challenge, in other words, according to how close to the desired version you have taken the `btpguid.myscript` file.
@@ -74,17 +77,14 @@ The `shellcheck` tool is very accomplished and has rich and easy to read documen
 
 Formatting of the script must be consistent with the rules below; the best way to do this is to use the `shfmt` tool that the shell-format VS Code extension makes available.
 
-The formatting options for `shfmt` can be specified in VS Code's preferences via the `shellformat.flag` setting, and should be `-i 2 -bn -ci -sr`, thus:
+The formatting options for `shfmt` can be specified in VS Code's preferences via the `shellformat.flag` setting, and should be (all together like this in a single string as the value for `shellformat.flag`: `-i=2 -bn -ci -sr`. The meanings of these options are:
 
 |Option|Meaning|
 |-|-|
-|`-i 2`|indent with 2 spaces|
+|`-i=2`|indent with 2 spaces|
 |`-bn` |binary operations may start a line|
 |`-ci` |switch cases will be indented|
 |`-sr` |redirect operations will be followed by a space|
-
-![The shfmt options in the JSON preferences](images/shfmt-options.png)
-
 
 ## Challenge Rules
 
@@ -93,7 +93,7 @@ We don't want to be too prescriptive in this fun challenge, but there are a few 
 For this challenge, please abide by these rules:
 
 1. Please do not submit any PR until after the related presentation ([Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week2_Best_Practices#editor-extensions-and-standards-in-the-modern-world-of-scripting-and-cli-tools)) is over (it's on Wed 13 Oct). Any PRs submitted before the live session is ended will not be considered valid.
-1. You have a week to complete the challenge, i.e. to submit a PR with your script changes.  This means that any PR submitted after Wed 20 Oct will not be considered. 
+1. You have a week to complete the challenge, i.e. to submit a PR with your script changes.  This means that any PR submitted after Wed 20 Oct will not be considered.
 1. Please ensure you specify the following precisely in the title: `WEEK2CHALLENGE \<your SAP Community user name\>`. So if your SAP Community user name is e.g. `dj.adams.sap` (from https://people.sap.com/dj.adams.sap) then the title of your PR must be `WEEK2CHALLENGE dj.adams.sap` (you can put whatever you want in the PR description - i.e. the multi-line text area).
 1. You only need to send modifications to the script itself, you should not modify any other files in this repository.
 
