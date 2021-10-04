@@ -6,7 +6,7 @@ Welcome to the challenge for Week 2, the [Best Practices week](https://github.co
 
 As a follow-up to the [Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week2_Best_Practices#editor-extensions-and-standards-in-the-modern-world-of-scripting-and-cli-tools) presentation in this week, we have a shell script that is in need of some attention. Everything you are to do in this challenge has been demonstrated in that presentation, so if you're in doubt about anything, you can always go back and [watch the replay](https://www.youtube.com/watch?v=BEZEdN9IMks) first.
 
-From a high-level perspective, your task is to address the file naming, and the syntax & formatting issues in the file content, for the `btpguid.myscript` file, so that, as a result it complies with certain standards that are summarized below.
+From a high-level perspective, your task is to address the file naming, and the syntax & formatting issues in the file content, for the `btpguid.myscript` file, so that, as a result it complies with certain [script standards that are summarized below](#script-standards).
 
 If you're after some brief background reading, there's a short blog post on [improving shell scripting](https://qmacro.org/2020/10/05/improving-my-shell-scripting/) which will introduce you to the three key standards-related items used in this challenge:
 
