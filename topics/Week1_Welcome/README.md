@@ -13,7 +13,7 @@ But not only is this an informational week but also your start into an amazing a
 ## Presentations
 
 ### Juergen Mueller and Thomas Grassl "Devtoberfest Launch Party"
-Date and Time: Wednesday, October 6th at 18:10 CEST / 21:40 IST / 12:10 EDT
+Date and Time: Wednesday, October 6th at 18:10 CEST / 21:40 IST / 12:10 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211006T161000&p1=37&p2=198&p3=438&p4=240)
 
 Duration: 50 mins
 
@@ -42,7 +42,7 @@ So, don't miss out. Join the session live and be a part of the opening festiviti
     
 ### A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum By Dag Spicer, Senior Curator
 
-Date and Time: Friday, October 8th at 16:00 CEST / 19:30 IST / 10:00 EDT
+Date and Time: Friday, October 8th at 16:00 CEST / 19:30 IST / 10:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211008T140000&p1=37&p2=198&p3=438&p4=240)
 
 Duration: 60 mins
 
@@ -54,6 +54,8 @@ The story of computing is epic. It’s driven by the human passion for tinkering
 important as brilliant engineering. 
 Join Senior Curator Dag Spicer for a quick tour, followed by live Q&A of Revolution: The First 2000 Years of Computing, an
 engaging 25,000-square-foot exhibition that chronicles the history of computing, from the abacus to the smartphone. 
+
+[Join us live on YouTube](https://www.youtube.com/watch?v=M6SXIeXbnik), and get involved in the conversation!
 
 <table >
     <tr>
@@ -72,7 +74,7 @@ engaging 25,000-square-foot exhibition that chronicles the history of computing,
 The Computer History Museum (CHM) explores the computing past, digital present, and future impact of technology on humanity. Through research, events, and an
 extensive collection of computing artifacts and oral histories, CHM is committed to shaping a better world by decoding technology for everyone. 
 
-[Please visit us](www.computerhistory.org)
+[Please visit us](https://computerhistory.org)
 
 [Join the CHM Community](https://computerhistory.org/subscribe/)
  

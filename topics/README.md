@@ -68,7 +68,11 @@ Find more information about this session on the [topic page](Week2_Best_Practice
 
 Topic Owner: [Josh Bentley](https://github.com/jarjarbentley)
 
-to-do: description
+Cloud Native can mean a lot of things to a lot of delopers depending on the application deign and the solution the application is helping to provide.  We can all agree that front-end, back-end and full stack developer are not going away, but they are becoming immersed into the Cloud Native and Serverless world.  
+
+In this topic week we will look at drilling into what a microservice is and how best to use them.  Then we explore serverless app design and how to make your cloud native journey a success.  
+
+For the tutorial content of this week there will be a heavy focus on SAP Kyma within BTP.
 
 Find more information about this session on the [topic page](Week3_Cloud_Native/README.md).
 </td>

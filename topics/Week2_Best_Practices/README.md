@@ -2,7 +2,18 @@
 
 This topic content is for Devtoberfest Week 2 : 11 October → 15 October 2021.
 
-Learn how you can level up in the technical areas that you work in every day.
+Learn how you can level up in the technical areas that you work in every day. In this Best Practices week, we have:
+
+* [presentations](#presentations) on YouTube in live streams that you can join, watch, and chat with the other attendees
+* a [challenge](#challenge) for you to complete and earn points
+* a series of [tutorials](#tutorials) for you to complete and earn points
+* a [special guest interview](#special-guest-speaker) with James Governor
+
+There's also Dogtoberfest on the Friday of this week 🐶
+
+> See the [general contest section](https://github.com/SAP-samples/devtoberfest-2021#contest-the-game) for more information on how to earn points.
+
+If you have a question about this week's content or challenge, please [ask via an issue, using this template](https://github.com/SAP-samples/devtoberfest-2021/issues/new?assignees=qmacro&labels=week2-best-practices&template=about-week-2--best-practices--content.md&title=). Thanks.
 
 Topic Owner: [DJ Adams](https://github.com/qmacro)
 
@@ -16,7 +27,7 @@ Duration: 45 mins
 
 Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js.
 
-[Join us live on YouTube](https://youtu.be/WTOOse-Flj8), and get involved in the conversation!
+📺 [Join us live on YouTube](https://youtu.be/WTOOse-Flj8), and get involved in the conversation!
 
 <table border="0px" width="100%">
 <tr>
@@ -40,7 +51,7 @@ Duration: 45 mins
 
 Hear directly from one of the pre-eminent developers in the ABAP RESTful Application Programming Model (RAP) space, about recommended techniques and approaches in the language that powers the core of SAP S/4HANA and many other platforms.
 
-[Join us live on YouTube](https://youtu.be/AHEkbCDkn-E), and get involved in the conversation!
+📺 [Join us live on YouTube](https://youtu.be/AHEkbCDkn-E), and get involved in the conversation!
 
 <table border="0px" width="100%">
 <tr>
@@ -60,27 +71,43 @@ He has written lots of blog posts about ABAP and OData service development and h
 
 ### Continuous Integration and Delivery with SAP
 
-Date and Time: Wednesday 13 October 08:00 BST (London) 09:00 CEST (Berlin) 12:30 IST (Bengaluru) 18:00 AEDT Sydney [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211012T070000&p1=136&p2=37&p3=438&p4=240rl)
+This session has been canceled due to external circumstances, for which we are all sending our love and best wishes. 
+
+### Editor Extensions and Standards in the Modern World of Scripting and CLI Tools
+
+Date and Time: Wednesday 13 October 08:00 BST (London) 09:00 CEST (Berlin) 12:30 IST (Bengaluru) 18:00 AEDT Sydney [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211013T070000&p1=136&p2=37&p3=438&p4=240)
 
 Duration: 45 mins
 
-Hear directly from one of the team members of the CI/CD service on SAP Business Technology Platform, and learn about best practices in this area.
+In this live session we'll discuss the importance of code standards, and talk about linting and auto-formatting at source, "shifting left" the standardization as much as possible. Such standards and tooling is important for any language and development undertaking, and can help immensely when learning new languages too. We'll see how a couple of VS Code extensions that can auto-format and also catch bad practices, advising on improvements, when writing Bash shell scripts, the glue that holds the cloud together and [an important tool in your box](https://www.youtube.com/watch?v=xRmHZGk4QCU&list=PL6RpkC85SLQABOpzhd7WI-hMpy99PxUo0&index=1) when managing and manipulating resources on platforms like BTP.
 
-[Join us live on YouTube](https://youtu.be/BEZEdN9IMks), and get involved in the conversation!
+📺 [Join us live on YouTube](https://youtu.be/BEZEdN9IMks), and get involved in the conversation!
 
 <table border="0px" width="100%">
 <tr>
-<td width="270"><img src="../../images/250/ChristophSzymanski.jpg"> </td>
-<td><p><b>Christoph Szymanski</b> is a Product Owner in the CI/CD space. He has been with SAP for more than 10 years - working on various CI/CD topics for SAP teams: infrastructure, tooling, processes. Recently, he's been trying to make our internal experience available to customers, via tools and products, talks and best practices.
+<td width="270"><img src="../../images/250/DjAdams.jpg"> </td>
+<td><p><b>DJ Adams</b> is a Developer Advocate at SAP focusing on integration and extension topics on the SAP Business Technology Platform. He runs a regular live-stream on the SAP Developers “Hands-on SAP Dev” show and enjoys sharing his curiosity on many SAP development topics. He read Classics at university, has worked on SAP systems since 1987, co-created the SAP Community, and is a lifelong learner.
 </p>
 <ul>
-<li>SAP Community: <a href="https://people.sap.com/christoph.szymanski">https://people.sap.com/christoph.szymanski</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/christoph-szymanski-9b0484103">https://www.linkedin.com/in/christoph-szymanski-9b0484103</a></li>
-<li>Twitter: <a href="https://twitter.com/ski_at_work">https://twitter.com/ski_at_work</a></li>
+<li>SAP Community: <a href="https://people.sap.com/dj.adams.sap">https://people.sap.com/dj.adams.sap</a> and <a href="https://people.sap.com/dj.adams">https://people.sap.com/dj.adams</a></li>
+<li>GitHub: <a href="https://github.com/qmacro">https://github.com/qmacro</a></li>
+<li>Twitter: <a href="https://twitter.com/qmacro">https://twitter.com/qmacro</a></li>
 </ul>
 </td>
 </tr>
 </table>
+
+## Challenge
+
+This week's Best Practices related challenge is a follow-up to the [Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](#editor-extensions-and-standards-in-the-modern-world-of-scripting-and-cli-tools) presentation. You can find all the details on this challenge, what to do, and how to do it, over on the [Best Practices - Challenge page](challenge/).
+
+## Tutorials
+
+Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
+
+Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+
+* List of tutorials will be released as Week 2 approaches 
 
 ## Special Friday Activities
 
@@ -94,7 +121,7 @@ Duration: 30 mins
 
 On the Friday of this Best Practices week, we have special guest <b>James Governor</b>, analyst and co-founder of RedMonk. James will be chatting live with [Developer Advocate](https://developers.sap.com/developer-advocates.html) [DJ Adams](https://github.com/qmacro) about best practices in the cloud native space. James has a ton of experience from his connections, consulting and analysis work with some of the world's pre-eminent software vendors and companies employing cloud native practices.
 
-[Join us live on YouTube](https://youtu.be/3Av2ve0nxCM), and get involved in the conversation!
+📺 [Join us live on YouTube](https://youtu.be/3Av2ve0nxCM), and get involved in the conversation!
 
 <table border="0px" width="100%">
 <tr>

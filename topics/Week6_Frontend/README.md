@@ -78,6 +78,14 @@ We will put our new knowledge into practice by implementing our first Web Compon
 
 ### And even more sessions are to come!
 
+## Tutorials
+
+Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
+
+Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+
+* List of tutorials will be released as Week 6 approaches 
+
 ## Coding Challenges
 
 **Optimization of an existing SAPUI5 demo application**

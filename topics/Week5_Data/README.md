@@ -8,16 +8,16 @@ Topic Owner: [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
 
 ## Presentations
 
-All sessions are 60 minutes long, including time for your online questions.
+All sessions are 60 minutes long, including time for your questions.
 
 ### The Modern Enterprise Data Landscape
-November 2nd, 17:00 CET / 9:00 MST
+November 2nd, [17:00 CET / 09:00 MST / 21:30 IST](https://www.timeanddate.com/worldclock/converter.html?iso=20211102T160000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224&p7=197&p8=438)
 
 Enterprise-scale data management has long been a highly complex and often frustrating proposition. Today, with data warehouses and data marts, data lakes, data lakehouses, data fabric, data mesh, multimodel data platforms and more… your alternatives can be mind-numbing and make you feel as if you’ll never reach your enterprise data management goals.
 
 40-year technology veteran Alan Simon untangles and demystifies the enterprise data management landscape, helping you leap beyond jargon and the latest hot trends through a grounded-in-reality approach to address your longstanding challenges. Whether you are a newcomer to enterprise data or a longtime practitioner, this presentation will help expand your personal data management solutions portfolio and navigate the ever-changing enterprise data landscape.
 
-[Join us live on YouTube](https://youtu.be/fCVFb_xk1Gg), and ask your questions!
+📺 [Join us live on YouTube](https://youtu.be/fCVFb_xk1Gg), and ask your questions!
 
 <table border=0px>
 <tr>
@@ -27,13 +27,13 @@ Enterprise-scale data management has long been a highly complex and often frustr
 </table>
 
 ### Demystifying Data Science in the Enterprise
-November 2nd, 10:00 CET / 5pm SGT (tbc)
+November 2nd, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211102T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
 
 Data Science has been a hot topic in the enterprise in the last decade. Thanks to advances in deep learning, the role of data scientists has expanded into new applications, namely building AI services.
 
 In this talk we describe machine learning use-cases from our team and describe our learnings and takeaways.
 
-[Join us live on YouTube](https://youtu.be/G4vtt_U1wjs), and ask your questions!
+📺 [Join us live on YouTube](https://youtu.be/G4vtt_U1wjs), and ask your questions!
 
 <table border=0px>
 <tr>
@@ -44,11 +44,12 @@ In this talk we describe machine learning use-cases from our team and describe o
 </tr>
 </table>
 
-
 ### Data Visualization: Then and Now
-November 4th, 10:00 CET / 5pm SGT
+November 4th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211104T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
 
 Data Visualization is the new old topic. Surprisingly its history is not that long even if spreadsheets made data exploration ubiquitous. But as Data is moving into 3xV directions (Volume, Velocity and Variety) so is modern Visualization of it. After going through a bit of a theory we will move into practical aspects of Data Storytelling and Exploratory Data Analysis.
+
+📺 [Join us live on YouTube](https://youtu.be/HB9-lbnsHaA), and ask your questions!
 
 <table border=0px>
 <tr>
@@ -64,31 +65,48 @@ Meet and greet authors of bestselling books on the topics of SAP Data and Analyt
 
 Meet-the-Author gives you direct access to authors who will present their professional stories, share experience, and offer writing tips. During these live panels, authors will describe writing and publishing process, their own approaches to learning, and ways to stay current with the constantly evolving tech world. They are looking forward to your questions too!
 
-November 3rd, 9:00 CET and 17:00 CET (tbc)
+### Panel 1
+November 3rd, [10:00 CET / 14:30 IST /  17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211103T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
 
-![Melanie](../../images/MelanieHolzapfel_250px_shade.png) ![Dharma](../../images/DharmaTejaAtluri_250px_shade.png) ![Thorsten](../../images/ThorstenLuedtke_250px_shade.png) ![Stefan](../../images/StefanHartmann_250px_shade.png)
-![Heather](../../images/HeatherHill_250px_shade.png)
-![Konrad](../../images/KonradZaleski_250px_shade.png)
+📺 [Join us live on YouTube](https://youtu.be/n_TPj9OYP5M), and get involved in the conversation!
 
-Confirmed authors:
-* Melanie Holzapfel, co-author of "[Designing Dashboards with SAP Analytics Cloud](https://www.rheinwerk-verlag.de/designing-dashboards-with-sap-analytics-cloud/)"
+![Dharma](../../images/DharmaTejaAtluri_250px_shade.png)  ![Thorsten](../../images/ThorstenLuedtke_250px_shade.png) ![Stefan](../../images/StefanHartmann_250px_shade.png)
+
 * [Dharma Teja Atluri](https://people.sap.com/dharmateja.atluri), co-author of "[SAP Data Intelligence: The Comprehensive Guide](https://www.sap-press.com/sap-data-intelligence_5369/)"
 * [Thorsten Lüdtke](https://people.sap.com/biportal), co-author of "[SAP BW/4HANA 2.0: The Comprehensive Guide](https://www.sap-press.com/sap-bw4hana-20_4544/)"
 * [Stefan Hartmann](https://people.sap.com/stefan.hartmann.dtt), co-author of "[Practical Guide to SAP HANA and Big Data Analytics](https://www.espresso-tutorials.de/produkt/practical-guide-to-sap-hana-and-big-data-analytics/)"
+
+### Panel 2
+November 3rd, [17:00 CET / 09:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211103T160000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224)
+
+📺 [Join us live on YouTube](https://youtu.be/l5eSm6c3lmk), and get involved in the conversation!
+
+![Melanie](../../images/MelanieHolzapfel_250px_shade.png) ![Heather](../../images/HeatherHill_250px_shade.png) ![Konrad](../../images/KonradZaleski_250px_shade.png)
+
+* [Melanie Holzapfel](https://people.sap.com/melanie.holzapfel), co-author of "[Designing Dashboards with SAP Analytics Cloud](https://www.rheinwerk-verlag.de/designing-dashboards-with-sap-analytics-cloud/)"
 * [Heather Hill](https://people.sap.com/heather89), co-author of "[SAP BusinessObjects Web Intelligence: The Comprehensive Guide](https://www.sap-press.com/sap-businessobjects-web-intelligence_4412/)"
 * [Konrad Załęski](https://people.sap.com/konrad), author of "[Data Modeling with SAP BW/4HANA 2.0: Implementing Agile Data Models Using Modern Modeling Concepts](https://www.apress.com/gp/book/9781484270882)"
 
 ## Ask-the-Expert: Data Science in practice
+November 4th, [16:00 CET / 11:00 EDT / 20:30 IST](https://www.timeanddate.com/worldclock/converter.html?iso=20211104T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224)
 
-We got recognized experts and active community members to join a panel discussing and answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models: using SAP HANA, SAP Analytics Cloud, SAP Data Intelligence, SAP AI Business Services and SAP AI Foundation.
+We got recognized experts and active community members to join a panel answering your questions about real-life experience in preparing, training, deploying and maintaining Machine Learning models using SAP HANA, SAP Analytics Cloud, SAP Data Intelligence, SAP AI Business Services and SAP AI Foundation.
 
-November 4th, 16:00 CET / 8am PST (tbc)
+📺 [Join us live on YouTube](https://www.youtube.com/watch?v=MU_W2J-uQbI), and get involved in the conversation!
 
 ![Sarah](../../images/SarahDetzler_250px_shade.png) ![Andreas](../../images/AndreasForster_250px_shadow.png) ![Karthik](../../images/KarthikMuthuswamy_250px_shade.png)
 
 * [Sarah Detzler](https://people.sap.com/sarah.detzler), Competence Lead Data Science and Machine Learning
 * [Andreas Forster](https://people.sap.com/andreas.forster), Machine Learning enthusiast in SAP's global Center of Excellence
 * [Karthik Muthuswamy](https://people.sap.com/krtk), Senior Data Scientist working on Machine Learning research for developing intelligent applications for enterprise software
+
+## Tutorials
+
+Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
+
+Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+
+* List of tutorials will be released as Week 5 approaches
 
 ## Coding Challenge
 Use SAP HANA for some fun geospatial exploration!
@@ -97,6 +115,22 @@ Please, stay tuned for details.
 
 ## Fun Friday Activity
 
-Let's talk **Coding for Kids**!
+### Let's talk **Coding for Kids**!
+November 5th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240) and [16:00 CET / 08:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224) (___tbc___)
 
-Please, stay tuned for details.
+Did you know that SAP makes its own visual programming language for Computing Education? Let us tell (and show) you all about it: [Snap! Build Your Own Blocks](https://snap.berkeley.edu/) is the programming language kids in Silicon Valley learn in high school and college students at UC Berkeley use to explore the Beauty and Joy of Computing. We'll take you on an exclusive backstage tour of our R&D lab.
+
+📺 Join us live on YouTube, and get involved in the conversation!
+
+<table border=0px>
+<tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>
+<td><b><a href="https://people.sap.com/jmoenig">Jens Mönig</a></b> is not just the Lead developer of <b>Snap!</b>, but also a researcher at SAP and a Lawyer – quite an interesting combination 🙂 Together with Brian Harvey from the University of California in Berkeley, he developed this visual programming language.<br><br>Jens has been awarded the National Technology Leadership Summit (NTLS) Education Technology Leadership Award, which recognizes individuals who have made a significant impact in the field of educational technology over the course of a lifetime.</td>
+</tr>
+<tr>
+<td width = 270>
+<img src="../../images/JadgaHuegle_250px_shadow.png" alt="Jadga"></td>
+<td>
+Originally a biologist, <b><a href="https://people.sap.com/jadga.huegle">Jadga Hügle</a></b> discovered her interest in computer science while building a small connected greenhouse.<br><br>Since then, she has become a Snap! enthusiast and is eager to share her excitement with everyone. Jadga currently works for SAP’s Snap! team.</td></tr>
+</table>
+
+Please, stay tuned for more details.
