@@ -41,7 +41,7 @@ This session will showcase how easy it is today to integrate any OSS library suc
     </tr>
 </table>
 
-### How to Make State Management Work For You With Redux and Redux Toolkit 
+### How to Make State Management Work for You with Redux and Redux Toolkit 
 Schedule - TBD
 
 State management for the frontend. No more sinking props down layers of components and bubbling results back up. Access all your common data in one place with Redux! In this presentation, I will walk through what Redux is, why you would use it, how you would use it, and how you could simplify it with Redux Toolkit.
@@ -57,7 +57,7 @@ State management for the frontend. No more sinking props down layers of componen
 
 
 
-### Web Components: The reusable building blocks of web 
+### Web Components: The Reusable Building Blocks of the Web
 Schedule - TBD
 
 If you are looking for a way of implementing reusable components with Vanilla JavaScript and no framework-specific dependencies, then this session might be just for you. In this talk, we will take a deep dive into the Web Components standards:
