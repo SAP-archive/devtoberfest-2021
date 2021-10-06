@@ -14,6 +14,8 @@ Read more about the event in [the kick-off blog post](https://blogs.sap.com/2021
 
 **Registration:** [Devtoberfest Eventbite Registration Page](https://www.eventbrite.com/e/168612930815)
 
+**Discord:** [Devtoberfest Gaming Night Server](https://discord.gg/8EDCdsYe7p)
+
 Register for the event on Eventbrite to recieve all the latest notifications about Devtoberfest. Registration is also required to be entered in the [Contest](#contest-the-game) aspects of Devtoberfest.
 
 ## Key Dates
