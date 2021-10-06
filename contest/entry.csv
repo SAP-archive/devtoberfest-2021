@@ -1,6 +1,4 @@
 URL,scnID
-https://github.com/sap-samples/devtoberfest-2021,dj.adams.sap
-https://github.com/sap-samples/devtoberfest-2021,josh.bentley
 https://github.com/Ennowulff/abap-unit-tests-by-example,enno.wulff
 https://github.com/schmelto/abap,schmelto
 https://github.com/pawelwiejkut/bw_trfn_tester,pawelwiejkut
@@ -16,4 +14,5 @@ https://github.com/sbcgua/ajson,atsy
 https://github.com/sbcgua/mockup_loader,atsy
 https://github.com/sbcgua/abap-package-version-shield,atsy
 https://github.com/lemaiwo/UI5ComponentLoader,wouter.lemaire
-https://github.com/FiddleWookie/Launchpad,wouter.lemaire + tom.vandoorslaer
+https://github.com/FiddleWookie/Launchpad,wouter.lemaire
+https://github.com/FiddleWookie/Launchpad,tom.vandoorslaer
