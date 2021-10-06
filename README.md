@@ -31,7 +31,7 @@ Register for the event on Eventbrite to recieve all the latest notifications abo
 | Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
 | Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
 | Nov 12 | Devtoberfest Ends |
-| Nov 16 | TechEd Begins
+| Nov 16 | [TechEd Begins](https://reg.sapevents.sap.com/flow/sap/sapteched2021/overview/page/content)
 
 
 ## Contest (The Game)
