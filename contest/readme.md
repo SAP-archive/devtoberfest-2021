@@ -59,9 +59,34 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 | [Attend Devtoberfest Kickoff Party](https://developers.sap.com/tutorials/devtoberfest-week-1-speaker.html) | 50 | <img src="https://community.sap.com/images/bltc0cc54bb7745cb85/F709F2-devtoberfest-2021-1.svg" title="#F709F2 - Devtoberfest 2021 - Week 1 Attended Speaker Event">
 | [Attend Week 1 Fun Friday Event](https://developers.sap.com/tutorials/devtoberfest-week-1-fun-friday.html) |	300 | <img src="https://community.sap.com/images/bltc2cfe385fe0f7af7/5B4701-devtoberfest-2021-1.svg" title="#5B4701 - Devtoberfest 2021 - Week 1 Fun Friday Attendee">
 
-### Week 2 Coming Soon
+### Week 2
 
 |Activity | Points Earned | Badge |
 |---|---|----|
-| [Attend Week 2 Speaker Event](TBD) | 200 | <img src="https://community.sap.com/images/">
-| [Attend Week 2 Fun Friday Event](TBD) |	300 | <img src="https://community.sap.com/images/">
+| [Attend Week 2 Speaker Event](https://developers.sap.com/tutorials/devtoberfest-week-2-speaker.html) | 100 | <img src="https://community.sap.com/images/bltb9f1c3576dfe7569/F29C1F-devtoberfest-2021-1.svg" title="#F29C1F - Devtoberfest 2021 - Week 2 Attended Speaker Event" alt="Participation Badge" width=50/>
+| [Create a User Interface with CAP (SAP HANA Cloud)](https://developers.sap.com/tutorials/hana-cloud-cap-create-ui.html) | 200 | <img src="https://community.sap.com/images/blt7f8b4d86ad4f6a5d/C418DA-devtoberfest-2021-1.svg" title="#C418DA - Devtoberfest 2021 - Create a User Interface with CAP (SAP HANA Cloud)" alt="Participation Badge" width=50/>
+| [Add User Authentication to Your Application (SAP HANA Cloud)](https://developers.sap.com/tutorials/hana-cloud-cap-add-authentication.html ) | 200 | 
+| [Introduction to Application Development Using CAP and Node.js](https://developers.sap.com/tutorials/btp-app-introduction.html) | 200 |
+| [Set Up Local Development Using VS Code](https://developers.sap.com/tutorials/btp-app-set-up-local-development.html) | 200 |
+| [Create a Directory for Development](https://developers.sap.com/tutorials/btp-app-create-directory.html) | 200 |
+| [Create a CAP-Based Application](https://developers.sap.com/tutorials/btp-app-create-cap-application.html) | 200 |
+| [Create an SAP Fiori Elements-Based UI](https://developers.sap.com/tutorials/btp-app-create-ui-fiori-elements.html) | 200 |
+| [Add Business Logic to Your Application](https://developers.sap.com/tutorials/btp-app-cap-business-logic.html) | 200 |
+| [Create a UI Using Freestyle SAPUI5](https://developers.sap.com/tutorials/btp-app-create-ui-freestyle-sapui5.html) | 200 |
+| [Add More Than One Application to the Launch Page](https://developers.sap.com/tutorials/btp-app-launchpage.html) | 200 |
+| [Implement Roles and Authorization Checks In CAP](https://developers.sap.com/tutorials/btp-app-cap-roles.html) | 200 |
+| [Prepare for SAP BTP Development](https://developers.sap.com/tutorials/btp-app-prepare-btp.html) | 200 |
+| [Set Up the SAP HANA Cloud Service](https://developers.sap.com/tutorials/btp-app-hana-cloud-setup.html) | 200 |
+| [Prepare User Authentication and Authorization (XSUAA) Setup](https://developers.sap.com/tutorials/btp-app-prepare-xsuaa.html) | 200 |
+| [Deploy Your Multi-Target Application (MTA)](https://developers.sap.com/tutorials/btp-app-cap-mta-deployment.html) | 200 |
+| [Add the SAP Launchpad Service](https://developers.sap.com/tutorials/btp-app-launchpad-service.html) | 200 |
+| [Assign a Role Collection to a User](https://developers.sap.com/tutorials/btp-app-role-assignment.html) | 200 |
+| [Enable Logging Service for Your Application](https://developers.sap.com/tutorials/btp-app-logging.html) | 200 |
+| [Undeploy Your Multi-Target Application (MTA)](https://developers.sap.com/tutorials/btp-app-undeploy-cap-application.html) | 200 |
+| [Configure and Run a Predefined SAP Continuous Integration and Delivery (CI/CD) Pipeline](https://developers.sap.com/tutorials/btp-app-ci-cd-btp.html) | 200 |
+| [Create Table Persistence and Generate Data](https://developers.sap.com/tutorials/abap-environment-persistence.html) | 200 |
+| [Define and Expose a CDS-Based Travel Data Model](https://developers.sap.com/tutorials/abap-environment-data-model.html) | 200 |
+| [Create Behavior Definition for Managed Scenario](https://developers.sap.com/tutorials/abap-environment-behavior.html) | 200 |
+| [Enhance Behavior With Action and Validation](https://developers.sap.com/tutorials/abap-environment-behavior-action.html) | 200 |
+| [Attend Week 2 Fun Friday Event](https://developers.sap.com/tutorials/devtoberfest-week-2-fun-friday.html) |	300 | <img src="https://community.sap.com/images/">
+| [participate in Dogtoberfest](https://developers.sap.com/tutorials/devtoberfest-week-2-fun-friday.html) | 100 | image 
