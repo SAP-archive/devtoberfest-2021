@@ -58,3 +58,10 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 | [Submit project to Devtoberfest GitHub](opensource.md)	| 1000 | <img src="https://community.sap.com/images/blt372919cc75d7d54e/2F243B-devtoberfest-2021-1.svg" title="#2F243B - Devtoberfest 2021- Project Submitted to Github">
 | [Attend Devtoberfest Kickoff Party](https://developers.sap.com/tutorials/devtoberfest-week-1-speaker.html) | 50 | <img src="https://community.sap.com/images/bltc0cc54bb7745cb85/F709F2-devtoberfest-2021-1.svg" title="#F709F2 - Devtoberfest 2021 - Week 1 Attended Speaker Event">
 | [Attend Week 1 Fun Friday Event](https://developers.sap.com/tutorials/devtoberfest-week-1-fun-friday.html) |	300 | <img src="https://community.sap.com/images/bltc2cfe385fe0f7af7/5B4701-devtoberfest-2021-1.svg" title="#5B4701 - Devtoberfest 2021 - Week 1 Fun Friday Attendee">
+
+### Week 2 Coming Soon
+
+|Activity | Points Earned | Badge |
+|---|---|----|
+| [Attend Week 2 Speaker Event](TBD) | 200 | <img src="https://community.sap.com/images/">
+| [Attend Week 2 Fun Friday Event](TBD) |	300 | <img src="https://community.sap.com/images/">
