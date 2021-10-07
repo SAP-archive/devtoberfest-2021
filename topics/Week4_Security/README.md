@@ -74,7 +74,7 @@ Please find all the contest info here: [Contest Overview Page](https://github.co
 
 ## Coding Challenges
 
-* The Coding Challenge details will be released during Week 5
+* The Coding Challenge details will be released during Week 4
 
 ## Fun Friday Activity
 
