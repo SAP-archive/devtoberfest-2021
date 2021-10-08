@@ -73,7 +73,7 @@ const main = async _ => {
 }
 
 function convertCSV2JSON(text) {
-    let array = text.split("\r")
+    let array = text.split("\r\n")
     let result = []
     let headers = array[0].split(",")
 
