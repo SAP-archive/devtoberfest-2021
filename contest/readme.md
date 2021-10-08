@@ -23,7 +23,7 @@ This table includes a sample of some events that you can earn a badge with point
 |Scavenger Hunt of 20 Tutorials |	Up to 10600 |
 |Tutorials in each content week	| 200 |
 |Attend Live Youtube Speaker Session and complete validation | 300 |
-|Submit Project to Devtoberfest 2021 on GitHub	| 1000 |
+|[Submit Project to Devtoberfest 2021 on GitHub](opensource.md)	| 1000 |
 | | |	
 
 We will have many existing tutorials from https://developers.sap.com that you can complete to earn points in Devtoberfest 2021. Each week we will announce the tutorials that go along with the topic of the week which you can complete for points. However we didn't want to penalize those of you that might have already completed these tutorials in the past. Therefore if you are registered for Devtoberfest and completed these key tutorials in the past you are granted credit automatically for those.
