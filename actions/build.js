@@ -20,7 +20,6 @@ const main = async _ => {
 
         text = fs.readFileSync("./contest/entry.csv", "utf8")
         let list = convertCSV2JSON(text)
-        console.table(list)
         console.log(`# Devtoberfest 2021 Project Entries`)
         let lastURL = ''
         for (const item of list) {
@@ -75,6 +74,7 @@ function convertCSV2JSON(text) {
     let array = text.split("\r\n")
     let result = []
     let headers = array[0].split(",")
+    console.log(array)
 
     // Since headers are separated, we
     // need to traverse remaining n-1 rows.
