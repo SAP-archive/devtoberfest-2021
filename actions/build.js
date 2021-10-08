@@ -14,12 +14,11 @@ const main = async _ => {
         const gh = require('parse-github-url')
 
         const Handlebars = require('handlebars')
-        const source = require('./template')
+        const source = require('./actions/template')
         const template = Handlebars.compile(source)
 
 
         text = fs.readFileSync("./contest/entry.csv", "utf8")
-        console.log(text)
         let list = convertCSV2JSON(text)
 
         console.log(`# Devtoberfest 2021 Project Entries`)
