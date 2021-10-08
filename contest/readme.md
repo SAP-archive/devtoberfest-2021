@@ -1,6 +1,8 @@
 ## Devtoberfest Contest – The Game
 For Devtoberfest 2021 we have a game that is open to everyone regardless of developer level.  Points can be accrued by completing items listed below that range from attending a presentation to completing tutorials on SAP Community. Prizes are awarded based on badges earned and associated points accumulated.  Prize and Points are described below as well as the rules relating to how many winners will make it to the Grand Prize Winner drawing.
 
+[Video Explanation of the Devtoberfest Contest](https://www.youtube.com/watch?v=2WfhQmZARcM)
+
 ## Game Board – A Place to check your game level status.
 [The Game Board](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/) is a static infographic that you can use to see your status.  
 
