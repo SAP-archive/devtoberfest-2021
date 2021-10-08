@@ -47,7 +47,7 @@ Prizes are awarded via points accumulated and you can see the potential prize po
 * See the [legal terms and conditions](../TOC.md) for full details
 
 ## How to Enter
-It’s simple.  Register for the Devtoberfest Game.  Complete activities like tutorials or event surveys in any of the 6 weeks of Devtoberfest Oct 1, 2021 thru November 12, 2021.  Contribute to a project or make your own open source project.  Please reference the published list below of activities to see where you can earn points.  Check back every week as more activities added.  
+It’s simple.  Register for the Devtoberfest Game.  Complete activities like tutorials or event surveys in any of the 6 weeks of Devtoberfest Oct 1, 2021 thru November 12, 2021.  [Contribute to a project or make your own open source project](opensource.md).  Please reference the published list below of activities to see where you can earn points.  Check back every week as more activities added.  
 
 ## Points Earning Activities by Week
 
