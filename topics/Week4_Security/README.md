@@ -74,8 +74,8 @@ Please find all the contest info here: [Contest Overview Page](https://github.co
 
 ## Coding Challenges
 
-* The Coding Challenge details will be released during Week 5
+* The Coding Challenge details will be released during Week 4
 
 ## Fun Friday Activity
 
-* The Fun Friday Activity for Week 5 will be details as we get closer to that week
+* The Fun Friday Activity for Week 4 is the Devtoberfest Gaming Night.  See this separate page for all the details and upcomming schedule of Gaming Night activities. [Gaming Night Details](https://github.com/SAP-samples/devtoberfest-2021/blob/main/topics/Gaming_Night.md)

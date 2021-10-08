@@ -14,6 +14,8 @@ Read more about the event in [the kick-off blog post](https://blogs.sap.com/2021
 
 **Registration:** [Devtoberfest Eventbite Registration Page](https://www.eventbrite.com/e/168612930815)
 
+**Discord:** [Devtoberfest Gaming Night Server](https://discord.gg/8EDCdsYe7p)
+
 Register for the event on Eventbrite to recieve all the latest notifications about Devtoberfest. Registration is also required to be entered in the [Contest](#contest-the-game) aspects of Devtoberfest.
 
 ## Key Dates
@@ -29,7 +31,7 @@ Register for the event on Eventbrite to recieve all the latest notifications abo
 | Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
 | Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
 | Nov 12 | Devtoberfest Ends |
-| Nov 16 | TechEd Begins
+| Nov 16 | [TechEd Begins](https://reg.sapevents.sap.com/flow/sap/sapteched2021/overview/page/content)
 
 
 ## Contest (The Game)

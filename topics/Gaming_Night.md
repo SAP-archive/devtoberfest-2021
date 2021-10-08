@@ -6,7 +6,7 @@ This event is thought not only for you to join and play video games but for the 
 
 Down below is a list of available games you can join and play. The list is not final and can be extended by **YOU**! To do so just edit the file and open a Pull Request for us to add the game to the list.
 
-To communicate and interact with each other we provide a Discord server which you can join for the different gaming channels.
+To communicate and interact with each other we provide a Discord server which you can join for the different gaming channels. [Devtoberfest Gaming Night Server](https://discord.gg/8EDCdsYe7p)
 
 Platforms available:
 - PC (Windows)
