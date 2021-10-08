@@ -18,6 +18,8 @@ Read more about the event in [the kick-off blog post](https://blogs.sap.com/2021
 
 Register for the event on Eventbrite to recieve all the latest notifications about Devtoberfest. Registration is also required to be entered in the [Contest](#contest-the-game) aspects of Devtoberfest.
 
+A list of all submitted open source projects to be part of Devtoberfest with details can be found in [entries.md](./contest/entries.md)
+
 ## Key Dates
 
 | Date | Description |
