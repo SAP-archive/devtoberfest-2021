@@ -20,11 +20,10 @@ const main = async _ => {
 
         text = fs.readFileSync("./contest/entry.csv", "utf8")
         let list = convertCSV2JSON(text)
-
+        console.table(list)
         console.log(`# Devtoberfest 2021 Project Entries`)
         let lastURL = ''
         for (const item of list) {
-                            console.log(item.URL)
             if (item.URL.includes('https://github.com/') && item.URL !== lastURL ) {
                 const parts = gh(item.URL)
                 //console.log(`${parts.owner}, ${parts.name}`)
