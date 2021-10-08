@@ -24,8 +24,8 @@ const main = async _ => {
         console.log(`# Devtoberfest 2021 Project Entries`)
         let lastURL = ''
         for (const item of list) {
+                            console.log(item.URL)
             if (item.URL.includes('https://github.com/') && item.URL !== lastURL ) {
-                console.log(item.URL)
                 const parts = gh(item.URL)
                 //console.log(`${parts.owner}, ${parts.name}`)
                 let response = await octokit.request('GET /repos/{owner}/{repo}', {
