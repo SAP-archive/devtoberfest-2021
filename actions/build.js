@@ -14,7 +14,7 @@ const main = async _ => {
         const gh = require('parse-github-url')
 
         const Handlebars = require('handlebars')
-        const source = require('./actions/template')
+        const source = require('./template')
         const template = Handlebars.compile(source)
 
 
@@ -25,7 +25,7 @@ const main = async _ => {
         let lastURL = ''
         for (const item of list) {
             if (item.URL.includes('https://github.com/') && item.URL !== lastURL ) {
-                
+                console.log(item.URL)
                 const parts = gh(item.URL)
                 //console.log(`${parts.owner}, ${parts.name}`)
                 let response = await octokit.request('GET /repos/{owner}/{repo}', {
