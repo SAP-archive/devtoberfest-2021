@@ -107,7 +107,7 @@ Completion of any of the following tutorials during Devtoberfest will earn you p
 
 Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
-* List of tutorials will be released as Week 2 approaches 
+* List of week 2 tutorials released here on the [Contest page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest#week-2)  
 
 ## Special Friday Activities
 
