@@ -3,7 +3,7 @@
 ## btp-business-rules: Consume a business rules service instance on BTP-CF within this node.js library
 [https://github.com/CIT-FOCUS/btp-business-rules](https://github.com/CIT-FOCUS/btp-business-rules)
 * Stars: 1, Forks: 0, Watchers: 2
-* Open Issues: 0, Has Projects: false, Has Wiki: false
+* Open Issues: 1, Has Projects: false, Has Wiki: false
 * Created At: Tue, 05 Oct 2021 14:15:14 GMT, Updated At: Wed, 06 Oct 2021 09:37:12 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [CIT-FOCUS](https://github.com/CIT-FOCUS)
@@ -28,6 +28,16 @@
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [Ennowulff](https://github.com/Ennowulff)
 * Contributors: [Ennowulff](https://github.com/Ennowulff)
+
+
+## sap-cap-gen-pdf: Generate PDF with a CAP service
+[https://github.com/FabienHenique/sap-cap-gen-pdf](https://github.com/FabienHenique/sap-cap-gen-pdf)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Fri, 08 Oct 2021 15:57:05 GMT, Updated At: Sat, 09 Oct 2021 07:16:20 GMT
+* License: 
+* Owner: [FabienHenique](https://github.com/FabienHenique)
+* Contributors: [FabienHenique](https://github.com/FabienHenique)
 
 
 ## Launchpad: the launchpad sandbox with all listed plugins
@@ -82,9 +92,9 @@
 
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
-* Stars: 0, Forks: 1, Watchers: 1
+* Stars: 1, Forks: 1, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Thu, 07 Oct 2021 12:43:07 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Sat, 09 Oct 2021 14:55:01 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant)
@@ -122,9 +132,9 @@
 
 ## cf-cli-check-before-deploy: Plugin for CLI cloud foundry - Check before deploy
 [https://github.com/enric11/cf-cli-check-before-deploy](https://github.com/enric11/cf-cli-check-before-deploy)
-* Stars: 2, Forks: 0, Watchers: 2
-* Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Sat, 11 Apr 2020 09:59:46 GMT, Updated At: Thu, 07 Oct 2021 19:30:15 GMT
+* Stars: 3, Forks: 1, Watchers: 2
+* Open Issues: 2, Has Projects: true, Has Wiki: true
+* Created At: Sat, 11 Apr 2020 09:59:46 GMT, Updated At: Sat, 09 Oct 2021 15:35:20 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [enric11](https://github.com/enric11)
 * Contributors: [enric11](https://github.com/enric11)
@@ -132,9 +142,9 @@
 
 ## ui5-docker: 
 [https://github.com/flow23/ui5-docker](https://github.com/flow23/ui5-docker)
-* Stars: 1, Forks: 0, Watchers: 1
+* Stars: 2, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: false, Has Wiki: false
-* Created At: Tue, 25 Jun 2019 18:21:23 GMT, Updated At: Fri, 08 Oct 2021 20:38:23 GMT
+* Created At: Tue, 25 Jun 2019 18:21:23 GMT, Updated At: Sat, 09 Oct 2021 14:58:35 GMT
 * License: 
 * Owner: [flow23](https://github.com/flow23)
 * Contributors: [flow23](https://github.com/flow23)
@@ -203,11 +213,31 @@
 ## scf: Source Code Finder
 [https://github.com/reyemsaibot/scf](https://github.com/reyemsaibot/scf)
 * Stars: 2, Forks: 1, Watchers: 1
-* Open Issues: 2, Has Projects: true, Has Wiki: true
+* Open Issues: 3, Has Projects: true, Has Wiki: true
 * Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Fri, 08 Oct 2021 19:52:57 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [reyemsaibot](https://github.com/reyemsaibot)
 * Contributors: [reyemsaibot](https://github.com/reyemsaibot)
+
+
+## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
+[https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
+* Stars: 392, Forks: 200, Watchers: 74
+* Open Issues: 126, Has Projects: false, Has Wiki: false
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 09 Oct 2021 17:54:23 GMT
+* License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
+* Owner: [sapmentors](https://github.com/sapmentors)
+* Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [fidley](https://github.com/fidley), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [tmackowski](https://github.com/tmackowski), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [Gh14Cc10](https://github.com/Gh14Cc10), [sandraros](https://github.com/sandraros), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [bitdeli-chef](https://github.com/bitdeli-chef), [christianguenter2](https://github.com/christianguenter2), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [pokrakam](https://github.com/pokrakam), [RedWolf112](https://github.com/RedWolf112), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
+
+
+## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
+[https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
+* Stars: 72, Forks: 23, Watchers: 22
+* Open Issues: 18, Has Projects: true, Has Wiki: true
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Thu, 07 Oct 2021 08:09:31 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [sapmentors](https://github.com/sapmentors)
+* Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [d-sooter](https://github.com/d-sooter), [iwonahahn](https://github.com/iwonahahn), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
 
 
 ## abap-package-version-shield: shield.io lambda to detect version of abap package, serialized by abapGit
