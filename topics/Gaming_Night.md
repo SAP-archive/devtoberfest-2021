@@ -8,6 +8,9 @@ Down below is a list of available games you can join and play. The list is not f
 
 To communicate and interact with each other we provide a Discord server which you can join for the different gaming channels. [Devtoberfest Gaming Night Server](https://discord.gg/8EDCdsYe7p)
 
+<img src="../images/2021-10-08_22.38.42.png">
+
+
 Platforms available:
 - PC (Windows)
 - MacOS
