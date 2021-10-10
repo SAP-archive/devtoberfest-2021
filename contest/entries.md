@@ -120,6 +120,36 @@
 * Contributors: [dh4rry](https://github.com/dh4rry), [abaphacker](https://github.com/abaphacker)
 
 
+## vsc-sap-hana-mta-dev-env-node12x: 
+[https://github.com/draschke/vsc-sap-hana-mta-dev-env-node12x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node12x)
+* Stars: 1, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Mon, 30 Aug 2021 11:51:53 GMT, Updated At: Sat, 09 Oct 2021 15:54:35 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [draschke](https://github.com/draschke)
+* Contributors: [draschke](https://github.com/draschke)
+
+
+## vsc-sap-hana-mta-dev-env-node14x: 
+[https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x)
+* Stars: 1, Forks: 0, Watchers: 1
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Sat, 09 Oct 2021 15:35:43 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [draschke](https://github.com/draschke)
+* Contributors: [draschke](https://github.com/draschke), [diraschk](https://github.com/diraschk)
+
+
+## vsc-sap-hana-mta-dev-env-node16x: 
+[https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x)
+* Stars: 1, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Sat, 09 Oct 2021 15:26:22 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [draschke](https://github.com/draschke)
+* Contributors: [draschke](https://github.com/draschke)
+
+
 ## inputvaluehelp-sapui5: inputvaluehelp-sapui5 is a custom control based on SAPUI5 Input control with extended features like Value Help Dialog and Suggestions, compatible with JSONModel and ODataModel.
 [https://github.com/edermatienzo/inputvaluehelp-sapui5](https://github.com/edermatienzo/inputvaluehelp-sapui5)
 * Stars: 0, Forks: 1, Watchers: 1
@@ -223,7 +253,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 392, Forks: 200, Watchers: 73
-* Open Issues: 126, Has Projects: false, Has Wiki: false
+* Open Issues: 127, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 09 Oct 2021 18:04:10 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -288,6 +318,16 @@
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [se38](https://github.com/se38)
 * Contributors: [se38](https://github.com/se38)
+
+
+## DevtoberTesting: DevtoberTestMission
+[https://github.com/tpowlas3/DevtoberTesting](https://github.com/tpowlas3/DevtoberTesting)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Sun, 10 Oct 2021 11:13:57 GMT, Updated At: Sun, 10 Oct 2021 15:55:24 GMT
+* License: 
+* Owner: [tpowlas3](https://github.com/tpowlas3)
+* Contributors: [tpowlas3](https://github.com/tpowlas3)
 
 
 ## abapunit2junit: Runs Abap Unit tests and converts results to JUnit report format
