@@ -62,9 +62,9 @@
 
 ## 10-SAPUI5-Projects: 10-SAPUI5-Projects
 [https://github.com/Technology-Enthusiast/10-SAPUI5-Projects](https://github.com/Technology-Enthusiast/10-SAPUI5-Projects)
-* Stars: 9, Forks: 11, Watchers: 2
+* Stars: 10, Forks: 11, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Wed, 06 Oct 2021 16:00:29 GMT
+* Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Sun, 10 Oct 2021 10:48:07 GMT
 * License: 
 * Owner: [Technology-Enthusiast](https://github.com/Technology-Enthusiast)
 * Contributors: [NabheetCloud](https://github.com/NabheetCloud)
@@ -92,9 +92,9 @@
 
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
-* Stars: 1, Forks: 1, Watchers: 2
+* Stars: 2, Forks: 1, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Sat, 09 Oct 2021 14:55:01 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Sun, 10 Oct 2021 10:51:47 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant)
@@ -272,9 +272,9 @@
 
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
-* Stars: 0, Forks: 0, Watchers: 1
+* Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 16, Has Projects: true, Has Wiki: false
-* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Tue, 05 Oct 2021 09:54:41 GMT
+* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Sun, 10 Oct 2021 10:53:00 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
 * Contributors: [schmelto](https://github.com/schmelto)
