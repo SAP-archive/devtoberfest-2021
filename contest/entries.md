@@ -200,11 +200,11 @@
 * Contributors: [prashant4sap](https://github.com/prashant4sap)
 
 
-## UI5BarCodeReaderExample: Exemplo de leitor de código de barras no UI5
+## UI5BarCodeReaderExample: Pacote de implementação de leitor de código de barras no UI5 usando Quagga.js
 [https://github.com/rcaziraghi/UI5BarCodeReaderExample](https://github.com/rcaziraghi/UI5BarCodeReaderExample)
 * Stars: 0, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Fri, 08 Oct 2021 03:47:53 GMT, Updated At: Fri, 08 Oct 2021 19:32:32 GMT
+* Created At: Fri, 08 Oct 2021 03:47:53 GMT, Updated At: Sun, 10 Oct 2021 03:01:55 GMT
 * License: 
 * Owner: [rcaziraghi](https://github.com/rcaziraghi)
 * Contributors: 
