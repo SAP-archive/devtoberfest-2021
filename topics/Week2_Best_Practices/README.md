@@ -27,7 +27,7 @@ Duration: 45 mins
 
 Hear directly from one of the CAP team members about best practices as they apply to designing and building CAP applications with Node.js.
 
-📺 [Watch the replay on YouTube](https://youtu.be/WTOOse-Flj8).
+📺 [Watch the replay on YouTube](https://youtu.be/WTOOse-Flj8) and 📽 [view the slides here](cap-nodejs-david-kunz.pdf).
 
 <table border="0px" width="100%">
 <tr>
