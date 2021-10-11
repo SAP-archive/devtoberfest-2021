@@ -46,13 +46,13 @@ But the fun doesn’t end there.  We have an animated Contest Gameboard to help 
 
 And if you are curious how we built the animated gameboard, we have also released the whole thing as a Sample Code repository here: [https://github.com/SAP-samples/sap-community-activity-badges](https://github.com/SAP-samples/sap-community-activity-badges)
 
-[![Understand "The Game" Devtoberfest Content](https://i9.ytimg.com/vi/2WfhQmZARcM/mqdefault.jpg?v=615ef615&sqp=COyFkIsG&rs=AOn4CLDqjsPoZkK5dAywFz7GqpmaOJp1IQ)](https://youtu.be/2WfhQmZARcM)
+[![Understand "The Game" Devtoberfest Content](http://i3.ytimg.com/vi/2WfhQmZARcM/maxresdefault.jpg)](https://youtu.be/2WfhQmZARcM)
 
 ## All Work and No Play? Nope!
 
 As part of the entire Devetoberfest celebration we want to take time to have some fun and relax with topics outside the normal work day. Therefore we will have special sessions each Friday during Devetobefest specifically for fun in mind. Check the topic agenda pages of each week for more details.
 
-[![Introduction to Devtoberfest Fun Fridays](https://img.youtube.com/vi/MK_S1yrh31k/0.jpg)](http://www.youtube.com/watch?v=MK_S1yrh31k)
+[![Introduction to Devtoberfest Fun Fridays](http://i3.ytimg.com/vi/MK_S1yrh31k/maxresdefault.jpg)](http://www.youtube.com/watch?v=MK_S1yrh31k)
 
 ## How to obtain support
 
