@@ -100,6 +100,16 @@
 * Contributors: [bmaciag](https://github.com/bmaciag)
 
 
+## PAO-head-first: Practicing ABAP Objects: Head First Design Patterns
+[https://github.com/brehberg/PAO-head-first](https://github.com/brehberg/PAO-head-first)
+* Stars: 2, Forks: 5, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Mon, 22 Jan 2018 17:08:40 GMT, Updated At: Thu, 07 Oct 2021 06:48:02 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [brehberg](https://github.com/brehberg)
+* Contributors: [brehberg](https://github.com/brehberg)
+
+
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 1, Watchers: 2
@@ -210,6 +220,16 @@
 * Contributors: [lemaiwo](https://github.com/lemaiwo)
 
 
+## ztoad: 
+[https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
+* Stars: 0, Forks: 3, Watchers: 0
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Thu, 30 Jul 2020 09:01:16 GMT
+* License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
+* Owner: [marianfoo](https://github.com/marianfoo)
+* Contributors: [marianfoo](https://github.com/marianfoo)
+
+
 ## excel_to_viz: Simple UI5 Application that takes simple excel file and displays it as Viz Frames
 [https://github.com/muralidhar2796/excel_to_viz](https://github.com/muralidhar2796/excel_to_viz)
 * Stars: 0, Forks: 0, Watchers: 1
@@ -218,6 +238,16 @@
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [muralidhar2796](https://github.com/muralidhar2796)
 * Contributors: [muralidhar2796](https://github.com/muralidhar2796)
+
+
+## vscode-cds-csv-generator: SAP CAP CDS CSV Generator VS Code Extension
+[https://github.com/ozgurkadir/vscode-cds-csv-generator](https://github.com/ozgurkadir/vscode-cds-csv-generator)
+* Stars: 2, Forks: 1, Watchers: 2
+* Open Issues: 7, Has Projects: true, Has Wiki: true
+* Created At: Sat, 06 Mar 2021 20:27:54 GMT, Updated At: Mon, 19 Jul 2021 01:00:29 GMT
+* License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
+* Owner: [ozgurkadir](https://github.com/ozgurkadir)
+* Contributors: [ozgurkadir](https://github.com/ozgurkadir)
 
 
 ## bw_trfn_tester: ⏱️ 📈Test and compare your SAP BW Transformations without system data
@@ -234,7 +264,7 @@
 [https://github.com/pcdinis/ui5memgame](https://github.com/pcdinis/ui5memgame)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Mon, 04 Oct 2021 17:13:08 GMT, Updated At: Mon, 11 Oct 2021 11:54:15 GMT
+* Created At: Mon, 04 Oct 2021 17:13:08 GMT, Updated At: Mon, 11 Oct 2021 13:26:43 GMT
 * License: 
 * Owner: [pcdinis](https://github.com/pcdinis)
 * Contributors: [pcdinis](https://github.com/pcdinis)
@@ -372,9 +402,9 @@
 
 ## vscode-ui5-api-reference: VSCode extension: SAPUI5/OpenUI5 Reference documentation in a side bar view
 [https://github.com/wozjac/vscode-ui5-api-reference](https://github.com/wozjac/vscode-ui5-api-reference)
-* Stars: 3, Forks: 1, Watchers: 1
+* Stars: 4, Forks: 1, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Sat, 05 Jun 2021 22:29:39 GMT, Updated At: Fri, 08 Oct 2021 02:15:55 GMT
+* Created At: Sat, 05 Jun 2021 22:29:39 GMT, Updated At: Mon, 11 Oct 2021 16:37:06 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [wozjac](https://github.com/wozjac)
 * Contributors: [wozjac](https://github.com/wozjac), [uxkjaer](https://github.com/uxkjaer)
