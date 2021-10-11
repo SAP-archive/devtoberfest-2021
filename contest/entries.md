@@ -2,9 +2,9 @@
 
 ## btp-business-rules: Consume a business rules service instance on BTP-CF within this node.js library
 [https://github.com/CIT-FOCUS/btp-business-rules](https://github.com/CIT-FOCUS/btp-business-rules)
-* Stars: 1, Forks: 0, Watchers: 2
+* Stars: 2, Forks: 0, Watchers: 2
 * Open Issues: 1, Has Projects: false, Has Wiki: false
-* Created At: Tue, 05 Oct 2021 14:15:14 GMT, Updated At: Wed, 06 Oct 2021 09:37:12 GMT
+* Created At: Tue, 05 Oct 2021 14:15:14 GMT, Updated At: Mon, 11 Oct 2021 10:40:17 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [CIT-FOCUS](https://github.com/CIT-FOCUS)
 * Contributors: [drvup](https://github.com/drvup), [dependabot[bot]](https://github.com/apps/dependabot)
@@ -12,9 +12,9 @@
 
 ## easyHtmlEmail: Easy to Generate &amp; Maintain Email in SAP (ABAP + HTML/CSS)
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
-* Stars: 4, Forks: 0, Watchers: 2
+* Stars: 6, Forks: 0, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Fri, 08 Oct 2021 02:14:25 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Mon, 11 Oct 2021 09:08:42 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -172,9 +172,9 @@
 
 ## cf-cli-check-before-deploy: Plugin for CLI cloud foundry - Check before deploy
 [https://github.com/enric11/cf-cli-check-before-deploy](https://github.com/enric11/cf-cli-check-before-deploy)
-* Stars: 3, Forks: 1, Watchers: 2
+* Stars: 4, Forks: 1, Watchers: 2
 * Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Sat, 11 Apr 2020 09:59:46 GMT, Updated At: Sat, 09 Oct 2021 15:35:20 GMT
+* Created At: Sat, 11 Apr 2020 09:59:46 GMT, Updated At: Mon, 11 Oct 2021 07:43:09 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [enric11](https://github.com/enric11)
 * Contributors: [enric11](https://github.com/enric11)
@@ -232,9 +232,9 @@
 
 ## ui5memgame: 
 [https://github.com/pcdinis/ui5memgame](https://github.com/pcdinis/ui5memgame)
-* Stars: 0, Forks: 0, Watchers: 1
+* Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Mon, 04 Oct 2021 17:13:08 GMT, Updated At: Sun, 10 Oct 2021 19:38:27 GMT
+* Created At: Mon, 04 Oct 2021 17:13:08 GMT, Updated At: Mon, 11 Oct 2021 11:54:15 GMT
 * License: 
 * Owner: [pcdinis](https://github.com/pcdinis)
 * Contributors: [pcdinis](https://github.com/pcdinis)
@@ -262,8 +262,8 @@
 
 ## scf: Source Code Finder
 [https://github.com/reyemsaibot/scf](https://github.com/reyemsaibot/scf)
-* Stars: 2, Forks: 1, Watchers: 1
-* Open Issues: 3, Has Projects: true, Has Wiki: true
+* Stars: 2, Forks: 2, Watchers: 1
+* Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Fri, 08 Oct 2021 19:52:57 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [reyemsaibot](https://github.com/reyemsaibot)
@@ -303,8 +303,8 @@
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
 * Stars: 18, Forks: 6, Watchers: 3
-* Open Issues: 11, Has Projects: true, Has Wiki: true
-* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Fri, 08 Oct 2021 01:22:15 GMT
+* Open Issues: 10, Has Projects: true, Has Wiki: true
+* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Mon, 11 Oct 2021 09:04:52 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mbtools](https://github.com/mbtools), [larshp](https://github.com/larshp)
@@ -323,8 +323,8 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 1, Forks: 0, Watchers: 1
-* Open Issues: 16, Has Projects: true, Has Wiki: false
-* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Sun, 10 Oct 2021 10:53:00 GMT
+* Open Issues: 15, Has Projects: true, Has Wiki: false
+* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Mon, 11 Oct 2021 08:01:56 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
 * Contributors: [schmelto](https://github.com/schmelto)
