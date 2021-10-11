@@ -46,6 +46,8 @@ But the fun doesn’t end there.  We have an animated Contest Gameboard to help 
 
 And if you are curious how we built the animated gameboard, we have also released the whole thing as a Sample Code repository here: [https://github.com/SAP-samples/sap-community-activity-badges](https://github.com/SAP-samples/sap-community-activity-badges)
 
+For a video explanation: [Understand "The Game" Devtoberfest Content](https://youtu.be/2WfhQmZARcM)
+
 ## All Work and No Play? Nope!
 
 As part of the entire Devetoberfest celebration we want to take time to have some fun and relax with topics outside the normal work day. Therefore we will have special sessions each Friday during Devetobefest specifically for fun in mind. Check the topic agenda pages of each week for more details.
