@@ -13,10 +13,30 @@ Topic Owner: [Marius Obert](https://github.com/iobert)
 
 ## Presentations
 
+### Free your Web Apps from Speed Bumps
+Monday November 8th at [10:00 CET (Berlin) / 14:30 IST (Bengaluru) / 20:00 AEDT (Melbourne)](https://www.timeanddate.com/worldclock/converter.html?iso=20211108T090000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+
+Duration: 45 minutes
+
+Nobody likes web applications with a bad performance - neither the end-users nor the developers. Join this session to learn about some common strategies that improve the performance score of your web app and tools to measure this improvement.
+We will cover genic tips and tricks and specific ones for SAPUI5/OpenUI5 applications to help you with this week's coding challenge.
+
+<table >
+    <tr>
+        <td width=250><img src="../../images/MariusObert_250px_shade.png" alt="Marius Obert"></td>
+        <td><b><a href="https://people.sap.com/mariusobert">Marius Obert</a></b> started his software development career as a UI developer in sunny California. After many ugly fights against CSS, he relocated to Munich, where he now works as a Developer Advocate for SAP BTP and SAP UI technologies.  <br/>  In his spare time, he tries to keep up to speed with cryptocurrencies and distributed ledger technologies in general.
+    </tr>
+</table>
+
+
+
 ### Micro Frontends with Luigi – UI Development at Scale
-Schedule - TBD
+November 9th, [9:00 CET (Berlin) / 13:30 IST (Bengaluru) / 19:00 AEDT (Melbourne)](https://www.timeanddate.com/worldclock/converter.html?iso=20211109T080000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+
+Duration: 30 minutes
 
 This session will give insights about a trending topic in frontend development - Micro Frontends. This architecture style addresses the challenge of having a frontend that is too big to manage and coordinate across multiple teams or products. You will learn about its key aspects, technical and organizational issues it induces, and how these can be handled, on the example of project "Luigi", SAP's own open-source Micro Frontend framework.
+
 
 <table >
     <tr>
@@ -25,8 +45,11 @@ This session will give insights about a trending topic in frontend development -
     </tr>
 </table>
 
+
 ### Apollo GraphQL Usage in UI5 Apps
-Schedule - TBD
+November 9th, [17:00 CET (Berlin) / 11:00 EST (New York) / 8:00 PST (San Francisco)](https://www.timeanddate.com/worldclock/converter.html?iso=20211109T160000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+
+Duration: 30 minutes
 
 This session will showcase how easy it is today to integrate any OSS library such as Apollo GraphQL into UI5 by using the UI5 CLI tooling. Besides the OSS integration, the session demonstrates how seamless it can be to use Apollo GraphQL inside UI5 applications.
 
@@ -41,24 +64,12 @@ This session will showcase how easy it is today to integrate any OSS library suc
     </tr>
 </table>
 
-### How to Make State Management Work for You with Redux and Redux Toolkit 
-Schedule - TBD
-
-State management for the frontend. No more sinking props down layers of components and bubbling results back up. Access all your common data in one place with Redux! In this presentation, I will walk through what Redux is, why you would use it, how you would use it, and how you could simplify it with Redux Toolkit.
-
-<table >
-    <tr>
-        <td width=250><img src="../../images/MichelleMoudy_250px_shadow.png" alt="Michelle Moudy"><br/></td>
-        <td><b><a href="https://www.linkedin.com/in/michelle-moudy-57216716a/">Michelle Moudy</a></b>  is a frontend dev and is currently working for SAP Eureka on Returns Management.
-        She attended the first cohort of the SAP Academy for Engineering, where she worked with a team to design and implement a solution for Circular Economy. Her team designed a recycling app with configurable bins, using OCR to identify objects.
-        Her interests mainly lie in frontend development, and teaching other developers frontend isn't nearly as bad as they think.</td>
-    </tr>
-</table>
-
 
 
 ### Web Components: The Reusable Building Blocks of the Web
-Schedule - TBD
+November 11th, [9:00 CET (Berlin) / 13:30 IST (Bengaluru) / 19:00 AEDT (Melbourne)](https://www.timeanddate.com/worldclock/converter.html?iso=20211111T080000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+
+Duration: 30 minutes
 
 If you are looking for a way of implementing reusable components with Vanilla JavaScript and no framework-specific dependencies, then this session might be just for you. In this talk, we will take a deep dive into the Web Components standards:
 - Custom Elements
@@ -75,8 +86,22 @@ We will put our new knowledge into practice by implementing our first Web Compon
     </tr>
 </table>
 
+### How to Make State Management Work for You with Redux and Redux Toolkit 
 
-### And even more sessions are to come!
+November 11th, [19:00 CET (Berlin) / 13:00 EST (New York) / 10:00 PST (San Francisco)](https://www.timeanddate.com/worldclock/converter.html?iso=20211111T180000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+
+Duration: 30 minutes
+
+State management for the frontend. No more sinking props down layers of components and bubbling results back up. Access all your common data in one place with Redux! In this presentation, I will walk through what Redux is, why you would use it, how you would use it, and how you could simplify it with Redux Toolkit.
+
+<table >
+    <tr>
+        <td width=250><img src="../../images/MichelleMoudy_250px_shadow.png" alt="Michelle Moudy"><br/></td>
+        <td><b><a href="https://www.linkedin.com/in/michelle-moudy-57216716a/">Michelle Moudy</a></b>  is a frontend dev and is currently working for SAP Eureka on Returns Management.
+        She attended the first cohort of the SAP Academy for Engineering, where she worked with a team to design and implement a solution for Circular Economy. Her team designed a recycling app with configurable bins, using OCR to identify objects.
+        Her interests mainly lie in frontend development, and teaching other developers frontend isn't nearly as bad as they think.</td>
+    </tr>
+</table>
 
 ## Tutorials
 
@@ -86,11 +111,18 @@ Please find all the contest info here: [Contest Overview Page](https://github.co
 
 * List of tutorials will be released as Week 6 approaches 
 
-## Coding Challenges
+## Coding Challenge
 
-**Optimization of an existing SAPUI5 demo application**
+The Devtoberfest 2021 Frontend Week Coding Challenge is a web application that displays all current services available on the SAP Business Technology Platform. 
 
-More details to come
+> The Link will be made available when the challenge starts.
+
+![Running app in light mode](./running.png)
+
+Unfortunately, this app doesn't have the best loading performance. The [Lighthouse performance score](https://web.dev/performance-scoring/) is way below 10 out of 100. Luckily, this is not the fault of the used framework but happened due to a bad implementation and disregard of common best practices. It's up to you to fix this web application and to push the performance score above 70.
+
+To participate, you need to fork and clone the repository first. Once you made the improvements, open a pull request that will be reviewed automatically. If your app passes, your pull request gets a "passed" label, and you can enter your SAP Community ID to earn your badge.
+
 
 ## Fun Friday Activity
 

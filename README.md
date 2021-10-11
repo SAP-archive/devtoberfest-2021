@@ -14,7 +14,11 @@ Read more about the event in [the kick-off blog post](https://blogs.sap.com/2021
 
 **Registration:** [Devtoberfest Eventbite Registration Page](https://www.eventbrite.com/e/168612930815)
 
+**Discord:** [Devtoberfest Gaming Night Server](https://discord.gg/8EDCdsYe7p)
+
 Register for the event on Eventbrite to recieve all the latest notifications about Devtoberfest. Registration is also required to be entered in the [Contest](#contest-the-game) aspects of Devtoberfest.
+
+A list of all submitted open source projects to be part of Devtoberfest with details can be found in [entries.md](./contest/entries.md). Be sure to support these great community projects and take advantage of what they are sharing with everyone.
 
 ## Key Dates
 
@@ -29,7 +33,7 @@ Register for the event on Eventbrite to recieve all the latest notifications abo
 | Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
 | Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
 | Nov 12 | Devtoberfest Ends |
-| Nov 16 | TechEd Begins
+| Nov 16 | [TechEd Begins](https://reg.sapevents.sap.com/flow/sap/sapteched2021/overview/page/content)
 
 
 ## Contest (The Game)
@@ -41,6 +45,12 @@ For full details on the contest aspects please see the [Game Page Readme](contes
 But the fun doesn’t end there.  We have an animated Contest Gameboard to help you track your progress through the contest.  Just replace `scnId.Here` with your SAP Community Profile ID to the end of the following URL: [https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/scnId.Here](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/scnId.Here).
 
 And if you are curious how we built the animated gameboard, we have also released the whole thing as a Sample Code repository here: [https://github.com/SAP-samples/sap-community-activity-badges](https://github.com/SAP-samples/sap-community-activity-badges)
+
+## All Work and No Play? Nope!
+
+As part of the entire Devetoberfest celebration we want to take time to have some fun and relax with topics outside the normal work day. Therefore we will have special sessions each Friday during Devetobefest specifically for fun in mind. Check the topic agenda pages of each week for more details.
+
+[![Introduction to Devtoberfest Fun Fridays](https://img.youtube.com/vi/MK_S1yrh31k/0.jpg)](http://www.youtube.com/watch?v=MK_S1yrh31k)
 
 ## How to obtain support
 

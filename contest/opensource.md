@@ -4,6 +4,8 @@ Although this year's Devtoberfest contest has many new activities, we still want
 
 Therefore to submit your open source project for consideration as part of Devtoberfest 2021, we ask that you add the URL to your project and SAP Community ID in the [entry.csv](entry.csv) via pull request.
 
+A list of all submitted open source projects with details can be found in [entries.md](entries.md)
+
 ## Open Source and SAP
 
 For more information on the role of Open Source in the SAP world: [https://developers.sap.com/open-source.html](https://developers.sap.com/open-source.html).
