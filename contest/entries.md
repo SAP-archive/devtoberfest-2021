@@ -12,9 +12,9 @@
 
 ## easyHtmlEmail: Easy to Generate &amp; Maintain Email in SAP (ABAP + HTML/CSS)
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
-* Stars: 6, Forks: 0, Watchers: 2
+* Stars: 8, Forks: 0, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Mon, 11 Oct 2021 09:08:42 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Tue, 12 Oct 2021 10:30:59 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -124,7 +124,7 @@
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 1, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Sun, 10 Oct 2021 10:51:47 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 12 Oct 2021 11:49:50 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant)
@@ -164,7 +164,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Sat, 09 Oct 2021 15:35:43 GMT
+* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Tue, 12 Oct 2021 08:26:05 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke), [diraschk](https://github.com/diraschk)
@@ -174,7 +174,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Sat, 09 Oct 2021 15:26:22 GMT
+* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Tue, 12 Oct 2021 08:27:13 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke)
@@ -218,6 +218,26 @@
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [jchirk](https://github.com/jchirk)
 * Contributors: [qualiture](https://github.com/qualiture), [AZn5ReD](https://github.com/AZn5ReD), [jpenninkhof](https://github.com/jpenninkhof), [NoelHendrikx](https://github.com/NoelHendrikx), [luuksen](https://github.com/luuksen)
+
+
+## cf-flask-auth: A starter API services (Skeleton) using Python Flask and Authentication using Basic Authentication &amp; JSON Web Tokens (JWT) approach.
+[https://github.com/joniliu/cf-flask-auth](https://github.com/joniliu/cf-flask-auth)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: false, Has Wiki: false
+* Created At: Mon, 23 Sep 2019 16:17:10 GMT, Updated At: Wed, 26 Aug 2020 15:20:44 GMT
+* License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
+* Owner: [joniliu](https://github.com/joniliu)
+* Contributors: [joniliu](https://github.com/joniliu)
+
+
+## abap-rap-utilities-1909: ABAP RAP Utilities (for 1909)
+[https://github.com/jrodriguez-rc/abap-rap-utilities-1909](https://github.com/jrodriguez-rc/abap-rap-utilities-1909)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Tue, 12 Oct 2021 07:38:13 GMT, Updated At: Tue, 12 Oct 2021 07:39:01 GMT
+* License: 
+* Owner: [jrodriguez-rc](https://github.com/jrodriguez-rc)
+* Contributors: [jrodriguez-rc](https://github.com/jrodriguez-rc)
 
 
 ## codemirror-abap: ABAP mode for CodeMirror
@@ -324,7 +344,7 @@
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 392, Forks: 200, Watchers: 73
 * Open Issues: 127, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Mon, 11 Oct 2021 18:14:45 GMT
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Tue, 12 Oct 2021 11:04:51 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [fidley](https://github.com/fidley), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [tmackowski](https://github.com/tmackowski), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [Gh14Cc10](https://github.com/Gh14Cc10), [sandraros](https://github.com/sandraros), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [bitdeli-chef](https://github.com/bitdeli-chef), [christianguenter2](https://github.com/christianguenter2), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [pokrakam](https://github.com/pokrakam), [RedWolf112](https://github.com/RedWolf112), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
@@ -353,8 +373,8 @@
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
 * Stars: 18, Forks: 6, Watchers: 3
-* Open Issues: 10, Has Projects: true, Has Wiki: true
-* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Mon, 11 Oct 2021 09:04:52 GMT
+* Open Issues: 9, Has Projects: true, Has Wiki: true
+* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Tue, 12 Oct 2021 09:48:12 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mbtools](https://github.com/mbtools), [larshp](https://github.com/larshp)
@@ -373,7 +393,7 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 2, Forks: 0, Watchers: 1
-* Open Issues: 15, Has Projects: true, Has Wiki: false
+* Open Issues: 16, Has Projects: true, Has Wiki: false
 * Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Tue, 12 Oct 2021 03:46:07 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
