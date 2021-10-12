@@ -51,7 +51,17 @@ Duration: 45 mins
 
 Hear directly from one of the pre-eminent developers in the ABAP RESTful Application Programming Model (RAP) space, about recommended techniques and approaches in the language that powers the core of SAP S/4HANA and many other platforms.
 
-📺 [Join us live on YouTube](https://youtu.be/AHEkbCDkn-E), and get involved in the conversation!
+📺 [Watch the replay on YouTube](https://youtu.be/AHEkbCDkn-E) and 📽 [view the slides here](abap-rap-andre-fischer.pdf).
+
+Andre mentioned these tag in SAP Community Q&A for ABAP and RAP based questions and answers:
+
+* [ABAP RESTful Application Programming Model](https://answers.sap.com/tags/7e44126e-7b27-471d-a379-df205a12b1ff)
+* [SAP S/4HANA](https://answers.sap.com/tags/73554900100800000266)
+* [SAP BTP, ABAP environment](https://answers.sap.com/tags/73555000100800001164)
+
+See also:
+
+* [Workshops about the ABAP RESTful Application Programming Model (RAP) (e.g. Unit Test or Analytics)](https://github.com/SAP-samples/abap-platform-rap-workshops)
 
 <table border="0px" width="100%">
 <tr>
