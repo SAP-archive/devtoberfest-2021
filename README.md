@@ -48,6 +48,18 @@ And if you are curious how we built the animated gameboard, we have also release
 
 [![Understand "The Game" Devtoberfest Content](https://img.youtube.com/vi/2WfhQmZARcM/0.jpg)](https://youtu.be/2WfhQmZARcM)
 
+## Contributing to Open Source
+
+If you want to earn additional points towards the Devtoberfest contest, you can submit your own Open Source project or make a meaningful contribution to the [Open Documentation Initiative](http://sap.to/6057JKV2V). Being involved in the SAP Community is important to us, that is why we would love to see your contributions.
+
+[![Contribute to SAP Community during Devtoberfest](https://img.youtube.com/vi/6Fg3_zR7W50/0.jpg)](https://youtu.be/6Fg3_zR7W50)
+
+## Coding Challenges
+
+Coding Challenges are a fun way to recap and cement the learnings made during Devtoberfest. Each week you can face a new challenge and earn points for the Devtoberfest Contest. Close before the end of a week, the Coding Challenge for the coming week gets introduced on the respective topic page.
+
+[![Devtoberfest Coding Challenges explained](https://img.youtube.com/vi/7LzXVb1gYT0/0.jpg)](https://youtu.be/7LzXVb1gYT0)
+
 ## All Work and No Play? Nope!
 
 As part of the entire Devetoberfest celebration we want to take time to have some fun and relax with topics outside the normal work day. Therefore we will have special sessions each Friday during Devetobefest specifically for fun in mind. Check the topic agenda pages of each week for more details.
