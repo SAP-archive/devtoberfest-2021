@@ -62,6 +62,7 @@ Andre mentioned these tag in SAP Community Q&A for ABAP and RAP based questions 
 See also:
 
 * [Workshops about the ABAP RESTful Application Programming Model (RAP) (e.g. Unit Test or Analytics)](https://github.com/SAP-samples/abap-platform-rap-workshops)
+* [SAP Master Data Governance](https://www.sapstore.com/solutions/77000/SAP-Master-Data-Governance) mentioned by Andre
 
 <table border="0px" width="100%">
 <tr>
