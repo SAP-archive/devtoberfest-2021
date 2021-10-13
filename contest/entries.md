@@ -244,7 +244,7 @@
 [https://github.com/jrodriguez-rc/abap-rap-utilities-1909](https://github.com/jrodriguez-rc/abap-rap-utilities-1909)
 * Stars: 0, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Tue, 12 Oct 2021 07:38:13 GMT, Updated At: Tue, 12 Oct 2021 13:02:41 GMT
+* Created At: Tue, 12 Oct 2021 07:38:13 GMT, Updated At: Tue, 12 Oct 2021 18:26:56 GMT
 * License: 
 * Owner: [jrodriguez-rc](https://github.com/jrodriguez-rc)
 * Contributors: [jrodriguez-rc](https://github.com/jrodriguez-rc)
@@ -403,8 +403,8 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 2, Forks: 0, Watchers: 1
-* Open Issues: 16, Has Projects: true, Has Wiki: false
-* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Tue, 12 Oct 2021 03:46:07 GMT
+* Open Issues: 19, Has Projects: true, Has Wiki: false
+* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Tue, 12 Oct 2021 20:30:48 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
 * Contributors: [schmelto](https://github.com/schmelto)
