@@ -1,3 +1,4 @@
+#!/bin/bash
 # btpguid - return BTP subaccount/directory GUIDs
 
 # Usage: btpguid [-t|--target] displayname
@@ -6,36 +7,33 @@
 # specified by name. If the option -t or --target is specified, it
 # will also set that subaccount or directory as the target.
 
-  # Requires the btp CLI. Will direct you to log in first if you're
-  # not already logged in.
+# Requires the btp CLI. Will direct you to log in first if you're
+# not already logged in.
 
-  # It uses the detail from the output of this command:
-  # btp get accounts/global-account --show-hierarchy
+# It uses the detail from the output of this command:
+# btp get accounts/global-account --show-hierarchy
 
 # Uses the "${2:-$1}" technique seen in fff - see
 # https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/
 # for details.
 
-
-gethier ()
-{
-btp get accounts/global-account --show-hierarchy 2>/dev/null
+gethier() {
+  btp get accounts/global-account --show-hierarchy 2> /dev/null
 }
 
 main() {
 
-local hierarchy subtype guid displayname rc=0
-local event=Devtoberfest
+  local hierarchy subtype guid displayname rc=0
 
   displayname="${2:-$1}"
 
-  [[ -z displayname ]] && {
+  [[ -z $displayname ]] && {
     echo "No display name specified"
     exit 1
   }
 
   hierarchy="$(gethier)" || { btp login && hierarchy="$(gethier)"; }
-  read subtype guid <<< "$(grep -P -o "^(subaccount|directory)\s+(\S+)(?=\s+$displayname)" <<< $hierarchy)"
+  read -r subtype guid <<< "$(grep -P -o "^(subaccount|directory)\s+(\S+)(?=\s+$displayname)" <<< "$hierarchy")"
 
   # Set the subtype as target if requested
   [[ $1 == -t ]] || [[ $1 == --target ]] && {
@@ -43,7 +41,7 @@ local event=Devtoberfest
     rc=$?
   }
 
-  echo $guid
+  echo "$guid"
   return $rc
 
 }
