@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # btpguid - return BTP subaccount/directory GUIDs
 
 # Usage: btpguid [-t|--target] displayname
@@ -24,8 +24,6 @@ gethier() {
 main() {
 
   local hierarchy subtype guid displayname rc=0
-  # removed du its not used
-  # local event=devtoberfest
 
   displayname="${2:-$1}"
 
