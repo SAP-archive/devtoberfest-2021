@@ -1,0 +1,125 @@
+#!/bin/bash
+# btpguid - return BTP subaccount/directory GUIDs
+
+# Usage: btpguid [-t|--target] displayname
+
+# Returns the GUID for the given subaccount or directory, which is
+# specified by name. If the option -t or --target is specified, it
+# will also set that subaccount or directory as the target.
+
+# Requires the btp CLI. Will direct you to log in first if you're
+# not already logged in.
+
+# It uses the detail from the output of this command:
+# btp get accounts/global-account --show-hierarchy
+
+# Uses the "${2:-$1}" technique seen in fff - see
+# https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/
+# for details.
+
+gethier() {
+  btp get accounts/global-account --show-hierarchy 2> /dev/null
+}
+
+main() {
+
+  local hierarchy subtype guid displayname rc=0
+
+  displayname="${2:-$1}"
+
+  [[ -z $displayname ]] && {
+    echo "No display name specified"
+    exit 1
+  }
+
+  hierarchy="$(gethier)" || { btp login && hierarchy="$(gethier)"; }
+  read -r subtype guid <<< "$(grep -P -o "^(subaccount|directory)\s+(\S+)(?=\s+$displayname)" <<< "$hierarchy")"
+
+  # Set the subtype as target if requested
+  [[ $1 == -t ]] || [[ $1 == --target ]] && {
+    btp target "--${subtype}" "$guid" &> /dev/null
+    rc=$?
+  }
+
+  echo "$guid"
+  return $rc
+
+}
+
+main "$@"
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@gDdd6c!~~~~~~~~~~,,~~;+fUgQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QDa!`               ``    ```.~*xkRQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QWj~``   `    ``        `      ```....~a8Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QK?~.      `      `  ``````````````` ``````.'_<{qQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQE<.` `           ``.''''',,,,,,,'''''.``.`````````:>jQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQo;```         ``..'',,:_~~~~~~~~~~~~~_::,,,''..`  `````,jQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQDz~` `        `.'',,,:~~~~~;;;;;;;;;;;;~~~~~~_,,,,''.```  ``,sN@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQ6='``        ``.',,,~~~~;;;;;;;;!;;!!;;;;;;;;;;;~~~:,,,,'''.`    `;!v%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQy,.```      `',,,,:~~~;;;;;!!!!!!!!!!!!!!!!;;!!!;;;;~~~_:,,'''.`     `.*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQN7'````    `.',,,,:~~~;;!;!!!^^^^r+r^^^^^^^^rrr+^^^^!!!;;~~~:,,,'..``   ``.|g@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQNRZ~``` `  `.'',::~~~~;;;!!^^^^r+=><<<<<**|???????**<=rr^^!!;;~~_,,,''.``` `..,o@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQWdI,``````.''',,:~~;;;;!^^^^r+=<<**???|LiiiiiL|||||???*<<=+r^^!!;;~~,,,'..````'';mQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQWdE~.```..'''',,~~~;;;!^^+===<<*?||LLiii\\c777TTvccciLL||**<<=+^^^!;;~~,,''.````',';wQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQ8dw|,''...','',:~~;;;!!^r+=<**||Li\\v777777zzzzzxIYnxz7c\i|||?*<>+r^^!;;~,,''''.`.,,..+Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@QQWd5!','..',,'',_~;;;!!^+=<<?||ii\T7zzzzJJxsttIssxInunsz77777c\iL||?*<=+^!;~_,,''.``',:',S@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@QQ#D5_','.',,,''',~;;;!^^+>*?|||Li\v7ztYItxY}fffjjff}u{}usJzzzzz7c\iL|?*<<+^!;~~,,''..'',,'~Y@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@QQ&%X<.'''':~,''',_;;!!^r+<*?|||iT777zJxI{{nuufjjjjjf}{}ff}uYsIxzz777\iL|?*<=r^!;~~,'',,,,,'',D@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@QQB%qz'...',,,,,,',~;!^^+=>*??|i\T7zzztsYn{uuu{jjyyyyjjjjfuInnnnYsItz7v\ii||*<=+^!;;~,,,,,,::,,}@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@QQQgKE;.''',,,,,,,,~;!^r===<?||iicTv7zzIsYu{un{}fffjjjj}ufj}u{}}{unYYtzz7Ti|?**<>+^^;;~,,,,,,,'^Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@QQWdXy''.',,:,,,,,~;;^+=><*|Liii\TT7zzzxsn}}}}ffjjjjjjjjf}}{uussxtzzzzz7c\\iL?*??<>+^;~:,,~,:,,~Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@QQ#R6a?..`',:~,,,,~~;!+=**?|ii\\T7z77JxI{}}jjjjfjj}}jjjjjjf}uuunIttzzzz7v\iiiL||||?*<+^;~,:~_,,';BQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@QQgKhz'```,:~~:::~~;!^+<?|Lii\v7777zJxn}ffjyy5yyjjjjjjjjjjjffj}{YIsJzzzz77\iiiiiiL|?*>r;~_,~:::'';jQ@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@QQNDUo|```,:~~~~~~~;!^^+*||ivT77zzzxYufjjyyyyaZSZa5yyoyjyjjjjjyyjjf}{{nIxJzz77vTiii||**+^;~,~~~~~,,;iQ@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@QQgKEj*.`.,,~~~~~~;;!^^<*|i\T7zztsYY}fy5oaSmwwEkhEmmSZoooaSZaoSSZaaoyyjf}{Itzz77c\\i|*<+^;;~,~~~~~_;7Q@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQ&R6Zu+'.',:~~~~~~;;!^r<*LiT77zzsu}}}}jaaamwEkkkXXkkkEwmmwhhhwhhEwmSooyjjjfnxxzz7TTTi|*+^!;~,,~~_~~~mQ@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQNDXyt^'',:,;;;~~~;;!^^<?icT\ic7zz7zz7zsuu}j5aSmEEhXXUkEwmwhhEEwSoy}{uzzzz7T\v777ci\ii?<^!;~,,:~~;;;nQ@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQ8dkjz+,,,~_;;;~~~~;!!^<?||||||L|iiiiL||iTvzY{jyooSEkEhwaoZZaa5yfuzvT\iiiiiiL|*<*L|?|||<+!~:,,:~~~~~JQ@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQgbhjz!,,:~~;;;~~~~;;!^+^r<???i7stz7ciLi\\cvzzJujyoZSZSSo55yyjjfIJ7\ii||??|\7JJc?||==**++^;:,,:~~:~,|BQ@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQgKEj7;',,:~;;;;;~~~;;;!^*|i\7t{j5oaaoj}Yz7T\T7zY}jjj5aSZyjjff{sz7TccTv7zY{fjjjfIzc|<=^^^^;~,,:,:,:,zQQ@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQgKEj7~.',,~;;;;;~~;;~;^*i\7zs}jjyyjjf}}YYsz7cLLczxY{jyyyjfItJ7ciiii\7zn}}fj5yyjf{s7i*+!;;;~:_~:,,:!KQ@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQ%qwf7~.'',~~;;;;;~;;;^*|L\7zz7vciiiLLLiii\Tv7i?|iT7J{jyyfI7\ii|||Li7zJsIxJzz77zzzzzvi*r;~~~~~_~~,:!qQ@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQ%qwf7=,.',~;;~~;;;;!^*i|L\i?*<^!;~!;^|77iLiv7c*=|iivznffnzi*?*><|iv\\TcL??|**|||?Lc\i|*^;~~~~~~~,:,;D@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQ%qm}v;'..,~;;;;;;;!^<|i?|*^!;;^!!;*r=7oyz|ii\7|>*i?|\7zzzv|<<^^Lztzi7{t?=r^~;;!^+=>LiL|<+!~~~~~~~,'.\Q@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@QQB%AS7^,'``',~;;;!!!^+*|L|*+;;!<|<*?|L|i7777v7tuJ|??>*ic7z7c|==+<vziivuoj|=++;!^L?^;;=||LL?+;;~~~~,,,'<Q@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@QQNDU7;~;'``',~~~;!^^+<*?|?*>=*|ic7s}ffj}}}}fuunzL**++*i\77Ti?=^=<7nIzv777iLii?*?||*!;^*||LL<^!;~:_,,,',XQ@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@QQQgKY<>r;,'',,,,~;^^+<<?LLLL\iLL\77x}jjyyjjjfuJi?**=+<|\vv7cL?<=+=*|7nffjyooj}t77Ti|*=<*<<??<+!;~,,,''',;R@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@QQ8dX\*L*;,,:,'',~;!^r<*||i\\v7zztxxtxY}}fj}Iz\iL|?<=<?L\7zzv|<**<<**?\{y5yjjj}Izzz7ii\\i|||?*+^;~,'''.':=g@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@QQNDXo?|T*^^~:''',~;;!^=*?L\\iiiii\iiiiiiiL|||?**??****|iv7zz7i<*||***?||i7s{}nYnsxxJ7vvTc\iL|?=!;~,''',;rYQ@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@QQB%qm}|<7*+*^;,'',~~~;^+*|||||Liii\\\\\\\ccTTc\cii\i|<<?LT7z7\L*?||||????||||iiiii\\\\iLL||||?*+;~~,''~;*zKQQ@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@QQNDUosL+L=?7T*;,,,~~~;^+<**|||Lii\7zzxxtxIu}}}{uJ7i?*<*Li777vi|*?|ii\cTciLLLLiii\i\\i\\iiL?*<<=^;~,'',~!?ZBQQ@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@QQNdX5xir|*7fnc^~,,~:~;^==<<*|Lii7JnfjyyoaSZaa5fzi?=+=<|\Tzzc|?**??|iTztIxsxJz77zzzzz777TiL|?<=+!;:,'':;!*KQQQ@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@QQNDUos\*^?f5u\=!,,::~!^^^+<?iT7JufyoaSwEEwoyjuT*=++=?7zJxtJv|*|**<=>*|LLcJ}jyjff}}{nnIJ7TiL*<=^!;,,,'_^=<dQQ@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@QQB%AS{7|+<zt7L?>:,~_;!^^+<?ivzs}fyoaSEESay{nYti*?**|izx{jjj}J7\LL?*<<**<=*vnjooaoyjjj}Yxz7\L*=^!;:'':;i7LDQQ@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@QQ8dkyJi<r****||~,,~;!^r>*|vzY}jjyoSmSoyfYJsYs7||||iTzuymqqqhyxTiiLLLL|*+*TztY}yoooyjfusJz7cL<+!;~'',+77LRQ@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@QQB%qmfz|+^=TcLT*_,~;^+<*|\ztI{jyyyayj{tzznYJ7vi|||||iz{jjyoofzL??|Li|<<*i7zttztujyyjf}usz7v\|<^!~,,;=**fQQ@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@QQNDXoY\*^^\i\7\;,;!r<*|iczxu{jjjyj}x77zztz7\iL??||||Livztx7i**|ii||?**?|iTzxtzzIjjj}nntz77\i*+!;:~|c7E8QQ@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@QQQgKEjzL=;?iiv\<~;^=*?|iczzsu}f}ux7czz777T\ii|???||iv7vccc\ivzz7L|||**??LiT77zz7zY{unIzz7Tii?=^;~~|7y%BQ@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@QQNDUoIc?!;>?LiL!;r<|ii77zI{}}}IzTv7zz77\iiiL|||?|iv7zxfy5aojYz7cii|???*?Li\i\777T7Ixstz7viL|*+;~;iifNQQ@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQgKhjJi*!;!+<+;;+*i\7xznjjjfj}z7IYsJ77c\\\\\\iii\7zxfjomwwmyux7vTi||??*|LLLi7777TTzYIsz7iii|<^~~*>mBQQ@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@QQ&%qEjt\*=^!!;~;+|\TzYnj5oyyajzt}}}nJ7TT777777777zxfomwEkkEofsJz7vc\iL||Lii\v7zzzz7fff{x7TiL*^;;?yWQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@QQB%KXa}7i?>+^;~^?\7z{{jSmaoZyI}yjfz|<=+r^+<*||iT7JujZkXXkw5j{xz7c\\iL|LLLLiczIu}YJya5jnz7T|<^=yA%QQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@QQQNRqk5}z\|<^;!*i7J}}{ywmoSSffjjfn7?++!^^+?L\TzzTT7zzttz7vTiLL||*=!;;!^r+<iujjj}{Smajt7zc?>^iXDNQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@QQQ#gbUSjz\|=^^*\znju}oSSamZj}ffj}J|=!;!?7z}EmEm5aSynnI77Yj}xsJi?+~;^=<<Lsjjjjjomay}z77i*+<wRNQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@QQNRqEyIc?=^+|Tt}jjyy5oawmof}f}tTi?<+=|\zjZXwSkkhZwo}nmUwaS}7\^~;!+*i7x}jjoSmoj}t77v|>+jRNQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQgKk5sc?=^+|7t}jjjjyoSmay}}ut7Tii|?*<*|i\|zyay5ay}izy}nfvL*^^<*|i\7zYfjamSjnJ777i*<fDNQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQgdkys\|=^+|7s}jjjjy5oayjf{sz7ciiL|||LLLii\77zzzTiiLL||???|||||ic7zYjyaojxz77ci*+zdNQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQgbk5sT|=^+LzIu}fff}}yoyj}YszTiii\i\v77z7JfamZojn{IJ7ciLL||||Li77zIjaoftzz77i*+7q8QQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQgdXonv|<^+izn{}nsJIfjjj}}{t7ci\\7zJzsnujSXqAXmoj{sJ7vTTii||L\77zsjy}zT77vi<+7AgQQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQ8DUa{7|<^=L7xunnsJsu}ff}{Izv\Tv7tsss}jyEhXkmaay}xtzz77ciiic7z77tnziLi7T|<*tA%QQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQ#RAmfzi*^+*czIu{x77x{}funxzz77ztYu}jjjooooyjjjjuuYJz7TiiTzz7zzzvLL\Ti|>vwKgQQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQ#Rqwjzi*+^<\zxYux\TzIYn{{uYtzzzsn}y5yfjyjunfjj}}Yzzzvv7JJzz7\L*?iTi*=7wbgQQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQ&%qEyxi*+^*\zzxnziczzsYnuIxsYnn{fyayf{}}uI{}}{}nJzz7ztxtxzc|<*ii|<*fXD8QQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQBgKk5Ji*+^*i7ztx7iTzJInnn{}}}ffjy55jjjj}{}}}uuIzzzzzzzz77i**|L?>|a6RNQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQWDXyx\?=r<Lv7zz\Li7xnn}f}nYsJzJxJtssxttzz77zz777zzzzz\L<+*L*<zmK%#QQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQNDX5IT|>^+?iT7vL|i7zsuutz7777vc77zztzz7TT\iii\cz77Ti?=^=*>?nhKgQQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQNDXou7|<r^+?ic\i|ivzItzzzvvv77zs}jjfnxz7Tiii\\Tc\i|+!^+=7oUD8QQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQNDUSfzi*+^^+|Li||\7zzzJxzztxIYjawmojfst7vvvTv7v\|+!^!+JwqR#QQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQB%bXa}zi?=^^^=?||i7zsYYsInujomwwEwayf}{Itz77vi*^;;^ia6D8QQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQNRqko}zi?>r^^^+*|TzxYstIIujyo5yyjyjjfIxJ7vL<!!+vykb%&QQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQ8Rqka}J\|*+^^^^+<?iv7txzzxsIn}f}Izz7c\i*^^<7jm6D8QQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQN%KXmyuzi|*<=r^!!^<|i\\v777z7vi|?*<***i7fZXdgBQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQ#gDqXSjuJ7\L?*<=+^^^^+<<>>><<<*?L\7sjSXb%#QQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQQ#gDKUESyfIz7\iL||???||Li\T7zIfyZEqDg&QQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQQB8%DKqXESojf}unnn{fjyoamhX6KD%NQQQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
