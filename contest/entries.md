@@ -1,5 +1,15 @@
 # Devtoberfest 2021 Project Entries
 
+## OpenSAP-certification-API: Share list of available OpenSAP Traning and certifications granted to individual from people.sap.com profile
+[https://github.com/AmauryVanEspen/OpenSAP-certification-API](https://github.com/AmauryVanEspen/OpenSAP-certification-API)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Wed, 13 Oct 2021 06:51:16 GMT, Updated At: Wed, 13 Oct 2021 06:51:19 GMT
+* License: 
+* Owner: [AmauryVanEspen](https://github.com/AmauryVanEspen)
+* Contributors: [AmauryVanEspen](https://github.com/AmauryVanEspen)
+
+
 ## btp-business-rules: Consume a business rules service instance on BTP-CF within this node.js library
 [https://github.com/CIT-FOCUS/btp-business-rules](https://github.com/CIT-FOCUS/btp-business-rules)
 * Stars: 2, Forks: 0, Watchers: 2
@@ -110,11 +120,21 @@
 * Contributors: [atuljha23](https://github.com/atuljha23)
 
 
-## devtoberfest-2021: 
-[https://github.com/bmaciag/devtoberfest-2021](https://github.com/bmaciag/devtoberfest-2021)
+## abapGit-Repository-Notification: A simple notification framework to get informed about updated abapGit repositories
+[https://github.com/bigld/abapGit-Repository-Notification](https://github.com/bigld/abapGit-Repository-Notification)
+* Stars: 0, Forks: 1, Watchers: 2
+* Open Issues: 1, Has Projects: false, Has Wiki: false
+* Created At: Sun, 20 Sep 2020 09:37:06 GMT, Updated At: Tue, 06 Oct 2020 06:59:48 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [bigld](https://github.com/bigld)
+* Contributors: [bigld](https://github.com/bigld), [larshp](https://github.com/larshp)
+
+
+## devtoberfest-2021-project: 
+[https://github.com/bmaciag/devtoberfest-2021-project](https://github.com/bmaciag/devtoberfest-2021-project)
 * Stars: 0, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 07 Oct 2021 12:13:56 GMT, Updated At: Thu, 07 Oct 2021 12:14:01 GMT
+* Created At: Thu, 07 Oct 2021 12:13:56 GMT, Updated At: Wed, 13 Oct 2021 12:39:32 GMT
 * License: 
 * Owner: [bmaciag](https://github.com/bmaciag)
 * Contributors: [bmaciag](https://github.com/bmaciag)
@@ -133,7 +153,7 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 1, Watchers: 2
-* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 12 Oct 2021 11:49:50 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
@@ -174,7 +194,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Wed, 13 Oct 2021 11:48:36 GMT
+* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Wed, 13 Oct 2021 12:21:34 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke), [diraschk](https://github.com/diraschk)
