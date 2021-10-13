@@ -1,10 +1,20 @@
 # Devtoberfest 2021 Project Entries
 
+## OpenSAP-certification-API: Share list of available OpenSAP Traning and certifications granted to individual from people.sap.com profile
+[https://github.com/AmauryVanEspen/OpenSAP-certification-API](https://github.com/AmauryVanEspen/OpenSAP-certification-API)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Wed, 13 Oct 2021 06:51:16 GMT, Updated At: Wed, 13 Oct 2021 06:51:19 GMT
+* License: 
+* Owner: [AmauryVanEspen](https://github.com/AmauryVanEspen)
+* Contributors: [AmauryVanEspen](https://github.com/AmauryVanEspen)
+
+
 ## btp-business-rules: Consume a business rules service instance on BTP-CF within this node.js library
 [https://github.com/CIT-FOCUS/btp-business-rules](https://github.com/CIT-FOCUS/btp-business-rules)
-* Stars: 1, Forks: 0, Watchers: 2
+* Stars: 2, Forks: 0, Watchers: 2
 * Open Issues: 1, Has Projects: false, Has Wiki: false
-* Created At: Tue, 05 Oct 2021 14:15:14 GMT, Updated At: Wed, 06 Oct 2021 09:37:12 GMT
+* Created At: Tue, 05 Oct 2021 14:15:14 GMT, Updated At: Mon, 11 Oct 2021 10:40:17 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [CIT-FOCUS](https://github.com/CIT-FOCUS)
 * Contributors: [drvup](https://github.com/drvup), [dependabot[bot]](https://github.com/apps/dependabot)
@@ -12,9 +22,9 @@
 
 ## easyHtmlEmail: Easy to Generate &amp; Maintain Email in SAP (ABAP + HTML/CSS)
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
-* Stars: 4, Forks: 0, Watchers: 2
+* Stars: 8, Forks: 0, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Fri, 08 Oct 2021 02:14:25 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Tue, 12 Oct 2021 10:30:59 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -48,6 +58,26 @@
 * License: 
 * Owner: [FiddleWookie](https://github.com/FiddleWookie)
 * Contributors: [FiddleBe](https://github.com/FiddleBe), [lemaiwo](https://github.com/lemaiwo)
+
+
+## abap_idoc_json: Send idocs in json format to http endpoints
+[https://github.com/NL4B/abap_idoc_json](https://github.com/NL4B/abap_idoc_json)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Thu, 07 Oct 2021 18:58:18 GMT, Updated At: Wed, 13 Oct 2021 07:01:14 GMT
+* License: 
+* Owner: [NL4B](https://github.com/NL4B)
+* Contributors: [raeijpe](https://github.com/raeijpe)
+
+
+## CAPM_POCreation: 
+[https://github.com/Rohit52080/CAPM_POCreation](https://github.com/Rohit52080/CAPM_POCreation)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Mon, 11 Oct 2021 18:05:06 GMT, Updated At: Mon, 11 Oct 2021 18:57:49 GMT
+* License: 
+* Owner: [Rohit52080](https://github.com/Rohit52080)
+* Contributors: [Rohit52080](https://github.com/Rohit52080)
 
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
@@ -90,21 +120,41 @@
 * Contributors: [atuljha23](https://github.com/atuljha23)
 
 
-## devtoberfest-2021: 
-[https://github.com/bmaciag/devtoberfest-2021](https://github.com/bmaciag/devtoberfest-2021)
+## abapGit-Repository-Notification: A simple notification framework to get informed about updated abapGit repositories
+[https://github.com/bigld/abapGit-Repository-Notification](https://github.com/bigld/abapGit-Repository-Notification)
+* Stars: 0, Forks: 1, Watchers: 2
+* Open Issues: 1, Has Projects: false, Has Wiki: false
+* Created At: Sun, 20 Sep 2020 09:37:06 GMT, Updated At: Tue, 06 Oct 2020 06:59:48 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [bigld](https://github.com/bigld)
+* Contributors: [bigld](https://github.com/bigld), [larshp](https://github.com/larshp)
+
+
+## devtoberfest-2021-project: 
+[https://github.com/bmaciag/devtoberfest-2021-project](https://github.com/bmaciag/devtoberfest-2021-project)
 * Stars: 0, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 07 Oct 2021 12:13:56 GMT, Updated At: Thu, 07 Oct 2021 12:14:01 GMT
+* Created At: Thu, 07 Oct 2021 12:13:56 GMT, Updated At: Wed, 13 Oct 2021 12:39:32 GMT
 * License: 
 * Owner: [bmaciag](https://github.com/bmaciag)
 * Contributors: [bmaciag](https://github.com/bmaciag)
 
 
+## PAO-head-first: Practicing ABAP Objects: Head First Design Patterns
+[https://github.com/brehberg/PAO-head-first](https://github.com/brehberg/PAO-head-first)
+* Stars: 2, Forks: 5, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Mon, 22 Jan 2018 17:08:40 GMT, Updated At: Thu, 07 Oct 2021 06:48:02 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [brehberg](https://github.com/brehberg)
+* Contributors: [brehberg](https://github.com/brehberg)
+
+
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 1, Watchers: 2
-* Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Sun, 10 Oct 2021 10:51:47 GMT
+* Open Issues: 2, Has Projects: true, Has Wiki: true
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 12 Oct 2021 11:49:50 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant)
@@ -144,7 +194,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Sat, 09 Oct 2021 15:35:43 GMT
+* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Wed, 13 Oct 2021 12:21:34 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke), [diraschk](https://github.com/diraschk)
@@ -154,7 +204,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Sat, 09 Oct 2021 15:26:22 GMT
+* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Wed, 13 Oct 2021 11:49:14 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke)
@@ -172,12 +222,12 @@
 
 ## cf-cli-check-before-deploy: Plugin for CLI cloud foundry - Check before deploy
 [https://github.com/enric11/cf-cli-check-before-deploy](https://github.com/enric11/cf-cli-check-before-deploy)
-* Stars: 3, Forks: 1, Watchers: 2
-* Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Sat, 11 Apr 2020 09:59:46 GMT, Updated At: Sat, 09 Oct 2021 15:35:20 GMT
+* Stars: 5, Forks: 1, Watchers: 2
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Sat, 11 Apr 2020 09:59:46 GMT, Updated At: Tue, 12 Oct 2021 13:50:46 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [enric11](https://github.com/enric11)
-* Contributors: [enric11](https://github.com/enric11)
+* Contributors: [enric11](https://github.com/enric11), [gregorwolf](https://github.com/gregorwolf)
 
 
 ## ui5-docker: 
@@ -188,6 +238,46 @@
 * License: 
 * Owner: [flow23](https://github.com/flow23)
 * Contributors: [flow23](https://github.com/flow23)
+
+
+## smb.io: This is an application to showcase emerging technologies (e.g. IoT, AI, etc.) that could be used in SMEs scenarios.
+[https://github.com/jacobahtan/smb.io](https://github.com/jacobahtan/smb.io)
+* Stars: 1, Forks: 1, Watchers: 2
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Thu, 14 Nov 2019 08:46:17 GMT, Updated At: Tue, 07 Apr 2020 12:50:23 GMT
+* License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
+* Owner: [jacobahtan](https://github.com/jacobahtan)
+* Contributors: [jacobahtan](https://github.com/jacobahtan), [TrinidadMG](https://github.com/TrinidadMG)
+
+
+## ui5-validator: 
+[https://github.com/jchirk/ui5-validator](https://github.com/jchirk/ui5-validator)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Wed, 31 Jul 2019 22:01:37 GMT, Updated At: Mon, 11 Oct 2021 21:51:01 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [jchirk](https://github.com/jchirk)
+* Contributors: [qualiture](https://github.com/qualiture), [AZn5ReD](https://github.com/AZn5ReD), [jpenninkhof](https://github.com/jpenninkhof), [NoelHendrikx](https://github.com/NoelHendrikx), [luuksen](https://github.com/luuksen)
+
+
+## cf-flask-auth: A starter API services (Skeleton) using Python Flask and Authentication using Basic Authentication &amp; JSON Web Tokens (JWT) approach.
+[https://github.com/joniliu/cf-flask-auth](https://github.com/joniliu/cf-flask-auth)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: false, Has Wiki: false
+* Created At: Mon, 23 Sep 2019 16:17:10 GMT, Updated At: Wed, 26 Aug 2020 15:20:44 GMT
+* License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
+* Owner: [joniliu](https://github.com/joniliu)
+* Contributors: [joniliu](https://github.com/joniliu)
+
+
+## abap-rap-utilities-1909: ABAP RAP Utilities (for 1909)
+[https://github.com/jrodriguez-rc/abap-rap-utilities-1909](https://github.com/jrodriguez-rc/abap-rap-utilities-1909)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Tue, 12 Oct 2021 07:38:13 GMT, Updated At: Tue, 12 Oct 2021 18:26:56 GMT
+* License: 
+* Owner: [jrodriguez-rc](https://github.com/jrodriguez-rc)
+* Contributors: [jrodriguez-rc](https://github.com/jrodriguez-rc)
 
 
 ## codemirror-abap: ABAP mode for CodeMirror
@@ -210,6 +300,16 @@
 * Contributors: [lemaiwo](https://github.com/lemaiwo)
 
 
+## ztoad: 
+[https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
+* Stars: 0, Forks: 3, Watchers: 0
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Thu, 30 Jul 2020 09:01:16 GMT
+* License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
+* Owner: [marianfoo](https://github.com/marianfoo)
+* Contributors: [marianfoo](https://github.com/marianfoo)
+
+
 ## excel_to_viz: Simple UI5 Application that takes simple excel file and displays it as Viz Frames
 [https://github.com/muralidhar2796/excel_to_viz](https://github.com/muralidhar2796/excel_to_viz)
 * Stars: 0, Forks: 0, Watchers: 1
@@ -218,6 +318,16 @@
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [muralidhar2796](https://github.com/muralidhar2796)
 * Contributors: [muralidhar2796](https://github.com/muralidhar2796)
+
+
+## vscode-cds-csv-generator: SAP CAP CDS CSV Generator VS Code Extension
+[https://github.com/ozgurkadir/vscode-cds-csv-generator](https://github.com/ozgurkadir/vscode-cds-csv-generator)
+* Stars: 2, Forks: 1, Watchers: 2
+* Open Issues: 7, Has Projects: true, Has Wiki: true
+* Created At: Sat, 06 Mar 2021 20:27:54 GMT, Updated At: Mon, 19 Jul 2021 01:00:29 GMT
+* License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
+* Owner: [ozgurkadir](https://github.com/ozgurkadir)
+* Contributors: [ozgurkadir](https://github.com/ozgurkadir)
 
 
 ## bw_trfn_tester: ⏱️ 📈Test and compare your SAP BW Transformations without system data
@@ -232,9 +342,9 @@
 
 ## ui5memgame: 
 [https://github.com/pcdinis/ui5memgame](https://github.com/pcdinis/ui5memgame)
-* Stars: 0, Forks: 0, Watchers: 1
+* Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Mon, 04 Oct 2021 17:13:08 GMT, Updated At: Sun, 10 Oct 2021 19:38:27 GMT
+* Created At: Mon, 04 Oct 2021 17:13:08 GMT, Updated At: Mon, 11 Oct 2021 13:26:43 GMT
 * License: 
 * Owner: [pcdinis](https://github.com/pcdinis)
 * Contributors: [pcdinis](https://github.com/pcdinis)
@@ -262,8 +372,8 @@
 
 ## scf: Source Code Finder
 [https://github.com/reyemsaibot/scf](https://github.com/reyemsaibot/scf)
-* Stars: 2, Forks: 1, Watchers: 1
-* Open Issues: 3, Has Projects: true, Has Wiki: true
+* Stars: 2, Forks: 2, Watchers: 1
+* Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Fri, 08 Oct 2021 19:52:57 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [reyemsaibot](https://github.com/reyemsaibot)
@@ -272,9 +382,9 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
-* Stars: 392, Forks: 200, Watchers: 73
+* Stars: 393, Forks: 200, Watchers: 73
 * Open Issues: 127, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 09 Oct 2021 18:04:10 GMT
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 13 Oct 2021 06:13:59 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [fidley](https://github.com/fidley), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [tmackowski](https://github.com/tmackowski), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [Gh14Cc10](https://github.com/Gh14Cc10), [sandraros](https://github.com/sandraros), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [bitdeli-chef](https://github.com/bitdeli-chef), [christianguenter2](https://github.com/christianguenter2), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [pokrakam](https://github.com/pokrakam), [RedWolf112](https://github.com/RedWolf112), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
@@ -283,7 +393,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 72, Forks: 23, Watchers: 22
-* Open Issues: 18, Has Projects: true, Has Wiki: true
+* Open Issues: 19, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Thu, 07 Oct 2021 08:09:31 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -302,9 +412,9 @@
 
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
-* Stars: 18, Forks: 6, Watchers: 3
-* Open Issues: 11, Has Projects: true, Has Wiki: true
-* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Fri, 08 Oct 2021 01:22:15 GMT
+* Stars: 18, Forks: 6, Watchers: 2
+* Open Issues: 9, Has Projects: true, Has Wiki: true
+* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Tue, 12 Oct 2021 09:48:12 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mbtools](https://github.com/mbtools), [larshp](https://github.com/larshp)
@@ -322,12 +432,12 @@
 
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
-* Stars: 1, Forks: 0, Watchers: 1
-* Open Issues: 16, Has Projects: true, Has Wiki: false
-* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Sun, 10 Oct 2021 10:53:00 GMT
+* Stars: 2, Forks: 1, Watchers: 1
+* Open Issues: 19, Has Projects: true, Has Wiki: false
+* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Wed, 13 Oct 2021 11:12:25 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
-* Contributors: [schmelto](https://github.com/schmelto)
+* Contributors: [schmelto](https://github.com/schmelto), [krishguptadev](https://github.com/krishguptadev)
 
 
 ## abapMQDaemons: Deamons for abapMQ
@@ -362,9 +472,9 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 131, Forks: 56, Watchers: 21
+* Stars: 132, Forks: 56, Watchers: 21
 * Open Issues: 16, Has Projects: true, Has Wiki: true
-* Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Thu, 30 Sep 2021 07:40:33 GMT
+* Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Wed, 13 Oct 2021 04:13:20 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
 * Contributors: [petermuessig](https://github.com/petermuessig), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [vobu](https://github.com/vobu), [IObert](https://github.com/IObert), [dependabot[bot]](https://github.com/apps/dependabot), [attila-boros](https://github.com/attila-boros), [marcelschork](https://github.com/marcelschork), [mauriciolauffer](https://github.com/mauriciolauffer), [lennart-m](https://github.com/lennart-m), [stockbal](https://github.com/stockbal), [sebbi08](https://github.com/sebbi08), [lboehm](https://github.com/lboehm), [matz3](https://github.com/matz3), [RandomByte](https://github.com/RandomByte), [Magoli1](https://github.com/Magoli1), [TheVivekGowda](https://github.com/TheVivekGowda), [lemaiwo](https://github.com/lemaiwo), [resitamas](https://github.com/resitamas), [d-sooter](https://github.com/d-sooter), [esjewett](https://github.com/esjewett), [fatihpense](https://github.com/fatihpense), [iggycoder](https://github.com/iggycoder), [jkoenig134](https://github.com/jkoenig134), [maxmoehl](https://github.com/maxmoehl), [piejanssens](https://github.com/piejanssens), [stefania-santimbrean](https://github.com/stefania-santimbrean), [iot-cpars](https://github.com/iot-cpars), [s4180t](https://github.com/s4180t), [texttechne](https://github.com/texttechne)
@@ -372,9 +482,9 @@
 
 ## vscode-ui5-api-reference: VSCode extension: SAPUI5/OpenUI5 Reference documentation in a side bar view
 [https://github.com/wozjac/vscode-ui5-api-reference](https://github.com/wozjac/vscode-ui5-api-reference)
-* Stars: 3, Forks: 1, Watchers: 1
+* Stars: 4, Forks: 1, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Sat, 05 Jun 2021 22:29:39 GMT, Updated At: Fri, 08 Oct 2021 02:15:55 GMT
+* Created At: Sat, 05 Jun 2021 22:29:39 GMT, Updated At: Mon, 11 Oct 2021 16:37:06 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [wozjac](https://github.com/wozjac)
 * Contributors: [wozjac](https://github.com/wozjac), [uxkjaer](https://github.com/uxkjaer)
