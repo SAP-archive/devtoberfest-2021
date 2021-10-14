@@ -19,7 +19,7 @@
 # for details.
 
 gethier() {
-  btp get accounts/global-account --show-hierarchy 2>/dev/null
+  btp get accounts/global-account --show-hierarchy 2> /dev/null
 }
 
 main() {
@@ -34,11 +34,11 @@ main() {
   }
 
   hierarchy="$(gethier)" || { btp login && hierarchy="$(gethier)"; }
-  read -r subtype guid <<<"$(grep -P -o "^(subaccount|directory)\s+(\S+)(?=\s+$displayname)" <<<"$hierarchy")"
+  read -r subtype guid <<< "$(grep -P -o "^(subaccount|directory)\s+(\S+)(?=\s+$displayname)" <<< "$hierarchy")"
 
   # Set the subtype as target if requested
   [[ $1 == -t ]] || [[ $1 == --target ]] && {
-    btp target "--${subtype}" "$guid" &>/dev/null
+    btp target "--${subtype}" "$guid" &> /dev/null
     rc=$?
   }
 
