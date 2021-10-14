@@ -51,9 +51,13 @@ Completion of any of the following tutorials during Devtoberfest will earn you p
 
 Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
-* List of tutorials will be released as Week 3 approaches 
+* List of week 3 tutorials released here on the [contest page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest#week-3) 
 
- ## Special Friday Activity
+## Scavenger Hunt
+
+In addtion to the tutorials there is a special mission on the contest page allowing you to accelerate your gameboard points total.  We have assembled a list of 20 tutorials that include many aspects of the code featured across all 6 weeks of Devtoberfest.  If you complete all 20 of the [Devtoberfest Scavenger Hunt Mission](https://developers.sap.com/mission.devtoberfest-scavenger-hunt.html) tutorials you get a special badge worth 6500 points!!!
+
+## Special Friday Activity
  
 ### Eric Johnson "Attitude of Iteration"
 Date and Time: Friday, October 22nd at 17:00 CEST / 20:30 IST (Bengaluru) / 11:00 EDT / 09:00 MDT (Denver) [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211022T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
