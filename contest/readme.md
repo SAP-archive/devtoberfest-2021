@@ -20,7 +20,7 @@ This table includes a sample of some events that you can earn a badge with point
 |---|---|
 | [Register](https://www.eventbrite.com/e/168612930815)	| 10 |
 |[Contribute to the Open Documentation Initiative](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/) |	500 |
-|Scavenger Hunt of 20 Tutorials |	Up to 10600 |
+|[Scavenger Hunt of 20 Tutorials](https://developers.sap.com/mission.devtoberfest-scavenger-hunt.html) |	Up to 10600 |
 |Tutorials in each content week	| 200 |
 |Attend Live Youtube Speaker Session and complete validation | 300 |
 |[Submit Project to Devtoberfest 2021 on GitHub](opensource.md)	| 1000 |
