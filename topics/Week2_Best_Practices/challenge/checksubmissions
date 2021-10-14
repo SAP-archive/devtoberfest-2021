@@ -110,7 +110,7 @@ main() {
 
 }
 
-
+# See https://qmacro.org/autodidactics/2021/10/14/sourcing-vs-executing-in-bash/
 if [[ $0 =~ ^-bash ]]; then
   return 0
 else
