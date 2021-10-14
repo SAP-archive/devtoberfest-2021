@@ -92,9 +92,9 @@
 
 ## 10-SAPUI5-Projects: 10-SAPUI5-Projects
 [https://github.com/Technology-Enthusiast/10-SAPUI5-Projects](https://github.com/Technology-Enthusiast/10-SAPUI5-Projects)
-* Stars: 10, Forks: 11, Watchers: 2
+* Stars: 9, Forks: 11, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Sun, 10 Oct 2021 10:48:07 GMT
+* Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Wed, 13 Oct 2021 18:44:04 GMT
 * License: 
 * Owner: [Technology-Enthusiast](https://github.com/Technology-Enthusiast)
 * Contributors: [NabheetCloud](https://github.com/NabheetCloud)
@@ -152,7 +152,7 @@
 
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
-* Stars: 2, Forks: 1, Watchers: 2
+* Stars: 2, Forks: 2, Watchers: 2
 * Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 12 Oct 2021 11:49:50 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
@@ -320,6 +320,16 @@
 * Contributors: [muralidhar2796](https://github.com/muralidhar2796)
 
 
+## dev.toberfest.side-quest: 
+[https://github.com/nimble-123/dev.toberfest.side-quest](https://github.com/nimble-123/dev.toberfest.side-quest)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Wed, 13 Oct 2021 20:03:50 GMT, Updated At: Wed, 13 Oct 2021 20:19:52 GMT
+* License: 
+* Owner: [nimble-123](https://github.com/nimble-123)
+* Contributors: [nimble-123](https://github.com/nimble-123)
+
+
 ## vscode-cds-csv-generator: SAP CAP CDS CSV Generator VS Code Extension
 [https://github.com/ozgurkadir/vscode-cds-csv-generator](https://github.com/ozgurkadir/vscode-cds-csv-generator)
 * Stars: 2, Forks: 1, Watchers: 2
@@ -383,7 +393,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 393, Forks: 200, Watchers: 73
-* Open Issues: 127, Has Projects: false, Has Wiki: false
+* Open Issues: 128, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 13 Oct 2021 06:13:59 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
