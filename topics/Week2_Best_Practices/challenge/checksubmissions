@@ -110,4 +110,9 @@ main() {
 
 }
 
-main "$@"
+
+if [[ $0 =~ ^-bash ]]; then
+  return 0
+else
+  main "$@"
+fi
