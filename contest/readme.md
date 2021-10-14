@@ -92,3 +92,5 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 | [Enhance Behavior With Action and Validation](https://developers.sap.com/tutorials/abap-environment-behavior-action.html) | 200 | <img src="https://community.sap.com/images/blt50b7867407d19a83/50E9F6-devtoberfest-2021-1.svg" title="#50E9F6 - Devtoberfest 2021 - Enhance Behavior With Action and Validation" width=50/>
 | [Attend Week 2 Fun Friday Event](https://developers.sap.com/tutorials/devtoberfest-week-2-fun-friday.html) |	300 | <img src="https://community.sap.com/images/bltbc8fd3be0d942d9a/9E3498-devtoberfest-2021-1.svg" title="#9E3498 - Devtoberfest 2021 - Week 2 Fun Friday Attendee" width=50/>
 | [Participate in Dogtoberfest](https://developers.sap.com/tutorials/devtoberfest-dogtoberfest.html) | 100 | <img src="https://community.sap.com/images/blt6773b36debe4ae7d/dogtoberfest-1.svg" title="#9E3498 - Participate in Dogtoberfest" width=50/>
+
+### Week 3 - Coming soon
