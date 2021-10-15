@@ -25,13 +25,10 @@ gethier() {
 main() {
 
   local hierarchy subtype guid displayname rc=0
-  local event=Devtoberfest
-  echo $event - shell challenge
 
   displayname="${2:-$1}"
 
   [[ -z $displayname ]] && {
-    echo displayname."$displayname".
     echo "No display name specified"
     exit 1
   }
