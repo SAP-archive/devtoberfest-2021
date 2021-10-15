@@ -1,4 +1,4 @@
-# Data && Analytics
+# Data & Analytics
 
 This topic content is for Devtoberfest Week 5: November 1 → 5, 2021.
 
