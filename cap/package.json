@@ -6,9 +6,9 @@
     "license": "UNLICENSED",
     "private": true,
     "dependencies": {
-        "@sap/cds": "^5",
+        "@sap/cds": "^5.5.4",
         "express": "^4",
-        "hdb": "^0.18.3"
+        "hdb": "^0.19"
     },
     "devDependencies": {
         "sqlite3": "^5.0.2"
