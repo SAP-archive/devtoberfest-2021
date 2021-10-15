@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# fix error with line end seq
 # btpguid - return BTP subaccount/directory GUIDs
 
 # Usage: btpguid [-t|--target] displayname
