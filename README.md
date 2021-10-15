@@ -8,8 +8,34 @@ To exapnd on the general security concepts of Devtoberfest Week 4, we also want 
 
 ### ABAP
 
-All of the ABAP content is contained within the [/src](./src/) folder. 
+All of the ABAP content is contained within the [/src](./src/) folder. We also have ABAPGit configuration within the root of this project. So you can clone this entire project and only the ABAP content should be brought into your system. The content has been tested on the SAP BTP, ABAP environment (Steampunk) trial, but it is generally enough that it could be used as starting templates for this challenge in recent release on premise systems as well with only some minor adjustments for the target data model.  Also each of challenge classes are relatively simple and self contained.  You could also just use the community ABAP tools extensions for Visual Studio Code and perform this code challenge locally (or via GitHub Codespaces) without access to a backend ABAP system.
 
+This challenge consists of three ABAP classes all of which have typical security issues when working with dynamic SQL. Your challenge is to improve this code; keeping it still dynamic but improve the safety of the code. 
+
+### SAP Cloud Application Programming Model
+
+The rest of the content in this challenge is an SAP Cloud Application Programming Model project within the [/cap](./cap/) folder. This is an already built project with the basic sample data model. It can be cloned locally into VSCode or into the SAP Business Application Studio or you can edit it directly from GitHub Codespaces. It is configured to run with SQLite, so no backend HANA dependencies are necessarily needed to start.
+
+This is a perfectly normal, although simple, CAP project. However it lacks certain security features that are available to the Cloud Application Programming Model. Your callenge is to add one or more of these features into the project. The more security features the better.  We will also have a live session [Security Aspects of SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=jQYMeN3jeOU) on Wednesday, October 27th at 17:00 CEST / 23:00 SGT / 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211027T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt) to discuss some of the security aspects you could add as part of this challenge.
+
+- Add [CORS](https://developer.mozilla.org/de/docs/Web/HTTP/CORS) processing for when the CAP service is used directly without an Application Router
+- [Add authentication to your CAP Service](https://cap.cloud.sap/docs/node.js/authentication) 
+- [Add Access Control to your CAP Model/Service](https://cap.cloud.sap/docs/guides/authorization#restrictions)
+- [Add Instance Based Authorization (Role Level Checks)](https://cap.cloud.sap/docs/guides/authorization#instance-based-auth)
+- [Add A Content Security Policy](https://cap.cloud.sap/docs/node.js/best-practices#content-security-policy-csp)
+- Other aspects - up to you
+
+#### General Approach to the CAP Coding Challenge
+
+The general process you must follow for this challenge is:
+
+* set up [Microsoft VS Code](https://code.visualstudio.com/download) with the [CAP tools] (https://developers.sap.com/tutorials/cp-apm-nodejs-create-service.html) on your machine if you haven't got it already or gain access to the [SAP Business Application and a Full Stack Cloud Application Dev Space](https://developers.sap.com/tutorials/hana-cloud-cap-create-project.html)
+* fork this repository and clone it into your choosen development environment
+* Code your improvements, test, repeat
+* submit a pull request (PR) with the exact title "WEEK4CHALLENGE" to this repository, containing the changes you made
+
+> If you have access to [GitHub Codespaces](https://github.com/features/codespaces) then you can do all of this in the cloud, including the installation and use of all of the extensions.
+> ![opening repository in GitHub Codespaces](images/repo-in-codespaces.png)
 
 ## Challenge Rules
 
