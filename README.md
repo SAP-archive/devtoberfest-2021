@@ -4,8 +4,11 @@ Welcome to the coding challenge that accompanies [Devtoberfest Week 4, Security]
 
 ## Description
 
-To exapnd on the general security concepts of Devtoberfest Week 4, we also want to provide some practical exercises for both the ABAP and SAP Cloud Application Programming Model environment. 
+To exapnd on the general security concepts of Devtoberfest Week 4, we also want to provide some practical exercises for both the ABAP and SAP Cloud Application Programming Model environment. You can choose to tackel the ABAP challenge, the CAP challenge or both of them.
 
+### ABAP
+
+All of the ABAP content is contained within the [/src](./src/) folder. 
 
 
 ## Challenge Rules
@@ -15,7 +18,7 @@ We don't want to be too prescriptive in this fun challenge, but there are a few 
 For this challenge, please abide by these rules:
 
 1. You have a week to complete the challenge, i.e. to submit a Pull Request with your script changes.  This means that any PR submitted after Friday 29 Oct will not be considered.
-1. Please ensure you specify the following precisely in the title of your Pull Request: `WEEK4CHALLENGE <your SAP Community user name>`. So if your SAP Community user name is e.g. `dj.adams.sap` (from https://people.sap.com/dj.adams.sap) then the title of your Pull Request must be `WEEK2CHALLENGE dj.adams.sap` (you can put whatever you want in the PR description - i.e. the multi-line text area).
+1. Please ensure you specify the following precisely in the title of your Pull Request: `WEEK4CHALLENGE <your SAP Community user name>`. So if your SAP Community user name is e.g. `dj.adams.sap` (from https://people.sap.com/dj.adams.sap) then the title of your Pull Request must be `WEEK4CHALLENGE dj.adams.sap` (you can put whatever you want in the PR description - i.e. the multi-line text area).
 1. You only need to send modifications to the content in the /src or /cap folders, you should not need to modify any other files in this repository.
 1. We will not actually merge your Pull Request as the base repository remains the starting template for everyone. Instead we will just judge your submissions based upon what is contained within the Pull Request.
 
