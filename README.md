@@ -4,7 +4,7 @@ Welcome to the coding challenge that accompanies [Devtoberfest Week 4, Security]
 
 ## Description
 
-To exapnd on the general security concepts of Devtoberfest Week 4, we also want to provide some practical exercises for both the ABAP and SAP Cloud Application Programming Model environment. You can choose to tackel the ABAP challenge, the CAP challenge or both of them.
+To expand on the general security concepts of Devtoberfest Week 4, we also want to provide some practical exercises for both the ABAP and SAP Cloud Application Programming Model environment. You can choose to tackle the ABAP challenge, the CAP challenge or both of them.
 
 ### ABAP
 
