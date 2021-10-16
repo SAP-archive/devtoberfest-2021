@@ -1,0 +1,37 @@
+name: Entries builder
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 */6 * * *'
+      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+           node-version: '14'
+
+      - name: Install packages
+        run: npm install
+
+      - name: (Re)build entries.md
+        run: npm --silent run build > ./contest/entries.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}        
+
+      - name: Commit changes if required
+        if: ${{ success() }}
+        run: |
+          git config --global user.email "thomas.jung@sap.com"
+          git config --global user.name "jung-thomas"
+          git add ./contest/entries.md
+          git commit -m 'update entries.md' || exit 0
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
