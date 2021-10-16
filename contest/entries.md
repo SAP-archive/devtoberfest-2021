@@ -34,7 +34,7 @@
 [https://github.com/Ennowulff/abap-unit-tests-by-example](https://github.com/Ennowulff/abap-unit-tests-by-example)
 * Stars: 6, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Tue, 11 May 2021 09:11:40 GMT, Updated At: Fri, 08 Oct 2021 01:37:48 GMT
+* Created At: Tue, 11 May 2021 09:11:40 GMT, Updated At: Fri, 15 Oct 2021 11:31:39 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [Ennowulff](https://github.com/Ennowulff)
 * Contributors: [Ennowulff](https://github.com/Ennowulff)
@@ -92,9 +92,9 @@
 
 ## 10-SAPUI5-Projects: 10-SAPUI5-Projects
 [https://github.com/Technology-Enthusiast/10-SAPUI5-Projects](https://github.com/Technology-Enthusiast/10-SAPUI5-Projects)
-* Stars: 10, Forks: 11, Watchers: 2
+* Stars: 9, Forks: 11, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Sun, 10 Oct 2021 10:48:07 GMT
+* Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Wed, 13 Oct 2021 18:44:04 GMT
 * License: 
 * Owner: [Technology-Enthusiast](https://github.com/Technology-Enthusiast)
 * Contributors: [NabheetCloud](https://github.com/NabheetCloud)
@@ -108,6 +108,16 @@
 * License: 
 * Owner: [TinhToQuang](https://github.com/TinhToQuang)
 * Contributors: [TinhToQuang](https://github.com/TinhToQuang)
+
+
+## saptutorials: 
+[https://github.com/ag3silaus/saptutorials](https://github.com/ag3silaus/saptutorials)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Mon, 04 Oct 2021 14:59:36 GMT, Updated At: Fri, 15 Oct 2021 14:37:38 GMT
+* License: 
+* Owner: [ag3silaus](https://github.com/ag3silaus)
+* Contributors: [ag3silaus](https://github.com/ag3silaus)
 
 
 ## Find-my-teammates: Don&#x27;t get lost searching for that teammate who is a wizard when it comes to solving your problems. Find your teammates easily within office with just one click.
@@ -152,9 +162,9 @@
 
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
-* Stars: 2, Forks: 1, Watchers: 2
-* Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 12 Oct 2021 11:49:50 GMT
+* Stars: 2, Forks: 2, Watchers: 2
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Fri, 15 Oct 2021 14:52:55 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant)
@@ -194,7 +204,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Wed, 13 Oct 2021 12:21:34 GMT
+* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Fri, 15 Oct 2021 18:05:10 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke), [diraschk](https://github.com/diraschk)
@@ -203,8 +213,8 @@
 ## vsc-sap-hana-mta-dev-env-node16x: 
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x)
 * Stars: 1, Forks: 0, Watchers: 1
-* Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Wed, 13 Oct 2021 11:49:14 GMT
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Fri, 15 Oct 2021 20:06:10 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke)
@@ -300,6 +310,16 @@
 * Contributors: [lemaiwo](https://github.com/lemaiwo)
 
 
+## cap-azuread-luigi-ui5: CAP Azure AD Luigi UI5 app
+[https://github.com/lvhengel/cap-azuread-luigi-ui5](https://github.com/lvhengel/cap-azuread-luigi-ui5)
+* Stars: 3, Forks: 0, Watchers: 3
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Thu, 13 May 2021 20:41:32 GMT, Updated At: Fri, 15 Oct 2021 15:36:38 GMT
+* License: 
+* Owner: [lvhengel](https://github.com/lvhengel)
+* Contributors: [lvhengel](https://github.com/lvhengel)
+
+
 ## ztoad: 
 [https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
 * Stars: 0, Forks: 3, Watchers: 0
@@ -318,6 +338,16 @@
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [muralidhar2796](https://github.com/muralidhar2796)
 * Contributors: [muralidhar2796](https://github.com/muralidhar2796)
+
+
+## dev.toberfest.side-quest: Devtoberfest 2021 Side Quest
+[https://github.com/nimble-123/dev.toberfest.side-quest](https://github.com/nimble-123/dev.toberfest.side-quest)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Wed, 13 Oct 2021 20:03:50 GMT, Updated At: Thu, 14 Oct 2021 17:06:52 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [nimble-123](https://github.com/nimble-123)
+* Contributors: [nimble-123](https://github.com/nimble-123)
 
 
 ## vscode-cds-csv-generator: SAP CAP CDS CSV Generator VS Code Extension
@@ -374,17 +404,27 @@
 [https://github.com/reyemsaibot/scf](https://github.com/reyemsaibot/scf)
 * Stars: 2, Forks: 2, Watchers: 1
 * Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Fri, 08 Oct 2021 19:52:57 GMT
+* Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Fri, 15 Oct 2021 09:59:39 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [reyemsaibot](https://github.com/reyemsaibot)
 * Contributors: [reyemsaibot](https://github.com/reyemsaibot)
 
 
+## table_compare: Compare two tables and display different entries
+[https://github.com/reyemsaibot/table_compare](https://github.com/reyemsaibot/table_compare)
+* Stars: 2, Forks: 1, Watchers: 2
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Thu, 14 Oct 2021 09:56:33 GMT, Updated At: Fri, 15 Oct 2021 10:45:55 GMT
+* License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
+* Owner: [reyemsaibot](https://github.com/reyemsaibot)
+* Contributors: [reyemsaibot](https://github.com/reyemsaibot), [larshp](https://github.com/larshp)
+
+
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
-* Stars: 393, Forks: 200, Watchers: 73
-* Open Issues: 127, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 13 Oct 2021 06:13:59 GMT
+* Stars: 394, Forks: 200, Watchers: 73
+* Open Issues: 126, Has Projects: false, Has Wiki: false
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Fri, 15 Oct 2021 21:25:08 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [fidley](https://github.com/fidley), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [tmackowski](https://github.com/tmackowski), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [Gh14Cc10](https://github.com/Gh14Cc10), [sandraros](https://github.com/sandraros), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [bitdeli-chef](https://github.com/bitdeli-chef), [christianguenter2](https://github.com/christianguenter2), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [pokrakam](https://github.com/pokrakam), [RedWolf112](https://github.com/RedWolf112), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
@@ -393,7 +433,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 72, Forks: 23, Watchers: 22
-* Open Issues: 19, Has Projects: true, Has Wiki: true
+* Open Issues: 20, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Thu, 07 Oct 2021 08:09:31 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -433,8 +473,8 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 2, Forks: 1, Watchers: 1
-* Open Issues: 19, Has Projects: true, Has Wiki: false
-* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Wed, 13 Oct 2021 11:12:25 GMT
+* Open Issues: 18, Has Projects: true, Has Wiki: false
+* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Fri, 15 Oct 2021 11:09:40 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
 * Contributors: [schmelto](https://github.com/schmelto), [krishguptadev](https://github.com/krishguptadev)
@@ -448,6 +488,16 @@
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [se38](https://github.com/se38)
 * Contributors: [se38](https://github.com/se38)
+
+
+## dotfiles: My SAP BAS dotfiles
+[https://github.com/seVladimirs/dotfiles](https://github.com/seVladimirs/dotfiles)
+* Stars: 4, Forks: 1, Watchers: 2
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Mon, 05 Oct 2020 08:45:24 GMT, Updated At: Sat, 13 Mar 2021 17:46:02 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [seVladimirs](https://github.com/seVladimirs)
+* Contributors: [seVladimirs](https://github.com/seVladimirs)
 
 
 ## DevtoberTesting: DevtoberTestMission
