@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # btpguid - return BTP subaccount/directory GUIDs
 
 # Usage: btpguid [-t|--target] displayname
