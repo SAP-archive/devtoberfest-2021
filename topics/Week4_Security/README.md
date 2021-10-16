@@ -12,6 +12,7 @@ For the tutorial and code challenge content of this week there will be a speacia
 
 ### Cédric Hebert "Hackers Want Passwords"
 Date and Time: Monday, October 25th at 17:00 CEST / 23:00 SGT / 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211025T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
+[![](https://img.youtube.com/vi/zatXHKgPnec/0.jpg)](http://www.youtube.com/watch?v=zatXHKgPnec)
 
 Duration: 50 mins
 
@@ -35,6 +36,7 @@ Cédric’s drives are sharing knowledge, learning new things every day and supp
 
 ### Thomas Jung "Security Aspects of SAP Cloud Application Programming Model"
 Date and Time: Wednesday, October 27th at 17:00 CEST / 23:00 SGT / 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211027T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
+[![](https://img.youtube.com/vi/jQYMeN3jeOU/0.jpg)](http://www.youtube.com/watch?v=jQYMeN3jeOU)
 
 Duration: 50 mins
 
@@ -50,6 +52,7 @@ The SAP Cloud Application Programming Model comes out of the box with lots of be
 
 ### Michele Chubirka "Container Security: It's All About the Supply Chain"
 Date and Time: Thursday, October 28th at 17:00 CEST / 23:00 SGT / 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211028T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
+[![](https://img.youtube.com/vi/acEwqW-4R18/0.jpg)](http://www.youtube.com/watch?v=acEwqW-4R18)
 
 Duration: 50 mins
 
