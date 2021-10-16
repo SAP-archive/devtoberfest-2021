@@ -31,7 +31,7 @@ local event=Devtoberfest
 
   displayname="${2:-$1}"
 
-  [[ -z displayname ]] && {
+  [[ -z $displayname ]] && {
     echo "No display name specified"
     exit 1
   }
