@@ -27,7 +27,6 @@ btp get accounts/global-account --show-hierarchy 2>/dev/null
 main() {
 
 local hierarchy subtype guid displayname rc=0
-local event=Devtoberfest
 
   displayname="${2:-$1}"
 
