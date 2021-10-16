@@ -37,7 +37,7 @@ local event=Devtoberfest
   }
 
   hierarchy="$(gethier)" || { btp login && hierarchy="$(gethier)"; }
-  read subtype guid <<< "$(grep -P -o "^(subaccount|directory)\s+(\S+)(?=\s+$displayname)" <<< $hierarchy)"
+  read -r subtype guid <<< "$(grep -P -o "^(subaccount|directory)\s+(\S+)(?=\s+$displayname)" <<< $hierarchy)"
 
   # Set the subtype as target if requested
   [[ $1 == -t ]] || [[ $1 == --target ]] && {
