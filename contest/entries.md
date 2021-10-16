@@ -133,8 +133,8 @@
 ## abapGit-Repository-Notification: A simple notification framework to get informed about updated abapGit repositories
 [https://github.com/bigld/abapGit-Repository-Notification](https://github.com/bigld/abapGit-Repository-Notification)
 * Stars: 0, Forks: 1, Watchers: 2
-* Open Issues: 1, Has Projects: false, Has Wiki: false
-* Created At: Sun, 20 Sep 2020 09:37:06 GMT, Updated At: Sat, 16 Oct 2021 11:00:27 GMT
+* Open Issues: 0, Has Projects: false, Has Wiki: false
+* Created At: Sun, 20 Sep 2020 09:37:06 GMT, Updated At: Sat, 16 Oct 2021 12:32:14 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [bigld](https://github.com/bigld)
 * Contributors: [bigld](https://github.com/bigld), [larshp](https://github.com/larshp)
@@ -423,7 +423,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 394, Forks: 200, Watchers: 73
-* Open Issues: 122, Has Projects: false, Has Wiki: false
+* Open Issues: 126, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 16 Oct 2021 11:22:42 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
