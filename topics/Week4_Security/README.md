@@ -34,6 +34,51 @@ As a certified expert of the Security Research team, he spends his time influenc
 
 Cédric’s drives are sharing knowledge, learning new things every day and supporting people in getting more secure (instead of blaming them for clicking on the wrong link !).</td>  </tr></table>
 
+### "Security Round Table"
+Date and Time: Tuesday, October 26th at 16:00 CEST / 22:00 SGT / 10:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211026T140000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
+[![](https://img.youtube.com/vi/XTKbRdaiKEg/0.jpg)](http://www.youtube.com/watch?v=XTKbRdaiKEg)
+
+Duration: 50 mins
+Round table with security experts from SAP, Microsoft, and University. More details to be announced soon
+
+[Join us live on YouTube](https://www.youtube.com/watch?v=XTKbRdaiKEg), and get involved in the conversation!
+
+<table border=0px>
+<tr>
+        <td width = 270>
+<img src="../../images/MicheleChubirka.png">        
+
+</td>  <td><b>Michele Chubirka</b> is a recovering Unix and network engineer currently working as Chief Security Architect in SAP SuccessFactors. Her focus is Product Security with expertise in cloud-native security topics such as IaC, Kubernetes, containerization and software supply chains. Formerly the creator and official nerdstalker of the Healthy Paranoia Security Podcast, she has also been a freelance writer for various B2B publications such as TechTarget and Information Week, as well as an independent analyst. She likes long walks in hubsites, traveling to security conferences and spending time in the Bat Cave. Sincerely believes that every problem can be solved with a "for" loop. When not blogging or podcasting, can be found using up her 15 minutes in the <a href="https://twitter.com/MrsYisWhy" target="_blank">Twittersphere as MrsYisWhy</a>
+</td>  </tr>
+<tr>
+        <td width = 270>
+<!-- <img src="../../images/MicheleChubirka.png"> -->       
+
+</td>  <td><b>Torsten Dangel</b> Details comming soon
+</td>  </tr>
+
+<tr>
+        <td width = 270>
+<img src="../../images/Helen-Oakley.png">
+</td>  <td><b>Helen Oakley</b>, CISSP, is a Sr. Product Security Architect at SAP. She contributes to SAP’s cross product architecture and works as part of their Cyber & Defense team, defining application and operations security controls, standards, and frameworks. In her last role, Helen was a security architect for SAP’s Financial Services Industry applications where she implemented security and data privacy controls across banking and insurance portfolio. Helen is a co-founder of <a href="https://LeadingCyberLadies.com" target="_blank">LeadingCyberLadies.com</a> (a global community of women in cybersecurity) and is a teacher at HackStudent.com where they educate kids in ethical hacking. Helen is an advisory board member for a couple of cybersecurity start-ups and believes in giving back to the community. Twitter: <a href="https://twitter.com/e2hln" target="_blank">@e2hln</a>
+</td>  </tr>
+<tr>
+
+<tr>
+        <td width = 270>
+ <img src="../../images/sachar_paulus-300px.jpg">       
+
+</td>  <td><b>Sachar Paulus</b> is Professor for IT Security at Mannheim University of Applied Sciences. He holds a Ph.D. in number theory. He was working for SAP for 8 years in several security-related leading positions, among others, SVP Product Security and Chief Security Officer. His main research and transfer interests are Secure Software Development and Information Security for Small and Medium-Sized Enterprises. 
+</td>  </tr>
+
+<tr>
+        <td width = 270>
+<!-- <img src="../../images/MicheleChubirka.png"> -->       
+
+</td>  <td><b>Ralf Wigand</b> Details comming soon
+</td>  </tr>
+</table>
+
 ### Thomas Jung "Security Aspects of SAP Cloud Application Programming Model"
 Date and Time: Wednesday, October 27th at 17:00 CEST / 23:00 SGT / 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211027T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
 [![](https://img.youtube.com/vi/jQYMeN3jeOU/0.jpg)](http://www.youtube.com/watch?v=jQYMeN3jeOU)
