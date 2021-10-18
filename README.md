@@ -22,18 +22,18 @@ A list of all submitted open source projects to be part of Devtoberfest with det
 
 ## Key Dates
 
-| Date | Description |
-| ---------------- | ---------------- |
-| Oct 1 | Devtoberfest Begins! |
-| Oct 4 - 8 | [Week 1 - Welcome to Devtoberfest](topics/Week1_Welcome/README.md) |
-| Oct 11 - 15 | [Week 2 - Best Practices](topics/Week2_Best_Practices/README.md) |
-| Oct 15 | [Dogtoberfest Day](topics/Dogtoberfest/README.md) |
-| Oct 18 - 22 | [Week 3 - Cloud Native](topics/Week3_Cloud_Native/README.md) |
-| Oct 25 - 29 | [Week 4 - Security](topics/Week4_Security/README.md) |
-| Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
-| Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
-| Nov 12 | Devtoberfest Ends |
-| Nov 16 | [TechEd Begins](https://reg.sapevents.sap.com/flow/sap/sapteched2021/overview/page/content)
+| Current Week | Date | Description |
+| ---------------- | ---------------- | ---------------- |
+| | Oct 1 | Devtoberfest Begins! |
+| | Oct 4 - 8 | [Week 1 - Welcome to Devtoberfest](topics/Week1_Welcome/README.md) |
+| | Oct 11 - 15 | [Week 2 - Best Practices](topics/Week2_Best_Practices/README.md) |
+| | Oct 15 | [Dogtoberfest Day](topics/Dogtoberfest/README.md) |
+| Current Week | Oct 18 - 22 | [Week 3 - Cloud Native](topics/Week3_Cloud_Native/README.md) |
+| | Oct 25 - 29 | [Week 4 - Security](topics/Week4_Security/README.md) |
+| | Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
+| | Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
+| | Nov 12 | Devtoberfest Ends |
+| | Nov 16 | [TechEd Begins](https://reg.sapevents.sap.com/flow/sap/sapteched2021/overview/page/content)
 
 
 ## Contest (The Game)

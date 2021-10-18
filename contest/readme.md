@@ -8,7 +8,7 @@ For Devtoberfest 2021 we have a game that is open to everyone regardless of deve
 
 ![Gameboard](../images/gameboard.png)
 
-Once registered for Devotberfest 2021 you will also earn your first badge, Devtoberfest 2021 on your [SAP Community ID](https://people.sap.com/). 
+Once registered for Devotberfest 2021 you will also earn your first badge, Devtoberfest 2021 on your [SAP Community ID](https://people.sap.com/).
 
 <img src="https://community.sap.com/images/bltdc55235ff270a332/devtoberfest-2021-1.svg" alt="Participation Badge" width=100/>
 
@@ -24,7 +24,7 @@ This table includes a sample of some events that you can earn a badge with point
 |Tutorials in each content week	| 200 |
 |Attend Live Youtube Speaker Session and complete validation | 300 |
 |[Submit Project to Devtoberfest 2021 on GitHub](opensource.md)	| 1000 |
-| | |	
+| | |
 
 We will have many existing tutorials from https://developers.sap.com that you can complete to earn points in Devtoberfest 2021. Each week we will announce the tutorials that go along with the topic of the week which you can complete for points. However we didn't want to penalize those of you that might have already completed these tutorials in the past. Therefore if you are registered for Devtoberfest and completed these key tutorials in the past you are granted credit automatically for those.
 
@@ -120,9 +120,9 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 | [Add More Than One Application to the Launch Page](https://developers.sap.com/tutorials/btp-app-launchpage.html) | 200 | <img src="https://community.sap.com/images/blt46a4e66a4da4bb31/2AE84C-devtoberfest-2021-1.svg" title="#2AE84C - Devtoberfest 2021 - Add More Than One Application to the Launch Page" width=50/>
 | [Setup of SAP Mesh via Kyma Help Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/407d1266017f4b529b61665fa7408c41.html) - [Validation Tutorial Here](https://developers.sap.com/tutorials/devtoberfest-week-sh-kyma.html) | 200 | <img src="https://community.sap.com/images/blt2425e2f00bd5ed20/D29ABD-devtoberfest-2021-1.svg" title="#D29ABD - Devtoberfest 2021 - Setup of SAP Mesh via Kyma Help Documentation" width=50/>
 | [Create a Live Connection Between SAP HANA Cloud and SAP Analytics Cloud](https://developers.sap.com/tutorials/hana-cloud-connection-guide-1.html) | 200 | <img src="https://community.sap.com/images/blt210841dfc9183269/F8E02F-devtoberfest-2021-1.svg" title="#F8E02F - Devtoberfest 2021 - Create a Live Connection Between SAP HANA Cloud and SAP Analytics Cloud" width=50/>
-| [Provision a Standalone Data Lake in SAP HANA Cloud](https://developers.sap.com/tutorials/hana-cloud-hdl-getting-started-1.html) | 200 | <img src="https://community.sap.com/images/blt6d9cffeb36848900/D09592-devtoberfest-2021-1.svg" title="#D09592 - Devtoberfest 2021 - Provision a Standalone Data Lake in SAP HANA Cloud" width=50/>
-| [Access a Standalone Data Lake in SAP HANA Cloud](https://developers.sap.com/tutorials/hana-cloud-hdl-getting-started-2.html) | 200 | <img src="https://community.sap.com/images/blt0e3a42bbbf3144b7/A955F6-devtoberfest-2021-1.svg" title="#A955F6 - Devtoberfest 2021 - Access a Standalone Data Lake in SAP HANA Cloud" width=50/>
-| [Connect QGIS to SAP HANA Database in SAP HANA Cloud](https://developers.sap.com/tutorials/hana-cloud-trial-qgis-1.html) | 200 | <img src="https://community.sap.com/images/blte9834fda8b8a8d62/9D879A-devtoberfest-2021-1.svg" title="#9D879A - Devtoberfest 2021 - Connect QGIS to SAP HANA Database in SAP HANA Cloud" width=50/>
+| [Help Thomas Get Started with SAP HANA Cloud](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html) | 200 | <img  width=50/>
+| [Set Up Account for Document Information Extraction](https://developers.sap.com/tutorials/cp-aibus-dox-booster-app.html) |  | <img  width=50/>
+| [Use Machine Learning to Extract Information from Documents with Document Information Extraction UI](https://developers.sap.com/tutorials/cp-aibus-dox-ui.html) | 200 | <img  width=50/>
 | [Add the SAP Launchpad Service (Scavenger Hunt)](https://developers.sap.com/tutorials/btp-app-launchpad-service.html) | 200 | <img src="https://community.sap.com/images/blt8bed5fa74562aaca/5DAEBC-devtoberfest-2021-1.svg" title="#5DAEBC - Devtoberfest 2021 - Add the SAP Launchpad Service (Scavenger Hunt)" width=50/>
 | [Configure and Run a Predefined SAP Continuous Integration and Delivery (CI/CD) Pipeline](https://developers.sap.com/tutorials/btp-app-launchpad-service.html) | 200 | <img src="https://community.sap.com/images/blte038229577c9e01f/059CBE-devtoberfest-2021-1.svg" title="#059CBE - Devtoberfest 2021 - Configure and Run a Predefined SAP Continuous Integration and Delivery (CI/CD) Pipeline" width=50/>
 | [Create an SAP Fiori Project via Help Documentation](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/46664de4d6944471b6c29a0681bfd0fc.html)  - [Validation Tutorial Here](https://developers.sap.com/tutorials/devtoberfest-week-sh-fiori.html) | 200 | <img src="https://community.sap.com/images/blta0b37131ceb18de9/F3078A-devtoberfest-2021-1.svg" title="#F3078A - Devtoberfest 2021 - Create an SAP Fiori Project via Help Documentation" width=50/>
