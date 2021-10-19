@@ -2,9 +2,9 @@
 
 ## OpenSAP-certification-API: Share list of available OpenSAP Traning and certifications granted to individual from people.sap.com profile
 [https://github.com/Devtoberfest2021OpenSAPTeamUp/OpenSAP-certification-API](https://github.com/Devtoberfest2021OpenSAPTeamUp/OpenSAP-certification-API)
-* Stars: 0, Forks: 0, Watchers: 1
-* Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 13 Oct 2021 06:51:16 GMT, Updated At: Sun, 17 Oct 2021 10:18:53 GMT
+* Stars: 1, Forks: 0, Watchers: 2
+* Open Issues: 6, Has Projects: true, Has Wiki: true
+* Created At: Wed, 13 Oct 2021 06:51:16 GMT, Updated At: Mon, 18 Oct 2021 18:09:30 GMT
 * License: 
 * Owner: [Devtoberfest2021OpenSAPTeamUp](https://github.com/Devtoberfest2021OpenSAPTeamUp)
 * Contributors: [AmauryVanEspen](https://github.com/AmauryVanEspen)
@@ -60,6 +60,16 @@
 * Contributors: [FiddleBe](https://github.com/FiddleBe), [lemaiwo](https://github.com/lemaiwo)
 
 
+## teched-2021: SAP TechEd 2021 - Network Spatial CAP Service Example  
+[https://github.com/MartinStenzig/teched-2021](https://github.com/MartinStenzig/teched-2021)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Tue, 14 Sep 2021 13:35:13 GMT, Updated At: Thu, 16 Sep 2021 23:52:45 GMT
+* License: 
+* Owner: [MartinStenzig](https://github.com/MartinStenzig)
+* Contributors: [MartinStenzig](https://github.com/MartinStenzig)
+
+
 ## abap_idoc_json: Send idocs in json format to http endpoints
 [https://github.com/NL4B/abap_idoc_json](https://github.com/NL4B/abap_idoc_json)
 * Stars: 0, Forks: 0, Watchers: 1
@@ -82,9 +92,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 149, Forks: 51, Watchers: 17
+* Stars: 150, Forks: 51, Watchers: 17
 * Open Issues: 1, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Sun, 17 Oct 2021 10:39:27 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 18 Oct 2021 14:47:01 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [petermuessig](https://github.com/petermuessig), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -164,7 +174,7 @@
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 2, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Fri, 15 Oct 2021 14:52:55 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 19 Oct 2021 15:29:49 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant)
@@ -204,7 +214,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Fri, 15 Oct 2021 18:05:10 GMT
+* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Tue, 19 Oct 2021 17:39:58 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke), [diraschk](https://github.com/diraschk)
@@ -214,7 +224,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Fri, 15 Oct 2021 20:06:10 GMT
+* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Mon, 18 Oct 2021 07:30:56 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke)
@@ -288,6 +298,16 @@
 * License: 
 * Owner: [jrodriguez-rc](https://github.com/jrodriguez-rc)
 * Contributors: [jrodriguez-rc](https://github.com/jrodriguez-rc)
+
+
+## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
+[https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
+* Stars: 24, Forks: 7, Watchers: 5
+* Open Issues: 12, Has Projects: true, Has Wiki: true
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Tue, 21 Sep 2021 20:50:55 GMT
+* License: Other
+* Owner: [js-soft](https://github.com/js-soft)
+* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [skarolus-rc](https://github.com/skarolus-rc)
 
 
 ## codemirror-abap: ABAP mode for CodeMirror
@@ -400,11 +420,11 @@
 * Contributors: 
 
 
-## scf: Source Code Finder
+## scf: You are looking for a specific code snippet in your ABAP code. Then use the Source Code Finder to search for every occurrence of it.
 [https://github.com/reyemsaibot/scf](https://github.com/reyemsaibot/scf)
 * Stars: 3, Forks: 2, Watchers: 2
-* Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Sat, 16 Oct 2021 20:22:42 GMT
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Mon, 18 Oct 2021 14:26:02 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [reyemsaibot](https://github.com/reyemsaibot)
 * Contributors: [reyemsaibot](https://github.com/reyemsaibot)
@@ -412,9 +432,9 @@
 
 ## table_compare: Compare two tables and display different entries
 [https://github.com/reyemsaibot/table_compare](https://github.com/reyemsaibot/table_compare)
-* Stars: 3, Forks: 1, Watchers: 2
+* Stars: 4, Forks: 1, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 14 Oct 2021 09:56:33 GMT, Updated At: Sat, 16 Oct 2021 20:19:50 GMT
+* Created At: Thu, 14 Oct 2021 09:56:33 GMT, Updated At: Sun, 17 Oct 2021 19:51:24 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [reyemsaibot](https://github.com/reyemsaibot)
 * Contributors: [reyemsaibot](https://github.com/reyemsaibot), [larshp](https://github.com/larshp)
@@ -422,9 +442,9 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
-* Stars: 394, Forks: 200, Watchers: 73
-* Open Issues: 123, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sun, 17 Oct 2021 09:22:58 GMT
+* Stars: 395, Forks: 201, Watchers: 72
+* Open Issues: 121, Has Projects: false, Has Wiki: false
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Mon, 18 Oct 2021 14:30:29 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [fidley](https://github.com/fidley), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [tmackowski](https://github.com/tmackowski), [sandraros](https://github.com/sandraros), [Gh14Cc10](https://github.com/Gh14Cc10), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [bitdeli-chef](https://github.com/bitdeli-chef), [christianguenter2](https://github.com/christianguenter2), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [pokrakam](https://github.com/pokrakam), [RedWolf112](https://github.com/RedWolf112), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
@@ -473,8 +493,8 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 2, Forks: 1, Watchers: 1
-* Open Issues: 18, Has Projects: true, Has Wiki: false
-* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Fri, 15 Oct 2021 11:09:40 GMT
+* Open Issues: 25, Has Projects: true, Has Wiki: false
+* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Tue, 19 Oct 2021 13:37:57 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
 * Contributors: [schmelto](https://github.com/schmelto), [krishguptadev](https://github.com/krishguptadev)
@@ -522,8 +542,8 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 132, Forks: 56, Watchers: 21
-* Open Issues: 16, Has Projects: true, Has Wiki: true
+* Stars: 132, Forks: 56, Watchers: 20
+* Open Issues: 17, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Wed, 13 Oct 2021 04:13:20 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
