@@ -8,7 +8,7 @@ For Devtoberfest 2021 we have a game that is open to everyone regardless of deve
 
 ![Gameboard](../images/gameboard.png)
 
-Once registered for Devotberfest 2021 you will also earn your first badge, Devtoberfest 2021 on your [SAP Community ID](https://people.sap.com/). 
+Once registered for Devotberfest 2021 you will also earn your first badge, Devtoberfest 2021 on your [SAP Community ID](https://people.sap.com/).
 
 <img src="https://community.sap.com/images/bltdc55235ff270a332/devtoberfest-2021-1.svg" alt="Participation Badge" width=100/>
 
@@ -20,11 +20,11 @@ This table includes a sample of some events that you can earn a badge with point
 |---|---|
 | [Register](https://www.eventbrite.com/e/168612930815)	| 10 |
 |[Contribute to the Open Documentation Initiative](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/) |	500 |
-|Scavenger Hunt of 20 Tutorials |	Up to 10600 |
+|[Scavenger Hunt of 20 Tutorials](https://developers.sap.com/mission.devtoberfest-scavenger-hunt.html) |	Up to 10600 |
 |Tutorials in each content week	| 200 |
 |Attend Live Youtube Speaker Session and complete validation | 300 |
 |[Submit Project to Devtoberfest 2021 on GitHub](opensource.md)	| 1000 |
-| | |	
+| | |
 
 We will have many existing tutorials from https://developers.sap.com that you can complete to earn points in Devtoberfest 2021. Each week we will announce the tutorials that go along with the topic of the week which you can complete for points. However we didn't want to penalize those of you that might have already completed these tutorials in the past. Therefore if you are registered for Devtoberfest and completed these key tutorials in the past you are granted credit automatically for those.
 
@@ -92,3 +92,43 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 | [Enhance Behavior With Action and Validation](https://developers.sap.com/tutorials/abap-environment-behavior-action.html) | 200 | <img src="https://community.sap.com/images/blt50b7867407d19a83/50E9F6-devtoberfest-2021-1.svg" title="#50E9F6 - Devtoberfest 2021 - Enhance Behavior With Action and Validation" width=50/>
 | [Attend Week 2 Fun Friday Event](https://developers.sap.com/tutorials/devtoberfest-week-2-fun-friday.html) |	300 | <img src="https://community.sap.com/images/bltbc8fd3be0d942d9a/9E3498-devtoberfest-2021-1.svg" title="#9E3498 - Devtoberfest 2021 - Week 2 Fun Friday Attendee" width=50/>
 | [Participate in Dogtoberfest](https://developers.sap.com/tutorials/devtoberfest-dogtoberfest.html) | 100 | <img src="https://community.sap.com/images/blt6773b36debe4ae7d/dogtoberfest-1.svg" title="#9E3498 - Participate in Dogtoberfest" width=50/>
+
+### Week 3
+
+|Activity | Points Earned | Badge |
+|---|---|----|
+| [Attend Week 3 Speaker Event](https://developers.sap.com/tutorials/devtoberfest-week-3-speaker.html) | 100 | <img src="https://community.sap.com/images/blt610994702e2db1a1/9ECAA8-devtoberfest-2021-1.svg" title="#9ECAA8 - Devtoberfest 2021 - Week 3 Attended Speaker Event" alt="Participation Badge" width=50/>
+| [Trigger a Microservice with an Event](https://developers.sap.com/tutorials/cp-kyma-microservice-trigger.html) | 200 | <img src="https://community.sap.com/images/bltf145595f699fdf82/08B0E2-devtoberfest-2021-1.svg" title="#08B0E2 - Devtoberfest 2021 - Trigger a Microservice with an Event" width=50/>
+| [Install the Kubernetes Command Line Tool](https://developers.sap.com/tutorials/cp-kyma-download-cli.html) | 200 | <img src="https://community.sap.com/images/blt4a4ae449c1acc062/90C52B-devtoberfest-2021-1.svg" title="#90C52B - Devtoberfest 2021 - Install the Kubernetes Command Line Tool" width=50/>
+| [Deploy MSSQL in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mssql-deployment.html) | 200 | <img src="https://community.sap.com/images/bltd0a985512ce56201/A1E750-devtoberfest-2021-1.svg" title="#A1E750 - Devtoberfest 2021 - Deploy MSSQL in the Kyma Runtime" width=50/>
+| [Deploy a Go MSSQL API Endpoint in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-api-mssql-golang.html) | 200 | <img src="https://community.sap.com/images/bltd8433a95a492550f/64A872-devtoberfest-2021-1.svg" title="#64A872 - Devtoberfest 2021 - Deploy a Go MSSQL API Endpoint in the Kyma Runtime" width=50/>
+| [Deploy the SAPUI5 Frontend in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-frontend-ui5-mssql.html) | 200 | <img src="https://community.sap.com/images/bltf347f11f34183def/3A44EE-devtoberfest-2021-1.svg" title="#3A44EE - Devtoberfest 2021 - Deploy the SAPUI5 Frontend in the Kyma Runtime" width=50/>
+| [Deploy Commerce Mock Application in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mocks.html) | 200 | <img src="https://community.sap.com/images/blt9e471d32b9f86a6c/2A9D8A-devtoberfest-2021-1.svg" title="#2A9D8A - Devtoberfest 2021 - Deploy Commerce Mock Application in the Kyma Runtime" width=50/>
+| [Using Kyma Extensions Help Documentation](https://help.sap.com/viewer/8438f051ded544d2ba1303e67fc5ff86/PROD/en-US/8722f8e5157b4cf9be5f0177906a0351.html) -  [Validation Tutorial Here](https://developers.sap.com/tutorials/devtoberfest-week-3-kyma.html) | 200 | <img src="https://community.sap.com/images/blt2c6bcca7e1931f1c/794E4C-devtoberfest-2021-1.svg" title="#794E4C - Devtoberfest 2021 - Using Kyma Extensions Help Documentation" width=50/>
+| [Week 3 Fun Friday Attendee](https://developers.sap.com/tutorials/devtoberfest-week-3-fun-friday.html) | 200 | <img src="https://community.sap.com/images/blt6f7ce9323d9a5069/D1D969-devtoberfest-2021-1.svg" title="#D1D969 - Devtoberfest 2021 - Week 3 Fun Friday Attendee" width=50/>
+
+### Scavenger Hunt
+
+|Activity | Points Earned | Badge |
+|---|---|----|
+| [View the SAP BTP from 10,000 Meters](https://developers.sap.com/tutorials/cp-explore-cloud-platform.html) | 200 | <img src="https://community.sap.com/images/blt2d648c77b16b9a71/993B9B-devtoberfest-2021-1.svg" title="#993B9B - Devtoberfest 2021 - View the SAP BTP from 10,000 Meters" width=50/>
+| [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) | 200 | <img src="https://community.sap.com/images/bltee7deee31989973a/5DE96D-devtoberfest-2021-1.svg" title="#5DE96D - Devtoberfest 2021 - Get a Free Account on SAP BTP Trial" width=50/>
+| [Take a Tour of SAP BTP Trial](https://developers.sap.com/tutorials/cp-trial-quick-onboarding.html) | 200 | <img src="https://community.sap.com/images/blt797d5faab4b9f8db/B9F184-devtoberfest-2021-1.svg" title="#B9F184 - Devtoberfest 2021 - Take a Tour of SAP BTP Trial" width=50/>
+| [Add a New Entitlement to Your Subaccount](https://developers.sap.com/tutorials/cp-cf-entitlements-add.html) | 200 | <img src="https://community.sap.com/images/bltcc6431ee06be1fd4/CC8390-devtoberfest-2021-1.svg" title="#CC8390 - Devtoberfest 2021 - Add a New Entitlement to Your Subaccount" width=50/>
+| [Get Started with the SAP BTP Command Line Interface (btp CLI)](https://developers.sap.com/tutorials/cp-sapcp-getstarted.html) | 200 | <img src="https://community.sap.com/images/blt90c42e46f57a6723/DC9231-devtoberfest-2021-1.svg" title="#DC9231 - Devtoberfest 2021 - Get Started with the SAP BTP Command Line Interface (btp CLI)" width=50/>
+| [Create a User Interface with CAP (SAP HANA Cloud)](https://developers.sap.com/tutorials/hana-cloud-cap-create-ui.html) | 200 | <img src="https://community.sap.com/images/blta87c439d6e3a5dd4/6CA24C-devtoberfest-2021-1.svg" title="#6CA24C - Devtoberfest 2021 - Create a User Interface with CAP (SAP HANA Cloud)" width=50/>
+| [Add More Than One Application to the Launch Page](https://developers.sap.com/tutorials/btp-app-launchpage.html) | 200 | <img src="https://community.sap.com/images/blt46a4e66a4da4bb31/2AE84C-devtoberfest-2021-1.svg" title="#2AE84C - Devtoberfest 2021 - Add More Than One Application to the Launch Page" width=50/>
+| [Setup of SAP Mesh via Kyma Help Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/407d1266017f4b529b61665fa7408c41.html) - [Validation Tutorial Here](https://developers.sap.com/tutorials/devtoberfest-week-sh-kyma.html) | 200 | <img src="https://community.sap.com/images/blt2425e2f00bd5ed20/D29ABD-devtoberfest-2021-1.svg" title="#D29ABD - Devtoberfest 2021 - Setup of SAP Mesh via Kyma Help Documentation" width=50/>
+| [Create a Live Connection Between SAP HANA Cloud and SAP Analytics Cloud](https://developers.sap.com/tutorials/hana-cloud-connection-guide-1.html) | 200 | <img src="https://community.sap.com/images/blt210841dfc9183269/F8E02F-devtoberfest-2021-1.svg" title="#F8E02F - Devtoberfest 2021 - Create a Live Connection Between SAP HANA Cloud and SAP Analytics Cloud" width=50/>
+| [Help Thomas Get Started with SAP HANA Cloud](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html) | 200 | <img src="https://community.sap.com/images/blt2e2bb9cc95a48002/E8DD9F-devtoberfest-2021-1.svg" title="#E8DD9F - Devtoberfest 2021 - Help Thomas Get Started with SAP HANA Cloud" width=50/>
+| [Set Up Account for Document Information Extraction and Go to Application](https://developers.sap.com/tutorials/cp-aibus-dox-booster-app.html) | 200 | <img src="https://community.sap.com/images/blt7368919e3c6773db/630DEC-devtoberfest-2021-1.svg" title="#630DEC - Devtoberfest 2021 - Set Up Account for Document Information Extraction and Go to Application" width=50/>
+| [Use Machine Learning to Extract Information from Documents with Document Information Extraction UI](https://developers.sap.com/tutorials/cp-aibus-dox-ui.html) | 200 | <img src="https://community.sap.com/images/blt924d1028cdbe4207/CEBCE3-devtoberfest-2021-1.svg" title="#CEBCE3 - Devtoberfest 2021 Use Machine Learning to Extract Information From Documents with Document Extraction Trial UI" width=50/>
+| [Add the SAP Launchpad Service (Scavenger Hunt)](https://developers.sap.com/tutorials/btp-app-launchpad-service.html) | 200 | <img src="https://community.sap.com/images/blt8bed5fa74562aaca/5DAEBC-devtoberfest-2021-1.svg" title="#5DAEBC - Devtoberfest 2021 - Add the SAP Launchpad Service (Scavenger Hunt)" width=50/>
+| [Configure and Run a Predefined SAP Continuous Integration and Delivery (CI/CD) Pipeline](https://developers.sap.com/tutorials/btp-app-launchpad-service.html) | 200 | <img src="https://community.sap.com/images/blte038229577c9e01f/059CBE-devtoberfest-2021-1.svg" title="#059CBE - Devtoberfest 2021 - Configure and Run a Predefined SAP Continuous Integration and Delivery (CI/CD) Pipeline" width=50/>
+| [Create an SAP Fiori Project via Help Documentation](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/46664de4d6944471b6c29a0681bfd0fc.html)  - [Validation Tutorial Here](https://developers.sap.com/tutorials/devtoberfest-week-sh-fiori.html) | 200 | <img src="https://community.sap.com/images/blta0b37131ceb18de9/F3078A-devtoberfest-2021-1.svg" title="#F3078A - Devtoberfest 2021 - Create an SAP Fiori Project via Help Documentation" width=50/>
+| [Get Started with an SAP Fiori Project in SAP Continuous Integration and Delivery](https://developers.sap.com/tutorials/cicd-start-fiori.html) | 200 | <img src="https://community.sap.com/images/blt9608efeda67d7e36/418F4A-devtoberfest-2021-1.svg" title="#418F4A - Devtoberfest 2021 - Get Started with an SAP Fiori Project in SAP Continuous Integration and Delivery" width=50/>
+| [Access SAP Mobile Services](https://developers.sap.com/tutorials/fiori-ios-hcpms-setup.html) | 200 | <img src="https://community.sap.com/images/bltea6e7a7bb4ed10a4/8C79D5-devtoberfest-2021-1.svg" title="#8C79D5 - Devtoberfest 2021 - Access SAP Mobile Services" width=50/>
+| [Set Up Initial Configuration for an MDK App](https://developers.sap.com/tutorials/cp-mobile-dev-kit-ms-setup.html) | 200 | <img src="https://community.sap.com/images/bltf87b35bb9ba55539/39914A-devtoberfest-2021-1.svg" title="#39914A - Devtoberfest 2021 - Set Up Initial Configuration for an MDK App" width=50/>
+| [Manage Entitlements Using the Cockpit](https://developers.sap.com/tutorials/btp-cockpit-entitlements.html) | 200 | <img src="https://community.sap.com/images/blt387310f0eb88ad49/4B0928-devtoberfest-2021-1.svg" title="#4B0928 - Devtoberfest 2021 - Manage Entitlements Using the Cockpit" width=50/>
+| [Follow Developer Advocates on Social Media](https://developers.sap.com/tutorials/devtoberfest-week-sh-social-media.html) | 300 | <img src="https://community.sap.com/images/blt599cd9bcc9984251/53F064-devtoberfest-2021-1.svg" title="#53F064 - Devtoberfest 2021 - Follow Developer Advocates on Social Media" width=50/>
+| [Scavenger Hunt Mission - Must Complete all 20 for Bonus 6500 Points](https://developers.sap.com/mission.devtoberfest-scavenger-hunt.html) | 6500 | <img src="https://community.sap.com/images/blt9dd31225a0e8babf/3F50A2-devtoberfest-2021-1.svg" title="#3F50A2 - Devtoberfest 2021 - Scavenger Hunt Mission" width=50/>
