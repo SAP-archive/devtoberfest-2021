@@ -23,7 +23,7 @@ gethier() {
 
 main() {
 
-  local hierarchy subtype guid displayname rc=0  
+  local hierarchy subtype guid displayname rc=0
 
   displayname="${2:-$1}"
 
