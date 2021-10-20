@@ -32,9 +32,9 @@
 
 ## abap-unit-tests-by-example: Different examples of ABAP unit tests 
 [https://github.com/Ennowulff/abap-unit-tests-by-example](https://github.com/Ennowulff/abap-unit-tests-by-example)
-* Stars: 6, Forks: 0, Watchers: 1
+* Stars: 7, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Tue, 11 May 2021 09:11:40 GMT, Updated At: Fri, 15 Oct 2021 11:31:39 GMT
+* Created At: Tue, 11 May 2021 09:11:40 GMT, Updated At: Wed, 20 Oct 2021 14:43:28 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [Ennowulff](https://github.com/Ennowulff)
 * Contributors: [Ennowulff](https://github.com/Ennowulff)
@@ -173,7 +173,7 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 2, Watchers: 2
-* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Open Issues: 3, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 19 Oct 2021 15:29:49 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
