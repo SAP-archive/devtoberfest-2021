@@ -16,16 +16,15 @@
 
 # If label assignment fails, a ❌ is displayed
 
-set -o errexit
-set -o pipefail
-
-declare -r FILE="topics/Week2_Best_Practices/challenge/btpguid"
-declare -r GREEN='\033[0;32m'
-declare -r RESET='\033[0m'
+declare REFERENCE="$HOME/btpguid.reference"
+declare FILE="topics/Week2_Best_Practices/challenge/btpguid"
+declare GREEN='\033[0;32m'
+declare RESET='\033[0m'
 
 getprs() {
 
   gh pr list \
+    --limit 500 \
     --json 'number,title' \
     --jq '.[] | select(.title | test("^WEEK2CHALLENGE ")) | [.number, .title] | @tsv'
 
@@ -34,18 +33,27 @@ getprs() {
 award() {
 
   local number awards labels
-  number=$1; shift
+  number=$1
+  shift
 
   # Don't bother if there are no awards
   [[ $# -eq 0 ]] && return
 
   awards=("$@")
 
+  # Just list the awards if in debug mode
+  [[ -n $DEBUG ]] && {
+    echo "awards:" "${awards[@]}"
+    return 0
+  }
 
   # Create comma-separated list of labels, based on the values in the
   # awards array, each label prefixed with "w2c/".
   # E.g. awards=(red blue green) -> "w2c/red,w2c/blue,w2c/green"
-  labels=$(IFS=,; echo "${awards[*]/#/w2c\/}")
+  labels=$(
+    IFS=,
+    echo "${awards[*]/#/w2c\/}"
+  )
 
   # Display the awards
   echo -e -n "${GREEN}" "${awards[@]}" "${RESET}"
@@ -64,6 +72,9 @@ check() {
   local number=$1
   local title=$2
   local awards=()
+
+  # If no title was passed, get it from the PR
+  [[ -z $title ]] && title=$(gh pr view --json title --jq .title "$number")
 
   echo -n "$number (${title##WEEK2CHALLENGE }) "
 
@@ -90,7 +101,7 @@ check() {
   [[ -f $FILE ]] && cmp -s -- "$FILE" <(shfmt -i 2 -bn -ci -sr "$FILE") && awards+=(shfmt)
 
   # (Bonus) is it an exact match with the "reference" script?
-  git diff --quiet main -- "$FILE" && awards+=(exact)
+  [[ -f $FILE ]] && [[ -f $REFERENCE ]] && cmp -s -- "$REFERENCE" "$FILE" && awards+=(exact)
 
   # Display and set awards
   award "$number" "${awards[@]}"
@@ -100,6 +111,9 @@ check() {
 }
 
 main() {
+
+  set -o errexit
+  set -o pipefail
 
   getprs | while read -r number title; do
 
