@@ -110,6 +110,16 @@ check() {
 
 }
 
+removebranches() {
+
+  # Remove all branches apart from main - sometimes needed to be able to
+  # checkout some PRs.
+  git branch \
+    | grep -E -v '(^\*|\smain$)' \
+    | xargs --no-run-if-empty git branch -D
+
+}
+
 main() {
 
   set -o errexit
