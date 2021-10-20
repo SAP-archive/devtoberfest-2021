@@ -43,7 +43,7 @@ award() {
 
   # Just list the awards if in debug mode
   [[ -n $DEBUG ]] && {
-    echo "awards:" "${awards[@]}"
+    echo "${awards[@]}"
     return 0
   }
 
@@ -64,6 +64,8 @@ award() {
   else
     echo -n "❌"
   fi
+
+  echo
 
 }
 
@@ -105,8 +107,6 @@ check() {
 
   # Display and set awards
   award "$number" "${awards[@]}"
-
-  echo
 
 }
 
