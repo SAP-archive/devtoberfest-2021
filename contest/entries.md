@@ -214,7 +214,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Wed, 20 Oct 2021 08:49:13 GMT
+* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Thu, 21 Oct 2021 11:29:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke), [diraschk](https://github.com/diraschk)
@@ -224,7 +224,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x)
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Wed, 20 Oct 2021 08:44:22 GMT
+* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Thu, 21 Oct 2021 11:30:23 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke)
@@ -463,7 +463,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 72, Forks: 23, Watchers: 22
-* Open Issues: 15, Has Projects: true, Has Wiki: true
+* Open Issues: 16, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Tue, 19 Oct 2021 18:17:31 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
