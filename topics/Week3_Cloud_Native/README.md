@@ -45,13 +45,12 @@ There are a lot of choices that you can make when developing cloud native soluti
 - Polywork: <https://www.polywork.com/lechnerc77/>
         </td>  </tr></table>
 
-## Tutorials
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  Lots of great content from the Kyma team on how to build with SAP Business Technology Platform is featured here!
+## Tutorials & Other Points Earning Activities
 
-Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  List of Week 3 Points Earning Activities published here: [Week 3 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-3)
 
-* List of week 3 tutorials released here on the [contest page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest#week-3) 
+* Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
 ## Scavenger Hunt
 
