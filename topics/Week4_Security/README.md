@@ -52,9 +52,9 @@ Round table with security experts from SAP, Microsoft, and University. More deta
 </td>  </tr>
 <tr>
         <td width = 270>
-<!-- <img src="../../images/MicheleChubirka.png"> -->       
+ <img src="../../images/torsten_seattle.jpg">        
 
-</td>  <td><b>Torsten Dangel</b> Details comming soon
+</td>  <td><b>Torsten Dangel</b> is a Security Expert with more than 20 years’ experience in IT. In his current role as Development Architect Security at SAP, he is responsible for defining application and operations security requirements and processes. He firmly believes in the power of collaboration and that security is achieved by people and culture and not by rules. As a CodeDojo mentor, Torsten teaches children in developing software. Besides IT, software and security, you can find Torsten on his bike, climbing up the hills.
 </td>  </tr>
 
 <tr>
