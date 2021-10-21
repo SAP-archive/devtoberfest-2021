@@ -173,11 +173,11 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 2, Watchers: 2
-* Open Issues: 3, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 19 Oct 2021 15:29:49 GMT
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Thu, 21 Oct 2021 17:58:19 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
-* Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant)
+* Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62)
 
 
 ## gauge-chart-config: Gauge Chart Creation
@@ -494,7 +494,7 @@
 [https://github.com/sbcgua/mockup_loader](https://github.com/sbcgua/mockup_loader)
 * Stars: 44, Forks: 15, Watchers: 11
 * Open Issues: 10, Has Projects: true, Has Wiki: true
-* Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Fri, 08 Oct 2021 02:10:19 GMT
+* Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Thu, 21 Oct 2021 15:38:59 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [larshp](https://github.com/larshp), [swixfort](https://github.com/swixfort), [a-fas](https://github.com/a-fas), [germanysources](https://github.com/germanysources)
@@ -552,7 +552,7 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 132, Forks: 56, Watchers: 20
+* Stars: 132, Forks: 57, Watchers: 20
 * Open Issues: 17, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Wed, 13 Oct 2021 04:13:20 GMT
 * License: Other
