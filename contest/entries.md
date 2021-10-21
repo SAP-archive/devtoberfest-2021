@@ -503,7 +503,7 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 2, Forks: 1, Watchers: 1
-* Open Issues: 25, Has Projects: true, Has Wiki: false
+* Open Issues: 26, Has Projects: true, Has Wiki: false
 * Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Wed, 20 Oct 2021 08:24:06 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
