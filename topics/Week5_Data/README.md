@@ -100,13 +100,11 @@ We got recognized experts and active community members to join a panel answering
 * [Andreas Forster](https://people.sap.com/andreas.forster), Machine Learning enthusiast in SAP's global Center of Excellence
 * [Karthik Muthuswamy](https://people.sap.com/krtk), Senior Data Scientist working on Machine Learning research for developing intelligent applications for enterprise software
 
-## Tutorials
+## Tutorials & Other Points Earning Activities
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
-
-Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
-
-* List of tutorials will be released as Week 5 approaches
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  (List of Week 5 Points Earning Activities will be published here as Week 5 approaches) 
+ 
+* Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
 ## Coding Challenge
 Use SAP HANA for some fun geospatial exploration!
