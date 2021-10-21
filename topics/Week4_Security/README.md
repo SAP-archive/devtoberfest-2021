@@ -112,13 +112,11 @@ Containers continue to mystify security practitioners, mostly because they donâ€
 </td>  <td><b>Michele Chubirka</b> is a recovering Unix and network engineer currently working as Chief Security Architect in SAP SuccessFactors. Her focus is Product Security with expertise in cloud-native security topics such as IaC, Kubernetes, containerization and software supply chains. Formerly the creator and official nerdstalker of the Healthy Paranoia Security Podcast, she has also been a freelance writer for various B2B publications such as TechTarget and Information Week, as well as an independent analyst. She likes long walks in hubsites, traveling to security conferences and spending time in the Bat Cave. Sincerely believes that every problem can be solved with a "for" loop. When not blogging or podcasting, can be found using up her 15 minutes in the <a href="https://twitter.com/MrsYisWhy" target="_blank">Twittersphere as MrsYisWhy</a>
 </td>  </tr></table>
 
-## Tutorials
+## Tutorials & Other Points Earning Activities
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  List of Week 4 Points Earning Activities published here: [Week 4 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-4)
 
-Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
-
-* List of tutorials will be released as Week 4 approaches 
+* Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
 ## Coding Challenges
 
