@@ -119,7 +119,7 @@ Please, stay tuned for details.
 
 Did you know that SAP makes its own visual programming language for Computing Education? Let us tell (and show) you all about it: [Snap! Build Your Own Blocks](https://snap.berkeley.edu/) is the programming language kids in Silicon Valley learn in high school and college students at UC Berkeley use to explore the Beauty and Joy of Computing. We'll take you on an exclusive backstage tour of our R&D lab.
 
-#### Snap! Designing a Programming Language for All Children
+### Snap! Designing a Programming Language for All Children
 
 November 5th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
 
@@ -129,7 +129,7 @@ We develop Snap! at SAP in collaboration with researchers at UC Berkeley. Join u
 
 📺 [Join us live on YouTube](https://youtu.be/UEDsNOubTg0), and get involved!
 
-#### Snap! Programming Beauty and Joy
+### Snap! Programming Beauty and Joy
 
 November 5th, [16:00 CET / 08:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224)
 
