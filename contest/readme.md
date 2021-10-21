@@ -132,3 +132,8 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 | [Manage Entitlements Using the Cockpit](https://developers.sap.com/tutorials/btp-cockpit-entitlements.html) | 200 | <img src="https://community.sap.com/images/blt387310f0eb88ad49/4B0928-devtoberfest-2021-1.svg" title="#4B0928 - Devtoberfest 2021 - Manage Entitlements Using the Cockpit" width=50/>
 | [Follow Developer Advocates on Social Media](https://developers.sap.com/tutorials/devtoberfest-week-sh-social-media.html) | 300 | <img src="https://community.sap.com/images/blt599cd9bcc9984251/53F064-devtoberfest-2021-1.svg" title="#53F064 - Devtoberfest 2021 - Follow Developer Advocates on Social Media" width=50/>
 | [Scavenger Hunt Mission - Must Complete all 20 for Bonus 6500 Points](https://developers.sap.com/mission.devtoberfest-scavenger-hunt.html) | 6500 | <img src="https://community.sap.com/images/blt9dd31225a0e8babf/3F50A2-devtoberfest-2021-1.svg" title="#3F50A2 - Devtoberfest 2021 - Scavenger Hunt Mission" width=50/>
+
+### Week 3
+
+|Activity | Points Earned | Badge |
+|---|---|----|
