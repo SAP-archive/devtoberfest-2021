@@ -32,7 +32,7 @@ Duration: 60 mins
 
 There are a lot of choices that you can make when developing cloud native solutions. But choices are hard, so it is fair to ask: "What is the approach that embraces cloud native paradigms the most as of today?" My hypothesis: _serverless_ is the closest you can get. Let us explore why serverless perfectly supports you in your journey heading for cloud-native solutions. You will experience how low the entry barrier is to develop your first function using Azure Functions, couple it to a persistency and even develop a stateful serverless workflow (what ...🤯).
 
-[Join us live on YouTube](https://youtu.be/n8jLSZ82bpg), and join the serverless fun 🚀!
+[Join us live on YouTube](https://youtu.be/y1167Yme07o), and join the serverless fun 🚀!
 
 <table border=0px>
     <tr>
