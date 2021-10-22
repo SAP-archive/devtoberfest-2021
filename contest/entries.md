@@ -173,7 +173,7 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 2, Watchers: 2
-* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Thu, 21 Oct 2021 17:58:19 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
@@ -503,7 +503,7 @@
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
 * Stars: 18, Forks: 6, Watchers: 2
-* Open Issues: 9, Has Projects: true, Has Wiki: true
+* Open Issues: 10, Has Projects: true, Has Wiki: true
 * Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Tue, 12 Oct 2021 09:48:12 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
