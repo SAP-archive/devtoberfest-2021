@@ -1,0 +1,155 @@
+#!/usr/bin/env bash
+
+# Checks Week 2 Challenge submissions, identified by PRs with a title
+# starting with "WEEK2CHALLENGE".
+
+# Examines various aspects of the btpguid script submitted in the PRs,
+# and assigns labels appropriately. Is idempotent, can be run and rerun.
+
+# - does it exist (i.e. has it been renamed from btpguid.myscript)?
+# - is it executable?
+# - does it satisfy shellcheck?
+# - is it formatted appropriately?
+# - is it an exact match to the "reference" btpguid script (bonus)?
+
+# Uses gh, shellcheck, shfmt, git, cmp and standard Bash shell features.
+
+# If label assignment fails, a ❌ is displayed
+
+declare REFERENCE="$HOME/btpguid.reference"
+declare FILE="topics/Week2_Best_Practices/challenge/btpguid"
+declare GREEN='\033[0;32m'
+declare RESET='\033[0m'
+
+getprs() {
+
+  gh pr list \
+    --limit 500 \
+    --json 'number,title' \
+    --jq '.[] | select(.title | test("^WEEK2CHALLENGE ")) | [.number, .title] | @tsv'
+
+}
+
+award() {
+
+  local number awards labels
+  number=$1
+  shift
+
+  # Don't bother if there are no awards
+  [[ $# -eq 0 ]] && return
+
+  awards=("$@")
+
+  # Just list the awards if in debug mode
+  [[ -n $DEBUG ]] && {
+    echo "${awards[@]}"
+    return 0
+  }
+
+  # Create comma-separated list of labels, based on the values in the
+  # awards array, each label prefixed with "w2c/".
+  # E.g. awards=(red blue green) -> "w2c/red,w2c/blue,w2c/green"
+  labels=$(
+    IFS=,
+    echo "${awards[*]/#/w2c\/}"
+  )
+
+  # Display the awards
+  echo -e -n "${GREEN}" "${awards[@]}" "${RESET}"
+
+  # Assign the labels (and show whether the assignment worked or not)
+  if gh pr edit "$number" --add-label "$labels" &> /dev/null; then
+    echo -n "✅"
+  else
+    echo -n "❌"
+  fi
+
+  echo
+
+}
+
+check() {
+
+  local number=$1
+  local title=$2
+  local awards=()
+  local tempfile
+
+  # If no title was passed, get it from the PR
+  [[ -z $title ]] && title=$(gh pr view --json title --jq .title "$number")
+
+  echo -n "$number (${title##WEEK2CHALLENGE }) "
+
+  # Try to check out the PR, otherwise skip
+  gh pr checkout "$number" &> /dev/null \
+    || {
+      echo "❌ failed to checkout PR"
+      return
+    }
+
+  # Every successfully checked-out PR gets a "checked" award
+  awards+=(checked)
+
+  # Does the 'btpguid' file exist (stop checking if it doesn't)
+  if [[ -f $FILE ]]; then
+    awards+=(exists)
+  else
+    award "$number" "${awards[@]}"
+    return 0
+  fi
+
+  # Is it executable?
+  [[ -x $FILE ]] && awards+=(executable)
+
+  # Create temp file version with nasty DOS cruft removed
+  tempfile=$(mktemp /tmp/btpguid.XXX)
+  tr -d '\r' < "$FILE" > "$tempfile"
+
+  # Is shellcheck satisfied?
+  shellcheck --format quiet "$tempfile" && awards+=(shellcheck)
+
+  # Has formatting been done with the required settings?
+  cmp -s -- "$tempfile" <(shfmt -i 2 -bn -ci -sr "$tempfile") && awards+=(shfmt)
+
+  # (Bonus) is it an exact match with the "reference" script?
+  [[ -f $REFERENCE ]] && cmp -s -- "$REFERENCE" "$tempfile" && awards+=(exact)
+
+  # Display and set awards
+  award "$number" "${awards[@]}"
+
+  # Remove temp file
+  rm -f "$tempfile"
+
+}
+
+removebranches() {
+
+  # Remove all branches apart from main - sometimes needed to be able to
+  # checkout some PRs.
+  git branch \
+    | grep -E -v '(^\*|\smain$)' \
+    | xargs --no-run-if-empty git branch -D
+
+}
+
+main() {
+
+  set -o errexit
+  set -o pipefail
+
+  getprs | while read -r number title; do
+
+    check "$number" "$title"
+    sleep 1
+
+  done
+
+}
+
+# See https://qmacro.org/autodidactics/2021/10/14/sourcing-vs-executing-in-bash/
+if [[ $0 =~ ^-bash ]]; then
+  return 0
+else
+  main "$@"
+fi

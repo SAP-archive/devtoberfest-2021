@@ -32,7 +32,7 @@ Duration: 60 mins
 
 There are a lot of choices that you can make when developing cloud native solutions. But choices are hard, so it is fair to ask: "What is the approach that embraces cloud native paradigms the most as of today?" My hypothesis: _serverless_ is the closest you can get. Let us explore why serverless perfectly supports you in your journey heading for cloud-native solutions. You will experience how low the entry barrier is to develop your first function using Azure Functions, couple it to a persistency and even develop a stateful serverless workflow (what ...🤯).
 
-[Join us live on YouTube](https://youtu.be/n8jLSZ82bpg), and join the serverless fun 🚀!
+[Join us live on YouTube](https://youtu.be/y1167Yme07o), and join the serverless fun 🚀!
 
 <table border=0px>
     <tr>
@@ -45,15 +45,18 @@ There are a lot of choices that you can make when developing cloud native soluti
 - Polywork: <https://www.polywork.com/lechnerc77/>
         </td>  </tr></table>
 
-## Tutorials
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
+## Tutorials & Other Points Earning Activities
 
-Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  List of Week 3 Points Earning Activities published here: [Week 3 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-3)
 
-* List of tutorials will be released as Week 3 approaches 
+* Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
- ## Special Friday Activity
+## Scavenger Hunt
+
+In addtion to the tutorials there is a special mission on the contest page allowing you to accelerate your gameboard points total.  We have assembled a list of 20 tutorials that include many aspects of the code featured across all 6 weeks of Devtoberfest.  If you complete all 20 of the [Devtoberfest Scavenger Hunt Mission](https://developers.sap.com/mission.devtoberfest-scavenger-hunt.html) tutorials you get a special badge worth 6500 points!!!
+
+## Special Friday Activity
  
 ### Eric Johnson "Attitude of Iteration"
 Date and Time: Friday, October 22nd at 17:00 CEST / 20:30 IST (Bengaluru) / 11:00 EDT / 09:00 MDT (Denver) [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211022T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
