@@ -74,6 +74,7 @@ check() {
   local number=$1
   local title=$2
   local awards=()
+  local tempfile
 
   # If no title was passed, get it from the PR
   [[ -z $title ]] && title=$(gh pr view --json title --jq .title "$number")
@@ -90,23 +91,35 @@ check() {
   # Every successfully checked-out PR gets a "checked" award
   awards+=(checked)
 
-  # Does the 'btpguid' file exist?
-  [[ -f $FILE ]] && awards+=(exists)
+  # Does the 'btpguid' file exist (stop checking if it doesn't)
+  if [[ -f $FILE ]]; then
+    awards+=(exists)
+  else
+    award "$number" "${awards[@]}"
+    return 0
+  fi
 
   # Is it executable?
   [[ -x $FILE ]] && awards+=(executable)
 
+  # Create temp file version with nasty DOS cruft removed
+  tempfile=$(mktemp /tmp/btpguid.XXX)
+  tr -d '\r' < "$FILE" > "$tempfile"
+
   # Is shellcheck satisfied?
-  shellcheck --format quiet "$FILE" && awards+=(shellcheck)
+  shellcheck --format quiet "$tempfile" && awards+=(shellcheck)
 
   # Has formatting been done with the required settings?
-  [[ -f $FILE ]] && cmp -s -- "$FILE" <(shfmt -i 2 -bn -ci -sr "$FILE") && awards+=(shfmt)
+  cmp -s -- "$tempfile" <(shfmt -i 2 -bn -ci -sr "$tempfile") && awards+=(shfmt)
 
   # (Bonus) is it an exact match with the "reference" script?
-  [[ -f $FILE ]] && [[ -f $REFERENCE ]] && cmp -s -- "$REFERENCE" "$FILE" && awards+=(exact)
+  [[ -f $REFERENCE ]] && cmp -s -- "$REFERENCE" "$tempfile" && awards+=(exact)
 
   # Display and set awards
   award "$number" "${awards[@]}"
+
+  # Remove temp file
+  rm -f "$tempfile"
 
 }
 
