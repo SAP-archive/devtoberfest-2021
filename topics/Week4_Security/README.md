@@ -73,9 +73,9 @@ Round table with security experts from SAP, Microsoft, and University. Supply ch
 
 <tr>
         <td width = 270>
-<!-- <img src="../../images/MicheleChubirka.png"> -->       
+<img src="../../images/ralf_wigand.jpg"> 
 
-</td>  <td><b>Ralf Wigand</b> Details comming soon
+</td>  <td><b>Ralf Wigand</b> is the National IT-Compliance & Security Officer at Microsoft Germany. As part of his role he contributes to Microsoft’s global IT-Compliance efforts with a focus on country-specific regulations like C5, but also to the general Microsoft’s cybersecurity strategy (like Critical Infrastructure). In his last role Ralf was part of the Azure Global engineering team driving the expansion of Azure into new regions worldwide, and before this he was for several year rewarded as Microsoft Most Valuable Professional MVP.
 </td>  </tr>
 </table>
 
