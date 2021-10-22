@@ -39,7 +39,7 @@ Date and Time: Tuesday, October 26th at 16:00 CEST / 22:00 SGT / 10:00 EDT [🌎
 [![](https://img.youtube.com/vi/XTKbRdaiKEg/0.jpg)](http://www.youtube.com/watch?v=XTKbRdaiKEg)
 
 Duration: 50 mins
-Round table with security experts from SAP, Microsoft, and University. More details to be announced soon
+Round table with security experts from SAP, Microsoft, and University. Supply chain attacks are a set of attack strategies with the goal to compromise companies mostly through vulnerabilities in their supply chain. Not only since the SolarWinds attack last year, attackers have been focusing more and more on finding vulnerabilities in their victims periphery to gain access the target network. The heavy usage of Open Source and new technologies like containers but also new operation approaches like DevOps and Infrastructure as Code add new attack vectors. This new attack vectors are challenging because they cannot easily prevented by traditional security systems and processes. In this talk, we will discuss the different types of supply chain attacks, we try to shape some light on the question who is involved and responsible and we will discuss how the likelihood of successful supply chain attacks can be reduced.
 
 [Join us live on YouTube](https://www.youtube.com/watch?v=XTKbRdaiKEg), and get involved in the conversation!
 
