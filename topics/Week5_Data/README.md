@@ -100,13 +100,11 @@ We got recognized experts and active community members to join a panel answering
 * [Andreas Forster](https://people.sap.com/andreas.forster), Machine Learning enthusiast in SAP's global Center of Excellence
 * [Karthik Muthuswamy](https://people.sap.com/krtk), Senior Data Scientist working on Machine Learning research for developing intelligent applications for enterprise software
 
-## Tutorials
+## Tutorials & Other Points Earning Activities
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
-
-Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
-
-* List of tutorials will be released as Week 5 approaches
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  (List of Week 5 Points Earning Activities will be published here as Week 5 approaches) 
+ 
+* Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
 ## Coding Challenge
 Use SAP HANA for some fun geospatial exploration!
@@ -116,11 +114,28 @@ Please, stay tuned for details.
 ## Fun Friday Activity
 
 ### Let's talk **Coding for Kids**!
-November 5th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240) and [16:00 CET / 08:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224) (___tbc___)
 
 Did you know that SAP makes its own visual programming language for Computing Education? Let us tell (and show) you all about it: [Snap! Build Your Own Blocks](https://snap.berkeley.edu/) is the programming language kids in Silicon Valley learn in high school and college students at UC Berkeley use to explore the Beauty and Joy of Computing. We'll take you on an exclusive backstage tour of our R&D lab.
 
-📺 Join us live on YouTube, and get involved in the conversation!
+### Snap! Designing a Programming Language for All Children
+
+November 5th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
+
+Snap! is an interactive, massively parallel visual programming language implemented inside its own multi-threaded graphical user interface framework. It is a free and open-source software project deployed in web browsers and is used in educational institutions and  "out in the wild" around the globe.
+
+We develop Snap! at SAP in collaboration with researchers at UC Berkeley. Join us for a virtual tour of our "Lab" and learn about our design principles, architecture and pedagogical mission.
+
+📺 [Join us live on YouTube](https://youtu.be/UEDsNOubTg0), and get involved!
+
+### Snap! Programming Beauty and Joy
+
+November 5th, [16:00 CET / 08:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224)
+
+Snap! is the programming language that has been developed for UC Berkeley's "Beauty and Joy of Computing" course. It highlights powerful ideas in computing by encouraging learners to create visually appealing and mathematically elegant artifacts.
+
+In this session we'll show you all about Snap! and invite you to explore classical algorithmic art through recoding and remixing.
+
+📺 [Join us live on YouTube](https://youtu.be/ouJXcTTUAbg), and get involved!
 
 <table border=0px>
 <tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>

@@ -103,13 +103,11 @@ State management for the frontend. No more sinking props down layers of componen
     </tr>
 </table>
 
-## Tutorials
+## Tutorials & Other Points Earning Activities
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
-
-Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
-
-* List of tutorials will be released as Week 6 approaches 
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  (List of Week 6 Points Earning Activities will be published here as Week 6 approaches) 
+ 
+* Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
 ## Coding Challenge
 

@@ -34,6 +34,51 @@ As a certified expert of the Security Research team, he spends his time influenc
 
 Cédric’s drives are sharing knowledge, learning new things every day and supporting people in getting more secure (instead of blaming them for clicking on the wrong link !).</td>  </tr></table>
 
+### "Security Round Table"
+Date and Time: Tuesday, October 26th at 16:00 CEST / 22:00 SGT / 10:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211026T140000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
+[![](https://img.youtube.com/vi/XTKbRdaiKEg/0.jpg)](http://www.youtube.com/watch?v=XTKbRdaiKEg)
+
+Duration: 50 mins
+Round table with security experts from SAP, Microsoft, and University. Supply chain attacks are a set of attack strategies with the goal to compromise companies mostly through vulnerabilities in their supply chain. Not only since the SolarWinds attack last year, attackers have been focusing more and more on finding vulnerabilities in their victims periphery to gain access the target network. The heavy usage of Open Source and new technologies like containers but also new operation approaches like DevOps and Infrastructure as Code add new attack vectors. This new attack vectors are challenging because they cannot easily prevented by traditional security systems and processes. In this talk, we will discuss the different types of supply chain attacks, we try to shape some light on the question who is involved and responsible and we will discuss how the likelihood of successful supply chain attacks can be reduced.
+
+[Join us live on YouTube](https://www.youtube.com/watch?v=XTKbRdaiKEg), and get involved in the conversation!
+
+<table border=0px>
+<tr>
+        <td width = 270>
+<img src="../../images/MicheleChubirka.png">        
+
+</td>  <td><b>Michele Chubirka</b> is a recovering Unix and network engineer currently working as Chief Security Architect in SAP SuccessFactors. Her focus is Product Security with expertise in cloud-native security topics such as IaC, Kubernetes, containerization and software supply chains. Formerly the creator and official nerdstalker of the Healthy Paranoia Security Podcast, she has also been a freelance writer for various B2B publications such as TechTarget and Information Week, as well as an independent analyst. She likes long walks in hubsites, traveling to security conferences and spending time in the Bat Cave. Sincerely believes that every problem can be solved with a "for" loop. When not blogging or podcasting, can be found using up her 15 minutes in the <a href="https://twitter.com/MrsYisWhy" target="_blank">Twittersphere as MrsYisWhy</a>
+</td>  </tr>
+<tr>
+        <td width = 270>
+ <img src="../../images/torsten_seattle.jpg">        
+
+</td>  <td><b>Torsten Dangel</b> is a Security Expert with more than 20 years’ experience in IT. In his current role as Development Architect Security at SAP, he is responsible for defining application and operations security requirements and processes. He firmly believes in the power of collaboration and that security is achieved by people and culture and not by rules. As a CodeDojo mentor, Torsten teaches children in developing software. Besides IT, software and security, you can find Torsten on his bike, climbing up the hills.
+</td>  </tr>
+
+<tr>
+        <td width = 270>
+<img src="../../images/Helen-Oakley.png">
+</td>  <td><b>Helen Oakley</b>, CISSP, is a Sr. Product Security Architect at SAP. She contributes to SAP’s cross product architecture and works as part of their Cyber & Defense team, defining application and operations security controls, standards, and frameworks. In her last role, Helen was a security architect for SAP’s Financial Services Industry applications where she implemented security and data privacy controls across banking and insurance portfolio. Helen is a co-founder of <a href="https://LeadingCyberLadies.com" target="_blank">LeadingCyberLadies.com</a> (a global community of women in cybersecurity) and is a teacher at HackStudent.com where they educate kids in ethical hacking. Helen is an advisory board member for a couple of cybersecurity start-ups and believes in giving back to the community. Twitter: <a href="https://twitter.com/e2hln" target="_blank">@e2hln</a>
+</td>  </tr>
+<tr>
+
+<tr>
+        <td width = 270>
+ <img src="../../images/sachar_paulus-300px.jpg">       
+
+</td>  <td><b>Sachar Paulus</b> is Professor for IT Security at Mannheim University of Applied Sciences. He holds a Ph.D. in number theory. He was working for SAP for 8 years in several security-related leading positions, among others, SVP Product Security and Chief Security Officer. His main research and transfer interests are Secure Software Development and Information Security for Small and Medium-Sized Enterprises. 
+</td>  </tr>
+
+<tr>
+        <td width = 270>
+<img src="../../images/ralf_wigand.jpg"> 
+
+</td>  <td><b>Ralf Wigand</b> is the National IT-Compliance & Security Officer at Microsoft Germany. As part of his role he contributes to Microsoft’s global IT-Compliance efforts with a focus on country-specific regulations like C5, but also to the general Microsoft’s cybersecurity strategy (like Critical Infrastructure). In his last role Ralf was part of the Azure Global engineering team driving the expansion of Azure into new regions worldwide, and before this he was for several year rewarded as Microsoft Most Valuable Professional MVP.
+</td>  </tr>
+</table>
+
 ### Thomas Jung "Security Aspects of SAP Cloud Application Programming Model"
 Date and Time: Wednesday, October 27th at 17:00 CEST / 23:00 SGT / 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211027T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt)
 [![](https://img.youtube.com/vi/jQYMeN3jeOU/0.jpg)](http://www.youtube.com/watch?v=jQYMeN3jeOU)
@@ -67,13 +112,11 @@ Containers continue to mystify security practitioners, mostly because they don�
 </td>  <td><b>Michele Chubirka</b> is a recovering Unix and network engineer currently working as Chief Security Architect in SAP SuccessFactors. Her focus is Product Security with expertise in cloud-native security topics such as IaC, Kubernetes, containerization and software supply chains. Formerly the creator and official nerdstalker of the Healthy Paranoia Security Podcast, she has also been a freelance writer for various B2B publications such as TechTarget and Information Week, as well as an independent analyst. She likes long walks in hubsites, traveling to security conferences and spending time in the Bat Cave. Sincerely believes that every problem can be solved with a "for" loop. When not blogging or podcasting, can be found using up her 15 minutes in the <a href="https://twitter.com/MrsYisWhy" target="_blank">Twittersphere as MrsYisWhy</a>
 </td>  </tr></table>
 
-## Tutorials
+## Tutorials & Other Points Earning Activities
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  List of Week 4 Points Earning Activities published here: [Week 4 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-4)
 
-Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
-
-* List of tutorials will be released as Week 4 approaches 
+* Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
 ## Coding Challenges
 

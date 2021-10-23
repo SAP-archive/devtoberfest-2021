@@ -112,14 +112,13 @@ In this live session we'll discuss the importance of code standards, and talk ab
 
 This week's Best Practices related challenge is a follow-up to the [Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](#editor-extensions-and-standards-in-the-modern-world-of-scripting-and-cli-tools) presentation. You can find all the details on this challenge, what to do, and how to do it, over on the [Best Practices - Challenge page](challenge/).
 
-## Tutorials
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
+## Tutorials & Other Points Earning Activities
 
-Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  List of Week 2 Points Earning Activities published here: [Week 2 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-2)
 
-* List of week 2 tutorials released here on the [Contest page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest#week-2)  
-
+* Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+ 
 ## Special Friday Activities
 
 We have a couple of special activities for the end of this week!
