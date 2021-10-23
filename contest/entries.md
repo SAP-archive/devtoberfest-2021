@@ -173,8 +173,8 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 2, Watchers: 2
-* Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Thu, 21 Oct 2021 17:58:19 GMT
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Sat, 23 Oct 2021 07:05:15 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62)
@@ -492,7 +492,7 @@
 
 ## abap-package-version-shield: shield.io lambda to detect version of abap package, serialized by abapGit
 [https://github.com/sbcgua/abap-package-version-shield](https://github.com/sbcgua/abap-package-version-shield)
-* Stars: 5, Forks: 3, Watchers: 1
+* Stars: 5, Forks: 3, Watchers: 2
 * Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Fri, 08 Oct 2021 02:11:07 GMT
 * License: 
@@ -502,7 +502,7 @@
 
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
-* Stars: 18, Forks: 6, Watchers: 2
+* Stars: 18, Forks: 6, Watchers: 3
 * Open Issues: 10, Has Projects: true, Has Wiki: true
 * Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Tue, 12 Oct 2021 09:48:12 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -512,7 +512,7 @@
 
 ## mockup_loader: ABAP unit testing framework, prepare in Excel, reuse in abap code
 [https://github.com/sbcgua/mockup_loader](https://github.com/sbcgua/mockup_loader)
-* Stars: 44, Forks: 15, Watchers: 11
+* Stars: 44, Forks: 15, Watchers: 12
 * Open Issues: 10, Has Projects: true, Has Wiki: true
 * Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Fri, 22 Oct 2021 08:51:32 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
