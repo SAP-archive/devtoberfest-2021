@@ -102,14 +102,14 @@ We got recognized experts and active community members to join a panel answering
 
 ## Tutorials & Other Points Earning Activities
 
-* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  (List of Week 5 Points Earning Activities will be published here as Week 5 approaches) 
- 
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  (List of Week 5 Points Earning Activities will be published here as Week 5 approaches)
+
 * Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
 ## Coding Challenge
 Use SAP HANA for some fun geospatial exploration!
 
-Please, stay tuned for details.
+There is still some time to [brush up your skills in using SAP HANA multi-model capabilities](https://developers.sap.com/tutorials/devtoberfest-week-5-codingchallenge.html#7cb08de7-399e-4a37-a9be-e181c18e9dee) prior to the challenge announcement.
 
 ## Fun Friday Activity
 
