@@ -21,7 +21,7 @@ This is a perfectly normal, although simple, CAP project. However it lacks certa
 - Add [CORS](https://developer.mozilla.org/de/docs/Web/HTTP/CORS) processing for when the CAP service is used directly without an Application Router
 - [Add authentication to your CAP Service](https://cap.cloud.sap/docs/node.js/authentication) 
 - [Add Access Control to your CAP Model/Service](https://cap.cloud.sap/docs/guides/authorization#restrictions)
-- [Add Instance Based Authorization (Role Level Checks)](https://cap.cloud.sap/docs/guides/authorization#instance-based-auth)
+- [Add Instance Based Authorization (Row Level Checks)](https://cap.cloud.sap/docs/guides/authorization#instance-based-auth)
 - [Add A Content Security Policy](https://cap.cloud.sap/docs/node.js/best-practices#content-security-policy-csp)
 - Other aspects - up to you
 
