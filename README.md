@@ -18,7 +18,7 @@ The rest of the content in this challenge is an SAP Cloud Application Programmin
 
 This is a perfectly normal, although simple, CAP project. However it lacks certain security features that are available to the Cloud Application Programming Model. Your challenge is to add one or more of these features into the project. The more security features the better.  We will also have a live session [Security Aspects of SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=jQYMeN3jeOU) on Wednesday, October 27th at 17:00 CEST / 23:00 SGT / 11:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211027T150000&p1=37&p2=198&p3=438&p4=240&p5=tz_sgt) to discuss some of the security aspects you could add as part of this challenge.
 
-- Add [CORS](https://developer.mozilla.org/de/docs/Web/HTTP/CORS) processing for when the CAP service is used directly without an Application Router
+- Add [CORS](https://developer.mozilla.org/en/docs/Web/HTTP/CORS) processing for when the CAP service is used directly without an Application Router
 - [Add authentication to your CAP Service](https://cap.cloud.sap/docs/node.js/authentication) 
 - [Add Access Control to your CAP Model/Service](https://cap.cloud.sap/docs/guides/authorization#restrictions)
 - [Add Instance Based Authorization (Row Level Checks)](https://cap.cloud.sap/docs/guides/authorization#instance-based-auth)
