@@ -120,7 +120,7 @@ Containers continue to mystify security practitioners, mostly because they donâ€
 
 ## Coding Challenges
 
-* The Coding Challenge details will be released during Week 4
+* The Coding Challenge details can be reviewed here: [https://github.com/SAP-samples/devtoberfest-2021-security-coding-challenge](https://github.com/SAP-samples/devtoberfest-2021-security-coding-challenge)
 
 ## Fun Friday Activity
 
