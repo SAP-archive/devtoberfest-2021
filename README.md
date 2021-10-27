@@ -29,7 +29,7 @@ This is a perfectly normal, although simple, CAP project. However it lacks certa
 
 The general process you must follow for this challenge is:
 
-* set up [Microsoft VS Code](https://code.visualstudio.com/download) with the [CAP tools] (https://developers.sap.com/tutorials/cp-apm-nodejs-create-service.html) on your machine if you haven't got it already or gain access to the [SAP Business Application and a Full Stack Cloud Application Dev Space](https://developers.sap.com/tutorials/hana-cloud-cap-create-project.html)
+* set up [Microsoft VS Code](https://code.visualstudio.com/download) with the [CAP tools](https://developers.sap.com/tutorials/cp-apm-nodejs-create-service.html) on your machine if you haven't got it already or gain access to the [SAP Business Application and a Full Stack Cloud Application Dev Space](https://developers.sap.com/tutorials/hana-cloud-cap-create-project.html)
 * fork this repository and clone it into your choosen development environment
 * Code your improvements, test, repeat
 * submit a pull request (PR) with the exact title "WEEK4CHALLENGE" to this repository, containing the changes you made
