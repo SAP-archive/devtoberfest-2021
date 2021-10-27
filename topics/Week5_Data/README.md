@@ -147,5 +147,3 @@ In this session we'll show you all about Snap! and invite you to explore classic
 <td>
 Originally a biologist, <b><a href="https://people.sap.com/jadga.huegle">Jadga Hügle</a></b> discovered her interest in computer science while building a small connected greenhouse.<br><br>Since then, she has become a Snap! enthusiast and is eager to share her excitement with everyone. Jadga currently works for SAP’s Snap! team.</td></tr>
 </table>
-
-Please, stay tuned for more details.
