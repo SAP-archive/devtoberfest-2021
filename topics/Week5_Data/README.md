@@ -102,7 +102,7 @@ We got recognized experts and active community members to join a panel answering
 
 ## Tutorials & Other Points Earning Activities
 
-* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  (List of Week 5 Points Earning Activities will be published here as Week 5 approaches)
+* Completion of any of the following Tutorials & Activities during Devtoberfest will earn you points towards the contest and potentially some great prizes.  (List of Week 5 Points Earning Activities will be published here as Week 5 approaches)
 
 * Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
