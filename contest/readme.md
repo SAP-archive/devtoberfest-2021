@@ -139,7 +139,7 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 
 |Activity | Points Earned | Badge |
 |---|---|----|
-| [Week 4 Attended Speaker Event](https://developers.sap.com/tutorials/devtoberfest-week-4-speaker.html) | 200 | <img src="https://community.sap.com/images/bltf4e540c2e7e39c44/600129-devtoberfest-2021-1.svg" title="#600129 - Devtoberfest 2021 - Week 4 Attended Speaker Event" width=50/>
+| [Week 4 Attended Speaker Event](https://developers.sap.com/tutorials/devtoberfest-week-4-speaker.html) | 100 | <img src="https://community.sap.com/images/bltf4e540c2e7e39c44/600129-devtoberfest-2021-1.svg" title="#600129 - Devtoberfest 2021 - Week 4 Attended Speaker Event" width=50/>
 | [Secure Your Application on SAP Cloud Platform Cloud Foundry](https://developers.sap.com/group.cloudsdk-more-features.html) | 200 | <img src="https://community.sap.com/images/bltd670ce5f087e7937/85EF52-devtoberfest-2021-1.svg" title="#85EF52 - Devtoberfest 2021 - Add Security and More to Your SAP Cloud SDK App" width=50/>
 | [Secure a Node.JS Application and Make It Available to Other Subaccounts](https://developers.sap.com/group.cp-cf-security-xsuaa.html) | 200 | <img src="https://community.sap.com/images/blt19e2e6e9466046ca/403BED-devtoberfest-2021-1.svg" title="#403BED - Devtoberfest 2021 - Secure a Node.JS Application and Make It Available to Other Subaccounts" width=50/>
 | [Prepare User Authentication and Authorization (XSUAA) Setup](https://developers.sap.com/tutorials/btp-app-prepare-xsuaa.html) | 200 | <img src="https://community.sap.com/images/blt0a2930f8cb758709/904712-devtoberfest-2021-1.svg" title="#904712 Devtoberfest 2021 - Prepare User Authentication and Authorization (XSUAA) Setup (Week 4)" width=50/>
