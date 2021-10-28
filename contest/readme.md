@@ -151,3 +151,13 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 | [Call SAP Conversational AI API Using OAuth](https://developers.sap.com/tutorials/conversational-ai-api-oauth.html) | 200 | <img src="https://community.sap.com/images/bltbf724d4c7748b0ae/3B5140-devtoberfest-2021-1.svg" title="#3B5140 - Devtoberfest 2021 - Call SAP Conversational AI API Using OAuth" width=50/>
 | [Security Coding Challenge](https://github.com/SAP-samples/devtoberfest-2021-security-coding-challenge) | 500 | <img src="https://community.sap.com/images/blt48ee4001fca44514/328CD8-devtoberfest-2021-1.svg" title="#328CD8 - Devtoberfest 2021 - Security Coding Challenge" width=50/>
 | [Week 4 Fun Friday Event](https://developers.sap.com/tutorials/devtoberfest-week-4-fun-friday.html) | 200 | <img src="https://community.sap.com/images/blt75a3c745b8e813d0/5D79E6-devtoberfest-2021-1.svg" title="#5D79E6 - Devtoberfest 2021 - Week 4 Fun Friday Attendee" width=50/>
+
+### Week 5 (Coming Soon)
+
+|Activity | Points Earned | Badge |
+|---|---|----|
+
+### Week 6 (Coming Soon)
+
+|Activity | Points Earned | Badge |
+|---|---|----|
