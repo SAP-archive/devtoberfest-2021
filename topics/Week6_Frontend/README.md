@@ -148,7 +148,7 @@ Duration: 50 minutes
 How well do you know SAP? Join this fun pub quiz, hosted by the Developer Advocates, to find out and compete with other Devtoberfest participants!
 
 
-[Join us live on YouTube](https), and get involved in the conversation!
+[Join us live on YouTube](https://youtu.be/zHkZ3cpW4OA), and get involved in the conversation!
 
 
 
@@ -162,5 +162,5 @@ Duration: 50 minutes
 How well do you know SAP? Join this fun pub quiz, hosted by the Developer Advocates, to find out and compete with other Devtoberfest participants!
 
 
-[Join us live on YouTube](https), and get involved in the conversation!
+[Join us live on YouTube](https://youtu.be/oG-cPC5binc), and get involved in the conversation!
 
