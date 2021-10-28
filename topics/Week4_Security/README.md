@@ -101,6 +101,8 @@ Date and Time: Thursday, October 28th at 17:00 CEST / 23:00 SGT / 11:00 EDT [ðŸŒ
 
 Duration: 50 mins
 
+Slides: [devtoberfest_container_supply_chain.pdf](./devtoberfest_container_supply_chain.pdf)
+
 Containers continue to mystify security practitioners, mostly because they donâ€™t know how securing them fits into their existing programs. Is it a virtual machine that gets scanned by the same tools used for over a decade? Or is it an application package that should be tested by SCA, SAST and DAST tools? How do you manage the image or runtime vulnerabilities vs the application security issues? This talk will focus on container security as a supply chain lifecycle problem and how to integrate validation at multiple points to achieve the ultimate goal of *assurance.* The talk is tool agnostic, because security of the supply chain is more about the alignment with the software development process than the integration of a single magical tool. 
 
 [Join us live on YouTube](https://www.youtube.com/watch?v=acEwqW-4R18), and get involved in the conversation!
