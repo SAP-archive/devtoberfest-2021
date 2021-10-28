@@ -1,0 +1,25 @@
+{
+  "name": "devtoberfest-2021",
+  "version": "1.0.0",
+  "description": "Devtoberfest 2021 build Contest Projects",
+  "main": "./actions/build.js",
+  "scripts": {
+    "build": "node ./actions/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sap-samples/devtoberfest-2021"
+  },
+  "keywords": [],
+  "author": "Stolen from DJ Adams (qmacro)",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/sap-samples/devtoberfest-2021#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "rss-parser": "^3.12.0",
+    "then-request": "^6.0.2",
+    "@octokit/core": "^3.5.1",
+    "parse-github-url": "^1.0.2",
+    "@octokit/auth-action": "^1.3.3"
+  }
+}

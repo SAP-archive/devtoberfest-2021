@@ -13,9 +13,9 @@ But not only is this an informational week but also your start into an amazing a
 ## Presentations
 
 ### Juergen Mueller and Thomas Grassl "Devtoberfest Launch Party"
-Date and Time: Wednesday, October 6th at 18:10 CEST / 21:40 IST / 12:10 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211006T161000&p1=37&p2=198&p3=438&p4=240)
+Date: Wednesday, October 6th
 
-Duration: 50 mins
+[![Juergen Mueller and Thomas Grassl Devtoberfest Launch Party](https://img.youtube.com/vi/QECsPXQBP3E/0.jpg)](http://www.youtube.com/watch?v=QECsPXQBP3E)
 
 Join us live to be part of the Devtoberfest 2021 Launch Party. Juergen Mueller, SAP Executive Board Member and CTO, will kick off the event and welcome everyone to another year of Devtoberfest.  He'll also discuss the close ties between Devtoberfest and TechEd, his thoughts on year-round learning for developers and give a sneak peek at some of the additions and improvements for SAP TechEd this year. 
 
@@ -37,14 +37,12 @@ So, don't miss out. Join the session live and be a part of the opening festiviti
 </table>
 
 ## Fun Friday Activity
-
-
-    
+   
 ### A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum By Dag Spicer, Senior Curator
 
-Date and Time: Friday, October 8th at 16:00 CEST / 19:30 IST / 10:00 EDT [🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211008T140000&p1=37&p2=198&p3=438&p4=240)
+Date: Friday, October 8th
 
-Duration: 60 mins
+[![A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum By Dag Spicer, Senior Curator](https://img.youtube.com/vi/M6SXIeXbnik/0.jpg)](http://www.youtube.com/watch?v=M6SXIeXbnik)
 
 © Computer History Museum
 
