@@ -102,7 +102,7 @@ We got recognized experts and active community members to join a panel answering
 
 ## Tutorials & Other Points Earning Activities
 
-* List of Data&&Analytics week's Points Earning Activities will be published here as Week 5 of Devtoberfest approaches.
+* List of Data & Analytics week's Points Earning Activities published here:  [Week 6 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-5)
 
 * Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
