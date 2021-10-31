@@ -29,8 +29,8 @@ A list of all submitted open source projects to be part of Devtoberfest with det
 | | Oct 11 - 15 | [Week 2 - Best Practices](topics/Week2_Best_Practices/README.md) |
 | | Oct 15 | [Dogtoberfest Day](topics/Dogtoberfest/README.md) |
 | | Oct 18 - 22 | [Week 3 - Cloud Native](topics/Week3_Cloud_Native/README.md) |
-| Current Week | Oct 25 - 29 | [Week 4 - Security](topics/Week4_Security/README.md) |
-| | Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
+| | Oct 25 - 29 | [Week 4 - Security](topics/Week4_Security/README.md) |
+| Current Week | Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
 | | Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
 | | Nov 12 | Devtoberfest Ends |
 | | Nov 16 | [TechEd Begins](https://reg.sapevents.sap.com/flow/sap/sapteched2021/overview/page/content)

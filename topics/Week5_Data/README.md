@@ -17,7 +17,7 @@ Data Science has been a hot topic in the enterprise in the last decade. Thanks t
 
 In this talk we describe machine learning use-cases from our team and describe our learnings and takeaways.
 
-📺 [Join us live on YouTube](https://youtu.be/G4vtt_U1wjs), and ask your questions!
+📺 [Join us live on YouTube](https://developers.sap.com/tutorials/devtoberfest-week-5-speaker.html#4ab1d558-f4aa-49ed-95b7-f4e7bada1f93), and ask your questions!
 
 <table border=0px>
 <tr>
@@ -102,14 +102,15 @@ We got recognized experts and active community members to join a panel answering
 
 ## Tutorials & Other Points Earning Activities
 
-* List of Data & Analytics week's Points Earning Activities published here:  [Week 5 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-5)
+* List of Data && Analytics week's Points Earning Activities published here:  [Week 5 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-5)
 
-* Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
 ## Coding Challenge
-Use SAP HANA for some fun geospatial exploration!
 
-There is still some time to [brush up your skills in using SAP HANA multi-model capabilities](https://developers.sap.com/tutorials/devtoberfest-week-5-codingchallenge.html#7cb08de7-399e-4a37-a9be-e181c18e9dee) prior to the challenge announcement.
+Use SAP HANA for some fun geospatial exploration [using SAP HANA multi-model capabilities](https://developers.sap.com/tutorials/devtoberfest-week-5-codingchallenge.html#7cb08de7-399e-4a37-a9be-e181c18e9dee).
+
+Optionally, consider putting your geospatial skills to use in a separate [30 Day Map Challenge](https://github.com/tjukanovt/30DayMapChallenge) 🌏🌍🌎
 
 ## Fun Friday Activity
 
@@ -125,7 +126,7 @@ Snap! is an interactive, massively parallel visual programming language implemen
 
 We develop Snap! at SAP in collaboration with researchers at UC Berkeley. Join us for a virtual tour of our "Lab" and learn about our design principles, architecture and pedagogical mission.
 
-📺 [Join us live on YouTube](https://youtu.be/UEDsNOubTg0), and get involved!
+📺 [Join us live on YouTube](https://developers.sap.com/tutorials/devtoberfest-week-5-fun-friday.html#363116a7-849e-4701-bb6a-79b5068875d7), and get involved!
 
 ### Snap! Programming Beauty and Joy
 
@@ -135,7 +136,7 @@ Snap! is the programming language that has been developed for UC Berkeley's "Bea
 
 In this session we'll show you all about Snap! and invite you to explore classical algorithmic art through recoding and remixing.
 
-📺 [Join us live on YouTube](https://youtu.be/ouJXcTTUAbg), and get involved!
+📺 [Join us live on YouTube](https://developers.sap.com/tutorials/devtoberfest-week-5-fun-friday.html#caa82262-28af-48c1-b58e-aa57f1bfeba3), and get involved!
 
 <table border=0px>
 <tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>
