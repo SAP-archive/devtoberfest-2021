@@ -108,9 +108,9 @@ Please find all the contest info here: [Contest Overview Page](https://github.co
 
 ## Coding Challenge
 
-Use SAP HANA for some fun geospatial exploration [using SAP HANA multi-model capabilities](https://developers.sap.com/tutorials/devtoberfest-week-5-codingchallenge.html#7cb08de7-399e-4a37-a9be-e181c18e9dee).
+Use SAP HANA for some fun geospatial exploration while solving the coding challenge [using SAP HANA multi-model capabilities](https://developers.sap.com/tutorials/devtoberfest-week-5-codingchallenge.html#7cb08de7-399e-4a37-a9be-e181c18e9dee) and get some Devtoberfest points for providing correct answers!
 
-Optionally, consider putting your geospatial skills to use in a separate [30 Day Map Challenge](https://github.com/tjukanovt/30DayMapChallenge) 🌏🌍🌎
+Optionally, consider putting your geospatial skills to use in the separate [30 Day Map Challenge](https://github.com/tjukanovt/30DayMapChallenge) 🌏🌍🌎
 
 ## Fun Friday Activity
 
