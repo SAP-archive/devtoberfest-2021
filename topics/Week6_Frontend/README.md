@@ -39,7 +39,7 @@ Duration: 30 minutes
 
 This session will give insights about a trending topic in frontend development - Micro Frontends. This architecture style addresses the challenge of having a frontend that is too big to manage and coordinate across multiple teams or products. You will learn about its key aspects, technical and organizational issues it induces, and how these can be handled, on the example of project "Luigi", SAP's own open-source Micro Frontend framework.
 
-[Join us live on YouTube](https), and get involved in the conversation!
+[Join us live on YouTube](https://www.youtube.com/watch?v=EzQK0v7xBuE), and get involved in the conversation!
 
 
 
@@ -108,7 +108,7 @@ Duration: 40 minutes
 State management for the frontend. No more sinking props down layers of components and bubbling results back up. Access all your common data in one place with Redux! In this presentation, I will walk through what Redux is, why you would use it, how you would use it, and how you could simplify it with Redux Toolkit.
 
 
-[Join us live on YouTube](https), and get involved in the conversation!
+[Join us live on YouTube](https://www.youtube.com/watch?v=Eo5kYkiTvrQ), and get involved in the conversation!
 
 
 <table >
