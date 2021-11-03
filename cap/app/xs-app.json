@@ -1,0 +1,6 @@
+{
+  "routes": [{
+ "source": "^/(.*)",
+ "destination": "srv_api"
+ }]
+}
