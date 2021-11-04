@@ -122,7 +122,7 @@ State management for the frontend. No more sinking props down layers of componen
 
 ## Tutorials & Other Points Earning Activities
 
-* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  (List of Week 6 Points Earning Activities will be published here:  [Week 6 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-6) 
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  List of Week 6 Points Earning Activities published here:  [Week 6 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-6) 
  
 * Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
