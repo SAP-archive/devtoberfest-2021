@@ -173,7 +173,17 @@ It’s simple.  Register for the Devtoberfest Game.  Complete activities like tu
 | [Week 5 Data Coding Challenge](https://developers.sap.com/tutorials/devtoberfest-week-5-codingchallenge.html) | 500 | <img src="https://community.sap.com/images/bltce2c057f6ced89ff/F20742-devtoberfest-2021-1.svg" title="#F20742 - Devtoberfest 2021 - Week 5 Data Coding Challenge" width=50/>
 | [Week 5 Fun Friday Event](https://developers.sap.com/tutorials/devtoberfest-week-5-fun-friday.html) | 300 | <img src="https://community.sap.com/images/blt1578b0fbaf9a99c8/47724F-devtoberfest-2021-1.svg" title="#47724F - Devtoberfest 2021 - Week 5 Fun Friday Attendee" width=50/>
 
-### Week 6 (Coming Soon)
+### Week 6
 
 |Activity | Points Earned | Badge |
 |---|---|----|
+| [Week 6 Attended Speaker Event](https://developers.sap.com/tutorials/devtoberfest-week-6-speaker.html) | 100 | <img src="https://community.sap.com/images/blt8e9e9f267822fef8/EFD1DB-devtoberfest-2021-1.svg" title="#EFD1DB - Devtoberfest 2021 - Week 6 Attended Speaker Event" width=50/>
+| [Create an SAP Fiori Elements-Based UI](https://developers.sap.com/tutorials/btp-app-create-ui-fiori-elements.html) | 200 | <img src="https://community.sap.com/images/bltb39e67662312dfce/947380-devtoberfest-2021-1.svg" title="#947380 - Devtoberfest 2021 - Create an SAP Fiori Elements-Based UI (Week 6)" width=50/>
+| [Create a UI Using Freestyle SAPUI5](https://developers.sap.com/tutorials/btp-app-create-ui-freestyle-sapui5.html) | 200 | <img src="https://community.sap.com/images/blt89ef74bfd9aaf571/B4A328-devtoberfest-2021-1.svg" title="#B4A328 - Devtoberfest 2021 - Create a UI Using Freestyle SAPUI5 (Week 6)" width=50/>
+| [Add the SAP Launchpad Service](https://developers.sap.com/tutorials/btp-app-launchpad-service.html) | 200 | <img src="https://community.sap.com/images/blte3ab5f5a9fff925e/5113E5-devtoberfest-2021-1.svg" title="#5113E5 - Devtoberfest 2021 - Add the SAP Launchpad Service (Week 6)" width=50/>
+| [Integrate Charts and Conditional Rendering (React.js)](https://developers.sap.com/tutorials/ui5-webcomponents-react-charts.html) | 200 | <img src="https://community.sap.com/images/blt4e2914c1c38651b9/AE2D85-devtoberfest-2021-1.svg" title="#AE2D85 - Devtoberfest 2021 - Integrate Charts and Conditional Rendering" width=50/>
+| [Develop a Vue.js Application for SAP BTP on Cloud Foundry](https://developers.sap.com/tutorials/appstudio-vue-getting-started.html) | 200 | <img src="https://community.sap.com/images/blt81ca4b2ed06f0b8f/A4BF5F-devtoberfest-2021-1.svg" title="#A4BF5F - Devtoberfest 2021 - Develop a Vue Application for SAP BTP on Cloud Foundry" width=50/>
+| [Build Luigi App with React](https://developers.sap.com/tutorials/luigi-app-react.html) | 200 | <img src="https://community.sap.com/images/blt7cba01455ccfa1e4/0F03FE-devtoberfest-2021-1.svg" title="#0F03FE - Devtoberfest 2021 - Build Luigi App with React" width=50/>
+| [Week 6 Data Coding Challenge](https://github.com/SAP-samples/devtoberfest-2021-frontend-coding-challenge) | 500 | <img src="https://community.sap.com/images/bltec03110f1585e3e8/AE19A0-devtoberfest-2021-1.svg" title="#AE19A0 - Devtoberfest 2021 - Week 6 Frontend Coding Challenge" width=50/>
+| [Week 6 Fun Friday Event](https://developers.sap.com/tutorials/devtoberfest-week-6-fun-friday.html) | 300 | <img src="https://community.sap.com/images/blt1ba2ddd0e4e4ab9a/103738-devtoberfest-2021-1.svg" title="#103738 - Devtoberfest 2021 - Week 6 Fun Friday Attendee" width=50/>
+
