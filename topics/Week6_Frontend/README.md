@@ -14,7 +14,7 @@ Topic Owner: [Marius Obert](https://github.com/iobert)
 ## Presentations
 
 ### Free your Web Apps from Speed Bumps
-Monday November 8th at [10:00 CET (Berlin) / 14:30 IST (Bengaluru) / 20:00 AEDT (Melbourne)](https://www.timeanddate.com/worldclock/converter.html?iso=20211108T090000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+Monday November 8th at 10:00 CET (Berlin) / 14:30 IST (Bengaluru) / 20:00 AEDT (Melbourne) [🌏🌍🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211108T090000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
 
 Duration: 35 minutes
 
@@ -22,6 +22,7 @@ Nobody likes web applications with a bad performance - neither the end-users nor
 We will cover genic tips and tricks and specific ones for SAPUI5/OpenUI5 applications to help you with this week's coding challenge.
 
 [Join us live on YouTube](https://www.youtube.com/watch?v=CBF_8eOjuc8), and get involved in the conversation!
+[View the slides here](slides/WebAppOptimization.pdf).
 
 <table >
     <tr>
@@ -33,14 +34,14 @@ We will cover genic tips and tricks and specific ones for SAPUI5/OpenUI5 applica
 
 
 ### Micro Frontends with Luigi – UI Development at Scale
-November 9th, [9:00 CET (Berlin) / 13:30 IST (Bengaluru) / 19:00 AEDT (Melbourne)](https://www.timeanddate.com/worldclock/converter.html?iso=20211109T080000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+November 9th, 9:00 CET (Berlin) / 13:30 IST (Bengaluru) / 19:00 AEDT (Melbourne) [🌏🌍🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211109T080000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
 
 Duration: 30 minutes
 
 This session will give insights about a trending topic in frontend development - Micro Frontends. This architecture style addresses the challenge of having a frontend that is too big to manage and coordinate across multiple teams or products. You will learn about its key aspects, technical and organizational issues it induces, and how these can be handled, on the example of project "Luigi", SAP's own open-source Micro Frontend framework.
 
 [Join us live on YouTube](https://www.youtube.com/watch?v=EzQK0v7xBuE), and get involved in the conversation!
-
+[View the slides here](slides/MicroFrontends.pdf).
 
 
 <table >
@@ -52,7 +53,7 @@ This session will give insights about a trending topic in frontend development -
 
 
 ### Apollo GraphQL Usage in UI5 Apps
-November 9th, [17:00 CET (Berlin) / 11:00 EST (New York) / 8:00 PST (San Francisco)](https://www.timeanddate.com/worldclock/converter.html?iso=20211109T160000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+November 9th, 17:00 CET (Berlin) / 11:00 EST (New York) / 8:00 PST (San Francisco) [🌏🌍🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211109T160000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
 
 Duration: 30 minutes
 
@@ -60,6 +61,8 @@ This session will showcase how easy it is today to integrate any OSS library suc
 
 
 [Join us live on YouTube](https://www.youtube.com/watch?v=eeIt_EFpbeQ), and get involved in the conversation!
+[View the slides here](slides/MissionApolloReloaded.pdf).
+
 
 
 <table >
@@ -76,7 +79,7 @@ This session will showcase how easy it is today to integrate any OSS library suc
 
 
 ### Web Components: The Reusable Building Blocks of the Web
-November 11th, [9:00 CET (Berlin) / 13:30 IST (Bengaluru) / 19:00 AEDT (Melbourne)](https://www.timeanddate.com/worldclock/converter.html?iso=20211111T080000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+November 11th, 9:00 CET (Berlin) / 13:30 IST (Bengaluru) / 19:00 AEDT (Melbourne) [🌏🌍🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211111T080000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
 
 Duration: 30 minutes
 
@@ -90,6 +93,8 @@ We will put our new knowledge into practice by implementing our first Web Compon
 
 
 [Join us live on YouTube](https://www.youtube.com/watch?v=b_Hqu4GtJvM), and get involved in the conversation!
+[View the slides here](slides/WebComponents.pdf).
+
 
 
 <table >
@@ -101,7 +106,7 @@ We will put our new knowledge into practice by implementing our first Web Compon
 
 ### How to Make State Management Work for You with Redux and Redux Toolkit 
 
-November 11th, [19:00 CET (Berlin) / 13:00 EST (New York) / 10:00 PST (San Francisco)](https://www.timeanddate.com/worldclock/converter.html?iso=20211111T180000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+November 11th, 19:00 CET (Berlin) / 13:00 EST (New York) / 10:00 PST (San Francisco) [🌏🌍🌎](https://www.timeanddate.com/worldclock/converter.html?iso=20211111T180000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
 
 Duration: 40 minutes
 
