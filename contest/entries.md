@@ -92,9 +92,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 151, Forks: 51, Watchers: 17
+* Stars: 150, Forks: 51, Watchers: 17
 * Open Issues: 1, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Wed, 20 Oct 2021 06:12:54 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Fri, 22 Oct 2021 18:03:23 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [petermuessig](https://github.com/petermuessig), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -174,7 +174,7 @@
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 2, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Thu, 21 Oct 2021 17:58:19 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Sat, 23 Oct 2021 07:05:15 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62)
@@ -452,9 +452,9 @@
 
 ## scf: You are looking for a specific code snippet in your ABAP code. Then use the Source Code Finder to search for every occurrence of it.
 [https://github.com/reyemsaibot/scf](https://github.com/reyemsaibot/scf)
-* Stars: 3, Forks: 2, Watchers: 2
+* Stars: 4, Forks: 2, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Mon, 18 Oct 2021 14:26:02 GMT
+* Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Sun, 24 Oct 2021 02:28:44 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [reyemsaibot](https://github.com/reyemsaibot)
 * Contributors: [reyemsaibot](https://github.com/reyemsaibot)
@@ -472,9 +472,9 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
-* Stars: 395, Forks: 201, Watchers: 71
+* Stars: 396, Forks: 201, Watchers: 71
 * Open Issues: 121, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Mon, 18 Oct 2021 14:30:29 GMT
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sun, 24 Oct 2021 01:40:15 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [fidley](https://github.com/fidley), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [tmackowski](https://github.com/tmackowski), [sandraros](https://github.com/sandraros), [Gh14Cc10](https://github.com/Gh14Cc10), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [bitdeli-chef](https://github.com/bitdeli-chef), [christianguenter2](https://github.com/christianguenter2), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [pokrakam](https://github.com/pokrakam), [RedWolf112](https://github.com/RedWolf112), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
@@ -492,7 +492,7 @@
 
 ## abap-package-version-shield: shield.io lambda to detect version of abap package, serialized by abapGit
 [https://github.com/sbcgua/abap-package-version-shield](https://github.com/sbcgua/abap-package-version-shield)
-* Stars: 5, Forks: 3, Watchers: 1
+* Stars: 5, Forks: 3, Watchers: 2
 * Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Fri, 08 Oct 2021 02:11:07 GMT
 * License: 
@@ -502,8 +502,8 @@
 
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
-* Stars: 18, Forks: 6, Watchers: 2
-* Open Issues: 9, Has Projects: true, Has Wiki: true
+* Stars: 18, Forks: 6, Watchers: 3
+* Open Issues: 10, Has Projects: true, Has Wiki: true
 * Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Tue, 12 Oct 2021 09:48:12 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
@@ -512,9 +512,9 @@
 
 ## mockup_loader: ABAP unit testing framework, prepare in Excel, reuse in abap code
 [https://github.com/sbcgua/mockup_loader](https://github.com/sbcgua/mockup_loader)
-* Stars: 44, Forks: 15, Watchers: 11
+* Stars: 44, Forks: 15, Watchers: 12
 * Open Issues: 10, Has Projects: true, Has Wiki: true
-* Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Thu, 21 Oct 2021 15:38:59 GMT
+* Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Fri, 22 Oct 2021 08:51:32 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [larshp](https://github.com/larshp), [swixfort](https://github.com/swixfort), [a-fas](https://github.com/a-fas), [germanysources](https://github.com/germanysources)
@@ -572,9 +572,9 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 132, Forks: 57, Watchers: 20
+* Stars: 133, Forks: 57, Watchers: 20
 * Open Issues: 17, Has Projects: true, Has Wiki: true
-* Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Wed, 13 Oct 2021 04:13:20 GMT
+* Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Fri, 22 Oct 2021 08:10:28 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
 * Contributors: [petermuessig](https://github.com/petermuessig), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [vobu](https://github.com/vobu), [IObert](https://github.com/IObert), [dependabot[bot]](https://github.com/apps/dependabot), [attila-boros](https://github.com/attila-boros), [marcelschork](https://github.com/marcelschork), [mauriciolauffer](https://github.com/mauriciolauffer), [lennart-m](https://github.com/lennart-m), [stockbal](https://github.com/stockbal), [sebbi08](https://github.com/sebbi08), [lboehm](https://github.com/lboehm), [matz3](https://github.com/matz3), [RandomByte](https://github.com/RandomByte), [Magoli1](https://github.com/Magoli1), [TheVivekGowda](https://github.com/TheVivekGowda), [lemaiwo](https://github.com/lemaiwo), [resitamas](https://github.com/resitamas), [d-sooter](https://github.com/d-sooter), [esjewett](https://github.com/esjewett), [fatihpense](https://github.com/fatihpense), [iggycoder](https://github.com/iggycoder), [jkoenig134](https://github.com/jkoenig134), [maxmoehl](https://github.com/maxmoehl), [piejanssens](https://github.com/piejanssens), [stefania-santimbrean](https://github.com/stefania-santimbrean), [iot-cpars](https://github.com/iot-cpars), [s4180t](https://github.com/s4180t), [texttechne](https://github.com/texttechne)

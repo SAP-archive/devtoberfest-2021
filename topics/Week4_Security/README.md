@@ -73,9 +73,9 @@ Round table with security experts from SAP, Microsoft, and University. Supply ch
 
 <tr>
         <td width = 270>
-<!-- <img src="../../images/MicheleChubirka.png"> -->       
+<img src="../../images/ralf_wigand.jpg"> 
 
-</td>  <td><b>Ralf Wigand</b> Details comming soon
+</td>  <td><b>Ralf Wigand</b> is the National IT-Compliance & Security Officer at Microsoft Germany. As part of his role he contributes to Microsoftâ€™s global IT-Compliance efforts with a focus on country-specific regulations like C5, but also to the general Microsoftâ€™s cybersecurity strategy (like Critical Infrastructure). In his last role Ralf was part of the Azure Global engineering team driving the expansion of Azure into new regions worldwide, and before this he was for several year rewarded as Microsoft Most Valuable Professional MVP.
 </td>  </tr>
 </table>
 
@@ -101,6 +101,8 @@ Date and Time: Thursday, October 28th at 17:00 CEST / 23:00 SGT / 11:00 EDT [ðŸŒ
 
 Duration: 50 mins
 
+Slides: [devtoberfest_container_supply_chain.pdf](./devtoberfest_container_supply_chain.pdf)
+
 Containers continue to mystify security practitioners, mostly because they donâ€™t know how securing them fits into their existing programs. Is it a virtual machine that gets scanned by the same tools used for over a decade? Or is it an application package that should be tested by SCA, SAST and DAST tools? How do you manage the image or runtime vulnerabilities vs the application security issues? This talk will focus on container security as a supply chain lifecycle problem and how to integrate validation at multiple points to achieve the ultimate goal of *assurance.* The talk is tool agnostic, because security of the supply chain is more about the alignment with the software development process than the integration of a single magical tool. 
 
 [Join us live on YouTube](https://www.youtube.com/watch?v=acEwqW-4R18), and get involved in the conversation!
@@ -120,7 +122,7 @@ Containers continue to mystify security practitioners, mostly because they donâ€
 
 ## Coding Challenges
 
-* The Coding Challenge details will be released during Week 4
+* The Coding Challenge details can be reviewed here: [https://github.com/SAP-samples/devtoberfest-2021-security-coding-challenge](https://github.com/SAP-samples/devtoberfest-2021-security-coding-challenge)
 
 ## Fun Friday Activity
 

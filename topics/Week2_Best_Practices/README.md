@@ -6,7 +6,7 @@ Learn how you can level up in the technical areas that you work in every day. In
 
 * [presentations](#presentations) on YouTube in live streams that you can join, watch, and chat with the other attendees
 * a [challenge](#challenge) for you to complete and earn points
-* a series of [tutorials](#tutorials) for you to complete and earn points
+* a series of [tutorials](#tutorials--other-points-earning-activities) for you to complete and earn points
 * a [special guest interview](#special-guest-speaker) with James Governor
 
 There's also Dogtoberfest on the Friday of this week 🐶

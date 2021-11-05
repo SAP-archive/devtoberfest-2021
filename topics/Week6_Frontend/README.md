@@ -16,10 +16,12 @@ Topic Owner: [Marius Obert](https://github.com/iobert)
 ### Free your Web Apps from Speed Bumps
 Monday November 8th at [10:00 CET (Berlin) / 14:30 IST (Bengaluru) / 20:00 AEDT (Melbourne)](https://www.timeanddate.com/worldclock/converter.html?iso=20211108T090000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
 
-Duration: 45 minutes
+Duration: 35 minutes
 
 Nobody likes web applications with a bad performance - neither the end-users nor the developers. Join this session to learn about some common strategies that improve the performance score of your web app and tools to measure this improvement.
 We will cover genic tips and tricks and specific ones for SAPUI5/OpenUI5 applications to help you with this week's coding challenge.
+
+[Join us live on YouTube](https://www.youtube.com/watch?v=CBF_8eOjuc8), and get involved in the conversation!
 
 <table >
     <tr>
@@ -37,6 +39,9 @@ Duration: 30 minutes
 
 This session will give insights about a trending topic in frontend development - Micro Frontends. This architecture style addresses the challenge of having a frontend that is too big to manage and coordinate across multiple teams or products. You will learn about its key aspects, technical and organizational issues it induces, and how these can be handled, on the example of project "Luigi", SAP's own open-source Micro Frontend framework.
 
+[Join us live on YouTube](https://www.youtube.com/watch?v=EzQK0v7xBuE), and get involved in the conversation!
+
+
 
 <table >
     <tr>
@@ -52,6 +57,10 @@ November 9th, [17:00 CET (Berlin) / 11:00 EST (New York) / 8:00 PST (San Francis
 Duration: 30 minutes
 
 This session will showcase how easy it is today to integrate any OSS library such as Apollo GraphQL into UI5 by using the UI5 CLI tooling. Besides the OSS integration, the session demonstrates how seamless it can be to use Apollo GraphQL inside UI5 applications.
+
+
+[Join us live on YouTube](https://www.youtube.com/watch?v=eeIt_EFpbeQ), and get involved in the conversation!
+
 
 <table >
     <tr>
@@ -79,6 +88,10 @@ If you are looking for a way of implementing reusable components with Vanilla Ja
 
 We will put our new knowledge into practice by implementing our first Web Component. Moreover, we will take a glance at the usage of Web Components within the SAP ecosystem.
 
+
+[Join us live on YouTube](https://www.youtube.com/watch?v=b_Hqu4GtJvM), and get involved in the conversation!
+
+
 <table >
     <tr>
         <td width=250><img src="../../images/FilipSiderov_250px_shadow.png" alt="Filip Siderov"><br/></td>
@@ -90,9 +103,13 @@ We will put our new knowledge into practice by implementing our first Web Compon
 
 November 11th, [19:00 CET (Berlin) / 13:00 EST (New York) / 10:00 PST (San Francisco)](https://www.timeanddate.com/worldclock/converter.html?iso=20211111T180000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
 
-Duration: 30 minutes
+Duration: 40 minutes
 
 State management for the frontend. No more sinking props down layers of components and bubbling results back up. Access all your common data in one place with Redux! In this presentation, I will walk through what Redux is, why you would use it, how you would use it, and how you could simplify it with Redux Toolkit.
+
+
+[Join us live on YouTube](https://www.youtube.com/watch?v=Eo5kYkiTvrQ), and get involved in the conversation!
+
 
 <table >
     <tr>
@@ -105,23 +122,45 @@ State management for the frontend. No more sinking props down layers of componen
 
 ## Tutorials & Other Points Earning Activities
 
-* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  (List of Week 6 Points Earning Activities will be published here as Week 6 approaches) 
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  List of Week 6 Points Earning Activities published here:  [Week 6 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-6) 
  
 * Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
 ## Coding Challenge
 
-The Devtoberfest 2021 Frontend Week Coding Challenge is a web application that displays all current services available on the SAP Business Technology Platform. 
-
-> The Link will be made available when the challenge starts.
+Go here to find the [Devtoberfest 2021 Frontend Week Coding Challenge](https://github.com/SAP-samples/devtoberfest-2021-frontend-coding-challenge). The repo contains a web application that displays all current services available on the SAP Business Technology Platform. 
 
 ![Running app in light mode](./running.png)
 
-Unfortunately, this app doesn't have the best loading performance. The [Lighthouse performance score](https://web.dev/performance-scoring/) is way below 10 out of 100. Luckily, this is not the fault of the used framework but happened due to a bad implementation and disregard of common best practices. It's up to you to fix this web application and to push the performance score above 70.
+Unfortunately, this app doesn't have the best loading performance. The [Lighthouse performance score](https://web.dev/performance-scoring/) is way below 10 out of 100. Luckily, this is not the fault of the used framework but happened due to a bad implementation and disregard of [common best practices](TODO-Insert-Link-to-Video). It's up to you to fix this web application and to push the performance score above 75.
 
-To participate, you need to fork and clone the repository first. Once you made the improvements, open a pull request that will be reviewed automatically. If your app passes, your pull request gets a "passed" label, and you can enter your SAP Community ID to earn your badge.
+To participate, you need to fork and clone the repository first. Once you made the improvements, open a pull request that will be reviewed automatically. If your app passes, your pull request gets a "passed" label, and you can enter your SAP Community ID to earn your badge. For more detailed instructions, please look at the "Contributing" section of the [coding challenge repository](https://github.com/SAP-samples/devtoberfest-2021-frontend-coding-challenge).
 
 
-## Fun Friday Activity
+## Fun Friday Activities
 
-More details to come
+### Pub Quiz (Moring Session)
+
+November 12th, [8:00 CET (Berlin) / 12:30 IST (Bengaluru) / 18:00 AEDT (Melbourne)](https://www.timeanddate.com/worldclock/converter.html?iso=20211112T070000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+
+Duration: 50 minutes
+
+How well do you know SAP? Join this fun pub quiz, hosted by the Developer Advocates, to find out and compete with other Devtoberfest participants!
+
+
+[Join us live on YouTube](https://youtu.be/zHkZ3cpW4OA), and get involved in the conversation!
+
+
+
+
+### Pub Quiz (Afternoon Session)
+
+November 12th, [17:00 CET (Berlin) / 11:00 EST (New York) / 8:00 PST (San Francisco)](https://www.timeanddate.com/worldclock/converter.html?iso=20211112T160000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
+
+Duration: 50 minutes
+
+How well do you know SAP? Join this fun pub quiz, hosted by the Developer Advocates, to find out and compete with other Devtoberfest participants!
+
+
+[Join us live on YouTube](https://youtu.be/oG-cPC5binc), and get involved in the conversation!
+
