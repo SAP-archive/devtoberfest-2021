@@ -137,9 +137,9 @@ Go here to find the [Devtoberfest 2021 Frontend Week Coding Challenge](https://g
 
 ![Running app in light mode](./running.png)
 
-Unfortunately, this app doesn't have the best loading performance. The [Lighthouse performance score](https://web.dev/performance-scoring/) is way below 10 out of 100. Luckily, this is not the fault of the used framework but happened due to a bad implementation and disregard of [common best practices](TODO-Insert-Link-to-Video). It's up to you to fix this web application and to push the performance score above 75.
+Unfortunately, this app doesn't have the best loading performance. The [Lighthouse performance score](https://web.dev/performance-scoring/) is way below the achievable 100 points. Luckily, this is not the fault of the framework used but happened due to a bad implementation and disregard of [common best practices](https://www.youtube.com/watch?v=CBF_8eOjuc8). It’s up to you to fix this web application and to push the performance score above 70.
 
-To participate, you need to fork and clone the repository first. Once you made the improvements, open a pull request that will be reviewed automatically. If your app passes, your pull request gets a "passed" label, and you can enter your SAP Community ID to earn your badge. For more detailed instructions, please look at the "Contributing" section of the [coding challenge repository](https://github.com/SAP-samples/devtoberfest-2021-frontend-coding-challenge).
+To participate, you need to fork and clone the repository first. Once you made the improvements, open a pull request that will be reviewed automatically. If your app passes, your pull request gets a "passed" label, and you can enter your SAP Community ID to earn your badge. For more detailed instructions, please look at the "Contributing" section of the [coding challenge repository](https://github.com/SAP-samples/devtoberfest-2021-frontend-coding-challenge#contributing--submitting-your-proposal).
 
 
 ## Fun Friday Activities
