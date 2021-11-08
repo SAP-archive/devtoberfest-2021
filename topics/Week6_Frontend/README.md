@@ -144,7 +144,7 @@ To participate, you need to fork and clone the repository first. Once you made t
 
 ## Fun Friday Activities
 
-### Pub Quiz (Moring Session)
+### Pub Quiz (Morning Session)
 
 November 12th, [8:00 CET (Berlin) / 12:30 IST (Bengaluru) / 18:00 AEDT (Melbourne)](https://www.timeanddate.com/worldclock/converter.html?iso=20211112T070000&p1=152&p2=438&p3=83&p4=45&p5=179&p6=64&p7=155&p8=197&p9=224)
 
