@@ -422,7 +422,7 @@
 
 ## ui5-nwabap-deployer: UI5 Deployer for SAP NetWeaver ABAP
 [https://github.com/pfefferf/ui5-nwabap-deployer](https://github.com/pfefferf/ui5-nwabap-deployer)
-* Stars: 51, Forks: 15, Watchers: 5
+* Stars: 51, Forks: 16, Watchers: 5
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Fri, 01 Nov 2019 07:42:44 GMT, Updated At: Wed, 20 Oct 2021 13:13:35 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -503,7 +503,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 78, Forks: 23, Watchers: 23
-* Open Issues: 18, Has Projects: true, Has Wiki: true
+* Open Issues: 19, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Sun, 07 Nov 2021 05:48:16 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -604,7 +604,7 @@
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 133, Forks: 57, Watchers: 20
 * Open Issues: 17, Has Projects: true, Has Wiki: true
-* Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Tue, 09 Nov 2021 10:35:56 GMT
+* Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Tue, 09 Nov 2021 12:58:54 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
 * Contributors: [petermuessig](https://github.com/petermuessig), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [vobu](https://github.com/vobu), [IObert](https://github.com/IObert), [dependabot[bot]](https://github.com/apps/dependabot), [attila-boros](https://github.com/attila-boros), [marcelschork](https://github.com/marcelschork), [mauriciolauffer](https://github.com/mauriciolauffer), [lennart-m](https://github.com/lennart-m), [stockbal](https://github.com/stockbal), [sebbi08](https://github.com/sebbi08), [lboehm](https://github.com/lboehm), [matz3](https://github.com/matz3), [RandomByte](https://github.com/RandomByte), [Magoli1](https://github.com/Magoli1), [TheVivekGowda](https://github.com/TheVivekGowda), [lemaiwo](https://github.com/lemaiwo), [resitamas](https://github.com/resitamas), [d-sooter](https://github.com/d-sooter), [esjewett](https://github.com/esjewett), [fatihpense](https://github.com/fatihpense), [iggycoder](https://github.com/iggycoder), [jkoenig134](https://github.com/jkoenig134), [maxmoehl](https://github.com/maxmoehl), [piejanssens](https://github.com/piejanssens), [stefania-santimbrean](https://github.com/stefania-santimbrean), [iot-cpars](https://github.com/iot-cpars), [s4180t](https://github.com/s4180t), [texttechne](https://github.com/texttechne)
