@@ -503,7 +503,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 78, Forks: 23, Watchers: 23
-* Open Issues: 19, Has Projects: true, Has Wiki: true
+* Open Issues: 18, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Sun, 07 Nov 2021 05:48:16 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
