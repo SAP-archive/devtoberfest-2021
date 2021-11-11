@@ -12,15 +12,29 @@ import { forwardRef } from 'react';
 import { createUseStyles } from 'react-jss';
 import { InputWithLabel } from '../../../common/components/InputWithLabel';
 import { formatPhoneNumber } from '../../utils/formatDetails';
+import { useDispatch, useSelector } from 'react-redux';
+import { updateContactDetails } from '../ProfileSlice';
 
 const ContactEditDialog = (props, ref) => {
   const classes = useStyles();
+  const dispatch = useDispatch();
   const { setIsDialogOpen } = props;
   const { handleDialogCancel } = props;
 
-  // TODO: Add redux here
-  const { phoneNumber, workNumber, street, apt, city, state, zipCode } = props;
-  const { handleInputChange } = props;
+  /**
+   * NOTE: Redux is largely called in the exact same way as they were called
+   * before with basic redux, with the only difference being the selectors being
+   * able to be created in the component itself.
+   */
+  const { phoneNumber, workNumber, street, apt, city, state, zipCode } = useSelector(
+    (state) => state.profile.contactDetails
+  );
+
+  // updates React state when inputs are changed
+  const handleInputChange = (e) => {
+    const { name, value } = e.target;
+    dispatch(updateContactDetails({ name: name, value: value }));
+  };
 
   // dialog button bar handlers
   const handleDialogClose = () => {
