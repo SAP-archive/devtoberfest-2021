@@ -15,15 +15,8 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## Redux
+The basic Redux example is on branch `redux-example`.
+The example using Redux Toolkit is on branch `redux-toolkit-example`.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Redux Example
-This example is using basic redux and is on branch `redux-example`.
+[Here is the link to the Getting Started page in the Redux Documentation](https://redux.js.org/introduction/getting-started). Note that the official documentation is now based on Redux Toolkit, instead of basic Redux. There are still a lot of articles on adding basic Redux to new projects but the way forward is likely going to be using Redux Toolkit. Knowing both is good as a lot of projects still use basic Redux as the toolkit is very new.
