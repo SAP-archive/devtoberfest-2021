@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+declare GH_LIST_LIMIT=500
+
+getusers() {
+
+  users=$(
+    gh pr list \
+      --limit "$GH_LIST_LIMIT" \
+      --json 'title' \
+      --jq '.[] | select(.title | test("^WEEK2CHALLENGE")) | .title | split("WEEK2CHALLENGE ") | [last] | @tsv' \
+      -R https://github.com/SAP-samples/devtoberfest-2021.git \
+      && gh pr list \
+        --limit "$GH_LIST_LIMIT" \
+        --json 'title' \
+        --jq '.[] | select(.title | test("^WEEK4CHALLENGE")) | .title | split("WEEK4CHALLENGE ") | [last] | @tsv' \
+        -R https://github.com/SAP-samples/devtoberfest-2021-security-coding-challenge.git
+  )
+
+  # removes duplicates and dashesh in names
+  echo "$users" | tr -d '-' | awk '!seen[$0]++'
+
+}
+
+getscore() {
+  local user=$1
+  points=$(curl -s https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/"$user" | grep -o -E "POINTS: (.*?) LEVEL" | sed -e 's/POINTS: \(.*\) LEVEL/\1/' | tr -d ',' | tr -d '\n')
+  level=$(curl -s https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/devtoberfestContest/"$user" | grep -o -E "LEVEL: (.*?)<" | sed -e 's/LEVEL: \(.*\)</\1/' | tr -d '\n')
+
+  printf '%s\t %s\t %s' "$points" "$level" "$user"
+
+}
+
+main() {
+  while read -r title; do
+    users+="$(getscore "$title")"$'\n'
+  done <<< "$(getusers)"
+
+  printf '%s\t %s\t %s\n' "Points" "Level" "User"
+  echo "$users" | sort --key 1 --numeric-sort --field-separator '\t' --reverse
+}
+
+main "$@"
