@@ -15,17 +15,8 @@ import { useRef, useState } from 'react';
 import { createUseStyles } from 'react-jss';
 import { formatPhoneNumber, formatSingleLineAddress } from '../../utils/formatDetails';
 import ContactEditDialog from './ContactEditDialog';
-
-// TODO: Move to Redux
-const data = {
-  phoneNumber: '(815) 812-3456',
-  workNumber: '(800) 246-7890',
-  street: '744 Greenville Lane',
-  apt: 'Apt G',
-  city: 'San Francisco',
-  state: 'CA',
-  zipCode: '94100',
-};
+import { getPhoneNumber, getAddress, getWorkNumber } from '../../../common/redux/reducer';
+import { useSelector } from 'react-redux';
 
 export const ContactDetails = () => {
   const classes = useStyles();
@@ -33,20 +24,11 @@ export const ContactDetails = () => {
 
   // React state
   const [isDialogOpen, setIsDialogOpen] = useState(false);
-  // TODO: Move to Redux state
-  const [contactDetails, setContactDetails] = useState(data);
-  const phoneNumber = contactDetails.phoneNumber;
-  const workNumber = contactDetails.workNumber;
-  const address = contactDetails;
 
-  // TODO: Move to ContactEditDialog when Redux is added
-  const handleInputChange = (e) => {
-    const { name, value } = e.target;
-    setContactDetails({
-      ...contactDetails,
-      [name]: value,
-    });
-  };
+  // NOTE: This is how to use a selector
+  const phoneNumber = useSelector(getPhoneNumber);
+  const workNumber = useSelector(getWorkNumber);
+  const address = useSelector(getAddress);
 
   // opens dialog
   const handleDialogOpen = () => {
@@ -95,13 +77,7 @@ export const ContactDetails = () => {
         </FlexBox>
       </FlexBox>
       {isDialogOpen && (
-        <ContactEditDialog
-          ref={dialogRef}
-          setIsDialogOpen={setIsDialogOpen}
-          handleDialogCancel={handleDialogCancel}
-          handleInputChange={handleInputChange}
-          {...contactDetails}
-        />
+        <ContactEditDialog ref={dialogRef} setIsDialogOpen={setIsDialogOpen} handleDialogCancel={handleDialogCancel} />
       )}
     </>
   );

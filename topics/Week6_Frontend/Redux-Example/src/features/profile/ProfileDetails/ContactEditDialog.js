@@ -12,15 +12,29 @@ import { forwardRef } from 'react';
 import { createUseStyles } from 'react-jss';
 import { InputWithLabel } from '../../../common/components/InputWithLabel';
 import { formatPhoneNumber } from '../../utils/formatDetails';
+import { useDispatch, useSelector } from 'react-redux';
+import { getContactDetails, updateContactDetails } from '../../../common/redux/reducer';
+
 
 const ContactEditDialog = (props, ref) => {
   const classes = useStyles();
+  const dispatch = useDispatch();
   const { setIsDialogOpen } = props;
   const { handleDialogCancel } = props;
 
-  // TODO: Add redux here
-  const { phoneNumber, workNumber, street, apt, city, state, zipCode } = props;
-  const { handleInputChange } = props;
+  // NOTE: This is how to use a selector
+  const { phoneNumber, workNumber, street, apt, city, state, zipCode } = useSelector(getContactDetails);
+
+  const handleInputChange = (e) => {
+    const { name, value } = e.target;
+    /**
+     * NOTE: This is how a state change is written. On line 21, the dispatch
+     * function is grabbed from useDispatch. This function will take an action,
+     * with the action payload, and sent it and the current state into the
+     * reducer.
+     */
+    dispatch(updateContactDetails({ name: name, value: value }));
+  };
 
   // dialog button bar handlers
   const handleDialogClose = () => {

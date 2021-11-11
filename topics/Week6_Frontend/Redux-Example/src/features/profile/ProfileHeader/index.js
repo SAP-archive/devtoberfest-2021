@@ -1,12 +1,14 @@
 import { FlexBox, FlexBoxAlignItems, FlexBoxJustifyContent } from '@ui5/webcomponents-react';
 import { createUseStyles } from 'react-jss';
 import { formatPhoneNumber } from '../../utils/formatDetails';
+import { useSelector } from 'react-redux';
+import { getWorkNumber } from '../../../common/redux/reducer';
 
 export const ProfileHeader = () => {
   const classes = useStyles();
 
-  // TODO: Add Redux here
-  const workNumber = '(800) 246-7890';
+  // NOTE: This is how to use a selector
+  const workNumber = useSelector(getWorkNumber);
 
   return (
     <FlexBox
