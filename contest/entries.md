@@ -160,6 +160,16 @@
 * Contributors: [ag3silaus](https://github.com/ag3silaus), [dependabot[bot]](https://github.com/apps/dependabot)
 
 
+## paint_with_sap_palette: 
+[https://github.com/alekseiklimowicz/paint_with_sap_palette](https://github.com/alekseiklimowicz/paint_with_sap_palette)
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Sat, 30 Oct 2021 18:32:56 GMT, Updated At: Thu, 11 Nov 2021 14:20:53 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [alekseiklimowicz](https://github.com/alekseiklimowicz)
+* Contributors: [alekseiklimowicz](https://github.com/alekseiklimowicz)
+
+
 ## Find-my-teammates: Don&#x27;t get lost searching for that teammate who is a wizard when it comes to solving your problems. Find your teammates easily within office with just one click.
 [https://github.com/atuljha23/Find-my-teammates](https://github.com/atuljha23/Find-my-teammates)
 * Stars: 2, Forks: 0, Watchers: 1
@@ -254,7 +264,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x)
 * Stars: 1, Forks: 2, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Thu, 11 Nov 2021 20:34:14 GMT
+* Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Fri, 12 Nov 2021 11:34:39 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke)
@@ -532,8 +542,8 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
-* Stars: 402, Forks: 203, Watchers: 69
-* Open Issues: 105, Has Projects: false, Has Wiki: false
+* Stars: 402, Forks: 203, Watchers: 68
+* Open Issues: 103, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Thu, 11 Nov 2021 23:26:53 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -618,6 +628,16 @@
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [seVladimirs](https://github.com/seVladimirs)
 * Contributors: [seVladimirs](https://github.com/seVladimirs)
+
+
+## ABAP-DTP_TO_BE_PUSHED2HANA: tool to find out DTPs that can be pushed to HANA DB for execution
+[https://github.com/softy12/ABAP-DTP_TO_BE_PUSHED2HANA](https://github.com/softy12/ABAP-DTP_TO_BE_PUSHED2HANA)
+* Stars: 1, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Fri, 30 Dec 2016 22:24:08 GMT, Updated At: Sun, 27 Dec 2020 12:33:23 GMT
+* License: 
+* Owner: [softy12](https://github.com/softy12)
+* Contributors: [softy12](https://github.com/softy12)
 
 
 ## DevtoberTesting: DevtoberTestMission
