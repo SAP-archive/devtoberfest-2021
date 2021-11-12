@@ -353,7 +353,7 @@
 ## abap-rap-utilities-1909: ABAP RAP Utilities (for 1909)
 [https://github.com/jrodriguez-rc/abap-rap-utilities-1909](https://github.com/jrodriguez-rc/abap-rap-utilities-1909)
 * Stars: 0, Forks: 0, Watchers: 1
-* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Tue, 12 Oct 2021 07:38:13 GMT, Updated At: Tue, 12 Oct 2021 18:26:56 GMT
 * License: 
 * Owner: [jrodriguez-rc](https://github.com/jrodriguez-rc)
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 402, Forks: 203, Watchers: 68
-* Open Issues: 103, Has Projects: false, Has Wiki: false
+* Open Issues: 101, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Thu, 11 Nov 2021 23:26:53 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -662,8 +662,8 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 134, Forks: 57, Watchers: 20
-* Open Issues: 17, Has Projects: true, Has Wiki: true
+* Stars: 134, Forks: 58, Watchers: 20
+* Open Issues: 18, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Thu, 11 Nov 2021 14:47:26 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
