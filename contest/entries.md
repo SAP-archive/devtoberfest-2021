@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 404, Forks: 203, Watchers: 68
-* Open Issues: 99, Has Projects: false, Has Wiki: false
+* Open Issues: 100, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sun, 14 Nov 2021 17:36:19 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -552,9 +552,9 @@
 
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
-* Stars: 80, Forks: 23, Watchers: 23
+* Stars: 81, Forks: 23, Watchers: 23
 * Open Issues: 19, Has Projects: true, Has Wiki: true
-* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Sat, 13 Nov 2021 11:10:48 GMT
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Sun, 14 Nov 2021 20:03:27 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [d-sooter](https://github.com/d-sooter), [iwonahahn](https://github.com/iwonahahn), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
