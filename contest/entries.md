@@ -122,9 +122,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 151, Forks: 51, Watchers: 17
+* Stars: 150, Forks: 51, Watchers: 17
 * Open Issues: 1, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 15 Nov 2021 17:35:22 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Wed, 17 Nov 2021 12:11:19 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [petermuessig](https://github.com/petermuessig), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -552,9 +552,9 @@
 
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
-* Stars: 81, Forks: 23, Watchers: 23
+* Stars: 80, Forks: 23, Watchers: 23
 * Open Issues: 19, Has Projects: true, Has Wiki: true
-* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Sun, 14 Nov 2021 20:03:27 GMT
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 17 Nov 2021 12:11:21 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [d-sooter](https://github.com/d-sooter), [iwonahahn](https://github.com/iwonahahn), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
