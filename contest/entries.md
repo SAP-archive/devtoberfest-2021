@@ -214,7 +214,7 @@
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 3, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 16 Nov 2021 15:53:26 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 17 Nov 2021 08:01:52 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62), [ghoolio](https://github.com/ghoolio)
@@ -382,7 +382,7 @@
 
 ## UI5ComponentLoader: UI5 Component Loader
 [https://github.com/lemaiwo/UI5ComponentLoader](https://github.com/lemaiwo/UI5ComponentLoader)
-* Stars: 1, Forks: 1, Watchers: 1
+* Stars: 1, Forks: 2, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Fri, 30 Apr 2021 08:14:32 GMT, Updated At: Fri, 08 Oct 2021 02:14:05 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -553,7 +553,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 81, Forks: 23, Watchers: 23
-* Open Issues: 20, Has Projects: true, Has Wiki: true
+* Open Issues: 19, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Sun, 14 Nov 2021 20:03:27 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
