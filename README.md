@@ -8,6 +8,8 @@
 
 ## Description
 
+Devtoberfest might be over, but the fun and learning is just starting. We hope that everyone joins this week for [SAP TechEd 2021](https://reg.sapevents.sap.com/flow/sap/sapteched2021/portal/page/overview).  Also all of the content from Devtoberfest remains available for replay.  We will be performing the final points calculations on November 13th and 14th and then announcing the overall winner during the closing hour of SAP TechEd 2021. See you all there!
+
 Devtoberfest is a 6-week event, leading up to SAP TechEd. This event is to be seen as a celebration of and for Developers. Every developer is welcome to join 6 weeks of tech talks, guest speakers, community contribution through a gamified learning journey with prizes, and celebratory events.
 
 Read more about the event in [the kick-off blog post](https://blogs.sap.com/2021/09/07/devtoberfest-2021-the-developer-strikes-back/)
@@ -22,18 +24,18 @@ A list of all submitted open source projects to be part of Devtoberfest with det
 
 ## Key Dates
 
-| Date | Description |
-| ---------------- | ---------------- |
-| Oct 1 | Devtoberfest Begins! |
-| Oct 4 - 8 | [Week 1 - Welcome to Devtoberfest](topics/Week1_Welcome/README.md) |
-| Oct 11 - 15 | [Week 2 - Best Practices](topics/Week2_Best_Practices/README.md) |
-| Oct 15 | [Dogtoberfest Day](topics/Dogtoberfest/README.md) |
-| Oct 18 - 22 | [Week 3 - Cloud Native](topics/Week3_Cloud_Native/README.md) |
-| Oct 25 - 29 | [Week 4 - Security](topics/Week4_Security/README.md) |
-| Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
-| Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
-| Nov 12 | Devtoberfest Ends |
-| Nov 16 | [TechEd Begins](https://reg.sapevents.sap.com/flow/sap/sapteched2021/overview/page/content)
+| Current Week | Date | Description |
+| ---------------- | ---------------- | ---------------- |
+| | Oct 1 | Devtoberfest Begins! |
+| | Oct 4 - 8 | [Week 1 - Welcome to Devtoberfest](topics/Week1_Welcome/README.md) |
+| | Oct 11 - 15 | [Week 2 - Best Practices](topics/Week2_Best_Practices/README.md) |
+| | Oct 15 | [Dogtoberfest Day](topics/Dogtoberfest/README.md) |
+| | Oct 18 - 22 | [Week 3 - Cloud Native](topics/Week3_Cloud_Native/README.md) |
+| | Oct 25 - 29 | [Week 4 - Security](topics/Week4_Security/README.md) |
+| | Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
+| | Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
+| | Nov 12 | Devtoberfest Ends |
+| Current Week | Nov 16 | [TechEd Begins](https://reg.sapevents.sap.com/flow/sap/sapteched2021/overview/page/content)
 
 
 ## Contest (The Game)

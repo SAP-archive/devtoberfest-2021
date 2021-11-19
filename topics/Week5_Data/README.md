@@ -4,11 +4,29 @@ This topic content is for Devtoberfest Week 5: November 1 → 5, 2021.
 
 Times were never more exciting for developers working with data. Data analysts, data scientists and data engineers all have important role in building Enterprise Data Landscape of today and tomorrow using SAP technologies.
 
-Topic Owner: [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
+Topic Owner: [Vitaliy Rudnytskiy](https://people.sap.com/vitaliy.rudnytskiy)
 
 ## Presentations
 
-All sessions are 60 minutes long, including time for your questions.
+All sessions are about 60 minutes long, including time for your questions.
+
+### Demystifying Data Science in the Enterprise
+November 2nd, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211102T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
+
+Data Science has been a hot topic in the enterprise in the last decade. Thanks to advances in deep learning, the role of data scientists has expanded into new applications, namely building AI services.
+
+In this talk we describe machine learning use-cases from our team and describe our learnings and takeaways.
+
+📺 [Join us live on YouTube](https://developers.sap.com/tutorials/devtoberfest-week-5-speaker.html#4ab1d558-f4aa-49ed-95b7-f4e7bada1f93), and ask your questions!
+
+<table border=0px>
+<tr>
+<td width = 270><img src="../../images/ManuelZeise_250px_shadow.png"></td>
+<td><b>Dr. <a href="https://people.sap.com/manuel.zeise">Manuel Zeise</a></b> is a principal data scientist at the Deep Learning Center of Excellence in Walldorf. He began his career at SAP in 2013, working in Consulting and Custom Development as a data scientist, before transferring to the Deep Learning CoE in 2018.<br><br>Prior to this, Manuel earned a PhD in high energy physics from the Institut für Experimentelle Kernphysik in Karlsruhe and worked as a postdoctoral researcher.</td></tr>
+<tr><td width = 270><img src="../../images/StefanBaur_250px_shadow.png"></td>
+<td><b>Dr. <a href="https://people.sap.com/s.baur">Stefan Baur</a></b> is a senior data scientist at the Deep Learning Center of Excellence for SAP AI Business Services. He has several years of experience in developing deep learning models for SAP’s AI-powered products, including the document information extraction solution and the productization of the Generic-Line-Item-Matching model in CashApp, where he currently serves as project lead of the data science team.<br><br>Before joining SAP, Stefan obtained a PhD in theoretical condensed matter physics from Cornell University and served as a postdoctoral researcher at the University of Cambridge.</td>
+</tr>
+</table>
 
 ### The Modern Enterprise Data Landscape
 November 2nd, [17:00 CET / 09:00 MST / 21:30 IST](https://www.timeanddate.com/worldclock/converter.html?iso=20211102T160000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224&p7=197&p8=438)
@@ -23,24 +41,6 @@ Enterprise-scale data management has long been a highly complex and often frustr
 <tr>
 <td width = 270><img src="../../images/AlanSimon_250px_shade.png"></td>
 <td><b>Alan Simon</b> is the Managing Principal of Thinking Helmet, Inc. and a long-time enterprise data management consultant. He is the author of 32 technology, business, and career-oriented books dating back to 1985, including the original edition of Data Warehousing For Dummies and the just-released Data Lakes For Dummies. He previously led global and national consulting practices with several firms, and also teaches university courses in his specialty areas.<br><br>Alan lives in the Phoenix, Arizona area and is a native of Pittsburgh, Pennsylvania, USA.</td>
-</tr>
-</table>
-
-### Demystifying Data Science in the Enterprise
-November 2nd, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211102T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
-
-Data Science has been a hot topic in the enterprise in the last decade. Thanks to advances in deep learning, the role of data scientists has expanded into new applications, namely building AI services.
-
-In this talk we describe machine learning use-cases from our team and describe our learnings and takeaways.
-
-📺 [Join us live on YouTube](https://youtu.be/G4vtt_U1wjs), and ask your questions!
-
-<table border=0px>
-<tr>
-<td width = 270><img src="../../images/ManuelZeise_250px_shadow.png"></td>
-<td><b>Dr. <a href="https://people.sap.com/manuel.zeise">Manuel Zeise</a></b> is a principal data scientist at the Deep Learning Center of Excellence in Walldorf. He began his career at SAP in 2013, working in Consulting and Custom Development as a data scientist, before transferring to the Deep Learning CoE in 2018.<br><br>Prior to this, Manuel earned a PhD in high energy physics from the Institut für Experimentelle Kernphysik in Karlsruhe and worked as a postdoctoral researcher.</td></tr>
-<tr><td width = 270><img src="../../images/StefanBaur_250px_shadow.png"></td>
-<td><b>Dr. <a href="https://people.sap.com/s.baur">Stefan Baur</a></b> is a senior data scientist at the Deep Learning Center of Excellence for SAP AI Business Services. He has several years of experience in developing deep learning models for SAP’s AI-powered products, including the document information extraction solution and the productization of the Generic-Line-Item-Matching model in CashApp, where he currently serves as project lead of the data science team.<br><br>Before joining SAP, Stefan obtained a PhD in theoretical condensed matter physics from Cornell University and served as a postdoctoral researcher at the University of Cambridge.</td>
 </tr>
 </table>
 
@@ -100,27 +100,43 @@ We got recognized experts and active community members to join a panel answering
 * [Andreas Forster](https://people.sap.com/andreas.forster), Machine Learning enthusiast in SAP's global Center of Excellence
 * [Karthik Muthuswamy](https://people.sap.com/krtk), Senior Data Scientist working on Machine Learning research for developing intelligent applications for enterprise software
 
-## Tutorials
+## Tutorials & Other Points Earning Activities
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  
+* List of Data && Analytics week's Points Earning Activities published here:  [Week 5 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-5)
 
 Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
-* List of tutorials will be released as Week 5 approaches
-
 ## Coding Challenge
-Use SAP HANA for some fun geospatial exploration!
 
-Please, stay tuned for details.
+Use SAP HANA for some fun geospatial exploration while solving the coding challenge [using SAP HANA multi-model capabilities](https://developers.sap.com/tutorials/devtoberfest-week-5-codingchallenge.html#7cb08de7-399e-4a37-a9be-e181c18e9dee) and get some Devtoberfest points for providing correct answers!
+
+Optionally, consider putting your geospatial skills to use in the separate [30 Day Map Challenge](https://github.com/tjukanovt/30DayMapChallenge) 🌏🌍🌎
 
 ## Fun Friday Activity
 
 ### Let's talk **Coding for Kids**!
-November 5th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240) and [16:00 CET / 08:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224) (___tbc___)
 
 Did you know that SAP makes its own visual programming language for Computing Education? Let us tell (and show) you all about it: [Snap! Build Your Own Blocks](https://snap.berkeley.edu/) is the programming language kids in Silicon Valley learn in high school and college students at UC Berkeley use to explore the Beauty and Joy of Computing. We'll take you on an exclusive backstage tour of our R&D lab.
 
-📺 Join us live on YouTube, and get involved in the conversation!
+### Snap! Designing a Programming Language for All Children
+
+November 5th, [10:00 CET / 14:30 IST / 17:00 SGT](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T090000&p1=136&p2=83&p3=367&p4=438&p5=236&p6=248&p7=240)
+
+Snap! is an interactive, massively parallel visual programming language implemented inside its own multi-threaded graphical user interface framework. It is a free and open-source software project deployed in web browsers and is used in educational institutions and  "out in the wild" around the globe.
+
+We develop Snap! at SAP in collaboration with researchers at UC Berkeley. Join us for a virtual tour of our "Lab" and learn about our design principles, architecture and pedagogical mission.
+
+📺 [Join us live on YouTube](https://developers.sap.com/tutorials/devtoberfest-week-5-fun-friday.html#363116a7-849e-4701-bb6a-79b5068875d7), and get involved!
+
+### Snap! Programming Beauty and Joy
+
+November 5th, [16:00 CET / 08:00 PST](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T150000&p1=83&p2=45&p3=179&p4=64&p5=155&p6=224)
+
+Snap! is the programming language that has been developed for UC Berkeley's "Beauty and Joy of Computing" course. It highlights powerful ideas in computing by encouraging learners to create visually appealing and mathematically elegant artifacts.
+
+In this session we'll show you all about Snap! and invite you to explore classical algorithmic art through recoding and remixing.
+
+📺 [Join us live on YouTube](https://developers.sap.com/tutorials/devtoberfest-week-5-fun-friday.html#caa82262-28af-48c1-b58e-aa57f1bfeba3), and get involved!
 
 <table border=0px>
 <tr><td width = 270><img src="../../images/JensMoenig_250px_shade.png"></td>
@@ -132,5 +148,3 @@ Did you know that SAP makes its own visual programming language for Computing Ed
 <td>
 Originally a biologist, <b><a href="https://people.sap.com/jadga.huegle">Jadga Hügle</a></b> discovered her interest in computer science while building a small connected greenhouse.<br><br>Since then, she has become a Snap! enthusiast and is eager to share her excitement with everyone. Jadga currently works for SAP’s Snap! team.</td></tr>
 </table>
-
-Please, stay tuned for more details.
