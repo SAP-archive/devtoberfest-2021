@@ -553,7 +553,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 80, Forks: 23, Watchers: 23
-* Open Issues: 15, Has Projects: true, Has Wiki: true
+* Open Issues: 16, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Thu, 18 Nov 2021 09:51:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -603,7 +603,7 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 3, Forks: 1, Watchers: 2
-* Open Issues: 20, Has Projects: true, Has Wiki: false
+* Open Issues: 21, Has Projects: true, Has Wiki: false
 * Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Wed, 10 Nov 2021 15:06:37 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
