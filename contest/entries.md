@@ -213,7 +213,7 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 3, Watchers: 2
-* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Thu, 18 Nov 2021 12:23:41 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
@@ -454,7 +454,7 @@
 [https://github.com/pawelwiejkut/bw_trfn_tester](https://github.com/pawelwiejkut/bw_trfn_tester)
 * Stars: 2, Forks: 3, Watchers: 1
 * Open Issues: 4, Has Projects: true, Has Wiki: true
-* Created At: Mon, 15 Mar 2021 14:38:42 GMT, Updated At: Fri, 08 Oct 2021 19:52:17 GMT
+* Created At: Mon, 15 Mar 2021 14:38:42 GMT, Updated At: Sat, 20 Nov 2021 15:03:15 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [pawelwiejkut](https://github.com/pawelwiejkut)
 * Contributors: [pawelwiejkut](https://github.com/pawelwiejkut)
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 407, Forks: 205, Watchers: 68
-* Open Issues: 103, Has Projects: false, Has Wiki: false
+* Open Issues: 104, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Fri, 19 Nov 2021 03:06:57 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
