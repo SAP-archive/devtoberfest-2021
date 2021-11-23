@@ -124,7 +124,7 @@
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
 * Stars: 150, Forks: 52, Watchers: 17
 * Open Issues: 2, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Tue, 23 Nov 2021 11:59:06 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Tue, 23 Nov 2021 16:26:11 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [petermuessig](https://github.com/petermuessig), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -553,7 +553,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 80, Forks: 23, Watchers: 23
-* Open Issues: 19, Has Projects: true, Has Wiki: true
+* Open Issues: 18, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Thu, 18 Nov 2021 09:51:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
