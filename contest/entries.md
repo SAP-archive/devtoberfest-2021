@@ -592,9 +592,9 @@
 
 ## mockup_loader: ABAP unit testing framework, prepare in Excel, reuse in abap code
 [https://github.com/sbcgua/mockup_loader](https://github.com/sbcgua/mockup_loader)
-* Stars: 44, Forks: 15, Watchers: 12
+* Stars: 45, Forks: 15, Watchers: 12
 * Open Issues: 11, Has Projects: true, Has Wiki: true
-* Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Fri, 22 Oct 2021 08:51:32 GMT
+* Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Wed, 24 Nov 2021 11:18:41 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [larshp](https://github.com/larshp), [swixfort](https://github.com/swixfort), [a-fas](https://github.com/a-fas), [germanysources](https://github.com/germanysources)
