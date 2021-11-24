@@ -492,7 +492,7 @@
 
 ## ui5-i18n-manage: A command line tool created using Node.js to find the diff between two i18n files or merge the changes to one
 [https://github.com/preetamkajalrout/ui5-i18n-manage](https://github.com/preetamkajalrout/ui5-i18n-manage)
-* Stars: 0, Forks: 0, Watchers: 1
+* Stars: 0, Forks: 0, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Wed, 17 May 2017 11:29:57 GMT, Updated At: Wed, 17 May 2017 12:31:59 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -502,7 +502,7 @@
 
 ## ui5-middleware-destination: Custom Server middleware to work with neo-app.json and proxy
 [https://github.com/preetamkajalrout/ui5-middleware-destination](https://github.com/preetamkajalrout/ui5-middleware-destination)
-* Stars: 0, Forks: 0, Watchers: 1
+* Stars: 0, Forks: 0, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Sun, 22 Sep 2019 16:52:02 GMT, Updated At: Tue, 21 Jul 2020 10:07:11 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
