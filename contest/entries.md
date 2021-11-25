@@ -124,7 +124,7 @@
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
 * Stars: 150, Forks: 52, Watchers: 17
 * Open Issues: 3, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Wed, 24 Nov 2021 16:09:32 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Thu, 25 Nov 2021 08:36:53 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [petermuessig](https://github.com/petermuessig), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -674,7 +674,7 @@
 [https://github.com/wozjac/vscode-ui5-api-reference](https://github.com/wozjac/vscode-ui5-api-reference)
 * Stars: 4, Forks: 1, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Sat, 05 Jun 2021 22:29:39 GMT, Updated At: Mon, 11 Oct 2021 16:37:06 GMT
+* Created At: Sat, 05 Jun 2021 22:29:39 GMT, Updated At: Thu, 25 Nov 2021 08:13:15 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [wozjac](https://github.com/wozjac)
 * Contributors: [wozjac](https://github.com/wozjac), [uxkjaer](https://github.com/uxkjaer)
@@ -684,7 +684,7 @@
 [https://github.com/wozjac/vscode-ui5-odata-mock-generator](https://github.com/wozjac/vscode-ui5-odata-mock-generator)
 * Stars: 2, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Sat, 29 May 2021 17:24:50 GMT, Updated At: Wed, 03 Nov 2021 11:43:35 GMT
+* Created At: Sat, 29 May 2021 17:24:50 GMT, Updated At: Thu, 25 Nov 2021 08:17:51 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [wozjac](https://github.com/wozjac)
 * Contributors: [wozjac](https://github.com/wozjac)
