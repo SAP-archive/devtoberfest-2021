@@ -372,9 +372,9 @@
 
 ## codemirror-abap: ABAP mode for CodeMirror
 [https://github.com/larshp/codemirror-abap](https://github.com/larshp/codemirror-abap)
-* Stars: 7, Forks: 5, Watchers: 5
+* Stars: 8, Forks: 5, Watchers: 5
 * Open Issues: 3, Has Projects: false, Has Wiki: false
-* Created At: Sat, 12 Mar 2016 11:25:00 GMT, Updated At: Thu, 25 Nov 2021 15:34:08 GMT
+* Created At: Sat, 12 Mar 2016 11:25:00 GMT, Updated At: Thu, 25 Nov 2021 18:21:11 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
 * Contributors: [laudep](https://github.com/laudep), [larshp](https://github.com/larshp), [dependabot[bot]](https://github.com/apps/dependabot)
