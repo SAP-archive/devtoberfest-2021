@@ -132,7 +132,7 @@
 
 ## 10-SAPUI5-Projects: 10-SAPUI5-Projects
 [https://github.com/Technology-Enthusiast/10-SAPUI5-Projects](https://github.com/Technology-Enthusiast/10-SAPUI5-Projects)
-* Stars: 12, Forks: 11, Watchers: 2
+* Stars: 12, Forks: 12, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Sun, 31 Oct 2021 14:48:26 GMT
 * License: 
@@ -362,9 +362,9 @@
 
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
-* Stars: 25, Forks: 7, Watchers: 5
+* Stars: 26, Forks: 7, Watchers: 5
 * Open Issues: 12, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Fri, 19 Nov 2021 19:02:42 GMT
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 29 Nov 2021 12:18:21 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
 * Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [BeastiW](https://github.com/BeastiW), [skarolus-rc](https://github.com/skarolus-rc)
@@ -524,7 +524,7 @@
 [https://github.com/reyemsaibot/scf](https://github.com/reyemsaibot/scf)
 * Stars: 5, Forks: 3, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Mon, 29 Nov 2021 08:21:30 GMT
+* Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Mon, 29 Nov 2021 13:01:45 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [reyemsaibot](https://github.com/reyemsaibot)
 * Contributors: [reyemsaibot](https://github.com/reyemsaibot)
@@ -543,11 +543,11 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 408, Forks: 205, Watchers: 68
-* Open Issues: 99, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sun, 28 Nov 2021 19:25:38 GMT
+* Open Issues: 97, Has Projects: false, Has Wiki: false
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Mon, 29 Nov 2021 13:40:26 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
-* Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [fidley](https://github.com/fidley), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [sandraros](https://github.com/sandraros), [tmackowski](https://github.com/tmackowski), [Gh14Cc10](https://github.com/Gh14Cc10), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [pokrakam](https://github.com/pokrakam), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [AntonSikidin](https://github.com/AntonSikidin), [bitdeli-chef](https://github.com/bitdeli-chef), [christianguenter2](https://github.com/christianguenter2), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [RedWolf112](https://github.com/RedWolf112), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
+* Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [fidley](https://github.com/fidley), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [StefanSchmoecker](https://github.com/StefanSchmoecker), [sandraros](https://github.com/sandraros), [AtomKrieg](https://github.com/AtomKrieg), [tmackowski](https://github.com/tmackowski), [Gh14Cc10](https://github.com/Gh14Cc10), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [pokrakam](https://github.com/pokrakam), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [AntonSikidin](https://github.com/AntonSikidin), [bitdeli-chef](https://github.com/bitdeli-chef), [christianguenter2](https://github.com/christianguenter2), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [RedWolf112](https://github.com/RedWolf112), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
 
 
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
