@@ -124,7 +124,7 @@
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
 * Stars: 150, Forks: 52, Watchers: 17
 * Open Issues: 3, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Thu, 25 Nov 2021 08:36:53 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 29 Nov 2021 11:54:27 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [petermuessig](https://github.com/petermuessig), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -522,9 +522,9 @@
 
 ## scf: You are looking for a specific code snippet in your ABAP code. Then use the Source Code Finder to search for every occurrence of it.
 [https://github.com/reyemsaibot/scf](https://github.com/reyemsaibot/scf)
-* Stars: 4, Forks: 3, Watchers: 2
+* Stars: 5, Forks: 3, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Fri, 26 Nov 2021 08:13:06 GMT
+* Created At: Mon, 14 Oct 2019 09:04:09 GMT, Updated At: Mon, 29 Nov 2021 08:21:30 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [reyemsaibot](https://github.com/reyemsaibot)
 * Contributors: [reyemsaibot](https://github.com/reyemsaibot)
@@ -603,7 +603,7 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 3, Forks: 1, Watchers: 2
-* Open Issues: 23, Has Projects: true, Has Wiki: false
+* Open Issues: 20, Has Projects: true, Has Wiki: false
 * Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Fri, 26 Nov 2021 07:48:29 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 134, Forks: 59, Watchers: 20
-* Open Issues: 18, Has Projects: true, Has Wiki: true
+* Open Issues: 19, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Sun, 28 Nov 2021 20:40:34 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
