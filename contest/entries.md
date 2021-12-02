@@ -472,8 +472,8 @@
 
 ## ui5-nwabap-deployer: UI5 Deployer for SAP NetWeaver ABAP
 [https://github.com/pfefferf/ui5-nwabap-deployer](https://github.com/pfefferf/ui5-nwabap-deployer)
-* Stars: 51, Forks: 15, Watchers: 5
-* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Stars: 51, Forks: 16, Watchers: 5
+* Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Fri, 01 Nov 2019 07:42:44 GMT, Updated At: Wed, 20 Oct 2021 13:13:35 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [pfefferf](https://github.com/pfefferf)
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 410, Forks: 205, Watchers: 68
-* Open Issues: 89, Has Projects: false, Has Wiki: false
+* Open Issues: 91, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 01 Dec 2021 23:08:24 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -603,8 +603,8 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 3, Forks: 1, Watchers: 2
-* Open Issues: 22, Has Projects: true, Has Wiki: false
-* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Fri, 26 Nov 2021 07:48:29 GMT
+* Open Issues: 21, Has Projects: true, Has Wiki: false
+* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Thu, 02 Dec 2021 14:03:30 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
 * Contributors: [schmelto](https://github.com/schmelto), [krishguptadev](https://github.com/krishguptadev)
@@ -662,7 +662,7 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 134, Forks: 59, Watchers: 20
+* Stars: 134, Forks: 60, Watchers: 20
 * Open Issues: 19, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Sun, 28 Nov 2021 20:40:34 GMT
 * License: Other
