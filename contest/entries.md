@@ -123,7 +123,7 @@
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
 * Stars: 150, Forks: 52, Watchers: 17
-* Open Issues: 3, Has Projects: false, Has Wiki: false
+* Open Issues: 4, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 29 Nov 2021 11:54:27 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
@@ -364,7 +364,7 @@
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 26, Forks: 7, Watchers: 5
 * Open Issues: 12, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 29 Nov 2021 12:18:21 GMT
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Thu, 02 Dec 2021 10:56:21 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
 * Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [BeastiW](https://github.com/BeastiW), [skarolus-rc](https://github.com/skarolus-rc)
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 410, Forks: 205, Watchers: 68
-* Open Issues: 90, Has Projects: false, Has Wiki: false
+* Open Issues: 89, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 01 Dec 2021 23:08:24 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -603,7 +603,7 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 3, Forks: 1, Watchers: 2
-* Open Issues: 21, Has Projects: true, Has Wiki: false
+* Open Issues: 22, Has Projects: true, Has Wiki: false
 * Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Fri, 26 Nov 2021 07:48:29 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
