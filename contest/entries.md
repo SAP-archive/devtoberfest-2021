@@ -473,7 +473,7 @@
 ## ui5-nwabap-deployer: UI5 Deployer for SAP NetWeaver ABAP
 [https://github.com/pfefferf/ui5-nwabap-deployer](https://github.com/pfefferf/ui5-nwabap-deployer)
 * Stars: 51, Forks: 15, Watchers: 5
-* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Fri, 01 Nov 2019 07:42:44 GMT, Updated At: Wed, 20 Oct 2021 13:13:35 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [pfefferf](https://github.com/pfefferf)
@@ -543,8 +543,8 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 410, Forks: 205, Watchers: 68
-* Open Issues: 97, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 01 Dec 2021 09:47:40 GMT
+* Open Issues: 90, Has Projects: false, Has Wiki: false
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 01 Dec 2021 23:08:24 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [fidley](https://github.com/fidley), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [StefanSchmoecker](https://github.com/StefanSchmoecker), [sandraros](https://github.com/sandraros), [AtomKrieg](https://github.com/AtomKrieg), [tmackowski](https://github.com/tmackowski), [Gh14Cc10](https://github.com/Gh14Cc10), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [pokrakam](https://github.com/pokrakam), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [AntonSikidin](https://github.com/AntonSikidin), [bitdeli-chef](https://github.com/bitdeli-chef), [christianguenter2](https://github.com/christianguenter2), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [RedWolf112](https://github.com/RedWolf112), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
@@ -573,8 +573,8 @@
 ## abap-package-version-shield: shield.io lambda to detect version of abap package, serialized by abapGit
 [https://github.com/sbcgua/abap-package-version-shield](https://github.com/sbcgua/abap-package-version-shield)
 * Stars: 5, Forks: 3, Watchers: 2
-* Open Issues: 5, Has Projects: true, Has Wiki: true
-* Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Mon, 01 Nov 2021 06:49:16 GMT
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Wed, 01 Dec 2021 18:13:39 GMT
 * License: 
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [dependabot[bot]](https://github.com/apps/dependabot), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [snyk-bot](https://github.com/snyk-bot)
