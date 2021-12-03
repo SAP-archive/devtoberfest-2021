@@ -202,9 +202,9 @@
 
 ## PAO-head-first: Practicing ABAP Objects: Head First Design Patterns
 [https://github.com/brehberg/PAO-head-first](https://github.com/brehberg/PAO-head-first)
-* Stars: 2, Forks: 5, Watchers: 1
+* Stars: 3, Forks: 5, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Mon, 22 Jan 2018 17:08:40 GMT, Updated At: Thu, 07 Oct 2021 06:48:02 GMT
+* Created At: Mon, 22 Jan 2018 17:08:40 GMT, Updated At: Fri, 03 Dec 2021 15:25:03 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [brehberg](https://github.com/brehberg)
 * Contributors: [brehberg](https://github.com/brehberg)
@@ -543,8 +543,8 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 410, Forks: 205, Watchers: 68
-* Open Issues: 88, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Fri, 03 Dec 2021 11:21:56 GMT
+* Open Issues: 87, Has Projects: false, Has Wiki: false
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Fri, 03 Dec 2021 14:25:21 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [fidley](https://github.com/fidley), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [sandraros](https://github.com/sandraros), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [tmackowski](https://github.com/tmackowski), [Gh14Cc10](https://github.com/Gh14Cc10), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [pokrakam](https://github.com/pokrakam), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [AntonSikidin](https://github.com/AntonSikidin), [bitdeli-chef](https://github.com/bitdeli-chef), [christianguenter2](https://github.com/christianguenter2), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [RedWolf112](https://github.com/RedWolf112), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
@@ -552,7 +552,7 @@
 
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
-* Stars: 80, Forks: 24, Watchers: 23
+* Stars: 80, Forks: 25, Watchers: 23
 * Open Issues: 19, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Thu, 18 Nov 2021 09:51:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -583,8 +583,8 @@
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
 * Stars: 18, Forks: 7, Watchers: 3
-* Open Issues: 13, Has Projects: true, Has Wiki: true
-* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Tue, 12 Oct 2021 09:48:12 GMT
+* Open Issues: 14, Has Projects: true, Has Wiki: true
+* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Fri, 03 Dec 2021 15:13:53 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mbtools](https://github.com/mbtools), [larshp](https://github.com/larshp)
