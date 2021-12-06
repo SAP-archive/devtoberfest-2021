@@ -122,7 +122,7 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 150, Forks: 52, Watchers: 17
+* Stars: 150, Forks: 53, Watchers: 17
 * Open Issues: 4, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 29 Nov 2021 11:54:27 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 134, Forks: 60, Watchers: 20
-* Open Issues: 20, Has Projects: true, Has Wiki: true
+* Open Issues: 21, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Sun, 28 Nov 2021 20:40:34 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
