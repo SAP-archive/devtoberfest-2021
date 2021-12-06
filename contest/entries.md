@@ -32,9 +32,9 @@
 
 ## easyHtmlEmail: Easy to Generate &amp; Maintain Email in SAP (ABAP + HTML/CSS)
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
-* Stars: 8, Forks: 0, Watchers: 2
+* Stars: 9, Forks: 0, Watchers: 3
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Tue, 12 Oct 2021 10:30:59 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Mon, 06 Dec 2021 12:44:38 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -122,9 +122,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 150, Forks: 53, Watchers: 17
+* Stars: 151, Forks: 53, Watchers: 17
 * Open Issues: 4, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 29 Nov 2021 11:54:27 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 06 Dec 2021 12:46:29 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [petermuessig](https://github.com/petermuessig), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 410, Forks: 205, Watchers: 68
-* Open Issues: 88, Has Projects: false, Has Wiki: false
+* Open Issues: 89, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 04 Dec 2021 11:14:06 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -584,7 +584,7 @@
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
 * Stars: 18, Forks: 7, Watchers: 3
 * Open Issues: 15, Has Projects: true, Has Wiki: true
-* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Fri, 03 Dec 2021 15:13:53 GMT
+* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Mon, 06 Dec 2021 16:28:21 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mbtools](https://github.com/mbtools), [larshp](https://github.com/larshp)
@@ -603,7 +603,7 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 3, Forks: 1, Watchers: 2
-* Open Issues: 21, Has Projects: true, Has Wiki: false
+* Open Issues: 22, Has Projects: true, Has Wiki: false
 * Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Thu, 02 Dec 2021 14:03:30 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
