@@ -362,9 +362,9 @@
 
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
-* Stars: 26, Forks: 7, Watchers: 5
+* Stars: 27, Forks: 7, Watchers: 5
 * Open Issues: 14, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Thu, 02 Dec 2021 10:56:21 GMT
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Tue, 07 Dec 2021 00:33:33 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
 * Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [BeastiW](https://github.com/BeastiW), [skarolus-rc](https://github.com/skarolus-rc)
@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 134, Forks: 60, Watchers: 20
-* Open Issues: 21, Has Projects: true, Has Wiki: true
+* Open Issues: 22, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Sun, 28 Nov 2021 20:40:34 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
