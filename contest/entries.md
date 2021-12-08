@@ -214,7 +214,7 @@
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 3, Watchers: 2
 * Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 08 Dec 2021 10:49:00 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 08 Dec 2021 12:26:24 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62), [ghoolio](https://github.com/ghoolio)
@@ -362,7 +362,7 @@
 
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
-* Stars: 27, Forks: 7, Watchers: 5
+* Stars: 27, Forks: 8, Watchers: 5
 * Open Issues: 14, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Tue, 07 Dec 2021 00:33:33 GMT
 * License: Other
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
 * Stars: 413, Forks: 207, Watchers: 67
-* Open Issues: 90, Has Projects: false, Has Wiki: false
+* Open Issues: 91, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 08 Dec 2021 11:10:11 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -583,7 +583,7 @@
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
 * Stars: 18, Forks: 7, Watchers: 3
-* Open Issues: 15, Has Projects: true, Has Wiki: true
+* Open Issues: 16, Has Projects: true, Has Wiki: true
 * Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Tue, 07 Dec 2021 17:51:25 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
