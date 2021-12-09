@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 27, Forks: 8, Watchers: 5
-* Open Issues: 14, Has Projects: true, Has Wiki: true
+* Open Issues: 15, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Tue, 07 Dec 2021 00:33:33 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
@@ -542,7 +542,7 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/sapmentors/abap2xlsx](https://github.com/sapmentors/abap2xlsx)
-* Stars: 413, Forks: 207, Watchers: 67
+* Stars: 413, Forks: 207, Watchers: 68
 * Open Issues: 91, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 08 Dec 2021 11:10:11 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -553,11 +553,11 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 80, Forks: 25, Watchers: 23
-* Open Issues: 21, Has Projects: true, Has Wiki: true
-* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Thu, 18 Nov 2021 09:51:50 GMT
+* Open Issues: 20, Has Projects: true, Has Wiki: true
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 08 Dec 2021 21:28:44 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
-* Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [d-sooter](https://github.com/d-sooter), [iwonahahn](https://github.com/iwonahahn), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
+* Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [d-sooter](https://github.com/d-sooter), [iwonahahn](https://github.com/iwonahahn), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [rbhuva](https://github.com/rbhuva), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
 
 
 ## mta-visual-dep: 
