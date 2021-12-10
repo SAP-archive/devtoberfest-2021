@@ -34,7 +34,7 @@
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
 * Stars: 9, Forks: 0, Watchers: 3
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Mon, 06 Dec 2021 12:44:38 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Fri, 10 Dec 2021 06:54:28 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
