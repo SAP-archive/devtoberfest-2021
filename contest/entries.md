@@ -122,9 +122,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 151, Forks: 53, Watchers: 18
+* Stars: 152, Forks: 53, Watchers: 18
 * Open Issues: 3, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Tue, 07 Dec 2021 14:56:37 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 13 Dec 2021 09:53:37 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [petermuessig](https://github.com/petermuessig), [vobu](https://github.com/vobu), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -592,9 +592,9 @@
 
 ## mockup_loader: ABAP unit testing framework, prepare in Excel, reuse in abap code
 [https://github.com/sbcgua/mockup_loader](https://github.com/sbcgua/mockup_loader)
-* Stars: 45, Forks: 15, Watchers: 12
+* Stars: 44, Forks: 15, Watchers: 12
 * Open Issues: 11, Has Projects: true, Has Wiki: true
-* Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Wed, 24 Nov 2021 11:18:41 GMT
+* Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Mon, 13 Dec 2021 11:57:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [larshp](https://github.com/larshp), [swixfort](https://github.com/swixfort), [a-fas](https://github.com/a-fas), [germanysources](https://github.com/germanysources)
