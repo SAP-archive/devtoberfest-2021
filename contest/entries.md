@@ -122,7 +122,7 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 152, Forks: 53, Watchers: 18
+* Stars: 152, Forks: 54, Watchers: 18
 * Open Issues: 3, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 13 Dec 2021 09:53:37 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
 * Stars: 420, Forks: 209, Watchers: 69
-* Open Issues: 89, Has Projects: false, Has Wiki: false
+* Open Issues: 90, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Mon, 13 Dec 2021 05:11:20 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
