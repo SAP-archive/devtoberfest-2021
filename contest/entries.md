@@ -214,7 +214,7 @@
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 3, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 14 Dec 2021 11:09:54 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 15 Dec 2021 14:55:28 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62), [ghoolio](https://github.com/ghoolio)
@@ -363,11 +363,11 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 27, Forks: 8, Watchers: 5
-* Open Issues: 15, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Tue, 07 Dec 2021 00:33:33 GMT
+* Open Issues: 14, Has Projects: true, Has Wiki: true
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 15 Dec 2021 13:45:47 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
-* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [BeastiW](https://github.com/BeastiW), [skarolus-rc](https://github.com/skarolus-rc)
+* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [ArnaudBuchholz](https://github.com/ArnaudBuchholz), [BeastiW](https://github.com/BeastiW), [skarolus-rc](https://github.com/skarolus-rc)
 
 
 ## codemirror-abap: ABAP mode for CodeMirror
