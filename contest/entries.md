@@ -212,9 +212,9 @@
 
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
-* Stars: 2, Forks: 3, Watchers: 2
+* Stars: 2, Forks: 4, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 15 Dec 2021 14:55:28 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Thu, 16 Dec 2021 16:39:22 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62), [ghoolio](https://github.com/ghoolio)
@@ -402,9 +402,9 @@
 
 ## ztoad: 
 [https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
-* Stars: 1, Forks: 4, Watchers: 0
+* Stars: 2, Forks: 4, Watchers: 0
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Tue, 30 Nov 2021 06:29:06 GMT
+* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Thu, 16 Dec 2021 15:20:24 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [marianfoo](https://github.com/marianfoo)
 * Contributors: [marianfoo](https://github.com/marianfoo)
@@ -583,7 +583,7 @@
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
 * Stars: 18, Forks: 7, Watchers: 3
-* Open Issues: 16, Has Projects: true, Has Wiki: true
+* Open Issues: 15, Has Projects: true, Has Wiki: true
 * Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Tue, 07 Dec 2021 17:51:25 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
@@ -614,7 +614,7 @@
 [https://github.com/se38/abapMQDaemons](https://github.com/se38/abapMQDaemons)
 * Stars: 5, Forks: 1, Watchers: 2
 * Open Issues: 6, Has Projects: true, Has Wiki: true
-* Created At: Fri, 29 Jan 2021 08:22:40 GMT, Updated At: Mon, 08 Nov 2021 10:09:39 GMT
+* Created At: Fri, 29 Jan 2021 08:22:40 GMT, Updated At: Thu, 16 Dec 2021 13:21:25 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [se38](https://github.com/se38)
 * Contributors: [se38](https://github.com/se38)
