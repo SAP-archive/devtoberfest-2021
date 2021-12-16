@@ -363,8 +363,8 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 27, Forks: 8, Watchers: 5
-* Open Issues: 14, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 15 Dec 2021 13:45:47 GMT
+* Open Issues: 13, Has Projects: true, Has Wiki: true
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 15 Dec 2021 19:58:26 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
 * Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [ArnaudBuchholz](https://github.com/ArnaudBuchholz), [BeastiW](https://github.com/BeastiW), [skarolus-rc](https://github.com/skarolus-rc)
