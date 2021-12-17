@@ -202,9 +202,9 @@
 
 ## PAO-head-first: Practicing ABAP Objects: Head First Design Patterns
 [https://github.com/brehberg/PAO-head-first](https://github.com/brehberg/PAO-head-first)
-* Stars: 3, Forks: 5, Watchers: 1
+* Stars: 4, Forks: 6, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Mon, 22 Jan 2018 17:08:40 GMT, Updated At: Fri, 03 Dec 2021 15:25:03 GMT
+* Created At: Mon, 22 Jan 2018 17:08:40 GMT, Updated At: Fri, 17 Dec 2021 12:58:03 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [brehberg](https://github.com/brehberg)
 * Contributors: [brehberg](https://github.com/brehberg)
@@ -213,7 +213,7 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 4, Watchers: 2
-* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Fri, 17 Dec 2021 09:08:55 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
