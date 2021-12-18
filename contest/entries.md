@@ -213,8 +213,8 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 4, Watchers: 2
-* Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Fri, 17 Dec 2021 09:08:55 GMT
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Fri, 17 Dec 2021 19:00:00 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62), [ghoolio](https://github.com/ghoolio)
@@ -442,7 +442,7 @@
 
 ## vscode-cds-csv-generator: SAP CAP CDS CSV Generator VS Code Extension
 [https://github.com/ozgurkadir/vscode-cds-csv-generator](https://github.com/ozgurkadir/vscode-cds-csv-generator)
-* Stars: 2, Forks: 1, Watchers: 2
+* Stars: 2, Forks: 1, Watchers: 1
 * Open Issues: 7, Has Projects: true, Has Wiki: true
 * Created At: Sat, 06 Mar 2021 20:27:54 GMT, Updated At: Mon, 19 Jul 2021 01:00:29 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
