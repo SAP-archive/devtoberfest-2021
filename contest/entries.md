@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
 * Stars: 420, Forks: 209, Watchers: 69
-* Open Issues: 90, Has Projects: false, Has Wiki: false
+* Open Issues: 92, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 18 Dec 2021 19:20:40 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
@@ -582,9 +582,9 @@
 
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
-* Stars: 18, Forks: 7, Watchers: 3
+* Stars: 19, Forks: 7, Watchers: 3
 * Open Issues: 15, Has Projects: true, Has Wiki: true
-* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Tue, 07 Dec 2021 17:51:25 GMT
+* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Mon, 20 Dec 2021 14:34:16 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mbtools](https://github.com/mbtools), [larshp](https://github.com/larshp)
@@ -662,8 +662,8 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 134, Forks: 60, Watchers: 20
-* Open Issues: 22, Has Projects: true, Has Wiki: true
+* Stars: 134, Forks: 60, Watchers: 19
+* Open Issues: 21, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Sun, 28 Nov 2021 20:40:34 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
