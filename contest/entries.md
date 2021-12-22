@@ -254,7 +254,7 @@
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x)
 * Stars: 1, Forks: 1, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Sat, 04 Dec 2021 12:35:31 GMT
+* Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Wed, 22 Dec 2021 10:12:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [draschke](https://github.com/draschke)
 * Contributors: [draschke](https://github.com/draschke), [diraschk](https://github.com/diraschk)
@@ -364,7 +364,7 @@
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 28, Forks: 8, Watchers: 5
 * Open Issues: 13, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sat, 18 Dec 2021 20:46:56 GMT
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 22 Dec 2021 10:45:40 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
 * Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [ArnaudBuchholz](https://github.com/ArnaudBuchholz), [BeastiW](https://github.com/BeastiW), [skarolus-rc](https://github.com/skarolus-rc)
