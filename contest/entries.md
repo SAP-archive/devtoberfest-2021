@@ -213,8 +213,8 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 2, Forks: 4, Watchers: 2
-* Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Tue, 21 Dec 2021 14:46:12 GMT
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Thu, 23 Dec 2021 08:11:57 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62), [ghoolio](https://github.com/ghoolio)
