@@ -542,9 +542,9 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 423, Forks: 210, Watchers: 69
+* Stars: 424, Forks: 210, Watchers: 69
 * Open Issues: 88, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 25 Dec 2021 20:22:53 GMT
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sun, 26 Dec 2021 01:38:13 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
 * Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [sandraros](https://github.com/sandraros), [fidley](https://github.com/fidley), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [tmackowski](https://github.com/tmackowski), [Gh14Cc10](https://github.com/Gh14Cc10), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [christianguenter2](https://github.com/christianguenter2), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [pokrakam](https://github.com/pokrakam), [RedWolf112](https://github.com/RedWolf112), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [AntonSikidin](https://github.com/AntonSikidin), [bitdeli-chef](https://github.com/bitdeli-chef), [chrisaasan](https://github.com/chrisaasan), [stevecp](https://github.com/stevecp), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
@@ -582,9 +582,9 @@
 
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
-* Stars: 19, Forks: 7, Watchers: 3
+* Stars: 20, Forks: 7, Watchers: 3
 * Open Issues: 14, Has Projects: true, Has Wiki: true
-* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Fri, 24 Dec 2021 11:46:27 GMT
+* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Sun, 26 Dec 2021 01:38:23 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mbtools](https://github.com/mbtools), [larshp](https://github.com/larshp), [albertmink](https://github.com/albertmink)
