@@ -132,7 +132,7 @@
 
 ## 10-SAPUI5-Projects: 10-SAPUI5-Projects
 [https://github.com/Technology-Enthusiast/10-SAPUI5-Projects](https://github.com/Technology-Enthusiast/10-SAPUI5-Projects)
-* Stars: 12, Forks: 11, Watchers: 2
+* Stars: 12, Forks: 12, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Sun, 31 Oct 2021 14:48:26 GMT
 * License: 
@@ -553,8 +553,8 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 81, Forks: 26, Watchers: 23
-* Open Issues: 21, Has Projects: true, Has Wiki: true
-* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Fri, 17 Dec 2021 06:04:26 GMT
+* Open Issues: 20, Has Projects: true, Has Wiki: true
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Mon, 27 Dec 2021 10:04:45 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [d-sooter](https://github.com/d-sooter), [iwonahahn](https://github.com/iwonahahn), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [rbhuva](https://github.com/rbhuva), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
@@ -583,8 +583,8 @@
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
 * Stars: 20, Forks: 7, Watchers: 3
-* Open Issues: 14, Has Projects: true, Has Wiki: true
-* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Sun, 26 Dec 2021 01:38:23 GMT
+* Open Issues: 13, Has Projects: true, Has Wiki: true
+* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Mon, 27 Dec 2021 08:20:32 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mbtools](https://github.com/mbtools), [larshp](https://github.com/larshp), [albertmink](https://github.com/albertmink)
@@ -672,7 +672,7 @@
 
 ## vscode-ui5-api-reference: VSCode extension: SAPUI5/OpenUI5 Reference documentation in a side bar view
 [https://github.com/wozjac/vscode-ui5-api-reference](https://github.com/wozjac/vscode-ui5-api-reference)
-* Stars: 4, Forks: 1, Watchers: 1
+* Stars: 4, Forks: 1, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Sat, 05 Jun 2021 22:29:39 GMT, Updated At: Thu, 25 Nov 2021 08:13:15 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -682,7 +682,7 @@
 
 ## vscode-ui5-odata-mock-generator: VSCode extension: configurable generation of mock data files for OData services
 [https://github.com/wozjac/vscode-ui5-odata-mock-generator](https://github.com/wozjac/vscode-ui5-odata-mock-generator)
-* Stars: 2, Forks: 0, Watchers: 1
+* Stars: 2, Forks: 0, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Sat, 29 May 2021 17:24:50 GMT, Updated At: Thu, 25 Nov 2021 08:17:51 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
