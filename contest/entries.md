@@ -32,9 +32,9 @@
 
 ## easyHtmlEmail: Easy to Generate &amp; Maintain Email in SAP (ABAP + HTML/CSS)
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
-* Stars: 8, Forks: 1, Watchers: 3
+* Stars: 11, Forks: 1, Watchers: 3
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Tue, 21 Dec 2021 16:10:25 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Fri, 31 Dec 2021 15:40:57 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
 * Stars: 423, Forks: 210, Watchers: 69
-* Open Issues: 75, Has Projects: false, Has Wiki: false
+* Open Issues: 76, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 29 Dec 2021 04:42:12 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
