@@ -542,8 +542,8 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 423, Forks: 210, Watchers: 69
-* Open Issues: 77, Has Projects: false, Has Wiki: false
+* Stars: 423, Forks: 210, Watchers: 68
+* Open Issues: 79, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 01 Jan 2022 11:46:14 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
@@ -573,8 +573,8 @@
 ## abap-package-version-shield: shield.io lambda to detect version of abap package, serialized by abapGit
 [https://github.com/sbcgua/abap-package-version-shield](https://github.com/sbcgua/abap-package-version-shield)
 * Stars: 5, Forks: 3, Watchers: 2
-* Open Issues: 3, Has Projects: true, Has Wiki: true
-* Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Wed, 01 Dec 2021 18:13:39 GMT
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Sat, 01 Jan 2022 16:23:37 GMT
 * License: 
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [dependabot[bot]](https://github.com/apps/dependabot), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [snyk-bot](https://github.com/snyk-bot)
