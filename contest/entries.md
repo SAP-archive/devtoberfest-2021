@@ -583,7 +583,7 @@
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
 * Stars: 20, Forks: 7, Watchers: 3
-* Open Issues: 13, Has Projects: true, Has Wiki: true
+* Open Issues: 14, Has Projects: true, Has Wiki: true
 * Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Mon, 27 Dec 2021 08:20:32 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
