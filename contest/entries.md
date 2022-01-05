@@ -252,7 +252,7 @@
 
 ## vsc-sap-hana-mta-dev-env-node14x: Kick off your SAP HANA application development environment (XSA &amp; CF) by leverage this VS Code Dev Container
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node14x)
-* Stars: 1, Forks: 1, Watchers: 1
+* Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Sun, 01 Aug 2021 16:46:11 GMT, Updated At: Wed, 22 Dec 2021 10:12:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -262,7 +262,7 @@
 
 ## vsc-sap-hana-mta-dev-env-node16x: Kick off your SAP HANA application development environment (XSA &amp; CF) by leverage this VS Code Dev Container
 [https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x)
-* Stars: 1, Forks: 2, Watchers: 1
+* Stars: 1, Forks: 1, Watchers: 1
 * Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Tue, 31 Aug 2021 11:18:11 GMT, Updated At: Sat, 04 Dec 2021 12:34:45 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
