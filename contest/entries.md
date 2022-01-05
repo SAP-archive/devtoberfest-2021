@@ -214,7 +214,7 @@
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 3, Forks: 4, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 05 Jan 2022 11:13:49 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 05 Jan 2022 16:40:09 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62), [ghoolio](https://github.com/ghoolio)
@@ -373,8 +373,8 @@
 ## codemirror-abap: ABAP mode for CodeMirror
 [https://github.com/larshp/codemirror-abap](https://github.com/larshp/codemirror-abap)
 * Stars: 8, Forks: 5, Watchers: 5
-* Open Issues: 3, Has Projects: false, Has Wiki: false
-* Created At: Sat, 12 Mar 2016 11:25:00 GMT, Updated At: Thu, 25 Nov 2021 18:21:11 GMT
+* Open Issues: 4, Has Projects: false, Has Wiki: false
+* Created At: Sat, 12 Mar 2016 11:25:00 GMT, Updated At: Wed, 05 Jan 2022 13:33:41 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
 * Contributors: [laudep](https://github.com/laudep), [larshp](https://github.com/larshp), [dependabot[bot]](https://github.com/apps/dependabot)
@@ -604,7 +604,7 @@
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 3, Forks: 1, Watchers: 2
 * Open Issues: 24, Has Projects: true, Has Wiki: false
-* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Tue, 21 Dec 2021 13:49:32 GMT
+* Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Wed, 05 Jan 2022 13:04:08 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
 * Contributors: [schmelto](https://github.com/schmelto), [krishguptadev](https://github.com/krishguptadev)
