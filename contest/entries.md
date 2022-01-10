@@ -452,9 +452,9 @@
 
 ## bw_trfn_tester: ⏱️ 📈Test and compare your SAP BW Transformations without system data
 [https://github.com/pawelwiejkut/bw_trfn_tester](https://github.com/pawelwiejkut/bw_trfn_tester)
-* Stars: 2, Forks: 3, Watchers: 2
+* Stars: 3, Forks: 3, Watchers: 2
 * Open Issues: 4, Has Projects: true, Has Wiki: true
-* Created At: Mon, 15 Mar 2021 14:38:42 GMT, Updated At: Sat, 20 Nov 2021 15:03:15 GMT
+* Created At: Mon, 15 Mar 2021 14:38:42 GMT, Updated At: Mon, 10 Jan 2022 08:39:05 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [pawelwiejkut](https://github.com/pawelwiejkut)
 * Contributors: [pawelwiejkut](https://github.com/pawelwiejkut)
@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 135, Forks: 60, Watchers: 19
-* Open Issues: 22, Has Projects: true, Has Wiki: true
+* Open Issues: 21, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Wed, 05 Jan 2022 11:53:35 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
