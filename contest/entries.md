@@ -132,7 +132,7 @@
 
 ## 10-SAPUI5-Projects: 10-SAPUI5-Projects
 [https://github.com/Technology-Enthusiast/10-SAPUI5-Projects](https://github.com/Technology-Enthusiast/10-SAPUI5-Projects)
-* Stars: 12, Forks: 12, Watchers: 2
+* Stars: 12, Forks: 13, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Sun, 31 Oct 2021 14:48:26 GMT
 * License: 
@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 29, Forks: 8, Watchers: 5
-* Open Issues: 12, Has Projects: true, Has Wiki: true
+* Open Issues: 13, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Tue, 11 Jan 2022 15:20:43 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
@@ -553,7 +553,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 81, Forks: 26, Watchers: 23
-* Open Issues: 19, Has Projects: true, Has Wiki: true
+* Open Issues: 20, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 29 Dec 2021 18:31:39 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
