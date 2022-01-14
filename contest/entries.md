@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 136, Forks: 60, Watchers: 19
-* Open Issues: 21, Has Projects: true, Has Wiki: true
+* Open Issues: 22, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Thu, 13 Jan 2022 16:45:15 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
