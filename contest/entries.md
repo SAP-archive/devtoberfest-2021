@@ -122,9 +122,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 157, Forks: 54, Watchers: 18
+* Stars: 158, Forks: 54, Watchers: 18
 * Open Issues: 3, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Wed, 19 Jan 2022 10:59:41 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Wed, 19 Jan 2022 12:48:30 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [petermuessig](https://github.com/petermuessig), [vobu](https://github.com/vobu), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 31, Forks: 8, Watchers: 5
-* Open Issues: 14, Has Projects: true, Has Wiki: true
+* Open Issues: 16, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Tue, 18 Jan 2022 21:19:50 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
@@ -662,8 +662,8 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 136, Forks: 60, Watchers: 19
-* Open Issues: 21, Has Projects: true, Has Wiki: true
+* Stars: 136, Forks: 61, Watchers: 19
+* Open Issues: 22, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Thu, 13 Jan 2022 16:45:15 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
