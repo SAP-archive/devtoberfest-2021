@@ -122,9 +122,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 155, Forks: 54, Watchers: 18
+* Stars: 157, Forks: 54, Watchers: 18
 * Open Issues: 3, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 17 Jan 2022 00:30:45 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Wed, 19 Jan 2022 10:59:41 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [petermuessig](https://github.com/petermuessig), [vobu](https://github.com/vobu), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -553,7 +553,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 81, Forks: 26, Watchers: 23
-* Open Issues: 21, Has Projects: true, Has Wiki: true
+* Open Issues: 22, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 29 Dec 2021 18:31:39 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
@@ -607,7 +607,7 @@
 * Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Wed, 05 Jan 2022 13:04:08 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
-* Contributors: [schmelto](https://github.com/schmelto), [krishguptadev](https://github.com/krishguptadev)
+* Contributors: [schmelto](https://github.com/schmelto), [krshdev](https://github.com/krshdev)
 
 
 ## abapMQDaemons: Deamons for abapMQ
