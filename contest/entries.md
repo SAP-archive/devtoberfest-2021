@@ -612,9 +612,9 @@
 
 ## abapMQDaemons: Deamons for abapMQ
 [https://github.com/se38/abapMQDaemons](https://github.com/se38/abapMQDaemons)
-* Stars: 5, Forks: 1, Watchers: 2
+* Stars: 6, Forks: 1, Watchers: 2
 * Open Issues: 6, Has Projects: true, Has Wiki: true
-* Created At: Fri, 29 Jan 2021 08:22:40 GMT, Updated At: Thu, 16 Dec 2021 13:21:25 GMT
+* Created At: Fri, 29 Jan 2021 08:22:40 GMT, Updated At: Thu, 20 Jan 2022 09:32:25 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [se38](https://github.com/se38)
 * Contributors: [se38](https://github.com/se38)
