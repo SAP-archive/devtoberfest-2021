@@ -122,7 +122,7 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 158, Forks: 54, Watchers: 17
+* Stars: 158, Forks: 54, Watchers: 16
 * Open Issues: 4, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Wed, 19 Jan 2022 12:48:30 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -213,7 +213,7 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 3, Forks: 4, Watchers: 2
-* Open Issues: 3, Has Projects: true, Has Wiki: true
+* Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Thu, 06 Jan 2022 09:50:57 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
