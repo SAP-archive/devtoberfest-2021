@@ -662,9 +662,9 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 136, Forks: 61, Watchers: 19
+* Stars: 137, Forks: 61, Watchers: 19
 * Open Issues: 23, Has Projects: true, Has Wiki: true
-* Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Fri, 21 Jan 2022 14:46:17 GMT
+* Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Mon, 24 Jan 2022 03:56:55 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
 * Contributors: [petermuessig](https://github.com/petermuessig), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [vobu](https://github.com/vobu), [IObert](https://github.com/IObert), [dependabot[bot]](https://github.com/apps/dependabot), [attila-boros](https://github.com/attila-boros), [marcelschork](https://github.com/marcelschork), [mauriciolauffer](https://github.com/mauriciolauffer), [lennart-m](https://github.com/lennart-m), [stockbal](https://github.com/stockbal), [sebbi08](https://github.com/sebbi08), [lboehm](https://github.com/lboehm), [matz3](https://github.com/matz3), [RandomByte](https://github.com/RandomByte), [piejanssens](https://github.com/piejanssens), [Magoli1](https://github.com/Magoli1), [TheVivekGowda](https://github.com/TheVivekGowda), [lemaiwo](https://github.com/lemaiwo), [resitamas](https://github.com/resitamas), [d-sooter](https://github.com/d-sooter), [esjewett](https://github.com/esjewett), [fatihpense](https://github.com/fatihpense), [iggycoder](https://github.com/iggycoder), [jkoenig134](https://github.com/jkoenig134), [maxmoehl](https://github.com/maxmoehl), [stefania-santimbrean](https://github.com/stefania-santimbrean), [iot-cpars](https://github.com/iot-cpars), [rygiol](https://github.com/rygiol), [s4180t](https://github.com/s4180t), [texttechne](https://github.com/texttechne)
