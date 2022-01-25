@@ -562,9 +562,9 @@
 
 ## mta-visual-dep: 
 [https://github.com/sbarzaghialteaup/mta-visual-dep](https://github.com/sbarzaghialteaup/mta-visual-dep)
-* Stars: 2, Forks: 0, Watchers: 1
+* Stars: 3, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Sun, 25 Jul 2021 11:12:59 GMT, Updated At: Sat, 23 Oct 2021 08:26:14 GMT
+* Created At: Sun, 25 Jul 2021 11:12:59 GMT, Updated At: Tue, 25 Jan 2022 03:48:41 GMT
 * License: 
 * Owner: [sbarzaghialteaup](https://github.com/sbarzaghialteaup)
 * Contributors: [sbarzaghialteaup](https://github.com/sbarzaghialteaup)
@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 138, Forks: 61, Watchers: 20
-* Open Issues: 24, Has Projects: true, Has Wiki: true
+* Open Issues: 25, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Mon, 24 Jan 2022 07:02:10 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
