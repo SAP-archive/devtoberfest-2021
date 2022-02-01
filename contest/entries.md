@@ -122,8 +122,8 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 158, Forks: 55, Watchers: 16
-* Open Issues: 6, Has Projects: false, Has Wiki: false
+* Stars: 158, Forks: 55, Watchers: 15
+* Open Issues: 3, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Thu, 27 Jan 2022 10:57:23 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
@@ -542,7 +542,7 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 430, Forks: 213, Watchers: 64
+* Stars: 430, Forks: 214, Watchers: 64
 * Open Issues: 67, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sun, 30 Jan 2022 19:51:11 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -572,9 +572,9 @@
 
 ## abap-package-version-shield: shield.io lambda to detect version of abap package, serialized by abapGit
 [https://github.com/sbcgua/abap-package-version-shield](https://github.com/sbcgua/abap-package-version-shield)
-* Stars: 5, Forks: 3, Watchers: 2
-* Open Issues: 6, Has Projects: true, Has Wiki: true
-* Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Sat, 01 Jan 2022 16:23:37 GMT
+* Stars: 6, Forks: 4, Watchers: 2
+* Open Issues: 7, Has Projects: true, Has Wiki: true
+* Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Tue, 01 Feb 2022 11:08:04 GMT
 * License: 
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [dependabot[bot]](https://github.com/apps/dependabot), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [snyk-bot](https://github.com/snyk-bot)
@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 138, Forks: 61, Watchers: 20
-* Open Issues: 25, Has Projects: true, Has Wiki: true
+* Open Issues: 24, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Mon, 24 Jan 2022 07:02:10 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
