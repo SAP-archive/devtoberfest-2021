@@ -213,7 +213,7 @@
 ## opensap_python_intro: 
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 3, Forks: 4, Watchers: 2
-* Open Issues: 3, Has Projects: true, Has Wiki: true
+* Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Thu, 06 Jan 2022 09:50:57 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
@@ -362,8 +362,8 @@
 
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
-* Stars: 32, Forks: 9, Watchers: 6
-* Open Issues: 18, Has Projects: true, Has Wiki: true
+* Stars: 32, Forks: 10, Watchers: 6
+* Open Issues: 19, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 24 Jan 2022 09:20:50 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
@@ -573,7 +573,7 @@
 ## abap-package-version-shield: shield.io lambda to detect version of abap package, serialized by abapGit
 [https://github.com/sbcgua/abap-package-version-shield](https://github.com/sbcgua/abap-package-version-shield)
 * Stars: 6, Forks: 4, Watchers: 2
-* Open Issues: 7, Has Projects: true, Has Wiki: true
+* Open Issues: 5, Has Projects: true, Has Wiki: true
 * Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Tue, 01 Feb 2022 11:08:04 GMT
 * License: 
 * Owner: [sbcgua](https://github.com/sbcgua)
