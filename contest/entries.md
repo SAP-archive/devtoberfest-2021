@@ -32,9 +32,9 @@
 
 ## easyHtmlEmail: Easy to Generate &amp; Maintain Email in SAP (ABAP + HTML/CSS)
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
-* Stars: 12, Forks: 1, Watchers: 3
+* Stars: 13, Forks: 1, Watchers: 3
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Thu, 20 Jan 2022 23:29:58 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Thu, 03 Feb 2022 14:52:01 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -123,11 +123,11 @@
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
 * Stars: 158, Forks: 56, Watchers: 15
-* Open Issues: 4, Has Projects: false, Has Wiki: false
+* Open Issues: 2, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Thu, 27 Jan 2022 10:57:23 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
-* Contributors: [IObert](https://github.com/IObert), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [petermuessig](https://github.com/petermuessig), [vobu](https://github.com/vobu), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [GnagnoHtml](https://github.com/GnagnoHtml), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
+* Contributors: [IObert](https://github.com/IObert), [petermuessig](https://github.com/petermuessig), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [GnagnoHtml](https://github.com/GnagnoHtml), [marcelschork](https://github.com/marcelschork), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
 
 
 ## 10-SAPUI5-Projects: 10-SAPUI5-Projects
@@ -464,7 +464,7 @@
 [https://github.com/pcdinis/ui5memgame](https://github.com/pcdinis/ui5memgame)
 * Stars: 2, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Mon, 04 Oct 2021 17:13:08 GMT, Updated At: Tue, 26 Oct 2021 09:13:52 GMT
+* Created At: Mon, 04 Oct 2021 17:13:08 GMT, Updated At: Thu, 03 Feb 2022 14:31:19 GMT
 * License: 
 * Owner: [pcdinis](https://github.com/pcdinis)
 * Contributors: [pcdinis](https://github.com/pcdinis)
