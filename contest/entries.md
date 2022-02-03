@@ -123,7 +123,7 @@
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
 * Stars: 158, Forks: 56, Watchers: 15
-* Open Issues: 5, Has Projects: false, Has Wiki: false
+* Open Issues: 4, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Thu, 27 Jan 2022 10:57:23 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
@@ -553,7 +553,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 81, Forks: 27, Watchers: 23
-* Open Issues: 23, Has Projects: true, Has Wiki: true
+* Open Issues: 22, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 29 Dec 2021 18:31:39 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
