@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
 * Stars: 430, Forks: 214, Watchers: 64
-* Open Issues: 68, Has Projects: false, Has Wiki: false
+* Open Issues: 66, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 05 Feb 2022 16:25:50 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 138, Forks: 61, Watchers: 20
-* Open Issues: 24, Has Projects: true, Has Wiki: true
+* Open Issues: 25, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Mon, 24 Jan 2022 07:02:10 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
