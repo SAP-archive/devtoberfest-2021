@@ -402,7 +402,7 @@
 
 ## ztoad: 
 [https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
-* Stars: 2, Forks: 4, Watchers: 0
+* Stars: 2, Forks: 5, Watchers: 0
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Thu, 16 Dec 2021 15:20:24 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
 * Stars: 430, Forks: 214, Watchers: 64
-* Open Issues: 66, Has Projects: false, Has Wiki: false
+* Open Issues: 67, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 05 Feb 2022 16:25:50 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 138, Forks: 61, Watchers: 20
-* Open Issues: 25, Has Projects: true, Has Wiki: true
+* Open Issues: 26, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Mon, 24 Jan 2022 07:02:10 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
