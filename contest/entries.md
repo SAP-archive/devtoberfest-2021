@@ -402,9 +402,9 @@
 
 ## ztoad: 
 [https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
-* Stars: 2, Forks: 5, Watchers: 0
+* Stars: 5, Forks: 5, Watchers: 0
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Thu, 16 Dec 2021 15:20:24 GMT
+* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Sun, 06 Feb 2022 23:16:01 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [marianfoo](https://github.com/marianfoo)
 * Contributors: [marianfoo](https://github.com/marianfoo)
