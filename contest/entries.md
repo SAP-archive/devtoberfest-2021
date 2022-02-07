@@ -122,7 +122,7 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 158, Forks: 56, Watchers: 15
+* Stars: 158, Forks: 56, Watchers: 16
 * Open Issues: 2, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Thu, 27 Jan 2022 10:57:23 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -472,7 +472,7 @@
 
 ## ui5-nwabap-deployer: UI5 Deployer for SAP NetWeaver ABAP
 [https://github.com/pfefferf/ui5-nwabap-deployer](https://github.com/pfefferf/ui5-nwabap-deployer)
-* Stars: 50, Forks: 16, Watchers: 5
+* Stars: 50, Forks: 17, Watchers: 5
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Fri, 01 Nov 2019 07:42:44 GMT, Updated At: Sat, 01 Jan 2022 09:37:54 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
