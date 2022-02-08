@@ -122,7 +122,7 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 158, Forks: 56, Watchers: 16
+* Stars: 158, Forks: 57, Watchers: 16
 * Open Issues: 2, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Thu, 27 Jan 2022 10:57:23 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -132,7 +132,7 @@
 
 ## 10-SAPUI5-Projects: 10-SAPUI5-Projects
 [https://github.com/Technology-Enthusiast/10-SAPUI5-Projects](https://github.com/Technology-Enthusiast/10-SAPUI5-Projects)
-* Stars: 12, Forks: 13, Watchers: 2
+* Stars: 12, Forks: 14, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Sun, 31 Oct 2021 14:48:26 GMT
 * License: 
@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 32, Forks: 10, Watchers: 6
-* Open Issues: 28, Has Projects: true, Has Wiki: true
+* Open Issues: 29, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Fri, 04 Feb 2022 20:13:01 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 138, Forks: 61, Watchers: 20
-* Open Issues: 24, Has Projects: true, Has Wiki: true
+* Open Issues: 25, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Mon, 24 Jan 2022 07:02:10 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
