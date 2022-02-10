@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 33, Forks: 10, Watchers: 6
-* Open Issues: 31, Has Projects: true, Has Wiki: true
+* Open Issues: 32, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 09 Feb 2022 14:08:14 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
@@ -402,9 +402,9 @@
 
 ## ztoad: 
 [https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
-* Stars: 5, Forks: 5, Watchers: 0
+* Stars: 6, Forks: 5, Watchers: 0
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Sun, 06 Feb 2022 23:16:01 GMT
+* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Thu, 10 Feb 2022 16:11:33 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [marianfoo](https://github.com/marianfoo)
 * Contributors: [marianfoo](https://github.com/marianfoo)
@@ -542,9 +542,9 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 431, Forks: 214, Watchers: 64
+* Stars: 432, Forks: 214, Watchers: 64
 * Open Issues: 66, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Wed, 09 Feb 2022 14:36:15 GMT
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Thu, 10 Feb 2022 14:40:58 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
 * Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [sandraros](https://github.com/sandraros), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [fidley](https://github.com/fidley), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [tmackowski](https://github.com/tmackowski), [Gh14Cc10](https://github.com/Gh14Cc10), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [christianguenter2](https://github.com/christianguenter2), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [pokrakam](https://github.com/pokrakam), [RedWolf112](https://github.com/RedWolf112), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [AntonSikidin](https://github.com/AntonSikidin), [aspeitkamp](https://github.com/aspeitkamp), [bitdeli-chef](https://github.com/bitdeli-chef), [chrisaasan](https://github.com/chrisaasan), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
@@ -552,7 +552,7 @@
 
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
-* Stars: 81, Forks: 27, Watchers: 23
+* Stars: 81, Forks: 28, Watchers: 23
 * Open Issues: 22, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 29 Dec 2021 18:31:39 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
