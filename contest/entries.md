@@ -32,9 +32,9 @@
 
 ## easyHtmlEmail: Easy to Generate &amp; Maintain Email in SAP (ABAP + HTML/CSS)
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
-* Stars: 13, Forks: 1, Watchers: 3
+* Stars: 14, Forks: 1, Watchers: 4
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Thu, 03 Feb 2022 20:11:38 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Thu, 10 Feb 2022 07:51:41 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -592,9 +592,9 @@
 
 ## mockup_loader: ABAP unit testing framework, prepare in Excel, reuse in abap code
 [https://github.com/sbcgua/mockup_loader](https://github.com/sbcgua/mockup_loader)
-* Stars: 44, Forks: 15, Watchers: 12
+* Stars: 45, Forks: 15, Watchers: 13
 * Open Issues: 11, Has Projects: true, Has Wiki: true
-* Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Mon, 13 Dec 2021 11:57:50 GMT
+* Created At: Tue, 03 Nov 2015 17:02:54 GMT, Updated At: Thu, 10 Feb 2022 07:51:02 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [larshp](https://github.com/larshp), [swixfort](https://github.com/swixfort), [a-fas](https://github.com/a-fas), [germanysources](https://github.com/germanysources)
