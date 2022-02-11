@@ -132,7 +132,7 @@
 
 ## 10-SAPUI5-Projects: 10-SAPUI5-Projects
 [https://github.com/Technology-Enthusiast/10-SAPUI5-Projects](https://github.com/Technology-Enthusiast/10-SAPUI5-Projects)
-* Stars: 12, Forks: 14, Watchers: 2
+* Stars: 12, Forks: 15, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Fri, 15 Jan 2021 07:33:08 GMT, Updated At: Sun, 31 Oct 2021 14:48:26 GMT
 * License: 
@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 33, Forks: 10, Watchers: 6
-* Open Issues: 32, Has Projects: true, Has Wiki: true
+* Open Issues: 28, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 09 Feb 2022 14:08:14 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
