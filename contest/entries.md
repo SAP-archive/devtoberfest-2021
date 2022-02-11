@@ -123,7 +123,7 @@
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
 * Stars: 159, Forks: 57, Watchers: 16
-* Open Issues: 2, Has Projects: false, Has Wiki: false
+* Open Issues: 3, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Tue, 08 Feb 2022 22:23:08 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
@@ -293,7 +293,7 @@
 ## ui5-docker: 
 [https://github.com/flow23/ui5-docker](https://github.com/flow23/ui5-docker)
 * Stars: 3, Forks: 0, Watchers: 2
-* Open Issues: 0, Has Projects: false, Has Wiki: false
+* Open Issues: 1, Has Projects: false, Has Wiki: false
 * Created At: Tue, 25 Jun 2019 18:21:23 GMT, Updated At: Sat, 16 Oct 2021 20:21:54 GMT
 * License: 
 * Owner: [flow23](https://github.com/flow23)
@@ -402,9 +402,9 @@
 
 ## ztoad: 
 [https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
-* Stars: 6, Forks: 5, Watchers: 0
+* Stars: 7, Forks: 5, Watchers: 0
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Thu, 10 Feb 2022 16:11:33 GMT
+* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Fri, 11 Feb 2022 11:18:08 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [marianfoo](https://github.com/marianfoo)
 * Contributors: [marianfoo](https://github.com/marianfoo)
