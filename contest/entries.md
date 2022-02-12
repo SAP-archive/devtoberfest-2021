@@ -32,9 +32,9 @@
 
 ## easyHtmlEmail: Easy to Generate &amp; Maintain Email in SAP (ABAP + HTML/CSS)
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
-* Stars: 14, Forks: 1, Watchers: 4
+* Stars: 15, Forks: 1, Watchers: 4
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Thu, 10 Feb 2022 07:51:41 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Fri, 11 Feb 2022 18:05:28 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -582,9 +582,9 @@
 
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
-* Stars: 21, Forks: 7, Watchers: 3
+* Stars: 22, Forks: 7, Watchers: 3
 * Open Issues: 13, Has Projects: true, Has Wiki: true
-* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Sat, 05 Feb 2022 07:25:34 GMT
+* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Fri, 11 Feb 2022 18:37:25 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mbtools](https://github.com/mbtools), [larshp](https://github.com/larshp), [albertmink](https://github.com/albertmink)
@@ -612,9 +612,9 @@
 
 ## abapMQDaemons: Deamons for abapMQ
 [https://github.com/se38/abapMQDaemons](https://github.com/se38/abapMQDaemons)
-* Stars: 6, Forks: 1, Watchers: 2
+* Stars: 7, Forks: 1, Watchers: 2
 * Open Issues: 6, Has Projects: true, Has Wiki: true
-* Created At: Fri, 29 Jan 2021 08:22:40 GMT, Updated At: Thu, 20 Jan 2022 09:32:25 GMT
+* Created At: Fri, 29 Jan 2021 08:22:40 GMT, Updated At: Fri, 11 Feb 2022 18:11:53 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [se38](https://github.com/se38)
 * Contributors: [se38](https://github.com/se38)
