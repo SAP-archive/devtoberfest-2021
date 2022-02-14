@@ -122,9 +122,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 159, Forks: 57, Watchers: 16
+* Stars: 160, Forks: 57, Watchers: 16
 * Open Issues: 3, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Tue, 08 Feb 2022 22:23:08 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 14 Feb 2022 03:08:13 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [petermuessig](https://github.com/petermuessig), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [marcelschork](https://github.com/marcelschork), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [GnagnoHtml](https://github.com/GnagnoHtml), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -542,9 +542,9 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 433, Forks: 214, Watchers: 64
+* Stars: 434, Forks: 214, Watchers: 64
 * Open Issues: 67, Has Projects: false, Has Wiki: false
-* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Fri, 11 Feb 2022 17:38:15 GMT
+* Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Mon, 14 Feb 2022 02:53:25 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
 * Contributors: [ivanfemia](https://github.com/ivanfemia), [gregorwolf](https://github.com/gregorwolf), [larshp](https://github.com/larshp), [sandraros](https://github.com/sandraros), [AndreaBorgia-Abo](https://github.com/AndreaBorgia-Abo), [fidley](https://github.com/fidley), [StefanSchmoecker](https://github.com/StefanSchmoecker), [AtomKrieg](https://github.com/AtomKrieg), [tmackowski](https://github.com/tmackowski), [Gh14Cc10](https://github.com/Gh14Cc10), [bigld](https://github.com/bigld), [mfallen](https://github.com/mfallen), [oliver-huetkoeper](https://github.com/oliver-huetkoeper), [rplantiko](https://github.com/rplantiko), [Berreke](https://github.com/Berreke), [bilencekic](https://github.com/bilencekic), [FoxAhead](https://github.com/FoxAhead), [StefanRutzmoser](https://github.com/StefanRutzmoser), [stefanschnell](https://github.com/stefanschnell), [striezl](https://github.com/striezl), [christianguenter2](https://github.com/christianguenter2), [d-schaaf](https://github.com/d-schaaf), [HannesRempel](https://github.com/HannesRempel), [pokrakam](https://github.com/pokrakam), [RedWolf112](https://github.com/RedWolf112), [alsp80](https://github.com/alsp80), [psio3123](https://github.com/psio3123), [AlexandreHT](https://github.com/AlexandreHT), [AntonSikidin](https://github.com/AntonSikidin), [aspeitkamp](https://github.com/aspeitkamp), [bitdeli-chef](https://github.com/bitdeli-chef), [chrisaasan](https://github.com/chrisaasan), [Cril2000](https://github.com/Cril2000), [Ennowulff](https://github.com/Ennowulff), [guillaumegarcia13](https://github.com/guillaumegarcia13), [ibnbr](https://github.com/ibnbr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [Jitsuryoku](https://github.com/Jitsuryoku), [JuvickAul](https://github.com/JuvickAul), [MCH123](https://github.com/MCH123), [mlaggner](https://github.com/mlaggner), [hardyp](https://github.com/hardyp), [redhawk07](https://github.com/redhawk07), [TBuryanek](https://github.com/TBuryanek), [bhavesh4321](https://github.com/bhavesh4321), [bohrh](https://github.com/bohrh), [chrassig](https://github.com/chrassig), [muten86](https://github.com/muten86), [paladv](https://github.com/paladv), [sephrat](https://github.com/sephrat), [srps](https://github.com/srps)
@@ -662,9 +662,9 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 139, Forks: 61, Watchers: 19
+* Stars: 140, Forks: 61, Watchers: 19
 * Open Issues: 24, Has Projects: true, Has Wiki: true
-* Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Thu, 10 Feb 2022 21:45:37 GMT
+* Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Mon, 14 Feb 2022 03:07:32 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
 * Contributors: [petermuessig](https://github.com/petermuessig), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [vobu](https://github.com/vobu), [IObert](https://github.com/IObert), [dependabot[bot]](https://github.com/apps/dependabot), [attila-boros](https://github.com/attila-boros), [marcelschork](https://github.com/marcelschork), [mauriciolauffer](https://github.com/mauriciolauffer), [sebbi08](https://github.com/sebbi08), [lennart-m](https://github.com/lennart-m), [stockbal](https://github.com/stockbal), [uxkjaer](https://github.com/uxkjaer), [lboehm](https://github.com/lboehm), [matz3](https://github.com/matz3), [RandomByte](https://github.com/RandomByte), [piejanssens](https://github.com/piejanssens), [Magoli1](https://github.com/Magoli1), [TheVivekGowda](https://github.com/TheVivekGowda), [lemaiwo](https://github.com/lemaiwo), [resitamas](https://github.com/resitamas), [d-sooter](https://github.com/d-sooter), [ekansh005](https://github.com/ekansh005), [esjewett](https://github.com/esjewett), [fatihpense](https://github.com/fatihpense), [iggycoder](https://github.com/iggycoder), [jkoenig134](https://github.com/jkoenig134), [L4Ndoo](https://github.com/L4Ndoo), [maxmoehl](https://github.com/maxmoehl), [stefania-santimbrean](https://github.com/stefania-santimbrean), [iot-cpars](https://github.com/iot-cpars), [rygiol](https://github.com/rygiol), [s4180t](https://github.com/s4180t), [texttechne](https://github.com/texttechne)
