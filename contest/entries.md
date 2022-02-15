@@ -34,7 +34,7 @@
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
 * Stars: 15, Forks: 1, Watchers: 4
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Mon, 14 Feb 2022 16:38:42 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Tue, 15 Feb 2022 07:50:56 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -362,9 +362,9 @@
 
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
-* Stars: 35, Forks: 10, Watchers: 6
+* Stars: 36, Forks: 10, Watchers: 6
 * Open Issues: 30, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 14 Feb 2022 11:22:29 GMT
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Tue, 15 Feb 2022 08:46:52 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
 * Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [ArnaudBuchholz](https://github.com/ArnaudBuchholz), [BeastiW](https://github.com/BeastiW), [wridgeu](https://github.com/wridgeu), [skarolus-rc](https://github.com/skarolus-rc)
