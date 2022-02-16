@@ -210,11 +210,11 @@
 * Contributors: [brehberg](https://github.com/brehberg)
 
 
-## opensap_python_intro: 
+## opensap_python_intro: This repository contains several Jupyter notebooks. These notebooks are the course material for an upcoming openSAP course on Python 🐍.
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 3, Forks: 4, Watchers: 2
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 02 Feb 2022 15:36:20 GMT
+* Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 16 Feb 2022 15:55:52 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
 * Contributors: [ceedee666](https://github.com/ceedee666), [Hiltiprant](https://github.com/Hiltiprant), [stjaco62](https://github.com/stjaco62), [ghoolio](https://github.com/ghoolio)
