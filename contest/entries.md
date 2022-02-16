@@ -552,9 +552,9 @@
 
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
-* Stars: 81, Forks: 28, Watchers: 23
+* Stars: 82, Forks: 28, Watchers: 23
 * Open Issues: 22, Has Projects: true, Has Wiki: true
-* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 29 Dec 2021 18:31:39 GMT
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 16 Feb 2022 05:37:26 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [d-sooter](https://github.com/d-sooter), [iwonahahn](https://github.com/iwonahahn), [sebastianesch](https://github.com/sebastianesch), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [rbhuva](https://github.com/rbhuva), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
