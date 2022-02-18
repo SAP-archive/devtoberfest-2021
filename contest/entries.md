@@ -334,10 +334,10 @@
 [https://github.com/jchirk/ui5-validator](https://github.com/jchirk/ui5-validator)
 * Stars: 0, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 31 Jul 2019 22:01:37 GMT, Updated At: Mon, 11 Oct 2021 21:51:01 GMT
+* Created At: Wed, 31 Jul 2019 22:01:37 GMT, Updated At: Thu, 17 Feb 2022 21:04:19 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [jchirk](https://github.com/jchirk)
-* Contributors: [qualiture](https://github.com/qualiture), [AZn5ReD](https://github.com/AZn5ReD), [jpenninkhof](https://github.com/jpenninkhof), [NoelHendrikx](https://github.com/NoelHendrikx), [luuksen](https://github.com/luuksen)
+* Contributors: [qualiture](https://github.com/qualiture), [jchirk](https://github.com/jchirk), [jpenninkhof](https://github.com/jpenninkhof), [NoelHendrikx](https://github.com/NoelHendrikx), [luuksen](https://github.com/luuksen)
 
 
 ## cf-flask-auth: A starter API services (Skeleton) using Python Flask and Authentication using Basic Authentication &amp; JSON Web Tokens (JWT) approach.
