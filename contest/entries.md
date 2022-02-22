@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 40, Forks: 10, Watchers: 6
-* Open Issues: 33, Has Projects: true, Has Wiki: true
+* Open Issues: 34, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sat, 19 Feb 2022 09:53:53 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
@@ -662,12 +662,12 @@
 
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
-* Stars: 141, Forks: 61, Watchers: 19
-* Open Issues: 26, Has Projects: true, Has Wiki: true
+* Stars: 141, Forks: 60, Watchers: 19
+* Open Issues: 25, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Fri, 18 Feb 2022 16:37:45 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
-* Contributors: [petermuessig](https://github.com/petermuessig), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [vobu](https://github.com/vobu), [IObert](https://github.com/IObert), [dependabot[bot]](https://github.com/apps/dependabot), [attila-boros](https://github.com/attila-boros), [marcelschork](https://github.com/marcelschork), [mauriciolauffer](https://github.com/mauriciolauffer), [sebbi08](https://github.com/sebbi08), [lennart-m](https://github.com/lennart-m), [stockbal](https://github.com/stockbal), [uxkjaer](https://github.com/uxkjaer), [lboehm](https://github.com/lboehm), [matz3](https://github.com/matz3), [RandomByte](https://github.com/RandomByte), [piejanssens](https://github.com/piejanssens), [Magoli1](https://github.com/Magoli1), [TheVivekGowda](https://github.com/TheVivekGowda), [lemaiwo](https://github.com/lemaiwo), [resitamas](https://github.com/resitamas), [d-sooter](https://github.com/d-sooter), [ekansh005](https://github.com/ekansh005), [esjewett](https://github.com/esjewett), [fatihpense](https://github.com/fatihpense), [iggycoder](https://github.com/iggycoder), [jkoenig134](https://github.com/jkoenig134), [L4Ndoo](https://github.com/L4Ndoo), [maxmoehl](https://github.com/maxmoehl), [stefania-santimbrean](https://github.com/stefania-santimbrean), [iot-cpars](https://github.com/iot-cpars), [rygiol](https://github.com/rygiol), [s4180t](https://github.com/s4180t), [texttechne](https://github.com/texttechne)
+* Contributors: [petermuessig](https://github.com/petermuessig), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [vobu](https://github.com/vobu), [IObert](https://github.com/IObert), [dependabot[bot]](https://github.com/apps/dependabot), [attila-boros](https://github.com/attila-boros), [marcelschork](https://github.com/marcelschork), [mauriciolauffer](https://github.com/mauriciolauffer), [sebbi08](https://github.com/sebbi08), [uxkjaer](https://github.com/uxkjaer), [lennart-m](https://github.com/lennart-m), [stockbal](https://github.com/stockbal), [lboehm](https://github.com/lboehm), [matz3](https://github.com/matz3), [RandomByte](https://github.com/RandomByte), [piejanssens](https://github.com/piejanssens), [Magoli1](https://github.com/Magoli1), [TheVivekGowda](https://github.com/TheVivekGowda), [lemaiwo](https://github.com/lemaiwo), [resitamas](https://github.com/resitamas), [d-sooter](https://github.com/d-sooter), [ekansh005](https://github.com/ekansh005), [esjewett](https://github.com/esjewett), [fatihpense](https://github.com/fatihpense), [iggycoder](https://github.com/iggycoder), [jkoenig134](https://github.com/jkoenig134), [L4Ndoo](https://github.com/L4Ndoo), [maxmoehl](https://github.com/maxmoehl), [stefania-santimbrean](https://github.com/stefania-santimbrean), [iot-cpars](https://github.com/iot-cpars), [rygiol](https://github.com/rygiol), [s4180t](https://github.com/s4180t), [texttechne](https://github.com/texttechne)
 
 
 ## vscode-ui5-api-reference: VSCode extension: SAPUI5/OpenUI5 Reference documentation in a side bar view
