@@ -382,7 +382,7 @@
 
 ## UI5ComponentLoader: UI5 Component Loader
 [https://github.com/lemaiwo/UI5ComponentLoader](https://github.com/lemaiwo/UI5ComponentLoader)
-* Stars: 1, Forks: 2, Watchers: 1
+* Stars: 1, Forks: 2, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Fri, 30 Apr 2021 08:14:32 GMT, Updated At: Fri, 08 Oct 2021 02:14:05 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -542,8 +542,8 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 436, Forks: 214, Watchers: 64
-* Open Issues: 65, Has Projects: false, Has Wiki: false
+* Stars: 436, Forks: 215, Watchers: 64
+* Open Issues: 66, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Tue, 22 Feb 2022 02:40:11 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
