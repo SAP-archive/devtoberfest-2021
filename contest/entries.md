@@ -542,7 +542,7 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 439, Forks: 215, Watchers: 65
+* Stars: 439, Forks: 215, Watchers: 64
 * Open Issues: 64, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Fri, 25 Feb 2022 07:49:55 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
