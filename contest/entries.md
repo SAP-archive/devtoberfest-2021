@@ -122,7 +122,7 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 162, Forks: 57, Watchers: 16
+* Stars: 162, Forks: 58, Watchers: 16
 * Open Issues: 2, Has Projects: false, Has Wiki: false
 * Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Sat, 26 Feb 2022 13:55:41 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
