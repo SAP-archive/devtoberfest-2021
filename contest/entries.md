@@ -573,7 +573,7 @@
 ## abap-package-version-shield: shield.io lambda to detect version of abap package, serialized by abapGit
 [https://github.com/sbcgua/abap-package-version-shield](https://github.com/sbcgua/abap-package-version-shield)
 * Stars: 6, Forks: 4, Watchers: 2
-* Open Issues: 4, Has Projects: true, Has Wiki: true
+* Open Issues: 7, Has Projects: true, Has Wiki: true
 * Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Tue, 01 Feb 2022 11:08:04 GMT
 * License: 
 * Owner: [sbcgua](https://github.com/sbcgua)
