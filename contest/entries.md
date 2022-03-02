@@ -213,7 +213,7 @@
 ## opensap_python_intro: This repository contains several Jupyter notebooks. These notebooks are the course material for an upcoming openSAP course on Python 🐍.
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 3, Forks: 4, Watchers: 2
-* Open Issues: 2, Has Projects: true, Has Wiki: true
+* Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 16 Feb 2022 15:55:52 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
@@ -362,7 +362,7 @@
 
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
-* Stars: 42, Forks: 9, Watchers: 6
+* Stars: 42, Forks: 9, Watchers: 7
 * Open Issues: 24, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sat, 26 Feb 2022 12:47:06 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -400,11 +400,11 @@
 * Contributors: [lvhengel](https://github.com/lvhengel)
 
 
-## ztoad: 
+## ztoad: ABAP Open SQL Editor
 [https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
 * Stars: 7, Forks: 5, Watchers: 0
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Fri, 11 Feb 2022 11:18:08 GMT
+* Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Wed, 02 Mar 2022 07:49:36 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [marianfoo](https://github.com/marianfoo)
 * Contributors: [marianfoo](https://github.com/marianfoo)
@@ -542,7 +542,7 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 439, Forks: 215, Watchers: 64
+* Stars: 439, Forks: 215, Watchers: 65
 * Open Issues: 64, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Fri, 25 Feb 2022 07:49:55 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -603,7 +603,7 @@
 ## abap: :triangular_flag_on_post: Compilation of things worth remembering in ABAP and SAP
 [https://github.com/schmelto/abap](https://github.com/schmelto/abap)
 * Stars: 3, Forks: 1, Watchers: 2
-* Open Issues: 26, Has Projects: true, Has Wiki: false
+* Open Issues: 27, Has Projects: true, Has Wiki: false
 * Created At: Tue, 13 Oct 2020 14:27:16 GMT, Updated At: Wed, 05 Jan 2022 13:04:08 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [schmelto](https://github.com/schmelto)
