@@ -32,9 +32,9 @@
 
 ## easyHtmlEmail: Easy to Generate &amp; Maintain Email in SAP (ABAP + HTML/CSS)
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
-* Stars: 15, Forks: 1, Watchers: 4
+* Stars: 16, Forks: 1, Watchers: 4
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Tue, 15 Feb 2022 07:50:56 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Wed, 02 Mar 2022 20:35:02 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 42, Forks: 9, Watchers: 7
-* Open Issues: 26, Has Projects: true, Has Wiki: true
+* Open Issues: 27, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sat, 26 Feb 2022 12:47:06 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
