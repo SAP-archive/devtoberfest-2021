@@ -122,9 +122,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 163, Forks: 58, Watchers: 16
+* Stars: 164, Forks: 58, Watchers: 16
 * Open Issues: 2, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Fri, 04 Mar 2022 18:55:14 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Sun, 06 Mar 2022 22:36:58 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [petermuessig](https://github.com/petermuessig), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [marcelschork](https://github.com/marcelschork), [nicogeburek](https://github.com/nicogeburek), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [GnagnoHtml](https://github.com/GnagnoHtml), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
 * Stars: 441, Forks: 215, Watchers: 65
-* Open Issues: 66, Has Projects: false, Has Wiki: false
+* Open Issues: 65, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 05 Mar 2022 22:22:56 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
