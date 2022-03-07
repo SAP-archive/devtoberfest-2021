@@ -213,7 +213,7 @@
 ## opensap_python_intro: This repository contains several Jupyter notebooks. These notebooks are the course material for an upcoming openSAP course on Python 🐍.
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 3, Forks: 4, Watchers: 2
-* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 16 Feb 2022 15:55:52 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
@@ -362,8 +362,8 @@
 
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
-* Stars: 42, Forks: 11, Watchers: 7
-* Open Issues: 27, Has Projects: true, Has Wiki: true
+* Stars: 42, Forks: 12, Watchers: 7
+* Open Issues: 28, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sat, 26 Feb 2022 12:47:06 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
@@ -373,7 +373,7 @@
 ## codemirror-abap: ABAP mode for CodeMirror
 [https://github.com/larshp/codemirror-abap](https://github.com/larshp/codemirror-abap)
 * Stars: 8, Forks: 5, Watchers: 5
-* Open Issues: 5, Has Projects: false, Has Wiki: false
+* Open Issues: 6, Has Projects: false, Has Wiki: false
 * Created At: Sat, 12 Mar 2016 11:25:00 GMT, Updated At: Wed, 05 Jan 2022 13:33:41 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
