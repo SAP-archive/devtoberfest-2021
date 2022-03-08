@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 42, Forks: 12, Watchers: 7
-* Open Issues: 29, Has Projects: true, Has Wiki: true
+* Open Issues: 30, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sat, 26 Feb 2022 12:47:06 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
@@ -543,7 +543,7 @@
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
 * Stars: 441, Forks: 215, Watchers: 64
-* Open Issues: 65, Has Projects: false, Has Wiki: false
+* Open Issues: 63, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 05 Mar 2022 22:22:56 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
