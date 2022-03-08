@@ -373,7 +373,7 @@
 ## codemirror-abap: ABAP mode for CodeMirror
 [https://github.com/larshp/codemirror-abap](https://github.com/larshp/codemirror-abap)
 * Stars: 8, Forks: 5, Watchers: 5
-* Open Issues: 6, Has Projects: false, Has Wiki: false
+* Open Issues: 4, Has Projects: false, Has Wiki: false
 * Created At: Sat, 12 Mar 2016 11:25:00 GMT, Updated At: Wed, 05 Jan 2022 13:33:41 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
@@ -542,7 +542,7 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 441, Forks: 215, Watchers: 65
+* Stars: 441, Forks: 215, Watchers: 64
 * Open Issues: 65, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 05 Mar 2022 22:22:56 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
