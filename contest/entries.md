@@ -42,9 +42,9 @@
 
 ## abap-unit-tests-by-example: Different examples of ABAP unit tests 
 [https://github.com/Ennowulff/abap-unit-tests-by-example](https://github.com/Ennowulff/abap-unit-tests-by-example)
-* Stars: 9, Forks: 0, Watchers: 1
+* Stars: 10, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Tue, 11 May 2021 09:11:40 GMT, Updated At: Sat, 27 Nov 2021 13:06:09 GMT
+* Created At: Tue, 11 May 2021 09:11:40 GMT, Updated At: Thu, 10 Mar 2022 02:08:27 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [Ennowulff](https://github.com/Ennowulff)
 * Contributors: [Ennowulff](https://github.com/Ennowulff)
@@ -542,8 +542,8 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 441, Forks: 215, Watchers: 64
-* Open Issues: 63, Has Projects: false, Has Wiki: false
+* Stars: 441, Forks: 216, Watchers: 64
+* Open Issues: 64, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Sat, 05 Mar 2022 22:22:56 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [abap2xlsx](https://github.com/abap2xlsx)
