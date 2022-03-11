@@ -362,8 +362,8 @@
 
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
-* Stars: 42, Forks: 12, Watchers: 7
-* Open Issues: 29, Has Projects: true, Has Wiki: true
+* Stars: 42, Forks: 13, Watchers: 7
+* Open Issues: 30, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sat, 26 Feb 2022 12:47:06 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
@@ -542,7 +542,7 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 442, Forks: 217, Watchers: 64
+* Stars: 442, Forks: 218, Watchers: 64
 * Open Issues: 64, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Fri, 11 Mar 2022 01:14:40 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -552,7 +552,7 @@
 
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
-* Stars: 82, Forks: 28, Watchers: 23
+* Stars: 82, Forks: 29, Watchers: 23
 * Open Issues: 22, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 16 Feb 2022 05:37:26 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
