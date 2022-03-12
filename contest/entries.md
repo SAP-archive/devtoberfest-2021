@@ -652,7 +652,7 @@
 
 ## abapunit2junit: Runs Abap Unit tests and converts results to JUnit report format
 [https://github.com/trr-official/abapunit2junit](https://github.com/trr-official/abapunit2junit)
-* Stars: 5, Forks: 4, Watchers: 2
+* Stars: 5, Forks: 5, Watchers: 2
 * Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Wed, 05 Dec 2018 13:52:13 GMT, Updated At: Fri, 11 Mar 2022 15:50:19 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
