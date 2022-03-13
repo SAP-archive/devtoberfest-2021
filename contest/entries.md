@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 42, Forks: 13, Watchers: 7
-* Open Issues: 35, Has Projects: true, Has Wiki: true
+* Open Issues: 34, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sat, 26 Feb 2022 12:47:06 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
