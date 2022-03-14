@@ -34,7 +34,7 @@
 [https://github.com/DryDumbHead/easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)
 * Stars: 16, Forks: 2, Watchers: 4
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Wed, 02 Mar 2022 20:35:02 GMT
+* Created At: Wed, 29 Sep 2021 20:09:22 GMT, Updated At: Mon, 14 Mar 2022 09:26:40 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [DryDumbHead](https://github.com/DryDumbHead)
 * Contributors: [DryDumbHead](https://github.com/DryDumbHead)
@@ -122,9 +122,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 164, Forks: 58, Watchers: 16
+* Stars: 165, Forks: 58, Watchers: 16
 * Open Issues: 3, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Sun, 06 Mar 2022 22:36:58 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Mon, 14 Mar 2022 10:03:40 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [petermuessig](https://github.com/petermuessig), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [marcelschork](https://github.com/marcelschork), [nicogeburek](https://github.com/nicogeburek), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [GnagnoHtml](https://github.com/GnagnoHtml), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -363,8 +363,8 @@
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 42, Forks: 13, Watchers: 7
-* Open Issues: 34, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sat, 26 Feb 2022 12:47:06 GMT
+* Open Issues: 35, Has Projects: true, Has Wiki: true
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 14 Mar 2022 11:57:43 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
 * Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [ArnaudBuchholz](https://github.com/ArnaudBuchholz), [BeastiW](https://github.com/BeastiW), [wridgeu](https://github.com/wridgeu), [nair-sumesh](https://github.com/nair-sumesh), [skarolus-rc](https://github.com/skarolus-rc)
