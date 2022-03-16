@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 42, Forks: 13, Watchers: 7
-* Open Issues: 34, Has Projects: true, Has Wiki: true
+* Open Issues: 33, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 14 Mar 2022 11:57:43 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
@@ -553,11 +553,11 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 82, Forks: 29, Watchers: 23
-* Open Issues: 22, Has Projects: true, Has Wiki: true
+* Open Issues: 19, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 16 Feb 2022 05:37:26 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
-* Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [d-sooter](https://github.com/d-sooter), [iwonahahn](https://github.com/iwonahahn), [sebastianesch](https://github.com/sebastianesch), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [rbhuva](https://github.com/rbhuva), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
+* Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [d-sooter](https://github.com/d-sooter), [sebastianesch](https://github.com/sebastianesch), [iwonahahn](https://github.com/iwonahahn), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [rbhuva](https://github.com/rbhuva), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
 
 
 ## mta-visual-dep: 
@@ -582,9 +582,9 @@
 
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
-* Stars: 22, Forks: 7, Watchers: 3
+* Stars: 23, Forks: 7, Watchers: 3
 * Open Issues: 13, Has Projects: true, Has Wiki: true
-* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Fri, 11 Feb 2022 18:37:25 GMT
+* Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Wed, 16 Mar 2022 07:40:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
 * Contributors: [sbcgua](https://github.com/sbcgua), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mbtools](https://github.com/mbtools), [larshp](https://github.com/larshp), [JXYSGX7C](https://github.com/JXYSGX7C), [albertmink](https://github.com/albertmink)
