@@ -202,9 +202,9 @@
 
 ## PAO-head-first: Practicing ABAP Objects: Head First Design Patterns
 [https://github.com/brehberg/PAO-head-first](https://github.com/brehberg/PAO-head-first)
-* Stars: 4, Forks: 6, Watchers: 1
+* Stars: 5, Forks: 6, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Mon, 22 Jan 2018 17:08:40 GMT, Updated At: Fri, 17 Dec 2021 12:58:03 GMT
+* Created At: Mon, 22 Jan 2018 17:08:40 GMT, Updated At: Fri, 18 Mar 2022 16:13:57 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [brehberg](https://github.com/brehberg)
 * Contributors: [brehberg](https://github.com/brehberg)
@@ -363,11 +363,11 @@
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 43, Forks: 13, Watchers: 7
-* Open Issues: 35, Has Projects: true, Has Wiki: true
+* Open Issues: 30, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 16 Mar 2022 14:54:40 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
-* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [ArnaudBuchholz](https://github.com/ArnaudBuchholz), [BeastiW](https://github.com/BeastiW), [wridgeu](https://github.com/wridgeu), [Siolto](https://github.com/Siolto), [nair-sumesh](https://github.com/nair-sumesh), [skarolus-rc](https://github.com/skarolus-rc)
+* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [ArnaudBuchholz](https://github.com/ArnaudBuchholz), [nair-sumesh](https://github.com/nair-sumesh), [BeastiW](https://github.com/BeastiW), [wridgeu](https://github.com/wridgeu), [Siolto](https://github.com/Siolto), [skarolus-rc](https://github.com/skarolus-rc)
 
 
 ## codemirror-abap: ABAP mode for CodeMirror
