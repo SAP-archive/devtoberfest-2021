@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 43, Forks: 13, Watchers: 8
-* Open Issues: 31, Has Projects: true, Has Wiki: true
+* Open Issues: 32, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 16 Mar 2022 14:54:40 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
@@ -553,11 +553,11 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 82, Forks: 29, Watchers: 24
-* Open Issues: 20, Has Projects: true, Has Wiki: true
+* Open Issues: 16, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 16 Feb 2022 05:37:26 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
-* Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [rbhuva](https://github.com/rbhuva), [sebastianesch](https://github.com/sebastianesch), [d-sooter](https://github.com/d-sooter), [iwonahahn](https://github.com/iwonahahn), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
+* Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [dependabot[bot]](https://github.com/apps/dependabot), [mikezaschka](https://github.com/mikezaschka), [sebastianesch](https://github.com/sebastianesch), [rbhuva](https://github.com/rbhuva), [d-sooter](https://github.com/d-sooter), [iwonahahn](https://github.com/iwonahahn), [sjvans](https://github.com/sjvans), [larshp](https://github.com/larshp), [austinkloske22](https://github.com/austinkloske22), [kroben](https://github.com/kroben)
 
 
 ## mta-visual-dep: 
