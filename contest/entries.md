@@ -362,7 +362,7 @@
 
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
-* Stars: 43, Forks: 13, Watchers: 8
+* Stars: 43, Forks: 14, Watchers: 8
 * Open Issues: 31, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 16 Mar 2022 14:54:40 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -573,7 +573,7 @@
 ## abap-package-version-shield: shield.io lambda to detect version of abap package, serialized by abapGit
 [https://github.com/sbcgua/abap-package-version-shield](https://github.com/sbcgua/abap-package-version-shield)
 * Stars: 6, Forks: 4, Watchers: 2
-* Open Issues: 7, Has Projects: true, Has Wiki: true
+* Open Issues: 4, Has Projects: true, Has Wiki: true
 * Created At: Wed, 08 Jan 2020 16:38:37 GMT, Updated At: Tue, 01 Feb 2022 11:08:04 GMT
 * License: 
 * Owner: [sbcgua](https://github.com/sbcgua)
