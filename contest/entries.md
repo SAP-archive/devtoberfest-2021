@@ -363,11 +363,11 @@
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 43, Forks: 15, Watchers: 9
-* Open Issues: 33, Has Projects: true, Has Wiki: true
+* Open Issues: 34, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 16 Mar 2022 14:54:40 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
-* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [ArnaudBuchholz](https://github.com/ArnaudBuchholz), [nair-sumesh](https://github.com/nair-sumesh), [BeastiW](https://github.com/BeastiW), [wridgeu](https://github.com/wridgeu), [Siolto](https://github.com/Siolto), [skarolus-rc](https://github.com/skarolus-rc)
+* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot), [ArnaudBuchholz](https://github.com/ArnaudBuchholz), [nair-sumesh](https://github.com/nair-sumesh), [BeastiW](https://github.com/BeastiW), [wridgeu](https://github.com/wridgeu), [Siolto](https://github.com/Siolto), [tompaulusch](https://github.com/tompaulusch), [skarolus-rc](https://github.com/skarolus-rc)
 
 
 ## codemirror-abap: ABAP mode for CodeMirror
@@ -553,7 +553,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 82, Forks: 29, Watchers: 24
-* Open Issues: 18, Has Projects: true, Has Wiki: true
+* Open Issues: 19, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 16 Feb 2022 05:37:26 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
