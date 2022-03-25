@@ -213,7 +213,7 @@
 ## opensap_python_intro: This repository contains several Jupyter notebooks. These notebooks are the course material for an upcoming openSAP course on Python 🐍.
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
 * Stars: 3, Forks: 4, Watchers: 2
-* Open Issues: 2, Has Projects: true, Has Wiki: true
+* Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Wed, 16 Feb 2022 15:55:52 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
 * Owner: [ceedee666](https://github.com/ceedee666)
@@ -663,11 +663,11 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 142, Forks: 61, Watchers: 18
-* Open Issues: 29, Has Projects: true, Has Wiki: true
+* Open Issues: 28, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Thu, 24 Mar 2022 14:10:09 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
-* Contributors: [petermuessig](https://github.com/petermuessig), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [vobu](https://github.com/vobu), [IObert](https://github.com/IObert), [dependabot[bot]](https://github.com/apps/dependabot), [attila-boros](https://github.com/attila-boros), [marcelschork](https://github.com/marcelschork), [mauriciolauffer](https://github.com/mauriciolauffer), [sebbi08](https://github.com/sebbi08), [uxkjaer](https://github.com/uxkjaer), [lennart-m](https://github.com/lennart-m), [stockbal](https://github.com/stockbal), [lboehm](https://github.com/lboehm), [matz3](https://github.com/matz3), [RandomByte](https://github.com/RandomByte), [piejanssens](https://github.com/piejanssens), [Magoli1](https://github.com/Magoli1), [TheVivekGowda](https://github.com/TheVivekGowda), [lemaiwo](https://github.com/lemaiwo), [resitamas](https://github.com/resitamas), [d-sooter](https://github.com/d-sooter), [ekansh005](https://github.com/ekansh005), [esjewett](https://github.com/esjewett), [fatihpense](https://github.com/fatihpense), [iggycoder](https://github.com/iggycoder), [jkoenig134](https://github.com/jkoenig134), [L4Ndoo](https://github.com/L4Ndoo), [maxmoehl](https://github.com/maxmoehl), [stefania-santimbrean](https://github.com/stefania-santimbrean), [iot-cpars](https://github.com/iot-cpars), [rygiol](https://github.com/rygiol), [s4180t](https://github.com/s4180t), [texttechne](https://github.com/texttechne)
+* Contributors: [petermuessig](https://github.com/petermuessig), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [vobu](https://github.com/vobu), [IObert](https://github.com/IObert), [dependabot[bot]](https://github.com/apps/dependabot), [attila-boros](https://github.com/attila-boros), [marcelschork](https://github.com/marcelschork), [mauriciolauffer](https://github.com/mauriciolauffer), [sebbi08](https://github.com/sebbi08), [uxkjaer](https://github.com/uxkjaer), [lennart-m](https://github.com/lennart-m), [stockbal](https://github.com/stockbal), [lboehm](https://github.com/lboehm), [matz3](https://github.com/matz3), [RandomByte](https://github.com/RandomByte), [piejanssens](https://github.com/piejanssens), [Magoli1](https://github.com/Magoli1), [TheVivekGowda](https://github.com/TheVivekGowda), [lemaiwo](https://github.com/lemaiwo), [resitamas](https://github.com/resitamas), [L4Ndoo](https://github.com/L4Ndoo), [d-sooter](https://github.com/d-sooter), [ekansh005](https://github.com/ekansh005), [esjewett](https://github.com/esjewett), [fatihpense](https://github.com/fatihpense), [iggycoder](https://github.com/iggycoder), [jkoenig134](https://github.com/jkoenig134), [maxmoehl](https://github.com/maxmoehl), [stefania-santimbrean](https://github.com/stefania-santimbrean), [iot-cpars](https://github.com/iot-cpars), [rygiol](https://github.com/rygiol), [s4180t](https://github.com/s4180t), [texttechne](https://github.com/texttechne)
 
 
 ## vscode-ui5-api-reference: VSCode extension: SAPUI5/OpenUI5 Reference documentation in a side bar view
