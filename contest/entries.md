@@ -373,7 +373,7 @@
 ## codemirror-abap: ABAP mode for CodeMirror
 [https://github.com/larshp/codemirror-abap](https://github.com/larshp/codemirror-abap)
 * Stars: 8, Forks: 5, Watchers: 5
-* Open Issues: 4, Has Projects: false, Has Wiki: false
+* Open Issues: 5, Has Projects: false, Has Wiki: false
 * Created At: Sat, 12 Mar 2016 11:25:00 GMT, Updated At: Wed, 05 Jan 2022 13:33:41 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
