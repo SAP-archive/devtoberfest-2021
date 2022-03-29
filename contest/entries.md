@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 44, Forks: 15, Watchers: 9
-* Open Issues: 28, Has Projects: true, Has Wiki: true
+* Open Issues: 29, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Thu, 24 Mar 2022 14:09:14 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
@@ -612,9 +612,9 @@
 
 ## abapMQDaemons: Deamons for abapMQ
 [https://github.com/se38/abapMQDaemons](https://github.com/se38/abapMQDaemons)
-* Stars: 7, Forks: 1, Watchers: 2
+* Stars: 8, Forks: 1, Watchers: 2
 * Open Issues: 6, Has Projects: true, Has Wiki: true
-* Created At: Fri, 29 Jan 2021 08:22:40 GMT, Updated At: Fri, 11 Feb 2022 18:11:53 GMT
+* Created At: Fri, 29 Jan 2021 08:22:40 GMT, Updated At: Tue, 29 Mar 2022 11:02:26 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [se38](https://github.com/se38)
 * Contributors: [se38](https://github.com/se38)
