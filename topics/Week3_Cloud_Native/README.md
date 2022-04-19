@@ -13,6 +13,11 @@ Date and Time: Tuesday, October 19th at 09:00 CEST / 15:00 SGT / 03:00 EDT [🌎
 
 Duration: 50 mins
 
+**Update: GitHub repositories now available:**
+
+* https://github.com/SAP-samples/bulletinboard-ads-nodejs
+* https://github.com/SAP-samples/bulletinboard-reviews-nodejs
+
 Every company that claims to be a cloud company, claims to be developing Microservices. Yet it is one of the most misunderstood concepts in the software industry, and the misunderstandings already start with the name. If those misunderstandings can be sorted out, organizations see tremendous benefits to their structure and processes. Unfortunately, there’s a catch - there ain’t no such thing as a free lunch. In this talk we will explore the details.
 
 [Join us live on YouTube](https://www.youtube.com/watch?v=hS84pGcv2Gk), and get involved in the conversation!
@@ -32,26 +37,28 @@ Duration: 60 mins
 
 There are a lot of choices that you can make when developing cloud native solutions. But choices are hard, so it is fair to ask: "What is the approach that embraces cloud native paradigms the most as of today?" My hypothesis: _serverless_ is the closest you can get. Let us explore why serverless perfectly supports you in your journey heading for cloud-native solutions. You will experience how low the entry barrier is to develop your first function using Azure Functions, couple it to a persistency and even develop a stateful serverless workflow (what ...🤯).
 
-[Join us live on YouTube](https://youtu.be/n8jLSZ82bpg), and join the serverless fun 🚀!
+[Join us live on YouTube](https://youtu.be/y1167Yme07o), and join the serverless fun 🚀!
 
 <table border=0px>
     <tr>
         <td width = 270>
 <img src="../../images/christian_lechner.jpg">
-</td>  <td><b>Christian Lechner</b> is a Development Architect for SAP BTP Core & Runtimes at SAP and is based in Bavaria. Besides having his head in the cloud at work, Christian loves serverless and especially Azure Functions and their ecosystem (like KEDA). As a Microsoft MVP he is passionate about sharing knowledge around that topic on different channels like his [regular podcast](https://github.com/lechnerc77/myNewsWrap) or as a co-host of the [Azure Functions University](https://github.com/marcduiker/azure-functions-university).
+</td>  <td><b>Christian Lechner</b> is a Development Architect for SAP BTP Core & Runtimes at SAP and is based in Bavaria. Besides having his head in the cloud at work, Christian loves serverless and especially Azure Functions and their ecosystem (like KEDA). As a Microsoft MVP he is passionate about sharing knowledge around that topic on different channels like his 
+[regular podcast](https://github.com/lechnerc77/myNewsWrap) or as a co-host of the [Azure Functions University](https://github.com/marcduiker/azure-functions-university).
 
 - Twitter: <https://twitter.com/lechnerc77)>
 - LinkedIn: <https://www.linkedin.com/in/christian-lechner-963b7017/>
 - Polywork: <https://www.polywork.com/lechnerc77/>
+- Github Samples:  <https://github.com/lechnerc77/devtoberfest-sample-code-serverless>
         </td>  </tr></table>
 
-## Tutorials
 
-Completion of any of the following tutorials during Devtoberfest will earn you points towards the contest and potentially some great prizes.  Lots of great content from the Kyma team on how to build with SAP Business Technology Platform is featured here!
 
-Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
+## Tutorials & Other Points Earning Activities
 
-* List of week 3 tutorials released here on the [contest page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest#week-3) 
+* Completion of any of the following Tutorials & Activites during Devtoberfest will earn you points towards the contest and potentially some great prizes.  List of Week 3 Points Earning Activities published here: [Week 3 Points Earning Activities](https://github.com/SAP-samples/devtoberfest-2021/blob/main/contest/readme.md#week-3)
+
+* Please find all the contest info here: [Contest Overview Page](https://github.com/SAP-samples/devtoberfest-2021/tree/main/contest)
 
 ## Scavenger Hunt
 
