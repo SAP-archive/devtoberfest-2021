@@ -1,6 +1,5 @@
 # Devtoberfest 2021 from SAP
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/devtoberfest-2021)](https://api.reuse.software/info/github.com/SAP-samples/devtoberfest-2021)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/SAP-samples/devtoberfest-2021)
 
 [![Contributors Display](https://badges.pufler.dev/contributors/SAP-samples/devtoberfest-2021?size=50&padding=5&bots=false)](https://badges.pufler.dev)
 
