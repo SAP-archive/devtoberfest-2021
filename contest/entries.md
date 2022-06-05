@@ -212,7 +212,7 @@
 
 ## opensap_python_intro: This repository contains several Jupyter notebooks. These notebooks are the course material for an upcoming openSAP course on Python 🐍.
 [https://github.com/ceedee666/opensap_python_intro](https://github.com/ceedee666/opensap_python_intro)
-* Stars: 3, Forks: 0, Watchers: 2
+* Stars: 3, Forks: 1, Watchers: 2
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Fri, 20 Aug 2021 06:30:24 GMT, Updated At: Sat, 04 Jun 2022 11:01:29 GMT
 * License: [Creative Commons Zero v1.0 Universal](http://choosealicense.com/licenses/cc0-1.0/)
