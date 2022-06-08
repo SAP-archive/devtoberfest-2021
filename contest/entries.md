@@ -542,7 +542,7 @@
 
 ## abap2xlsx: Generate your professional Excel spreadsheet from ABAP
 [https://github.com/abap2xlsx/abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* Stars: 460, Forks: 228, Watchers: 64
+* Stars: 460, Forks: 229, Watchers: 64
 * Open Issues: 68, Has Projects: false, Has Wiki: false
 * Created At: Thu, 26 Dec 2013 18:09:03 GMT, Updated At: Thu, 02 Jun 2022 00:11:21 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
@@ -553,7 +553,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 * Stars: 86, Forks: 30, Watchers: 24
-* Open Issues: 23, Has Projects: true, Has Wiki: true
+* Open Issues: 24, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Thu, 02 Jun 2022 08:24:41 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
