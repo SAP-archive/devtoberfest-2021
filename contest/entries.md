@@ -363,7 +363,7 @@
 ## wdi5: cross-platform test framework for UI5 web-apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 * Stars: 49, Forks: 18, Watchers: 10
-* Open Issues: 22, Has Projects: true, Has Wiki: true
+* Open Issues: 25, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sun, 22 May 2022 18:58:07 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [js-soft](https://github.com/js-soft)
@@ -403,7 +403,7 @@
 ## ztoad: ABAP Open SQL Editor
 [https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
 * Stars: 13, Forks: 5, Watchers: 2
-* Open Issues: 2, Has Projects: true, Has Wiki: true
+* Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Thu, 30 Jul 2020 08:08:27 GMT, Updated At: Tue, 31 May 2022 05:46:14 GMT
 * License: [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 * Owner: [marianfoo](https://github.com/marianfoo)
@@ -663,7 +663,7 @@
 ## ui5-ecosystem-showcase: A repository showcasing the UI5 tooling extensibility to combine OSS tools for UI5 application development.
 [https://github.com/ui5-community/ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase)
 * Stars: 146, Forks: 62, Watchers: 18
-* Open Issues: 29, Has Projects: true, Has Wiki: true
+* Open Issues: 30, Has Projects: true, Has Wiki: true
 * Created At: Thu, 15 Aug 2019 18:55:24 GMT, Updated At: Wed, 01 Jun 2022 01:47:10 GMT
 * License: Other
 * Owner: [ui5-community](https://github.com/ui5-community)
