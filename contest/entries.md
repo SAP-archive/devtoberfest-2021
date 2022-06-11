@@ -122,9 +122,9 @@
 
 ## generator-easy-ui5: Meta-generator various project types within the UI5 Universe
 [https://github.com/SAP/generator-easy-ui5](https://github.com/SAP/generator-easy-ui5)
-* Stars: 172, Forks: 59, Watchers: 17
+* Stars: 173, Forks: 59, Watchers: 17
 * Open Issues: 4, Has Projects: false, Has Wiki: false
-* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Sun, 01 May 2022 18:44:09 GMT
+* Created At: Tue, 27 Nov 2018 22:20:00 GMT, Updated At: Sat, 11 Jun 2022 15:10:59 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP](https://github.com/SAP)
 * Contributors: [IObert](https://github.com/IObert), [petermuessig](https://github.com/petermuessig), [tsaleksandrova](https://github.com/tsaleksandrova), [uxkjaer](https://github.com/uxkjaer), [vobu](https://github.com/vobu), [jonathanbaker7](https://github.com/jonathanbaker7), [matz3](https://github.com/matz3), [marcelschork](https://github.com/marcelschork), [nicogeburek](https://github.com/nicogeburek), [stesap](https://github.com/stesap), [geert-janklaps](https://github.com/geert-janklaps), [GnagnoHtml](https://github.com/GnagnoHtml), [wridgeu](https://github.com/wridgeu), [mjturner](https://github.com/mjturner), [dtinth](https://github.com/dtinth), [dependabot[bot]](https://github.com/apps/dependabot), [i-pip](https://github.com/i-pip), [schmelto](https://github.com/schmelto)
@@ -583,7 +583,7 @@
 ## ajson: Yet another json parser serializer for ABAP
 [https://github.com/sbcgua/ajson](https://github.com/sbcgua/ajson)
 * Stars: 25, Forks: 7, Watchers: 3
-* Open Issues: 14, Has Projects: true, Has Wiki: true
+* Open Issues: 15, Has Projects: true, Has Wiki: true
 * Created At: Sat, 16 May 2020 07:00:27 GMT, Updated At: Thu, 26 May 2022 09:58:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sbcgua](https://github.com/sbcgua)
