@@ -1,3 +1,4 @@
 {
-    "actions": []
+  "actions": [],
+  "shellformat.flag": "-i=2 -bn -ci -sr"
 }
