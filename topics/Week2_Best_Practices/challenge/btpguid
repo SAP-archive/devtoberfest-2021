@@ -1,4 +1,6 @@
-# btpguid - return BTP subaccount/directory GUIDs
+#!/usr/bin/env bash
+
+ btpguid - return BTP subaccount/directory GUIDs
 
 # Usage: btpguid [-t|--target] displayname
 
@@ -25,17 +27,16 @@ btp get accounts/global-account --show-hierarchy 2>/dev/null
 main() {
 
 local hierarchy subtype guid displayname rc=0
-local event=Devtoberfest
 
   displayname="${2:-$1}"
 
-  [[ -z displayname ]] && {
+  [[ -z $displayname ]] && {
     echo "No display name specified"
     exit 1
   }
 
   hierarchy="$(gethier)" || { btp login && hierarchy="$(gethier)"; }
-  read subtype guid <<< "$(grep -P -o "^(subaccount|directory)\s+(\S+)(?=\s+$displayname)" <<< $hierarchy)"
+  read -r subtype guid <<< "$(grep -P -o "^(subaccount|directory)\s+(\S+)(?=\s+$displayname)" <<< "$hierarchy")"
 
   # Set the subtype as target if requested
   [[ $1 == -t ]] || [[ $1 == --target ]] && {
@@ -43,7 +44,7 @@ local event=Devtoberfest
     rc=$?
   }
 
-  echo $guid
+  echo "$guid"
   return $rc
 
 }
