@@ -1,4 +1,6 @@
 # Devtoberfest 2021 from SAP
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/devtoberfest-2021)](https://api.reuse.software/info/github.com/SAP-samples/devtoberfest-2021)
 
 [![Contributors Display](https://badges.pufler.dev/contributors/SAP-samples/devtoberfest-2021?size=50&padding=5&bots=false)](https://badges.pufler.dev)
