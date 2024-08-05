@@ -1,3 +1,4 @@
 {
-    "actions": []
+    "actions": [],
+    "cmake.configureOnOpen": false
 }
