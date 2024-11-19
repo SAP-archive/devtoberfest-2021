@@ -1,0 +1,65 @@
+#!/usr/bin/env bash
+
+# btpguid - return BTP subaccount/directory GUIDs
+
+# Usage: btpguid [-t|--target] displayname
+
+# Returns the GUID for the given subaccount or directory, which is
+# specified by name. If the option -t or --target is specified, it
+# will also set that subaccount or directory as the target.
+
+# Requires the btp CLI. Will direct you to log in first if you're
+# not already logged in.
+
+# It uses the detail from the output of this command:
+# btp get accounts/global-account --show-hierarchy
+
+# The output looks like this:
+
+# Showing details for global account 66dfe85f-943d-4a07-ab51-cda58d0b5e2d...
+#
+# ├─ 302d2b09trial (66dfe85f-943d-4a07-ab51-cda58d0b5e2d - global account)
+# │  ├─ trial (05cdc62e-faa1-4b36-b93c-6f470e11b0b6 - subaccount)
+# │  ├─ devtoberfest (531f6613-c28b-4ac6-b598-3b3bbb8b4e03 - directory)
+#
+# type:            id:                                    display name:   parent id:
+# global account   66dfe85f-943d-4a07-ab51-cda58d0b5e2d   302d2b09trial
+# subaccount       05cdc62e-faa1-4b36-b93c-6f470e11b0b6   trial           66dfe85f-...
+# directory        531f6613-c28b-4ac6-b598-3b3bbb8b4e03   devtoberfest    66dfe85f-...
+
+# It's the second part of the output (the table) that is used.
+
+# Uses the "${2:-$1}" technique seen in fff - see
+# https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/
+# for details.
+
+gethier() {
+  btp get accounts/global-account --show-hierarchy 2> /dev/null
+}
+
+main() {
+
+  local hierarchy subtype guid displayname rc=0
+
+  displayname="${2:-$1}"
+
+  [[ -z $displayname ]] && {
+    echo "No display name specified"
+    exit 1
+  }
+
+  hierarchy="$(gethier)" || { btp login && hierarchy="$(gethier)"; }
+  read -r subtype guid <<< "$(grep -P -o "^(subaccount|directory)\s+(\S+)(?=\s+$displayname)" <<< "$hierarchy")"
+
+  # Set the subtype as target if requested
+  [[ $1 == -t ]] || [[ $1 == --target ]] && {
+    btp target "--${subtype}" "$guid" &> /dev/null
+    rc=$?
+  }
+
+  echo "$guid"
+  return $rc
+
+}
+
+main "$@"
